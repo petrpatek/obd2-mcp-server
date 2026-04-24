@@ -1,0 +1,14 @@
+{
+  "name": "Mazda",
+  "slug": "mazda",
+  "totalCodes": 347,
+  "totalSubmodels": 6,
+  "totalDetails": 0,
+  "totalProcedures": 5,
+  "codeTypes": {
+    "P": 335,
+    "B": 0,
+    "C": 1,
+    "U": 11
+  }
+}

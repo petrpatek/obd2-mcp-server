@@ -1,0 +1,1512 @@
+[
+  {
+    "title": "Lexus OBD/OBD2 Codes >> ES300/ES330/GS400/GS430/LS400/LS430/SC400/SC430 (1994 – 2008)",
+    "url": "https://www.troublecodes.net/lexus/es300es330gs400gs430ls400ls430sc400sc430-1994-2008/",
+    "vehicles": [
+      {
+        "model": "ES300 3.0L",
+        "year": "1994-03",
+        "engine": "1MZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "ES330 3.3L",
+        "year": "2004-06",
+        "engine": "3MZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "GS400 4.0L",
+        "year": "1998-00",
+        "engine": "1UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "GS430 4.3L",
+        "year": "2001-08",
+        "engine": "3UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "LS400 4.0L",
+        "year": "1995-00",
+        "engine": "1UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "LS430 4.3L",
+        "year": "2001-06",
+        "engine": "3UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "SC400 4.0L",
+        "year": "1996-00",
+        "engine": "1UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "SC430 4.3L",
+        "year": "2002-08",
+        "engine": "3UZ-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1100",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "H025",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, H02, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "H025",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pump relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1330",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1341",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1345",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1354",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1410",
+        "faultLocation": "Wiring, EGR valve position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1411",
+        "faultLocation": "EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1566",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "BCM, AIC control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1705",
+        "faultLocation": "Wiring, direct clutch speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1725",
+        "faultLocation": "Wiring, ISS sensor/TSS sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1730",
+        "faultLocation": "Wiring, intermediate shaft speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1760",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1765",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1815",
+        "faultLocation": "Wiring, shift control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1818",
+        "faultLocation": "Wiring, shift control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "B2785",
+        "faultLocation": "Ignition switch, engine control relay, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "B2786",
+        "faultLocation": "Ignition switch, engine control relay, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "B2791",
+        "faultLocation": "Wiring, key unlock warning switch, engine control relay",
+        "probableCause": ""
+      },
+      {
+        "code": "B2795",
+        "faultLocation": "Key, incorrect key",
+        "probableCause": ""
+      },
+      {
+        "code": "B2796",
+        "faultLocation": "Key, transponder, wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "B2797",
+        "faultLocation": "Incorrect key has been used, wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "B2798",
+        "faultLocation": "Key, transponder, ignition module, wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "B2799",
+        "faultLocation": "Wiring, immobilizer system, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> ES350/RX350 (2007 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/es350rx350-2007-2009/",
+    "vehicles": [
+      {
+        "model": "ES350 3.5L",
+        "year": "2007",
+        "engine": "2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "RX350 3.5L",
+        "year": "2007-09",
+        "engine": "2GR-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": []
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> ES350/GS350/GS460/IS350/IS F/LS460/LX570 (2006 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/es350gs350gs460is350is-fls460lx570-2006-2009/",
+    "vehicles": [
+      {
+        "model": "ES350 3.5L",
+        "year": "2008-09",
+        "engine": "2GR·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "GS350 3.5L",
+        "year": "2007-08",
+        "engine": "2GR·FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "GS460 4.6L",
+        "year": "2008",
+        "engine": "1UR·FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "I15350 3.5L",
+        "year": "2006-09",
+        "engine": "2GR·FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "IS F 5.0L",
+        "year": "2008-09",
+        "engine": "2UR·GSE",
+        "system": "SFI"
+      },
+      {
+        "model": "LS460 4.6L",
+        "year": "2007-09",
+        "engine": "1UR·FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "LX5705.7L",
+        "year": "2008-09",
+        "engine": "3UR·FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1023",
+        "faultLocation": "CMP actuator/position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1170",
+        "faultLocation": "injector, fuel pressure, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1178",
+        "faultLocation": "injector, fuel pressure, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1235",
+        "faultLocation": "Wiring, fuel high-pressure pump, injector control module, bank 1",
+        "probableCause": ""
+      },
+      {
+        "code": "P1236",
+        "faultLocation": "Wiring, fuel high-pressure pump, injector control module, bank 2",
+        "probableCause": ""
+      },
+      {
+        "code": "P1276",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1277",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1278",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1279",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127A",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127B",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127C",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127D",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1340",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1342",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1343",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1360",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1361",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1362",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1363",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1364",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1365",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1366",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1367",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, battery, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1613",
+        "faultLocation": "Wiring open/short circuit, (AIR), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1614",
+        "faultLocation": "Wiring open/short circuit, (AIR), ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> GS300 – IS250 – IS300 – SC300 (1996 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/gs300-is250-is300-sc300-1996-2009/",
+    "vehicles": [
+      {
+        "model": "G5300 3.0L",
+        "year": "1996-06",
+        "engine": "2JZ-GE/3GR-FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "I5250 2.5L",
+        "year": "2006-09",
+        "engine": "4GR-FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "I5300 3.0L",
+        "year": "2001-05",
+        "engine": "2JZ-GE",
+        "system": "SFI"
+      },
+      {
+        "model": "SC300 3.0L",
+        "year": "1996-00",
+        "engine": "2JZ-GE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pump/control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1235",
+        "faultLocation": "Wiring, fuel high-pressure pump, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P12FF",
+        "faultLocation": "Wiring, fuel injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1420",
+        "faultLocation": "EVAP canister, EVAP canister purge valve, hose leak",
+        "probableCause": ""
+      },
+      {
+        "code": "P1421",
+        "faultLocation": "EVAP canister, EVAP canister purge valve, hose leak",
+        "probableCause": ""
+      },
+      {
+        "code": "P1422",
+        "faultLocation": "Fuel tank system, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1423",
+        "faultLocation": "Fuel tank system, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1424",
+        "faultLocation": "Fuel tank system, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1450",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1451",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1452",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1453",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, starter relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1616",
+        "faultLocation": "Wiring, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1617",
+        "faultLocation": "Wiring, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "8CM, AJC control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> GS450h – LS600h – RX400h (2006 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/gs450h-ls600h-rx400h-2006-2009/",
+    "vehicles": [
+      {
+        "model": "GS450h 3.5L",
+        "year": "2006-08",
+        "engine": "2GR-FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "LS600h 5.0L",
+        "year": "2008-09",
+        "engine": "2UR-FSE",
+        "system": "SFI"
+      },
+      {
+        "model": "RX400h 3.3L",
+        "year": "2006-08",
+        "engine": "3MZ-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1023",
+        "faultLocation": "CMP actuator/position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1081",
+        "faultLocation": "Exhaust leak, mechanical fault, wiring, exhaust gas temperature (EGT) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1082",
+        "faultLocation": "Exhaust leak, mechanical fault, wiring, exhaust gas temperature (EGT) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1083",
+        "faultLocation": "Exhaust leak, mechanical fault, wiring, exhaust gas temperature (EGT) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1084",
+        "faultLocation": "Exhaust leak, mechanical fault, wiring, exhaust gas temperature (EGT) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1170",
+        "faultLocation": "injector, fuel pressure, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P117B",
+        "faultLocation": "injector, fuel pressure, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pump/control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P12FF",
+        "faultLocation": "Wiring, fuel injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1235",
+        "faultLocation": "Wiring, fuel high-pressure pump, injector control module, bank 1",
+        "probableCause": ""
+      },
+      {
+        "code": "P1236",
+        "faultLocation": "Wiring, fuel high-pressure pump, injector control module, bank 2",
+        "probableCause": ""
+      },
+      {
+        "code": "P1276",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1277",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1278",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1279",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127A",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127B",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127C",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P127D",
+        "faultLocation": "Wiring, fuse, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P12FF",
+        "faultLocation": "Wiring, injector control module, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1340",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1342",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1343",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1360",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1361",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1362",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1363",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1364",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1365",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1366",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1367",
+        "faultLocation": "Wiring, CMP, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1420",
+        "faultLocation": "EVAP canister, EVAP canister purge valve, hose leak",
+        "probableCause": ""
+      },
+      {
+        "code": "P1421",
+        "faultLocation": "EVAP canister, EVAP canister purge valve, hose leak",
+        "probableCause": ""
+      },
+      {
+        "code": "P1422",
+        "faultLocation": "Fuel tank system, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1423",
+        "faultLocation": "Fuel tank system, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1424",
+        "faultLocation": "Fuel tank system, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1438",
+        "faultLocation": "Vacuum switching valve (VSV), wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1450",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1451",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1452",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1453",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, starter relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, battery, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1613",
+        "faultLocation": "Wiring open/short circuit, (AIR), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1614",
+        "faultLocation": "Wiring open/short circuit, (AIR), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1616",
+        "faultLocation": "Wiring, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1617",
+        "faultLocation": "Wiring, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "BCM, AJC control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3190",
+        "faultLocation": "Air induction system, fuel pressure/level, mechanical fault, engine coolant temperature (ECT) sensor, camshaft/ crankshaft (CMP/CKP) sensor, variable valve timing intake/exhaust sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3191",
+        "faultLocation": "Air induction system, fuel pressure/level, mechanical fault, engine coolant temperature (ECT) sensor, camshaft/ crankshaft (CMP/CKP) sensor, variable valve timing intake/exhaust sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3193",
+        "faultLocation": "Out of fuel, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> GX470 – LX470 – RX300 – RX330 (1998 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/gx470-lx470-rx300-rx330-1998-2009/",
+    "vehicles": [
+      {
+        "model": "GX470 4.7L",
+        "year": "2003-09",
+        "engine": "2UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "LX47 04.7L",
+        "year": "1998-07",
+        "engine": "2UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "RX300 3.0L",
+        "year": "1999-03",
+        "engine": "1MZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "RX330 3.3L",
+        "year": "2004-06",
+        "engine": "3MZ-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1100",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pump relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1330",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1341",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1345",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1354",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1410",
+        "faultLocation": "Wiring, EGR valve position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1411",
+        "faultLocation": "EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1440",
+        "faultLocation": "Wiring, AIR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "Wiring, AIR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1442",
+        "faultLocation": "Wiring, AIR valve, vacuum hose, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1443",
+        "faultLocation": "Wiring, AIR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1444",
+        "faultLocation": "Wiring, AIR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1445",
+        "faultLocation": "Wiring, AIR valve, vacuum hose, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1566",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1570",
+        "faultLocation": "Cruise control laser radar sensor, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1572",
+        "faultLocation": "Cruise control laser radar sensor alignment, cruise control laser radar sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1575",
+        "faultLocation": "Wiring, warning buzzer, A8S control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1578",
+        "faultLocation": "A8S system, A8S control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1613",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1615",
+        "faultLocation": "CAN data bus, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1616",
+        "faultLocation": "CAN data bus, ECM, cruise control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "8CM, AIC control module, CAN data bus",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1705",
+        "faultLocation": "Wiring, direct clutch speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1765",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1782",
+        "faultLocation": "Wiring, transfer box low ratio switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1783",
+        "faultLocation": "Wiring, transfer box neutral switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  }
+]

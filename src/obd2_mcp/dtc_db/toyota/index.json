@@ -1,0 +1,14 @@
+{
+  "name": "Toyota",
+  "slug": "toyota",
+  "totalCodes": 158,
+  "totalSubmodels": 31,
+  "totalDetails": 0,
+  "totalProcedures": 30,
+  "codeTypes": {
+    "P": 158,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

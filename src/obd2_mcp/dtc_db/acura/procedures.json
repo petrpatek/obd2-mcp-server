@@ -1,0 +1,421 @@
+[
+  {
+    "title": "Acura OBD/OBD2 Codes >> 2.2/2.3 CL (1997 – 1999)",
+    "url": "https://www.troublecodes.net/acura/2-22-3-cl-1997-1999/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) [center of shifter] or by the malfunction indicator lamp (MIL) with the service check connector jumped [glove department]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals [1] [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove fuse No.39 (7.5A- radio) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> 2.5TL (1995 – 1998)",
+    "url": "https://www.troublecodes.net/acura/2-5tl-1995-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1] or by the malfunction indicator lamp (MIL) with the service check connector jumped [1] [2]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals [1] [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove radio fuse No.39 (1OA) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> 3.0CL (1997 – 1999)",
+    "url": "https://www.troublecodes.net/acura/3-0cl-1997-1999/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1] or by the malfunction indicator lamp (MIL) with the service check connector jumped [1] [2]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals [1] [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF",
+          "Remove fuse No.39 (7.5A- Radio) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> 3.2TL – 3.5RL (1996 – 2004)",
+    "url": "https://www.troublecodes.net/acura/3-2tl-3-5rl-1996-2004/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) [1] [1].",
+          "Trouble codes can be displayed by the malfunction indicator lamp (MIL) with the data link connector (DLC) 1 [1] jumped, or service check connector [1] [2] jumped."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Models without service check connector: Jump data link connector (DLC) terminals 4 and 9 [1] [1].",
+          "Models with service check connector: Jump service check connector terminals [1] [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "3.5RL- remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum [4].",
+          "3.2TL- remove radio fuse (10A) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> RL 3.5/3.7L – MDX 3.7L (2005 – 2009)",
+    "url": "https://www.troublecodes.net/acura/rl-3-53-7l-mdx-3-7l-2005-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1]."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) [1]."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> NSX/NSX-T 3.0/3.2L (1991 – 2005)",
+    "url": "https://www.troublecodes.net/acura/nsxnsx-t-3-03-2l-1991-2005/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC)-2001 [1] [1]. 2002- [1] [2] or by the malfunction indicator lamp (MIL) with the service check connector jumped [1] [3]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals [1] [3].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Switch ignition OFF.",
+          "Remove clock fuse No.33 (7.5A) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> SLX 3.2/3.5L (1996 – 1999)",
+    "url": "https://www.troublecodes.net/acura/slx-3-23-5l-1996-1999/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) [1] under the LH fascia."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove ECM fuse (30A) from underhood fusebox for 30 seconds minimum [2]",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> 3.2CL – MDX 3.5L – RSX 2.0L (2000 – 2006)",
+    "url": "https://www.troublecodes.net/acura/3-2cl-mdx-3-5l-rsx-2-0l-2000-2006/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1] – 3.2CL, [2] – MDX or [3] – RSX."
+        ]
+      },
+      {
+        "heading": "Erasing – 2002",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "3.2CL- Remove clock/backup fuse (15A) from RH fascia fusebox for 10 seconds minimum [4].",
+          "MDX- Remove clock/backup fuse (7.5A) from RH fascia fusebox for 10 seconds minimum [5].",
+          "RSX – Remove ECM fuse (15A) from underhood fusebox for 10 seconds minimum [6]",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      },
+      {
+        "heading": "Erasing – 2003",
+        "type": "clearing",
+        "steps": [
+          "• Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> Integra 1.8L / 1.8L VTEC (1996 – 2001)",
+    "url": "https://www.troublecodes.net/acura/integra-1-8l-1-8l-vtec-1996-2001/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) by the malfunction indicator lamp (MIL) with the service check connector jumped [1]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> RDX 2.3L – TL 3.2/3.5L – TSX 2.4L (2004 – 2009)",
+    "url": "https://www.troublecodes.net/acura/rdx-2-3l-tl-3-23-5l-tsx-2-4l-2004-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1]."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) [1]."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Acura OBD/OBD2 Codes >> 3.2TL (1999 – 2003)",
+    "url": "https://www.troublecodes.net/acura/3-2tl-1999-2003/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1] – 2002 or [2] – 2003."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove clock/backup fuse (7.5A) from RH fascia fusebox for 10 seconds minimum [3]",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  }
+]

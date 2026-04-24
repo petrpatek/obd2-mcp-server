@@ -1,0 +1,14 @@
+{
+  "name": "Pontiac",
+  "slug": "pontiac",
+  "totalCodes": 240,
+  "totalSubmodels": 7,
+  "totalDetails": 0,
+  "totalProcedures": 7,
+  "codeTypes": {
+    "P": 222,
+    "B": 0,
+    "C": 0,
+    "U": 18
+  }
+}

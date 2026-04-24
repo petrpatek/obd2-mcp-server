@@ -1,0 +1,14 @@
+{
+  "name": "Cadillac",
+  "slug": "cadillac",
+  "totalCodes": 439,
+  "totalSubmodels": 8,
+  "totalDetails": 0,
+  "totalProcedures": 7,
+  "codeTypes": {
+    "P": 439,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

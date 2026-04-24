@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Lexus OBD/OBD2 Codes >> ES300/ES330/GS400/GS430/LS400/LS430/SC400/SC430 (1994 – 2008)",
+    "url": "https://www.troublecodes.net/lexus/es300es330gs400gs430ls400ls430sc400sc430-1994-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing – except 2004 LS430/SC430",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 60 seconds minimum.",
+          "Reconnect battery ground cable."
+        ]
+      },
+      {
+        "heading": "Erasing – 2004 LS430/SC430",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> ES350/RX350 (2007 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/es350rx350-2007-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> ES350/GS350/GS460/IS350/IS F/LS460/LX570 (2006 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/es350gs350gs460is350is-fls460lx570-2006-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC} or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground lead for 60 seconds minimum.",
+          "Reconnect battery ground lead."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> GS300 – IS250 – IS300 – SC300 (1996 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/gs300-is250-is300-sc300-1996-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground lead for 60 seconds minimum.",
+          "Reconnect battery ground lead."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> GS450h – LS600h – RX400h (2006 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/gs450h-ls600h-rx400h-2006-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground lead for 60 seconds minimum.",
+          "Reconnect battery ground lead."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lexus OBD/OBD2 Codes >> GX470 – LX470 – RX300 – RX330 (1998 – 2009)",
+    "url": "https://www.troublecodes.net/lexus/gx470-lx470-rx300-rx330-1998-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground lead for 60 seconds minimum.",
+          "Reconnect battery ground lead.",
+          "Ignition switch ON – malfunction — Ignition switch, engine control relay, wiring",
+          "Ignition switch OFF – malfunction — Ignition switch, engine control relay, wiring",
+          "Key unlock warning switch – malfunction — Wiring, key unlock warning switch, engine control relay",
+          "Unrecognized key code — Key, incorrect key",
+          "Immobilizer system – no communication — Key, transponder, wiring, ECM",
+          "Communication malfunction 1 – interference — Incorrect key has been used, wiring, ignition module, ECM",
+          "Communication malfunction 2 — Key, transponder, ignition module, wiring, ECM",
+          "Immobilizer – malfunction — Wiring, immobilizer system, ECM"
+        ]
+      }
+    ]
+  }
+]

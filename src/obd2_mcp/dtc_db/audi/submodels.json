@@ -1,0 +1,1117 @@
+[
+  {
+    "title": "Audi OBD/OBD2 Codes >> AUDI 93-95 1.6L",
+    "url": "https://www.troublecodes.net/audi/audi-various-models-91-04",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL1231",
+        "faultLocation": "Wiring, speedometer, VSS",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1232",
+        "faultLocation": "Throttle valve tight/sticking, Wiring, multi-plug incorrectly wired, ISC actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2113",
+        "faultLocation": "Air gap, insecure sensor/rotor, wiring, poor connection, fuse, distributor/camshaft alignment, CMP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2121",
+        "faultLocation": "Accelerator cable adjustment, CTP switch adjustment, wiring, CTP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2142",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2144",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2212",
+        "faultLocation": "Wiring, poor connection, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2214",
+        "faultLocation": "Incorrect gear shift, CKP/RPM sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2222",
+        "faultLocation": "TC wastegate regulating valve, hose connection(s), oil contamination, valve timing, poor connection, Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2231",
+        "faultLocation": "Intake leak/blockage, throttle valve tight/sticking, lAC valve or ISC actuator/position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2234",
+        "faultLocation": "Fuse, alternator, battery, current draw with ignition OFF, engine control relay, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2242",
+        "faultLocation": "Wiring, mixture adjustment resistor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2243",
+        "faultLocation": "Wiring short to positive, instrument panel",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2312",
+        "faultLocation": "Wiring, poor connection, ECT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2314",
+        "faultLocation": "Wiring, transmission fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2322",
+        "faultLocation": "Wiring, poor connection, IAT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2323",
+        "faultLocation": "Intake leak, wiring, VAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2324",
+        "faultLocation": "Intake leak, wiring, MAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2341",
+        "faultLocation": "Heating inoperative, intake/exhaust leak, misfire, fuel level low, fuel pressure/pump, injector(s), EVAP canister purge valve, MAF sensor filament burn-off, wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2342",
+        "faultLocation": "Wiring, H02S, heating inoperative, fuel level low",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2411",
+        "faultLocation": "Wiring, EGRT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2412",
+        "faultLocation": "Wiring, poor connection, tAT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2413",
+        "faultLocation": "Fuel level low, fuel pressure/pump, intake/exhaust leak, misfire, MAF sensor filament burn-off, H02S, EVAP canister purge valve, injector(s), excessive fuel in engine oil",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL3434",
+        "faultLocation": "Wiring, oxygen sensor heater relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4312",
+        "faultLocation": "Wiring, EGR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4332",
+        "faultLocation": "Wiring, ECM controlled components",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4343",
+        "faultLocation": "Wiring, fuse, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4411",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4412",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4413",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4414",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4421",
+        "faultLocation": "Wiring, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4422",
+        "faultLocation": "Wiring, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4431",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4433",
+        "faultLocation": "Wiring, fuse, fuel pump relay",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Audi OBD/OBD2 Codes >> AUDI (1995 – 2008)",
+    "url": "https://www.troublecodes.net/audi/audi-1995-2008/",
+    "vehicles": [
+      {
+        "model": "Year:",
+        "year": "1995-08",
+        "engine": "",
+        "system": ""
+      },
+      {
+        "model": "Engine identification:",
+        "year": "1Z, AAH, AAT, ABC, ABK, ABZ, ACK, ACZ, ADA, ADP, ADR, AEB, AEC, AEH, AEL, AEW, AFB, AFF, AFN, AFY, AGA, AGB,AGN, AGR, AGU,AHA, AHC, AH AHH,AHK, AHL, AHU, AJG, AJL, AJM, AJP, AJQ, AKB, AKE, AKG, AKH, AKJ, AKL, AKN, ALF, ALG, ALH, ALW, AMB, AMF,AMU, ANA, ANP, ANY, APB, APF, APG, APP, APR, APS, APT, APU, APX, AP APZ, AQA, AQD, AQF, AQG, AQH, ARE, ARG, ARJ, ARM, ART, ARU, ARY, ARZ, ASJ, ASV, ATC, ATJ, ATQ, AUA, AUM, AUQ, AUX, AVG, AVK, AW, AWN, AWP, AXX, AYS, AZR, BCY, BEA, BEL, BAM, BAR, BAS,BOD, BFM, BGN, BHE, BHF, BHK, BKH, BNK, BNS, BPG, BPY, BSB, BSM, BUB, BVJ, BWA, BWT, BXA, BYH,CALA, CAUA, CBRA",
+        "engine": "",
+        "system": ""
+      },
+      {
+        "model": "System:",
+        "year": "Bosch EDC/1.3.1/2/3/1.4 • Bosch EDC 15M/PN • Bosch Motronic • Bosch Motronic M2.4.1 • Bosch Motronic M3.2/3.2.1 • Bosch Motronic M3.8.2/3/4 • Bosch Motronic M5.4/.1 • Bosch Motronic M5.9.2F • Bosch Motronic ME7.0/7.1/7.1.1/7.5/7.5.1/7.5.10 • Bosch Motronic MED9.1 • Bosch MSA 12/15.5 • Siemens Simos • Siemens 8.2 VAG Digifant ML5.7 • VAG MPI",
+        "engine": "",
+        "system": ""
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL0",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL263",
+        "faultLocation": "Wiring short to ground, TCM trouble code(s) stored, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL268",
+        "faultLocation": "Wiring, ISC actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL281",
+        "faultLocation": "Wiring, speedometer, VSS",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL282",
+        "faultLocation": "Throttle valve tight/sticking, wiring, multi-plug incorrectly wired, ISC actuator/throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL305",
+        "faultLocation": "Wiring, instrument panel",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL514",
+        "faultLocation": "Air gap, insecure sensor/rotor, wiring, poor connection, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL515",
+        "faultLocation": "Air gap, insecure sensor/rotor, wiring, poor connection, fuse, distributor/ camshaft alignment, CMP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL516",
+        "faultLocation": "Accelerator cable adjustment, CTP switch adjustment, throttle valve tight/sticking, wiring, CTP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL518",
+        "faultLocation": "Wiring, poor connection, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL519",
+        "faultLocation": "TC wastegate regulating valve, hose connection(s), oil contamination, valve timing, poor connection, wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL520",
+        "faultLocation": "Wiring, MAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL521",
+        "faultLocation": "Wiring, mixture adjustment resistor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL522",
+        "faultLocation": "Wiring, poor connection, ECT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL523",
+        "faultLocation": "Wiring, poor connection, IAT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL524",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL525",
+        "faultLocation": "Wiring, H025, heating inoperative, fuel level low",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL526",
+        "faultLocation": "Wiring, stop lamp switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL527",
+        "faultLocation": "Wiring, poor connection, IAT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL528",
+        "faultLocation": "Wiring, BARO sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL529",
+        "faultLocation": "Wiring, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL530",
+        "faultLocation": "Wiring, poor connection, multi-plug incorrectly wired, ISC actuator/position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL532",
+        "faultLocation": "Fuse, alternator, battery, current draw with ignition OFF, engine control relay, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL533",
+        "faultLocation": "Intake leak/blockage, throttle valve tight/sticking, lAC valve or ISC actuator/position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL534",
+        "faultLocation": "Wiring, EOT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL535",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL536",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL537",
+        "faultLocation": "CO adjustment, heating inoperative, intake/exhaust leak, misfire, fuel level low, fuel pressure/pump, injector(s), EVAP canister purge valve, MAP sensor, MAF sensor filament burn-off, wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL539",
+        "faultLocation": "Wiring, fuel temperature sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL540",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL542",
+        "faultLocation": "Air in fuel system, fuel level low, wiring, injector needle lift sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL543",
+        "faultLocation": "Incorrect gear shift, CKP/RPM sensor, AT fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL544",
+        "faultLocation": "Hoses interchanged/not connected, hoses blocked/leaking, TC wastegate actuator/regulating valve, BARO sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL545",
+        "faultLocation": "TCM trouble code(s) stored, wiring, transmission fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL546",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL549",
+        "faultLocation": "Wiring short to positive, instrument panel",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL550",
+        "faultLocation": "Wiring, fuel injection timing solenoid, injector needle lift sensor, air in fuel system, fuel level low, pump timing",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL552",
+        "faultLocation": "Intake leak, wiring, VAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL553",
+        "faultLocation": "Intake leak, wiring, MAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL554",
+        "faultLocation": "CO adjustment, heating inoperative, intake/exhaust leak, misfire, fuel level low, fuel pressure/pump, injector(s), EVAP canister purge valve, MAP sensor, MAF sensor filament burn-off, wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL555",
+        "faultLocation": "Wiring, H02S, heating inoperative, fuel level low",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL557",
+        "faultLocation": "Wiring short to ground, PSP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL560",
+        "faultLocation": "Intake leak, EGR valve/solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL561",
+        "faultLocation": "Trouble codes 00525/00533 stored, fuel level low, fuel pressure/pump, intake/exhaust leak, misfire, MAP sensor, MAF sensor filament burn-off, H02S, EVAP canister purge valve, injector(s), excessive fuel in engine oil",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL575",
+        "faultLocation": "Intake leak/blockage, MAP sensor, MAF sensor, TC wastegate actuator/regulating valve, hoses interchanged/not connected, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL577",
+        "faultLocation": "Fuel pressure, misfire, intake leak, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL578",
+        "faultLocation": "Fuel pressure, misfire, intake leak, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL579",
+        "faultLocation": "Fuel pressure, misfire, intake leak, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL580",
+        "faultLocation": "Fuel pressure, misfire, intake leak, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL581",
+        "faultLocation": "Fuel pressure, misfire, intake leak, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL582",
+        "faultLocation": "Fuel pressure, misfire, intake leak, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL585",
+        "faultLocation": "Wiring, EGRT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL586",
+        "faultLocation": "EGR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL609",
+        "faultLocation": "Wiring, ignition amplifier",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL610",
+        "faultLocation": "Wiring, ignition amplifier",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL611",
+        "faultLocation": "Wiring, ignition amplifier",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL624",
+        "faultLocation": "Wiring, A/C system",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL625",
+        "faultLocation": "Wiring, speedometer, VSS",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL626",
+        "faultLocation": "Wiring, glow plug warning lamp",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL627",
+        "faultLocation": "Water in filter, wiring, fuel filter water level sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL628",
+        "faultLocation": "Wiring, fuel injection pump",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL635",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL638",
+        "faultLocation": "Wiring, transmission fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL640",
+        "faultLocation": "Wiring, oxygen sensor heater relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL650",
+        "faultLocation": "Wiring short to positive, CPP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL653",
+        "faultLocation": "Wiring, transmission fault, poor connection",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL667",
+        "faultLocation": "Wiring, instrument panel, AJC system, outside air temperature sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL668",
+        "faultLocation": "Battery, wiring, engine control relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL670",
+        "faultLocation": "Wiring, throttle valve, ISC actuator position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL671",
+        "faultLocation": "Wiring, cruise control master switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL740",
+        "faultLocation": "Wiring, CMP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL741",
+        "faultLocation": "Wiring, both switch positions not synchronised, stop lamp switch, BPP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL750",
+        "faultLocation": "ECM incorrectly coded, wiring, MIL",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL758",
+        "faultLocation": "AIR solenoid/relay, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL765",
+        "faultLocation": "Wiring, fuel injection pump",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL777",
+        "faultLocation": "Incorrectly adjusted, wiring, APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL792",
+        "faultLocation": "Wiring, AJC pressure switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1013",
+        "faultLocation": "Wiring, AJC system",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1025",
+        "faultLocation": "Wiring, MIL",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1028",
+        "faultLocation": "Wiring, engine coolant blower motor relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1044",
+        "faultLocation": "Incorrectly coded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1050",
+        "faultLocation": "Fuse, wiring, glow plug relay, glow plugs",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1052",
+        "faultLocation": "Wiring, fuel lever position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1087",
+        "faultLocation": "Basic setting not completed, throttle valve tight/sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1088",
+        "faultLocation": "Fuel level low, fuel pressure/pump, MAP sensor, MAF sensor, intake/exhaust leak, EVAP canister purge valve, excessive fuel in engine oil, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1117",
+        "faultLocation": "Wiring, alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1119",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1120",
+        "faultLocation": "Wiring, fuse, CMP actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1121",
+        "faultLocation": "Wiring, fuse, CMP actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1126",
+        "faultLocation": "Wiring, CKP/RPM sensor, instrument panel",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1163",
+        "faultLocation": "Intake leak, wiring, ignition amplifier, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1165",
+        "faultLocation": "Accelerator cable adjustment, throttle valve, wiring, ISC actuator/throttle motor, basic setting not carried out",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1167",
+        "faultLocation": "Wiring, full throttle stop valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1168",
+        "faultLocation": "Wiring, idle speed boost valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1169",
+        "faultLocation": "Wiring, door contact switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1170",
+        "faultLocation": "Wiring, fuel injection timing sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1177",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1180",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1182",
+        "faultLocation": "Throttle valve sticking, ISC actuator/throttle motor sticking/mechanically damaged, incorrect throttle control unit, intake leak between MAF sensor and throttle valve, air filter blocked",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1183",
+        "faultLocation": "ECM incorrectly coded, wiring, MIL",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1193",
+        "faultLocation": "Wiring, engine coolant heater relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1194",
+        "faultLocation": "Wiring, engine coolant heater relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1196",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1204",
+        "faultLocation": "Wiring, ECT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1208",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1209",
+        "faultLocation": "Wiring, alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1235",
+        "faultLocation": "Wiring, AIR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1237",
+        "faultLocation": "Wiring, fuel shut-off solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1242",
+        "faultLocation": "Wiring, ECM controlled components",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1243",
+        "faultLocation": "Wiring, intake manifold air control solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1247",
+        "faultLocation": "Wiring, fuse, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1249",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1250",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1251",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1252",
+        "faultLocation": "Wiring, fuse, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1253",
+        "faultLocation": "Wiring, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1254",
+        "faultLocation": "Wiring, injector",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1257",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1259",
+        "faultLocation": "Wiring, fuse, fuel pump relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1262",
+        "faultLocation": "Wiring, fuse, TC wastegate regulating valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1265",
+        "faultLocation": "Wiring, EGR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1266",
+        "faultLocation": "Wiring, glow plug relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1268",
+        "faultLocation": "Incorrectly set, wiring, fuel injection pump",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1269",
+        "faultLocation": "Wiring, fuel injection timing solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1282",
+        "faultLocation": "Wiring, intake manifold air control solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1283",
+        "faultLocation": "Wiring, intake manifold flap, intake manifold air control actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1312",
+        "faultLocation": "Trouble code(s) stored in other system(s), wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1314",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1315",
+        "faultLocation": "TCM trouble code(s) stored, wiring, matching resistor in ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1316",
+        "faultLocation": "ABS control module incorrectly coded, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1317",
+        "faultLocation": "Trouble code(s) stored in other system(s), wiring, instrumentation control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1318",
+        "faultLocation": "Data bus wiring, fuel injection pump",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1321",
+        "faultLocation": "SRS control module trouble code(s) stored, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1375",
+        "faultLocation": "Wiring, engine mounting control solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1376",
+        "faultLocation": "Wiring, fuel injection pump position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1437",
+        "faultLocation": "Basic setting not carried out, CTP switch, ISC actuator/position sensor, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1440",
+        "faultLocation": "Wiring, instrument panel, fuel gauge tank sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1441",
+        "faultLocation": "Wiring, fuel transfer pump, fuel level sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1442",
+        "faultLocation": "Fuel level low, fuel transfer pump",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1575",
+        "faultLocation": "Auxiliary drive overloaded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1613",
+        "faultLocation": "Wiring, fuel cooling pump relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1656",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1686",
+        "faultLocation": "Wiring, engine coolant blower motor run-on relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1695",
+        "faultLocation": "Wiring, fuel temperature sensor",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Audi OBD/OBD2 Codes >> Audi 5000",
+    "url": "https://www.troublecodes.net/audi/audi-5000/",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL1111",
+        "faultLocation": "Engine Control Unit (ECU) Defective memory circuits, incorrect Checksum for EPROM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1231",
+        "faultLocation": "Vehicle Speed Sensor (ABH 4.2 litre Engine) Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2111",
+        "faultLocation": "RPM sensor Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2112",
+        "faultLocation": "Timing reference sensor Flywheel pin damaged/missing",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2113",
+        "faultLocation": "Hall sender in distributor Distributor alignment",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2114",
+        "faultLocation": "Hall sender not at reference mark.",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2121",
+        "faultLocation": "Idle switch Switch open circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2123",
+        "faultLocation": "Full Throttle switch inside throttle potentiometer PT Engine Only Switch short ckt, contact 53 constantly grounded Switch defective",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2141",
+        "faultLocation": "First Knock regulation Excessive knock, timing is being retarded by maximum amount",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2142",
+        "faultLocation": "Knock sensor #1 Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2144",
+        "faultLocation": "Knock Sensor #2, (Cylinders 3, 4, 5) Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2212",
+        "faultLocation": "Throttle Potentiometer Defective Throttle Potentiometer assembly",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2214",
+        "faultLocation": "Max RPM Limit Exceeded (6793 RPM), ABH Engine only",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2231",
+        "faultLocation": "Idle Speed Valve (ISV) Control, Idle speed adaptation limit exceeded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2232",
+        "faultLocation": "Mass Air Flow (MAF) Sensor G70 Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2234",
+        "faultLocation": "Supply Voltage Problem, ECU supply voltage too low or too high.",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2312",
+        "faultLocation": "Coolant sensor Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2314",
+        "faultLocation": "Engine/Transmission Electrical connection Open or short circuit in wiring between Engine and Transmission",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2322",
+        "faultLocation": "Inlet air temp Open or short circuit Defective sensor or wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2324",
+        "faultLocation": "ECU has Defective Grounds or is Defective (Shown for ABH Engine Only)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2341",
+        "faultLocation": "Oxygen Sensor Control Limit exceeded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2342",
+        "faultLocation": "Oxygen Sensor Signal (voltage) is not changing up and down, (ABH Engine Only) Signal shorted to ground or to +12V",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2411",
+        "faultLocation": "EGR Valve Temperature, G98, (ABH Engine Only, California Vehicles Only)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2413",
+        "faultLocation": "Mixture Adaptation problem, outside of normal range (ABH Engine Only) Too Lean or Too Rich",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL3242",
+        "faultLocation": "Oxygen Sensor Circuit (Shown for PT Engine Only)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL3424",
+        "faultLocation": "Fault Lamp Trigger Defective, (Shown for PT Engine) short to + or to ground",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4312",
+        "faultLocation": "EGR Valve N18 (Shown for ABH Engine Only, California Vehicles Only) Signal shorted to ground or to +12V",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4334",
+        "faultLocation": "O2 Sensor Heating Element circuit problem (Shown for ABH Engine Only)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4343",
+        "faultLocation": "Carbon Canister, Open or short circuit.",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4411",
+        "faultLocation": "Fuel Injectors for Cylinder 1 and Cylinder 5, Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4412",
+        "faultLocation": "Fuel Injectors for Cylinder 2 and Cylinder 7, Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4413",
+        "faultLocation": "Fuel Injectors for Cylinder 3 and Cylinder 6, Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4414",
+        "faultLocation": "Fuel Injectors for Cylinder 4 and Cylinder 8, Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4431",
+        "faultLocation": "Idle Stabilizer Valve, Open or short circuit",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4444",
+        "faultLocation": "No Faults have been recorded.",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL0000",
+        "faultLocation": "End of ECU Diagnostic Output",
+        "probableCause": ""
+      }
+    ]
+  }
+]

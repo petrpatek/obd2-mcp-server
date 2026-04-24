@@ -1,0 +1,14 @@
+{
+  "name": "Audi",
+  "slug": "audi",
+  "totalCodes": 586,
+  "totalSubmodels": 3,
+  "totalDetails": 0,
+  "totalProcedures": 1,
+  "codeTypes": {
+    "P": 586,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

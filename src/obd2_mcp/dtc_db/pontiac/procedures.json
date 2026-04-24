@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Aztek – Bonneville – Grand AM – Grand Prix – Trans Sport – Vibe",
+    "url": "https://www.troublecodes.net/pontiac/aztek-bonneville-grand-am-grand-prix-trans-sport-vibe/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird – Grand AM – Grand Prix – LeMans – Sunbird – Sunfire – Trans Sport (1992 – 1995)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-grand-am-grand-prix-lemans-sunbird-sunfire-trans-sport-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Jump data link connector (DLC) terminals A and B 1.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird 3.4L – Grand AM 3.1L – Grand Prix 3.1L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-3-4l-grand-am-3-1l-grand-prix-3-1l-1993-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Jump data link connector (DLC) terminals A and B [1].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times.",
+          "Trouble codes consist of 2 groups, displayed as follows:",
+          "Each additional trouble code will now be displayed 3 times, in ascending order.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) 1"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable .",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird – Grand Prix – Montana/SV6 – Sunfire – Trans Sport (1995 – 2008)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-grand-prix-montanasv6-sunfire-trans-sport-1995-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird 5.7L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-5-7l-1993-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Jump data link connector (DLC) terminals A and B [1].",
+          "Switch ignition ON. 00 NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times.",
+          "Trouble codes consist of 2 groups, displayed as follows:",
+          "Each additional trouble code will now be displayed 3 times, in ascending order.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC ) [1]"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> G5 – G6 – G8 – GTO – Montana – Solstice – Torrent (2004 – 2009)",
+    "url": "https://www.troublecodes.net/pontiac/g5-g6-g8-gto-montana-solstice-torrent-2004-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Bonneville 3.8L – Grand AM 3.3L – Trans Sport 3.8L (1992 – 1993)",
+    "url": "https://www.troublecodes.net/pontiac/bonneville-3-8l-grand-am-3-3l-trans-sport-3-8l-1992-1993/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC )."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC ).",
+          "Jump data link connector (DLC) terminals A and B 1.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times.",
+          "Trouble codes consist of 2 groups, displayed as follows:",
+          "Each additional trouble code will now be displayed 3 times, in ascending order.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory."
+        ]
+      }
+    ]
+  }
+]

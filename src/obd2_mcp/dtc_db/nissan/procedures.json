@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Nissan OBD / OBD2 Codes >> 200SX – 240SX – Altima – Frontier – Pick-up – Sentra – Xterra (1996 – 2004)",
+    "url": "https://www.troublecodes.net/nissan/200sx-240sx-altima-frontier-pick-up-sentra-xterra-1996-2004/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Sentra ->1999/all other models ->2000: Trouble codes can be displayed by the malfunction indicator lamp (MIL) or by using a Scan Tool connected to the data link connector (DLC) 1 [1] or 1 [2].",
+          "Sentra 2000 ->/all other models 2001 ->: Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1]."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing- Mode 2- Sentra ->1999/all other models ->2000",
+        "type": "accessing",
+        "steps": [
+          "Access engine control module (ECM):",
+          "Switch ignition ON. Do NOT start engine.",
+          "Turn diagnostic mode selector on ECM fully clockwise [4].",
+          "Wait at least 2 seconds.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [4].",
+          "Self-diagnosis now in Mode 2.",
+          "MIL should flash.",
+          "Count flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2 – Sentra 2000 ->/all other models 2001 ->",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1]."
+        ]
+      },
+      {
+        "heading": "Erasing – Sentra ->1999/all other models ->2000",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "With the ignition switch ON and the engine control module (ECM) in diagnosis test mode 2.",
+          "Turn diagnostic mode selector on ECM fully clockwise [4].",
+          "Trouble codes are erased.",
+          "Switch ignition OFF.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [4].",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory"
+        ]
+      },
+      {
+        "heading": "Erasing – Sentra 2000 ->/all other models 2001->",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nissan OBD / OBD2 Codes >> 350Z – Armada – Maxima – Murano – Pathfinder – Quest – Titan – Versa (2002 – 2008)",
+    "url": "https://www.troublecodes.net/nissan/350z-armada-maxima-murano-pathfinder-quest-titan-versa-2002-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) or by the malfunction indicator lamp (MIL):"
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2",
+        "type": "accessing",
+        "steps": [
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2.",
+          "Count flashes and compare with trouble code table.",
+          "Each trouble code consists of four groups of one or more flashes.",
+          "The first group of flashes indicate the ‘thousands’ of the trouble code [3] [A].",
+          "The second group of flashes indicate the ‘hundreds’ of the trouble code [3] [B].",
+          "The third group of flashes indicate the ‘tens’ of the trouble code [3] [C].",
+          "The fourth group of flashes indicate the ‘units’ of the trouble code [3] [D].",
+          "Ten flashes in a group indicate ‘0’.",
+          "A short pause separates each trouble code group [3] [E].",
+          "A long pause separates each trouble code [3] [F].",
+          "For example: Trouble code P1130 displayed [3].",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nissan OBD / OBD2 Codes >> Axxess – Pickup – Pickup/Pathfinder – Pulsar 1.6/1.8L – Sentra 1.6L (1988 – 1995)",
+    "url": "https://www.troublecodes.net/nissan/axxess-pickup-pickuppathfinder-pulsar-1-61-8l-sentra-1-6l-1988-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded – California 1988 on.",
+          "ECM operates in backup mode if certain sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes are displayed by the red and green LED’s in the engine control module (ECM), in diagnostic test mode 3, or using a suitable code reader.",
+          "The red LED flashes indicate ‘tens’, followed by the green which indicate ‘units’."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nissan OBD / OBD2 Codes >> 300ZX / Turbo – Frontier – Maxima – Pathfinder – Quest – Xterra (1996 – 2004)",
+    "url": "https://www.troublecodes.net/nissan/300zx-turbo-frontier-maxima-pathfinder-quest-xterra-1996-2004/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop",
+          "Frontier, Maxima & Quest 2000 ->/Pathfinder/ Xterra 2001 ->: Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC).",
+          "Except Frontier, Maxima & Quest 2000 ->I Pathfinder/Xterra 2001 ->: Trouble codes can be displayed by the malfunction indicator lamp (MIL) or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2 – except Frontier, Maxima & Quest 2000 ->/Pathfinder/ Xterra 2001 ->",
+        "type": "accessing",
+        "steps": [
+          "Access engine control module (ECM):",
+          "Switch ignition ON. Do NOT start engine.",
+          "Turn diagnostic mode selector on ECM fully clockwise [5].",
+          "Wait at least 2 seconds.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [5].",
+          "Self-diagnosis now in Mode 2.",
+          "MIL should flash.",
+          "Count flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2 – Frontier, Maxima & Quest 2000 ->/Pathfinder/Xterra 2001->",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing – except Frontier, Maxima & Quest 2000 ->/Pathfinder/Xterra 2001 ->",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "With the ignition switch ON and the engine control module (ECM) in diagnosis test mode 2.",
+          "Turn diagnostic mode selector on ECM fully clockwise [5]",
+          "Trouble codes are erased.",
+          "Switch ignition OFF.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [5].",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      },
+      {
+        "heading": "Erasing – Frontier, Maxima & Quest 2000 ->/Pathfinder/Xterra 2001->",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nissan OBD / OBD2 Codes >> Altima – Frontier – Pathfinder – Rogue – Sentra – Xterra (2002 – 2008)",
+    "url": "https://www.troublecodes.net/nissan/altima-frontier-pathfinder-rogue-sentra-xterra-2002-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by the malfunction indicator lamp (MIL) or by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2",
+        "type": "accessing",
+        "steps": [
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2.",
+          "Count flashes and compare with trouble code table.",
+          "Each trouble code consists of four groups of one or more flashes.",
+          "The first group of flashes indicate the ‘thousands’ of the trouble code [2] [A).",
+          "The second group of flashes indicate the ‘hundreds’ of the trouble code [2] [B).",
+          "The third group of flashes indicate the ‘tens’ of the trouble code [2] [C].",
+          "The fourth group of flashes indicate the ‘units’ of the trouble code [2] [D].",
+          "Ten flashes in a group indicate ‘0’.",
+          "A short pause separates each trouble code group [2] [E].",
+          "A long pause separates each trouble code [2] [F].",
+          "For example: Trouble code P1130 displayed [2].",
+          "Switch ignition OFF",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Chevrolet OBD / OBD2 Codes >> Astro/Blazer – Camaro/Caprice – Camaro/Caprice – Corvette – Express – Metro – Silverado/Suburban – S10 Pickup – Tahoe – Tracker",
+    "url": "https://www.troublecodes.net/chevrolet/astroblazer-camarocaprice-camarocaprice-corvette-express-metro-silveradosuburban-s10-pickup-tahoe-tracker/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chevrolet OBD / OBD2 Codes >> Beretta/Corsica – Cavalier – Lumina – Monte Carlo/Z34",
+    "url": "https://www.troublecodes.net/chevrolet/berettacorsica-cavalier-lumina-monte-carloz34/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1] or [2]"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC) [1] or [2]."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chevrolet OBD / OBD2 Codes >> Avalanche – Aveo – Colorado – Impala – Malibu – Prizm – SSR – Trailblazer – Venture",
+    "url": "https://www.troublecodes.net/chevrolet/avalanche-aveo-colorado-impala-malibu-prizm-ssr-trailblazer-venture/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chevrolet OBD / OBD2 Codes >> Camaro 3.4L – Camaro 5.7L – Caprice 5.7L – Caprice Wagon 4.3L – Corvette 5.7L (OBD-II)",
+    "url": "https://www.troublecodes.net/chevrolet/camaro-3-4l-camaro-5-7l-caprice-5-7l-caprice-wagon-4-3l-corvette-5-7l-obd-ii/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Jump data link connector (DLC) terminals A and B [1].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times.",
+          "Trouble codes consist of 2 groups, displayed as follows:"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable .",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chevrolet OBD / OBD2 Codes >> Cobalt – Equinox – HHR – Impala – Malibu – Monte Carlo – Tahoe – Uplander",
+    "url": "https://www.troublecodes.net/chevrolet/cobalt-equinox-hhr-impala-malibu-monte-carlo-tahoe-uplander/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1]."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "Nissan",
+  "slug": "nissan",
+  "totalCodes": 199,
+  "totalSubmodels": 5,
+  "totalDetails": 0,
+  "totalProcedures": 5,
+  "codeTypes": {
+    "P": 196,
+    "B": 0,
+    "C": 0,
+    "U": 3
+  }
+}

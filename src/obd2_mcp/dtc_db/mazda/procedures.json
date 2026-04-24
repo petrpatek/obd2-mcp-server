@@ -1,0 +1,231 @@
+[
+  {
+    "title": "Mazda OBD/OBD2 Codes >> Mazda 89-93 MPV & 88-90 323/626/MX-6 & 88-92 929",
+    "url": "https://www.troublecodes.net/mazda/mazda-89-93-mpv-88-90-323626mx-6-88-92-929",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure engine is at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Jump test connector (green 1 pin) to ground Image 1 [1]",
+          "Switch ignition ON.",
+          "Count MIL flashes and compare with trouble code table",
+          "1.2 second flashes indicate the ‘tens’ of the trouble code Image 2 [A]",
+          "0.4 second flashes indicate the ‘units’ of the trouble code Image 2 [D]",
+          "A 1.6 second pause (MIL OFF) separates ‘TENS’ and ‘UNITS’ Image 2[C]",
+          "A 0.4 second pause (MIL OFF) separates each flash Image 2 [B]",
+          "A 4 second pause separates each trouble code Image 2 [E]",
+          "For example: Trouble code 22 displayed Image 2"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Disconnect battery ground lead",
+          "Depress the brake pedal for a minimum of 5 seconds",
+          "Reconnect battery ground lead",
+          "Jump test connector (Green 1 pin) to ground Image 1 [1]",
+          "Switch ignition ON",
+          "Wait 6 seconds",
+          "Start engine",
+          "Allow engine to reach normal operating tempertature",
+          "Run engine at 2000 rpm for 2 minutes",
+          "Allow to idle",
+          "Check MIL for further trouble codes",
+          "Switch ignition OFF",
+          "Remove jump lead",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mazda OBD/OBD2 Codes >> Mazda 94-95 MPV & 92-95 MX-3 & 90-95 MX-5 Miata & 90-94 Protege & 91-94 323",
+    "url": "https://www.troublecodes.net/mazda/mazda-94-95-mpv-92-95-mx-3-90-95-mx-5-miata-90-94-protege-91-94-323",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed with an LED test lamp or accessed with a suitable code reader connected to the data link connector (DLC) Image 1",
+          "Switch ignition OFF.",
+          "Connect LED tester between data link connector (DLC) terminal FEN and battery (12 volt) positive Image 2",
+          "Jump DLC terminals TEN and GND Image 2",
+          "Switch ignition ON.",
+          "Count LED flashes and compare with trouble code table",
+          "1.2 second flashes indicate the ‘tens’ of the trouble code Image 3 [A]",
+          "0.4 second flashes indicate the ‘units’ of the trouble code Image 3 [D]",
+          "A 1.6 second pause (MIL OFF) separates ‘TENS’ and ‘UNITS’ Image 3[C]",
+          "A 0.4 second pause (MIL OFF) separates each flash Image 3 [B]",
+          "A 4 second pause separates each trouble code Image 3 [E]",
+          "For example: Trouble code 22 displayed Image 3"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Disconnect battery ground lead",
+          "Depress the brake pedal for a minimum of 5 seconds",
+          "Reconnect battery ground lead",
+          "Connect LED tester between DLC terminal FEN and battery (12 volt) positive Image 2",
+          "Jump DLC terminal TEN and GND Image 2",
+          "Switch ignition ON. Do not start engine.",
+          "Wait 6 seconds",
+          "Start engine",
+          "Allow engine to reach normal operating tempertature",
+          "Run engine at 2000 rpm for 3 minutes",
+          "Check that no trouble codes are displayed",
+          "Switch ignition OFF",
+          "Remove jump lead and LED tester"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mazda OBD/OBD2 Codes >> 94 Mazda B2300 or B3000 or B4000 or Navajo 4.0L",
+    "url": "https://www.troublecodes.net/mazda/94-mazda-b2300-or-b3000-or-b4000-or-navajo-4-0l",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Start engine.",
+          "Ensure engine is at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "Connect an analogue voltmeter between data link connector (DLC) terminal 4 and battery (12 volt) positive Image 1",
+          "Jump DLC 1 terminal Image 1 [1] to DLC 2 terminal 2 Image 1 [2]",
+          "Switch ignition ON.",
+          "Count voltmeter pulses and compare with trouble code table",
+          "A group of 0.5 second pulses indicate each of the 2 (1991), or 3 (1992-1994) trouble code digits Image 2 [A]",
+          "A 0.5 second pause separates each pulse Image 2 [B]",
+          "A 2 second pause separates each trouble code digit Image 2 [C]",
+          "A 4 second pause separates each trouble code Image 2 [D]",
+          "For example: Trouble code 231 displayed Image 2",
+          "When all present trouble codes have been displayed:",
+          "A 6-9 second pause, followed by a 0.5 second pulse, and another 6-9 second pause, indicate the start of the memorised trouble codes",
+          "Trouble codes are indicated in the same manner as above",
+          "NOTE: Memorised trouble codes refer to faults that have occurred in the last 80 ignition key cycles.",
+          "Count voltmeter pulses and compare with trouble code table",
+          "Switch ignition OFF",
+          "Remove jump lead and voltmeter",
+          "Start engine.",
+          "Ensure engine is at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "Connect an analogue voltmeter between data link connector (DLC) terminal 4 and battery (12 volt) positive Image 1",
+          "Jump DLC 1 terminal Image 1 [1] to DLC 2 terminal 2 Image 1 [2]",
+          "Start engine.",
+          "After a group of 3 0.5 second pulses (ID code) are displayed:",
+          "Press and release the brake pedal",
+          "If after 6-20 seconds, a single 0.5 second pulse is displayed (dynamic response signal):",
+          "Increase engine speed sharply",
+          "NOTE: Do not depress throttle during the test without the dynamic response signal",
+          "Trouble codes are indicated in the same manner as above",
+          "Count voltmeter pulses and compare with trouble code table",
+          "Switch ignition OFF",
+          "Remove jump lead and voltmeter"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Connect an analogue voltmeter between data link connector (DLC) terminal 4 and battery (12 volt) positive Image 1",
+          "Jump DLC 1 terminal Image 1 [1] to DLC 2 terminal 2 Image 1 [2]",
+          "Switch ignition ON",
+          "When trouble codes start to be displayed:",
+          "Disconnect the jumper lead between DLC 1 terminal to DLC 2 terminal",
+          "If system components have been replaced:",
+          "Disconnect battery ground lead for 5 minutes to erase adaptive memory from engine control module (ECM).",
+          "Switch ignition OFF",
+          "Remove the voltmeter",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mazda OBD/OBD2 Codes >> 626/MX-6 – B2300/B2500/B4000 – CX-7/CX-9 – Mazda3/5/6 – Millenia 2.3/2.5L – MPV 2.5/3.0L – MX-5 Miata – Protege 5 – RX-8 – Tribute (1995 – 2009)",
+    "url": "https://www.troublecodes.net/mazda/626mx-6-b2300b2500b4000-cx-7cx-9-mazda356-millenia-2-32-5l-mpv-2-53-0l-mx-5-miata-protege-5-rx-8-tribute-1995-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mazda OBD/OBD2 Codes >> 90-94 Mazda B2200 or 89-93 B2600 Pickup or 91-92 626/MX-6",
+    "url": "https://www.troublecodes.net/mazda/90-94-mazda-b2200-or-89-93-b2600-pickup-or-91-92-626mx-6",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump test connector (green, 1 pin) to ground Image 1 [1]",
+          "Connect LED test lamp between data link connector (DLC) terminals 1 and 2 Image 1[2]",
+          "Switch ignition ON",
+          "Count LED flashes and compare with trouble code table",
+          "1.2 second flashes indicate the ‘tens’ of the trouble code",
+          "0.4 second flashes indicate the ‘units’ of the trouble code",
+          "A 1.6 second pause (MIL OFF) separates ‘TENS’ and ‘UNITS’",
+          "A 0.4 second pause (MIL OFF) separates each flash",
+          "A 4 second pause separates each trouble code",
+          "Start engine",
+          "Allow to idle",
+          "Check for further trouble codes",
+          "Switch ignition OFF",
+          "Remove jump lead and LED test lamp"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Disconnect battery ground lead",
+          "Depress the brake pedal for a minimum of 5 seconds",
+          "Reconnect battery ground lead",
+          "Jump test connector (green, 1 pin) to ground Image 1 [1]",
+          "Connect LED test lamp between DLC terminals Image 1 [2]",
+          "Switch ignition ON. Do not start engine",
+          "Wait 6 seconds",
+          "Start engine",
+          "Ensure engine is at normal operating temperature",
+          "Run engine at 2000 rpm for 3 minutes",
+          "Check that no trouble codes are displayed",
+          "Switch ignition OFF",
+          "Remove jump lead and LED tester"
+        ]
+      }
+    ]
+  }
+]

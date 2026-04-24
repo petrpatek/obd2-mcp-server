@@ -1,0 +1,14 @@
+{
+  "name": "Chrysler",
+  "slug": "chrysler",
+  "totalCodes": 222,
+  "totalSubmodels": 35,
+  "totalDetails": 0,
+  "totalProcedures": 11,
+  "codeTypes": {
+    "P": 209,
+    "B": 0,
+    "C": 0,
+    "U": 13
+  }
+}

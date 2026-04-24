@@ -1,0 +1,874 @@
+[
+  {
+    "title": "Subaru OBD / OBD2 Codes >> B9 Tribeca 3.0/3.5L – Baja – Forester – Impreza – Legacy/Outback (1995 – 2008)",
+    "url": "https://www.troublecodes.net/subaru/b9-tribeca-3-03-5l-baja-forester-impreza-legacyoutback-1995-2008/",
+    "vehicles": [
+      {
+        "model": "B9 Tribeca 3.0/3.5L",
+        "year": "2006-08",
+        "engine": "VIN code digit 6 = 8/9",
+        "system": "MFI/MPI"
+      },
+      {
+        "model": "Baja 2.5L 16V",
+        "year": "2003-06",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Baja 2.5L Turbo",
+        "year": "2004-06",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Forester 2.5L 16V",
+        "year": "1998-07",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Forester 2.5L Turbo",
+        "year": "2004-07",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Impreza 1.8L",
+        "year": "1995-97",
+        "engine": "VIN code digit 6 = 2",
+        "system": ""
+      },
+      {
+        "model": "Impreza 2.0L Turbo",
+        "year": "2002-04",
+        "engine": "VIN code digit 6 = 2",
+        "system": ""
+      },
+      {
+        "model": "Impreza 2.2L 16V",
+        "year": "1996-01",
+        "engine": "VIN code digit 6 = 4",
+        "system": ""
+      },
+      {
+        "model": "Impreza 2.5L 16V",
+        "year": "1998-07",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Impreza 2.5L Turbo",
+        "year": "2004-07",
+        "engine": "VIN code digit 6 = 7",
+        "system": ""
+      },
+      {
+        "model": "Legacy 2.2L 16V",
+        "year": "1995-99",
+        "engine": "VIN code digit 6 = 4",
+        "system": ""
+      },
+      {
+        "model": "Legacy/Outback 2.5L 16V",
+        "year": "1996-07",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Legacy/Outback 2.5L Turbo",
+        "year": "2005-07",
+        "engine": "VIN code digit 6 = 6",
+        "system": ""
+      },
+      {
+        "model": "Legacy/Outback 3.0L",
+        "year": "2002-08",
+        "engine": "VIN code digit 6 = 8",
+        "system": ""
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1086",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1087",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1088",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1089",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1090",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1091",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1092",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1093",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1094",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1095",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1096",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1097",
+        "faultLocation": "Wiring, intake manifold air control actuator position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1100",
+        "faultLocation": "Starter motor circuit, NPITR switch, CPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1101",
+        "faultLocation": "Wiring, NP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1101",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1102",
+        "faultLocation": "Wiring, MAP/BARO sensor switching valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1103",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1104",
+        "faultLocation": "Wiring, traction control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1106",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1107",
+        "faultLocation": "Wiring, AIR diagnosis solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1110",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1112",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1116",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Starter motor circuit, wiring short to positive, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "Wiring short to ground, selector cable, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1122",
+        "faultLocation": "Wiring open/short to positive, MAP/BARO sensor switching valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1124",
+        "faultLocation": "Wiring open/short to positive",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1131",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1132",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1134",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1137",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1139",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1140",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1141",
+        "faultLocation": "MAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1142",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1143",
+        "faultLocation": "Hose leak/blockage, MAP/BARO sensor, MAP/BARO sensor switching solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "P1144",
+        "faultLocation": "MAP/BARO sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1146",
+        "faultLocation": "Wiring, MAP sensor, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1151",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1152",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1154",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1160",
+        "faultLocation": "Wiring, TAC motor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1207",
+        "faultLocation": "Wiring, injector air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1208",
+        "faultLocation": "Wiring, injector air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1208",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1230",
+        "faultLocation": "Wiring, FP control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1244",
+        "faultLocation": "Wiring, TC wastegate regulating valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1245",
+        "faultLocation": "Wiring, TC wastegate regulating valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1301",
+        "faultLocation": "Repair other DTC’s, replace pre-CAT",
+        "probableCause": ""
+      },
+      {
+        "code": "P1312",
+        "faultLocation": "Wiring, exhaust gas temperature sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring open/short to ground, fuel tank vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "EVAP system, fuel tank pressure sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1402",
+        "faultLocation": "Wiring, instrument cluster, fuel level sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1410",
+        "faultLocation": "Wiring, air leaks, AIR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "P1418",
+        "faultLocation": "Wiring, AIR pump relay, AIR pump, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1420",
+        "faultLocation": "Wiring open/short to positive, fuel tank vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1421",
+        "faultLocation": "Wiring open/short to positive, EGR solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1422",
+        "faultLocation": "Wiring open/short to positive, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1423",
+        "faultLocation": "Wiring open/short to positive, EVAP vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1440",
+        "faultLocation": "Fuel tank pressure control solenoid, fuel filler cap, EVAP drain/vent valve, EVAP canister/valve, fuel tank, hose/pipe leak",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "Fuel tank pressure control solenoid, fuel filler cap, EVAP drain/vent valve, EVAP valve, fuel tank, hose/pipe blockage",
+        "probableCause": ""
+      },
+      {
+        "code": "P1442",
+        "faultLocation": "Fuel level sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1443",
+        "faultLocation": "Hose blockage, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1445",
+        "faultLocation": "Wiring, injector air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1446",
+        "faultLocation": "Wiring, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1447",
+        "faultLocation": "Wiring, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1448",
+        "faultLocation": "Wiring, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1480",
+        "faultLocation": "Wiring, blower motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1490",
+        "faultLocation": "Thermostat, cooling system, engine coolant blower motor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1491",
+        "faultLocation": "Wiring, hose blocked/leaking",
+        "probableCause": ""
+      },
+      {
+        "code": "P1492",
+        "faultLocation": "Wiring, EGR solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1493",
+        "faultLocation": "Wiring, EGR solenoid valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1494",
+        "faultLocation": "Wiring, EGR solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1495",
+        "faultLocation": "Wiring, EGR solenoid valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1496",
+        "faultLocation": "Wiring, EGR solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1497",
+        "faultLocation": "Wiring, EGR solenoid valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1498",
+        "faultLocation": "Wiring, EGR solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1499",
+        "faultLocation": "Wiring, EGR solenoid valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, blower motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1502",
+        "faultLocation": "Cooling system, radiator ventilation obstructed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1505",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1507",
+        "faultLocation": "Intake system, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1510",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1511",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1512",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1513",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1514",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1515",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1516",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1517",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1518",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring open/short to positive, blower motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1540",
+        "faultLocation": "Wiring, instrument cluster, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1544",
+        "faultLocation": "Repair other DTC’s, exhaust system, replace pre-CAT",
+        "probableCause": ""
+      },
+      {
+        "code": "P1560",
+        "faultLocation": "Wiring, fuse, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1570",
+        "faultLocation": "Wiring, immobilizer read coil, immobilizer control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1571",
+        "faultLocation": "Immobilizer code not programmed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1572",
+        "faultLocation": "Wiring, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1574",
+        "faultLocation": "Wiring, key not programmed, immobilizer control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1576",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1577",
+        "faultLocation": ". Immobilizer control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1578",
+        "faultLocation": "Incorrect key has been used",
+        "probableCause": ""
+      },
+      {
+        "code": "P1590",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1591",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1592",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1594",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1595",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1596",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, other trouble code(s) stored, mechanical fault, incorrect programming, incorrect ECM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1698",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1699",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1700",
+        "faultLocation": "Wiring, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1701",
+        "faultLocation": "Wiring, cruise control switch, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1702",
+        "faultLocation": "Wiring short circuit, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1703",
+        "faultLocation": "Wiring, shift solenoid, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1704",
+        "faultLocation": "Wiring, shift solenoid, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1705",
+        "faultLocation": "Wiring, shift solenoid, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1711",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1712",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1722",
+        "faultLocation": "Wiring short to positive, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1742",
+        "faultLocation": "Wiring, TCM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Subaru OBD / OBD2 Codes >> Legacy 2.2L/Turbo (1990 – 1994)",
+    "url": "https://www.troublecodes.net/subaru/legacy-2-2lturbo-1990-1994/",
+    "vehicles": [
+      {
+        "model": "Legacy 2.2L",
+        "year": "1990-94",
+        "engine": "VIN digit 6 = 6",
+        "system": "MPFI"
+      },
+      {
+        "model": "Legacy 2.2L Turbo",
+        "year": "1991-94",
+        "engine": "VIN digit 6 = 6",
+        "system": ""
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL15",
+        "faultLocation": "Wiring, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "Wiring, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL17",
+        "faultLocation": "Wiring, injector, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL23",
+        "faultLocation": "Wiring, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL33",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Injector, MAF sensor, ECTITP sensor, H02S, fuel pressure, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL44",
+        "faultLocation": "Wiring, TC wastegate regulating valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL45",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL49",
+        "faultLocation": "Incorrect MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, NP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "code": "B1325",
+    "faultLocation": "Control Module Power Circuit Low/High Voltage",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/b1325/"
+  },
+  {
+    "code": "P0014",
+    "faultLocation": "Camshaft position (CMP) exhaust/right/rear, bank 1 -timing over -advanced/system performance",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0014/"
+  },
+  {
+    "code": "P0171",
+    "faultLocation": "System too lean, bank 1",
+    "probableCause": "Intake/exhaust leak, AIR system, MAFNAF sensor, fuel pressure/pump, injector(s), HO2S",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0171/"
+  },
+  {
+    "code": "P0174",
+    "faultLocation": "System too lean, bank 2",
+    "probableCause": "PCV tube, EVAP Purge Valve, Air intake blockage, Intake leak",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0174/"
+  },
+  {
+    "code": "P0300",
+    "faultLocation": "Random/multiple cylinder(s) -misfire detected",
+    "probableCause": "Spark plug(s), HT lead(s), injector(s), ignition coil(s), low compression, wiring",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0300/"
+  },
+  {
+    "code": "P0430",
+    "faultLocation": "Catalyst System Low Efficiency Bank 2",
+    "probableCause": "Broken manifold bolts, Unsealed air filter housing, Cat converter break-in procedure",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0430/"
+  },
+  {
+    "code": "P0442",
+    "faultLocation": "Evaporative Emission Control System Leak Detected Small Leak",
+    "probableCause": "Purge valve, Chassis EVAP, Charcoal canister, Vent valve, Fuel tank leaks",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0442/"
+  },
+  {
+    "code": "P0446",
+    "faultLocation": "Evaporative Emission (EVAP) Vent Control Circuit Malfunction (Chevrolet)",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0446/"
+  },
+  {
+    "code": "P0455",
+    "faultLocation": "Evaporative emission (EVAP) system -large leak detected",
+    "probableCause": "Hose connection(s), intake leak, EVAP canister, EVAP canister purge valve",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0455/"
+  },
+  {
+    "code": "P0496",
+    "faultLocation": "Evaporative Emission System Flow During Non-Purge",
+    "probableCause": "Charcoal canister, Camshaft cover leak, Purge Valve, Fuel tank cap",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p0496/"
+  },
+  {
+    "code": "P1011",
+    "faultLocation": "Intake camshaft position (CMP) actuator, bank 1 -incorrect park position",
+    "probableCause": "Engine oil level/pressure, mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1012",
+    "faultLocation": "Exhaust camshaft position (CMP) actuator, bank 1-incorrect park position",
+    "probableCause": "Engine oil level/pressure, mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1013",
+    "faultLocation": "Intake Camshaft Position Actuator Park Position Bank 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1014",
+    "faultLocation": "Exhaust camshaft position (CMP) actuator, bank 2-incorrect park position",
+    "probableCause": "Engine oil level/pressure, mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1031",
+    "faultLocation": "HO2S Heater Current Monitor Control Circuit Banks 1 and 2 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1032",
+    "faultLocation": "HO2S Heater Warm Up Control Circuit Banks 1 and 2 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1093",
+    "faultLocation": "Fuel rail pressure (FRP) sensor, command/actualfuel pressure -signal variation",
+    "probableCause": "Wiring, poor connections, FRP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1094",
+    "faultLocation": "Fuel rail pressure (FRP) sensor -signal out ofrange",
+    "probableCause": "Wiring, poor connections, FRP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1101",
+    "faultLocation": "Intake airflow -incorrect",
+    "probableCause": "Wiring, mechanical fault, engine coolant temperature (ECT) sensor, barometric pressure (BARO) sensor, intake air temperature (IAT)sensor, manifold absolute pressure (MAP) sensor,mass air flow (MAF) sensor, throttle position (TP)switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1105",
+    "faultLocation": "Secondary Vacuum Sensor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1106",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor voltage high, intermittent",
+    "probableCause": "Wiring open circuit/short circuit to positive, poorconnections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1107",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor voltage low, intermittent",
+    "probableCause": "Wiring short circuit to ground, poor connections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1108",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor voltage high",
+    "probableCause": "Wiring open circuit/short circuit to voltage, manifold absolute pressure (MAP) sensor, exhaust gas recirculation (EGR) valve, restricted exhaust system, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1109",
+    "faultLocation": "Secondary Port Throttle System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1111",
+    "faultLocation": "Intake air temperature (IAT) sensor -voltage high, intermittent",
+    "probableCause": "Wiring open circuit/short to positive, poorconnections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1112",
+    "faultLocation": "Intake air temperature (IAT) sensor -voltage low, intermittent",
+    "probableCause": "Wiring short circuit to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1113",
+    "faultLocation": "Intake Resonance Switchover Solenoid Control Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1114",
+    "faultLocation": "Engine coolant temperature (ECT) sensor voltage low, intermittent",
+    "probableCause": "Wiring short circuit to ground, poor connections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1115",
+    "faultLocation": "Engine coolant temperature (ECT) sensor voltage high, intermittent",
+    "probableCause": "Wiring open circuit/short to positive, poor connections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1116",
+    "faultLocation": "Engine coolant temperature (EeT) sensor circuit malfunction",
+    "probableCause": "Wiring, ECT sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1117",
+    "faultLocation": "Engine Coolant Temperature Signal Out-Of-Range Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1118",
+    "faultLocation": "Engine Coolant Temp. Signal Out-Of-Range High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1119",
+    "faultLocation": "Engine Coolant Temperature Signal Out Of Rage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1120",
+    "faultLocation": "Throttle motor position sensor 1 -circuitmalfunction",
+    "probableCause": "Wiring, throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1121",
+    "faultLocation": "Throttle position (TP) sensor -voltage high, intermittent",
+    "probableCause": "Wiring open circuit/short to positive, poor connections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1122",
+    "faultLocation": "Throttle position (TP) sensor -voltage low, intermittent",
+    "probableCause": "Wiring open circuit/short to ground, poor connections",
+    "detailUrl": null
+  },
+  {
+    "code": "P1125",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1/2 signal malfunction",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1130",
+    "faultLocation": "HO2S Circuit Low Variance Bank 1 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1131",
+    "faultLocation": "HO2S Circuit Low Variance Bank 1 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1132",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 signal circuit shorted to heater circuit",
+    "probableCause": "Wiring, H02S, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1133",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 insufficient switching",
+    "probableCause": "Wiring, exhaust system leaking, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1134",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 -slow response",
+    "probableCause": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1135",
+    "faultLocation": "HO2S Lean Mean Bank 1 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1136",
+    "faultLocation": "HO2S Rich Mean Bank 1 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1137",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 1 voltage low",
+    "probableCause": "Wiring, exhaust system leaking, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1138",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 1 voltage high",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1139",
+    "faultLocation": "HO2S Insufficient Switching Bank 1 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1140",
+    "faultLocation": "HO2S Transition Time Ratio Bank 1 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1141",
+    "faultLocation": "HO2S Heater Control Circuit Bank 1 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1143",
+    "faultLocation": "HO2S Bank 1 Sensor 3 Lean System or Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1144",
+    "faultLocation": "HO2S Bank 1 Sensor 3 Rich or High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1145",
+    "faultLocation": "HO2S Cross Counts Bank 1 Sensor 3",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1152",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 2 signal circuit shorted to heater circuit",
+    "probableCause": "Wiring, H02S, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1153",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 2insufficient switching",
+    "probableCause": "Wiring, oxygen sensor heater, exhaust system leaking, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1154",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 2 slow response",
+    "probableCause": "Wiring, oxygen sensor heater, exhaust system leaking, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1155",
+    "faultLocation": "HO2S Lean Average Bank 2 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1156",
+    "faultLocation": "HO2S Rich Average Bank 2 Sensor 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1157",
+    "faultLocation": "HO2S Bank 2 Sensor 2 Lean System Or Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1158",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 2 -not switching, fuel trim (FT) rich mixture",
+    "probableCause": "Wiring, exhaust system leaking, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1159",
+    "faultLocation": "HO2S Cross Counts Bank 2 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1161",
+    "faultLocation": "HO2S Heater Control Circuit Bank 2 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1163",
+    "faultLocation": "HO2S Bank 2 Sensor 3 Lean System Or Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1164",
+    "faultLocation": "HO2S Bank 2 Sensor 3 Rich Or High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1165",
+    "faultLocation": "HO2S Cross Counts Bank 2 Sensor 3",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1166",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 1 voltage low",
+    "probableCause": "Wiring, exhaust system leaking, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1170",
+    "faultLocation": "Bank To Bank Fuel TrimOffset",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1171",
+    "faultLocation": "Fuel system -lean during acceleration",
+    "probableCause": "Fuel filter, fuel pump, H02S, injectors",
+    "detailUrl": null
+  },
+  {
+    "code": "P1172",
+    "faultLocation": "Fuel level sensors, primary & secondary sensorno fuel level change during fuel transfer fromsecondary to primary tank",
+    "probableCause": "Wiring, fuel pump relays, secondary fuel pump, fuel level sensors, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1174",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 mixture variation between cylinders",
+    "probableCause": "Intake/exhaust leak/blockage, mechanical fault,ignition control, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1175",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 2 mixture variation between cylinders",
+    "probableCause": "Intake/exhaust leak/blockage, mechanical fault,ignition control, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1182",
+    "faultLocation": "Supercharger (SC) boost pressure sensor malfunction",
+    "probableCause": "Wiring, intake/exhaust leak/blockage, SC boost pressure sensor, SC bypass valve, BARO sensor,IAT sensor, MAP sensor, MAF sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1183",
+    "faultLocation": "Supercharger (SC) boost pressure sensor voltage low",
+    "probableCause": "Wiring, SC boost pressure sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1184",
+    "faultLocation": "Supercharger (SC) boost pressure sensor voltage high",
+    "probableCause": "Wiring, SC boost pressure sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1185",
+    "faultLocation": "Engine Oil Temperature Sensor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1186",
+    "faultLocation": "Engine Oil Temperature Sensor Circuit Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1187",
+    "faultLocation": "Engine oil temperature (EOT) sensor -voltage low",
+    "probableCause": "Wiring open circuit/short circuit to ground, EOT sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1188",
+    "faultLocation": "Engine oil temperature (EOT) sensor -voltage high",
+    "probableCause": "Wiring open circuit/short circuit to positive, EOT sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1189",
+    "faultLocation": "Engine oil pressure warning lamp switch circuit malfunction",
+    "probableCause": "Wiring, engine oil pressure warning lamp switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1190",
+    "faultLocation": "Engine Vacuum Leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1191",
+    "faultLocation": "Intake manifold system ,-air leak",
+    "probableCause": "Intake hose pipe connections, EGR system, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1200",
+    "faultLocation": "Injectors -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground/ short circuit to positive, injectors, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1201",
+    "faultLocation": "Gas Mass Sensor Circuit Range/Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1202",
+    "faultLocation": "Gas Mass Sensor Circuit Low Frequency",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1203",
+    "faultLocation": "Gas Mass Sensor Circuit High Frequency",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1211",
+    "faultLocation": "Mass Air Flow Circuit Intermittent High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1212",
+    "faultLocation": "Mass Air Flow Circuit Intermittent Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1214",
+    "faultLocation": "Injection Pump Timing Offset",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1215",
+    "faultLocation": "Generator Driver Circuit Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1216",
+    "faultLocation": "Fuel Solenoid Response Time Too Short Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1217",
+    "faultLocation": "Fuel Solenoid Response Time Too Long",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1218",
+    "faultLocation": "Injection Pump Calibration Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1219",
+    "faultLocation": "Throttle Position Sensor Reference Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1220",
+    "faultLocation": "Throttle motor position sensor 2 -circuit malfunction",
+    "probableCause": "Wiring, throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1221",
+    "faultLocation": "Throttle motor position sensor 1/2 -signalvariation",
+    "probableCause": "Wiring, throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1222",
+    "faultLocation": "Injector control, circuit monitor -malfunction",
+    "probableCause": "Injector, wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1223",
+    "faultLocation": "Injector 1 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1224",
+    "faultLocation": "Injector 1 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1225",
+    "faultLocation": "Injector Circuit Cylinder 2 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1226",
+    "faultLocation": "Injector 2 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1227",
+    "faultLocation": "Injector 2 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1228",
+    "faultLocation": "Injector Circuit Cylinder 3 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1229",
+    "faultLocation": "Injector 3 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P122A",
+    "faultLocation": "Injector 3 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1231",
+    "faultLocation": "Injector Circuit Cylinder 4 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1232",
+    "faultLocation": "Injector 4 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1233",
+    "faultLocation": "Injector 4 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1234",
+    "faultLocation": "Injector Circuit Cylinder 5 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1235",
+    "faultLocation": "Injector 5 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1236",
+    "faultLocation": "Injector 5 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1237",
+    "faultLocation": "Injector Circuit Cylinder 6 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1238",
+    "faultLocation": "Injector 6 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1239",
+    "faultLocation": "Injector 6 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1240",
+    "faultLocation": "Injector Circuit Cylinder 7 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1241",
+    "faultLocation": "Injector 7 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1242",
+    "faultLocation": "Injector 7 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1243",
+    "faultLocation": "Injector Circuit Cylinder 8 Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1244",
+    "faultLocation": "Injector 8 -circuit malfunction",
+    "probableCause": "Wiring, injector, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1245",
+    "faultLocation": "Intake Plenum Switchover Valve",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1247",
+    "faultLocation": "Injector 8 -circuit malfunction",
+    "probableCause": "Wiring, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1248",
+    "faultLocation": "Injector 1 Positive Voltage Control Circuit Shorted to Control Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1249",
+    "faultLocation": "Injector 2 Positive Voltage Control Circuit Shorted to Control Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1250",
+    "faultLocation": "Intake manifold heater -circuit malfunction",
+    "probableCause": "Wiring, intake manifold heater, intake manifold heater relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1255",
+    "faultLocation": "Fuel pump control module -driver over-temperature",
+    "probableCause": "Fuel pump control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1257",
+    "faultLocation": "Supercharger System Overboost",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1258",
+    "faultLocation": "Engine overheating",
+    "probableCause": "Cooling system, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1260",
+    "faultLocation": "Fuel Pump Speed Relay Control Circuit Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1261",
+    "faultLocation": "Injectors 1, 4, 6 & 7 -high voltage",
+    "probableCause": "Wiring, injector(s), ECM, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1262",
+    "faultLocation": "Injectors 2, 3, 5 & 8 -high voltage",
+    "probableCause": "Wiring, injector(s), ECM, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1270",
+    "faultLocation": "Engine control module (ECM), APP sensor signal-analogue/digital process malfunction",
+    "probableCause": "Engine control module (ECM)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1271",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1/2 signal variation",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1272",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2/3 -signal variation",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1273",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1/3 –signal variation",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1274",
+    "faultLocation": "Injectors Wired Incorrectly",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1275",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1 circuitmalfunction",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1276",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1 rangeperformance",
+    "probableCause": ". Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1277",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1 voltage low",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1278",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1voltage high",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1280",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2 circuit malfunction",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1281",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2 range performance",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1282",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2voltage low",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1283",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2voltage high",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1285",
+    "faultLocation": "Accelerator pedal position (APP) sensor 3 circuitmalfunction",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1286",
+    "faultLocation": "Accelerator pedal position (APP) sensor 3 range performance",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1287",
+    "faultLocation": "Accelerator Pedal Position Sensor 3 Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1288",
+    "faultLocation": "Accelerator pedal position (APP) sensor 3voltage high",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1293",
+    "faultLocation": "Fuel injection control module -circuit malfunction bank 1",
+    "probableCause": "Fuel injection control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1294",
+    "faultLocation": "Fuel injection control module -circuit malfunction bank 2",
+    "probableCause": "Fuel injection control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1295",
+    "faultLocation": "Fuel injection control module -circuit malfunction bank 1",
+    "probableCause": "Fuel injection control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1296",
+    "faultLocation": "Fuel injection control module -circuit malfunction bank 2",
+    "probableCause": "Fuel injection control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P129D",
+    "faultLocation": "Ignition switch circu it 1 -low voltage",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC),fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P129F",
+    "faultLocation": "Fuel pump speed signal -incorrect",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC), fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12A1",
+    "faultLocation": "Fuel pump speed circuit -high duty cycle",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC), fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12A2",
+    "faultLocation": "Fuel pump speed circuit -performance",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC),fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12A4",
+    "faultLocation": "Fuel pump enable circuit voltage -low",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC), fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12A5",
+    "faultLocation": "Fuel pump enable circuit voltage -high",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC),fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12A6",
+    "faultLocation": "Fuel pump enable circuit voltage -performance",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC),fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12A7",
+    "faultLocation": "Fuel pump phase U-V-W circuit",
+    "probableCause": "Wiring, fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P12AO",
+    "faultLocation": "Fuel pump speed circuit -low duty cycle",
+    "probableCause": "Wiring, fuel pump flow control module (FPMC),fuel pump flow control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1300",
+    "faultLocation": "Ignition coil 1 control -feedback circuit malfunction",
+    "probableCause": "Wiring, ignition coil 1, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1305",
+    "faultLocation": "Ignition coil 2 control -feedback circuitmalfunction",
+    "probableCause": "Wiring, ignition coil 2, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1310",
+    "faultLocation": "Ignition coil 3 control -feedback circuitmalfunction",
+    "probableCause": "Wiring, ignition coil 3, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1315",
+    "faultLocation": "Ignition coil 4 control -feedback circuitmalfunction",
+    "probableCause": "Wiring, ignition coil 4, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1320",
+    "faultLocation": "IC Module 4X Reference Circuit Intermittent No Pulses",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1321",
+    "faultLocation": "Electronic Ignition System Fault Line",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1322",
+    "faultLocation": "EI System or Ignition Control Extra or Missing",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1323",
+    "faultLocation": "IC 24X Reference Circuit Low Frequency",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1324",
+    "faultLocation": "Crank RPM Too Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1335",
+    "faultLocation": "Crankshaft position (CKP) sensor -circuit malfunction",
+    "probableCause": "Wiring, CKP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1336",
+    "faultLocation": "Crankshaft position (CKP) sensor -variation notlearned",
+    "probableCause": "Learning procedure not performed",
+    "detailUrl": null
+  },
+  {
+    "code": "P133E",
+    "faultLocation": "P133E - Cylinder 7 Glow Plug Offset Exceeded",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1345",
+    "faultLocation": "Crankshaft Position (CKP)-Camshaft Position (CMP) Correlation",
+    "probableCause": "CKP sensor, distributor/camshaft alignment, mechanical fault",
+    "detailUrl": "https://www.troublecodes.net/chevroletcodes/p1345/"
+  },
+  {
+    "code": "P1346",
+    "faultLocation": "Camshaft position actuator -circuit malfunction",
+    "probableCause": "Wiring, mechanical fault, camshaft position actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1349",
+    "faultLocation": "Camshaft position actuator -circuit malfunction",
+    "probableCause": "Wiring, mechanical fault, camshaft position actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1350",
+    "faultLocation": "Ignition control system, bypass monitor circuitmalfunction",
+    "probableCause": "Wiring, poor connections, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1351",
+    "faultLocation": "Ignition control system, coil -voltage high",
+    "probableCause": "Wiring open circuit, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1352",
+    "faultLocation": "Ignition control system, bypass circuit voltage high",
+    "probableCause": "Wiring open circuit, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1353",
+    "faultLocation": "Ignition control module (ICM) -ignition coil 3circuit voltage high",
+    "probableCause": "Wiring open circuit/short circuit to ground/short circuit to positive, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1354",
+    "faultLocation": "Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 4",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1355",
+    "faultLocation": "Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 5",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1356",
+    "faultLocation": "Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 6",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1357",
+    "faultLocation": "Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 7",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1358",
+    "faultLocation": "Ignition Control Module Output High/Pulse Detected When Grounded Cylinder 8",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1359",
+    "faultLocation": "Ignition Control Circuit Group 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1360",
+    "faultLocation": "Ignition Control Circuit Group 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1361",
+    "faultLocation": "Ignition control system, ignition control (IC) circuit -voltage low",
+    "probableCause": "Wiring, circuit short circuit to positive/ ground,poor connections, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1362",
+    "faultLocation": "Ignition control, bypass circuit -voltage low",
+    "probableCause": "Wiring short circuit to positive/ground, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1363",
+    "faultLocation": "Ignition control module (ICM) -ignition coil 3 circuit voltage low",
+    "probableCause": "Wiring short circuit to ground/positive, bypass circuit short circuit to ground, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1364",
+    "faultLocation": "Ignition Control Cylinder 4 Not Toggling After Enable",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1365",
+    "faultLocation": "Ignition Control Cylinder 5 Not Toggling After Enable",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1366",
+    "faultLocation": "Ignition Control Cylinder 6 Not Toggling After Enable",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1367",
+    "faultLocation": "Ignition Control Cylinder 7 Not Toggling After Enable",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1368",
+    "faultLocation": "Ignition Control Cylinder 8 Not Toggling After Enable",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1370",
+    "faultLocation": "Ignition Control Module 4X Reference Circuit Too Many Pulses",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1371",
+    "faultLocation": "Ignition control reference signal. low/high resolution -low signal lost",
+    "probableCause": "Wiring,lCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1372",
+    "faultLocation": "Crankshaft Position Sensor A-B Correlation Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1374",
+    "faultLocation": "Crankshaft position (CKP) sensor, high to lowresolution frequency -signal variation",
+    "probableCause": "Wiring, wiring routed near spark plug wires, ignition coils arCing/tracking, ICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1375",
+    "faultLocation": "IC 24X Reference Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1376",
+    "faultLocation": "Ignition Ground Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1377",
+    "faultLocation": "Ignition Control Module Cam Ref Pulse To 4X Ref Pulse Incorrect",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1380",
+    "faultLocation": "Antilock brake system (ABS)/traction control system (TCS), rough road signal to engine control module (ECM) -malfunction",
+    "probableCause": "ABS trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1381",
+    "faultLocation": "Antilock brake system (ABS)/traction control system (TCS), rough road signal to engine control module (ECM) -no communication",
+    "probableCause": "Wiring, poor connections, ABS",
+    "detailUrl": null
+  },
+  {
+    "code": "P1390",
+    "faultLocation": "Wheel Speed Sensor 1 G-Sensor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1391",
+    "faultLocation": "Rough road sensor -signal malfunction",
+    "probableCause": "Wiring, rough road sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1392",
+    "faultLocation": "Rough road sensor -voltage low",
+    "probableCause": "Wiring, rough road sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1393",
+    "faultLocation": "Rough road sensor -voltage high",
+    "probableCause": "Wiring, rough road sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1394",
+    "faultLocation": "Wheel Speed Sensor 1 G-Sensor Circuit Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1395",
+    "faultLocation": "Wheel Speed Sensor 2 G-Sensor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1396",
+    "faultLocation": "Rough road sensor -signal malfunction",
+    "probableCause": "Wiring, rough road sensor, wheel speed sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1397",
+    "faultLocation": "Rough road sensor -signal malfunction",
+    "probableCause": "Wiring, rough road sensor, wheel speed sensor, ABS control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1398",
+    "faultLocation": "Wheel Speed Sensor 2 G-Sensor Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1399",
+    "faultLocation": "Wheel Speed Sensor 2 G-Sensor Circuit Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1400",
+    "faultLocation": "Cold start emission control -malfunction",
+    "probableCause": "Intake/exhaust leak/blockage, mechanical fault, idlespeed control (ISC) system, ignition control, engine coolant temperature (ECT) sensor, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1403",
+    "faultLocation": "Exhaust gas recirculation (EGR) solenoid 1circuit malfunction",
+    "probableCause": "Wiring, EGR valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1404",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve not fully closing",
+    "probableCause": "Wiring, poor connections, EGR valve position sensor, EGR solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1405",
+    "faultLocation": "Exhaust gas recirculation (EGR) solenoid 3 circuit malfunction",
+    "probableCause": "Wiring, EGR valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1406",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor range performance",
+    "probableCause": "Wiring, EGR valve tight/sticking, EGR valve position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1407",
+    "faultLocation": "EGR Air Intrusion in Exhaust Supply to EGR Valve",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1408",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor voltageout range",
+    "probableCause": "Wiring, poor connections, MAP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1409",
+    "faultLocation": "EGR Vacuum System Leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1410",
+    "faultLocation": "Evaporative emission (EVAP) canister purge valve-circuit malfunction",
+    "probableCause": "Wiring, poor connections, EVAP canister vent valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1415",
+    "faultLocation": "Secondary air injection (AIR) system, bank 1",
+    "probableCause": "Wiring, hoses blocked/leaking, AIR valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1416",
+    "faultLocation": "Secondary air injection (AIR) system, bank 2",
+    "probableCause": "Wiring, hoses blocked/leaking, AIR valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1418",
+    "faultLocation": "Secondary Air Injection System Relay 'A' Control Circuit High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1420",
+    "faultLocation": "Intake Air Low Pressure Switch Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1421",
+    "faultLocation": "Intake Air Low Pressure Switch Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1423",
+    "faultLocation": "Intake Air High Pressure Switch Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1431",
+    "faultLocation": "Fuel level sensor -circuit malfunction",
+    "probableCause": "Wiring, fuel level sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1432",
+    "faultLocation": "Fuel level sensor low voltage",
+    "probableCause": "Wiring open circuit, fuel level sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1433",
+    "faultLocation": "Fuel level sensor -voltage high",
+    "probableCause": "Wiring short circuit to positive, fuel level sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1441",
+    "faultLocation": "Evaporative emission (EVAP) system -leak detected",
+    "probableCause": "Hose connection(s), EVAP canister, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1442",
+    "faultLocation": "Evaporative emission (EVAP) system vacuum switch -circuit malfunction",
+    "probableCause": "Hoses blockedlleaking, wiring, EVAP canister, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1448",
+    "faultLocation": "Diesel particulate filter (DPF) regeneration frequency -too low",
+    "probableCause": "Hoses blockedlleaking, exhaust, exhaust pressure sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1450",
+    "faultLocation": "Barometric pressure (BARO) sensor -voltage outof range",
+    "probableCause": "Wiring, BARO sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1451",
+    "faultLocation": "Barometric pressure (BARO) sensor performance range",
+    "probableCause": "Wiring, poor connections, BARO sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1460",
+    "faultLocation": "Cooling Fan Control System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1480",
+    "faultLocation": "Cooling Fan 1 Control Circuit High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1481",
+    "faultLocation": "Cooling Fan Speed Signal Lost",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1482",
+    "faultLocation": "Cooling Fan Circuit Condition",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1483",
+    "faultLocation": "Engine cooling system -performance",
+    "probableCause": "Cooling system, ECT sensor, IAT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1484",
+    "faultLocation": "Cooling Fan RPM Signal Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1500",
+    "faultLocation": "Ignition switch, cranking signal/system voltage -circuit malfunction",
+    "probableCause": "Wiring, poor connections, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1501",
+    "faultLocation": "Theft Deterrent System Fault Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1502",
+    "faultLocation": "Theft Deterrent Fuel Enable Signal Not Received",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1503",
+    "faultLocation": "Theft Deterrent Fuel Enable Signal Not Correct",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1504",
+    "faultLocation": "Engine control module (ECM). vehicle speed sensor (VSS) output signal -circuit malfunction",
+    "probableCause": "Wiring, poor connections, ABS, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1508",
+    "faultLocation": "Idle air control (lAC) valve -low rpm",
+    "probableCause": "Wiring open circuit/short circuit to ground/short circuit to positive, lAC valve, throttle valve tight/sticking",
+    "detailUrl": null
+  },
+  {
+    "code": "P1509",
+    "faultLocation": "Idle air control (lAC) valve -high rpm",
+    "probableCause": "Wiring open circuit/short circuit to ground/short circuit to positive, lAC valve, throttle valve tight/sticking",
+    "detailUrl": null
+  },
+  {
+    "code": "P1510",
+    "faultLocation": "Engine control module (ECM), KAM supply voltage -circuit malfunction",
+    "probableCause": "Wiring, poor connections, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1511",
+    "faultLocation": "Throttle Control System Backup System Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1512",
+    "faultLocation": "Throttle control unit -signal variation",
+    "probableCause": "Wiring, throttle control unit, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1514",
+    "faultLocation": "Throttle control unit, intake air flow -excessive",
+    "probableCause": "Throttle control unit, MAP sensor, CMP sensor signal, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1515",
+    "faultLocation": "Throttle command/actual throttle position -signalvariation",
+    "probableCause": "Wiring, throttle valve sticking, throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1516",
+    "faultLocation": "Throttle command/actual throttle position signal variation",
+    "probableCause": "Wiring, throttle valve sticking, throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1517",
+    "faultLocation": "Throttle control module -malfunction",
+    "probableCause": "Throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1518",
+    "faultLocation": "Throttle control. module/engine control module(ECM) -communication malfunction",
+    "probableCause": "Wiring, throttle control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1519",
+    "faultLocation": "Throttle motor position sensor 1 -signal malfunction",
+    "probableCause": "Throttle control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1520",
+    "faultLocation": "Park/neutral position (PNP) switch -circuit malfunction",
+    "probableCause": "Wiring short circuit to ground, PNP switchincorrectly adjusted",
+    "detailUrl": null
+  },
+  {
+    "code": "P1521",
+    "faultLocation": "Transmission Engaged at High Throttle Angle",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1522",
+    "faultLocation": "Park/Neutral to Drive/Reverse at High RPM",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1523",
+    "faultLocation": "Throttle control unit, closed throttle position -performance",
+    "probableCause": "Throttle valve movement restricted, throttle control unit",
+    "detailUrl": null
+  },
+  {
+    "code": "P1524",
+    "faultLocation": "Throttle Closed Position Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1525",
+    "faultLocation": "Throttle Body Service Required",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1526",
+    "faultLocation": "Minimum Throttle Position Not Learned Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1527",
+    "faultLocation": "Throttle Position Sensor Learned Closed Throttle Degrees Out Of-Range",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1528",
+    "faultLocation": "Governor",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1529",
+    "faultLocation": "Heated Windshield Request Problem",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1530",
+    "faultLocation": "A/C refrigerant pressure sensor/switch -circuitmalfunction",
+    "probableCause": "Wiring, A/C refrigerant pressure sensor/ switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1531",
+    "faultLocation": "A/C refrigerant pressure sensor -voltage low",
+    "probableCause": "Incorrect refrigerant charge, wiring, A/C refrigerant pressure sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1532",
+    "faultLocation": "AlC refrigerant temperature sensor -voltage low",
+    "probableCause": "Wiring open circuit/short circuit to ground, AlC refrigerant temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1533",
+    "faultLocation": "AlC refrigerant temperature sensor -voltage high",
+    "probableCause": "Wiring open circuit/short circuit to ground, AlC refrigerant temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1534",
+    "faultLocation": "A/C High Side Temperature Sensor Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1535",
+    "faultLocation": "A/C High Side Temperature Sensor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1536",
+    "faultLocation": "Engine Coolant Overtemperature Air Conditioning Disabled",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1537",
+    "faultLocation": "A/C Request Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1538",
+    "faultLocation": "A/C Request Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1539",
+    "faultLocation": "AlC compressor clutch relay -voltage high",
+    "probableCause": "Wiring, AlC compressor clutch relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1540",
+    "faultLocation": "A/C System High Pressure",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1541",
+    "faultLocation": "A/C High Side Over Temperature",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1542",
+    "faultLocation": "A/C System High Pressure High Temperature",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1543",
+    "faultLocation": "AlC system -performance",
+    "probableCause": "Refrigerant low, wiring, AlC refrigerant pressure sensor, AlC evaporator temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1544",
+    "faultLocation": "A/C Refrigerant Condition Very Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1545",
+    "faultLocation": "AlC compressor clutch relay -voltage low",
+    "probableCause": "Wiring, AlC compressor clutch relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1546",
+    "faultLocation": "A/C compressor clutch relay -circuit malfunction",
+    "probableCause": "Wiring, A/C compressor clutch relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1547",
+    "faultLocation": "A/C System Performance Degraded",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1548",
+    "faultLocation": "A/C Recirculation Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P154A",
+    "faultLocation": "Intake air heater -feedback circuit",
+    "probableCause": "Wiring, glow plug control module, intake air heater",
+    "detailUrl": null
+  },
+  {
+    "code": "P154B",
+    "faultLocation": "Intake air heater -voltage signal circuit",
+    "probableCause": "Wiring, glow plug control module, intake air heater",
+    "detailUrl": null
+  },
+  {
+    "code": "P154C",
+    "faultLocation": "Intake air heater -current signal circuit",
+    "probableCause": "Wiring, glow plug control module, intake air heater",
+    "detailUrl": null
+  },
+  {
+    "code": "P154D",
+    "faultLocation": "Intake air heater -temperature signal circuit",
+    "probableCause": "Wiring, glow plug control module, intake air heater",
+    "detailUrl": null
+  },
+  {
+    "code": "P1550",
+    "faultLocation": "Cruise control system, motor actuator -circuitmalfunction",
+    "probableCause": "Wiring, poor connections, cruise control motor/actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1551",
+    "faultLocation": "Throttle valve -rest position incorrect",
+    "probableCause": "Wiring, throttle body mechanical fault, throttle body, ECM ,",
+    "detailUrl": null
+  },
+  {
+    "code": "P1554",
+    "faultLocation": "Cruise control status circuit -high voltage",
+    "probableCause": "Wiring open circuit/short circuit to ground, cruise control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1555",
+    "faultLocation": "Electronic Variable Orifice Output",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1558",
+    "faultLocation": "Cruise control system -performance low",
+    "probableCause": "Wiring, poor connections, throttle cable sticking, electrical interference",
+    "detailUrl": null
+  },
+  {
+    "code": "P1559",
+    "faultLocation": "Cruise Control Power Management Mode",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1560",
+    "faultLocation": "Transaxle Not in Drive Cruise Control Disabled",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1561",
+    "faultLocation": "Cruise control, vent solenoid -circuit malfunction",
+    "probableCause": "Wiring, solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1562",
+    "faultLocation": "Cruise control, vacuum solenoid -circuit malfunction",
+    "probableCause": "Wiring, solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1563",
+    "faultLocation": "Cruise Vehicle Speed/Set Speed Difference Too High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1564",
+    "faultLocation": "Cruise Control System Vehicle Acceleration Too High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1565",
+    "faultLocation": "Cruise control servo position sensor -circuit malfunction",
+    "probableCause": "Wiring, poor connections, servo position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1566",
+    "faultLocation": "Cruise Control System Engine RPM Too High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1567",
+    "faultLocation": "Cruise control master switch -circuit malfunction",
+    "probableCause": "Wiring, poor connections, cruise control master switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1568",
+    "faultLocation": "Cruise control system -performance high",
+    "probableCause": "Wiring, poor connections, throttle cable sticking",
+    "detailUrl": null
+  },
+  {
+    "code": "P1569",
+    "faultLocation": "Cruise Servo Stroke High While Not In Cruise",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1570",
+    "faultLocation": "Cruise Control System Traction Control Active",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1571",
+    "faultLocation": "Traction control system (TCS), torque request signal -malfunction",
+    "probableCause": "Wiring, poor connections, ABSITCS",
+    "detailUrl": null
+  },
+  {
+    "code": "P1572",
+    "faultLocation": "Traction control system (TCS). active signal -malfunction",
+    "probableCause": "Wiring short to ground, ABSITCS, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1573",
+    "faultLocation": "Engine control module (ECM), antilock brake system (ASS)/traction control system (TCS)communication -malfunction",
+    "probableCause": "Wiring, poor connections, ABS control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1574",
+    "faultLocation": "Brake pedal position (BPP) switch, voltage high",
+    "probableCause": "Wiring, ABS",
+    "detailUrl": null
+  },
+  {
+    "code": "P1575",
+    "faultLocation": "Brake pedal position (BPP) .switch. extended travel contacts -voltage high",
+    "probableCause": "Wiring, ABS",
+    "detailUrl": null
+  },
+  {
+    "code": "P1576",
+    "faultLocation": "Brake Booster Vacuum Sensor Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1577",
+    "faultLocation": "Brake Booster Vacuum Sensor Circuit Low Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1578",
+    "faultLocation": "Brake Booster Vacuum Sensor Circuit Low Vacuum",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1579",
+    "faultLocation": "P/N to D/R at High Throttle Angle - Power Reduction Mode Active",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1580",
+    "faultLocation": "Cruise Move Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1581",
+    "faultLocation": "Cruise Control Module Move Circuit High Input Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1582",
+    "faultLocation": "Cruise Control Module Direction Low Input Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1583",
+    "faultLocation": "Cruise Direction CircuitHigh Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1584",
+    "faultLocation": "Cruise Control Disabled",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1585",
+    "faultLocation": "Cruise control system, inhibit output circuit",
+    "probableCause": "Wiring, poor connections, cruise control motor/actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1586",
+    "faultLocation": "Cruise control system. brake switch 2 -circuit malfunction",
+    "probableCause": "Wiring, poor connections, BPP switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1587",
+    "faultLocation": "Cruise Control Clutch Control Circuit Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1588",
+    "faultLocation": "Cruise Control Clutch Control Circuit High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1599",
+    "faultLocation": "Cruise control system -engine management has operated in limited power mode",
+    "probableCause": "Throttle cable sticking, brake vacuum release valve, cruise control actuator, electricalinterference",
+    "detailUrl": null
+  },
+  {
+    "code": "P1600",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1601",
+    "faultLocation": "CAN data bus, ECM/ASSITCS/instrumentation control module/diagnostic control module some communication lost",
+    "probableCause": "Wiring, poor connections, ECM, ABSITCS, diagnostic control module, instrumentation control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1602",
+    "faultLocation": "CAN data bus -antilock brake system (ASS)/ traction control system (TCS)",
+    "probableCause": "Wiring, ABSITCS control module trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1603",
+    "faultLocation": "Loss Of Sensing Diagnostic Mode Data Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1604",
+    "faultLocation": "CAN data bus -instrument panel",
+    "probableCause": "Wiring, BCM trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1605",
+    "faultLocation": "CAN data bus -A/C",
+    "probableCause": "Wiring, A/C system trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1606",
+    "faultLocation": "Serial Communication Problem With Device 6",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1607",
+    "faultLocation": "Serial Communication Problem With Device 7",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1608",
+    "faultLocation": "Serial Communication Problem With Device 8",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1609",
+    "faultLocation": "Loss Of TCS Serial Data",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P160C",
+    "faultLocation": "Glow plug control module engine calibration information -not programmed",
+    "probableCause": "Program fuel injection flow rate",
+    "detailUrl": null
+  },
+  {
+    "code": "P1610",
+    "faultLocation": "CAN data bus -body control module (SCM)",
+    "probableCause": "Wiring, SCM trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1611",
+    "faultLocation": "Loss Of Continuous Variable Real Time Damping Serial Data Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1612",
+    "faultLocation": "Loss Of IPM Serial Data",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1613",
+    "faultLocation": "Loss Of DIM Serial Data",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1614",
+    "faultLocation": "Loss Of RIM Serial Data",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1615",
+    "faultLocation": "Loss Of VTD Serial Data",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1617",
+    "faultLocation": "Engine Oil Level Switch Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1619",
+    "faultLocation": "Engine Oil Life Monitor Reset Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P161B",
+    "faultLocation": "Throttle motor control module -performance",
+    "probableCause": "ECM, transmission, AlC compressor, manifold absolute pressure (MAP) sensor hose",
+    "detailUrl": null
+  },
+  {
+    "code": "P1620",
+    "faultLocation": "Low Engine Coolant Circuit Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1621",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1622",
+    "faultLocation": "Cylinder Select",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1623",
+    "faultLocation": "Engine control module (ECM), PROM -malfunction",
+    "probableCause": "Poor connections, incorrect programming, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1624",
+    "faultLocation": "Engine control module (ECM) memory performance",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1625",
+    "faultLocation": "PCM Flash Checksum TCM Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1626",
+    "faultLocation": "Engine control module (ECM) -fuel enable signal lost",
+    "probableCause": "Wiring, poor connections, immobilizer control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1627",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1628",
+    "faultLocation": "Powertrain Control Module Engine Control Temperature Pullup Resistor Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1629",
+    "faultLocation": "Engine control module (ECM) -fuel enable signal not received",
+    "probableCause": "Incorrect ignition key, wiring, poor connections, immobilizer control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1630",
+    "faultLocation": "Engine control module (ECM). immobilizer code -leaming mode",
+    "probableCause": "ECM immobilizer code programming not completed",
+    "detailUrl": null
+  },
+  {
+    "code": "P1631",
+    "faultLocation": "Engine control module (ECM) -incorrect immobilizer code",
+    "probableCause": "Incorrect key, immobilizer code not programmed",
+    "detailUrl": null
+  },
+  {
+    "code": "P1632",
+    "faultLocation": "Engine control module (ECM) -fuel disable signal received",
+    "probableCause": "Fuses, BCM, immobilizer code",
+    "detailUrl": null
+  },
+  {
+    "code": "P1633",
+    "faultLocation": "Engine control module (ECM), ignition supply voltage",
+    "probableCause": "Fuse, wiring open circuit, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1634",
+    "faultLocation": "Engine control module (ECM), ignition supply voltage",
+    "probableCause": "Fuse, wiring open circuit, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1635",
+    "faultLocation": "Engine control module (ECM). sensor supply voltage -circuit malfunction",
+    "probableCause": "Wiring, poor connections, TP sensor, MAP sensor, EGR valve position sensor, FTP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1636",
+    "faultLocation": "PCM Stack Overrun",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1637",
+    "faultLocation": "Alternator warning lamp. control signal -circuit malfunction",
+    "probableCause": "Wiring, instrument panel, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1638",
+    "faultLocation": "Alternator ‘F’ terminal -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground,alternator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1639",
+    "faultLocation": "Engine control module (ECM). sensor supply voltage -circuit malfunction",
+    "probableCause": "Wiring. poor connections, A/C refrigerant pressure sensor. FTP sensor. ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1640",
+    "faultLocation": "Engine control module, output driver 1 -supplyv oltage high",
+    "probableCause": "Wiring, loose alternator connection, alternator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1641",
+    "faultLocation": "Malfunction indicator lamp (MIL) -circuit malfunction",
+    "probableCause": "Wiring, poor connections, MIL, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1642",
+    "faultLocation": "Secondary air injection (AIR) pump relay circuit malfunction",
+    "probableCause": "Wiring, AIR pump relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1643",
+    "faultLocation": "Glow plug warning lamp -circuit malfunction",
+    "probableCause": "Wiring, glow plug warning lamp, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1644",
+    "faultLocation": "Traction control system (TCS). delivered torque signal -malfunction",
+    "probableCause": "Wiring, poor connections, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1645",
+    "faultLocation": "Evaporative Emission Vent Solenoid Control Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1646",
+    "faultLocation": "EVAP Vent Solenoid Output Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1647",
+    "faultLocation": "Driver 1 Line 7",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1648",
+    "faultLocation": "Anti-Theft Device Wrong Security Code",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1650",
+    "faultLocation": "Engine control module, output driver 2 -supply voltage high",
+    "probableCause": "Wiring, loose alternator connection, alternator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1651",
+    "faultLocation": "Engine coolant blower motor relay 1 -circuit malfunction",
+    "probableCause": "Wiring, engine coolant blower motor relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1652",
+    "faultLocation": "Engine coolant blower motor relay 2 -circuit malfunction",
+    "probableCause": "Wiring, engine coolant blower motor relay(s), ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1653",
+    "faultLocation": "Engine oil level ‘low’ warning lamp, control signal -circuit malfunction",
+    "probableCause": "Wiring short circuit to ground, engine oil level, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1654",
+    "faultLocation": "A/C compressor clutch relay -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, A/C compressor clutch relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1655",
+    "faultLocation": "Evaporative emission (EVAP) canister purge valve -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, EVAP canister vent valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1656",
+    "faultLocation": "Camshaft position actuator -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, camshaft position actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1657",
+    "faultLocation": "Skip shift solenoid -circuit malfunction",
+    "probableCause": "Wiring, skip shift solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1658",
+    "faultLocation": "Fuel injector control module (FICM) -malfunction",
+    "probableCause": "FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1660",
+    "faultLocation": "Engine control module, output driver 3 -supply voltage high",
+    "probableCause": "Wiring, loose alternator connection, alternator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1661",
+    "faultLocation": "Malfunction indicator lamp (MIL) -circuit malfunction",
+    "probableCause": "Wiring, MIL, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1662",
+    "faultLocation": "Cruise control, inhibit output circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, cruise control motor/actuator, cruise control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1663",
+    "faultLocation": "Alternator warning lamp, control signal -circuitmalfunction",
+    "probableCause": "Wiring, instrument panel, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1664",
+    "faultLocation": "Skip shift warning lamp -circuit malfunction",
+    "probableCause": "Wiring, skip shift warning lamp, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1665",
+    "faultLocation": "Evaporative emission (EVAP) canister vent valve -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, EVAP canister vent valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1666",
+    "faultLocation": "Driver 3 Line 6",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1667",
+    "faultLocation": "Reverse inhibit solenoid -circuit malfunction",
+    "probableCause": "Wiring, reverse inhibit solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1668",
+    "faultLocation": "Alternator ‘L’ terminal -circuit malfunction",
+    "probableCause": "Wiring, voltage regulator, alternator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1669",
+    "faultLocation": "ABS Unit Expected",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P166B",
+    "faultLocation": "Intake air heater -over temperature",
+    "probableCause": "Intake air heater",
+    "detailUrl": null
+  },
+  {
+    "code": "P166C",
+    "faultLocation": "Intake air heater -resistance",
+    "probableCause": "Intake air heater",
+    "detailUrl": null
+  },
+  {
+    "code": "P1670",
+    "faultLocation": "ECM -internal circuit malfunction, ignition coil",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1671",
+    "faultLocation": "Malfunction indicator lamp (MIL) -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to groundl short circuit to positive, MIL, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1672",
+    "faultLocation": "Engine oil level ‘low’ warning lamp, control signal -circuit malfunction",
+    "probableCause": "Wiring short circuit to ground, engine oil level, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1673",
+    "faultLocation": "Engine coolant ‘hot’ waming lamp, control signal -circuit malfunction",
+    "probableCause": "Wiring, instrument panel, cooling system, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1674",
+    "faultLocation": "Tachometer -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to groundl shortcircuit to positive, instrument panel, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1675",
+    "faultLocation": "Evaporative emission (EVAP) canister vent valve -circuit malfunction",
+    "probableCause": "Wiring, poor connection, EVAP canister vent valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1676",
+    "faultLocation": "Evaporative emission (EVAP) canister purgevalve -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, EVAP canister purge valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1677",
+    "faultLocation": "Immobilizer Function Deactivated",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1678",
+    "faultLocation": "Immobilizer Powertrain Identification Failed",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1679",
+    "faultLocation": "Immobilizer Environment Identification Failed",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P167A",
+    "faultLocation": "ECM -internal circuit malfunction, heated oxygen sensor (H02S) 1, bank 1",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1680",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1681",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1682",
+    "faultLocation": "Engine control module (ECM) -ignition power supply variation",
+    "probableCause": "Wiring, EC relay, starter motor relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1683",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1684",
+    "faultLocation": "Transmission Control Module Power Up Temperature Sensor Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1685",
+    "faultLocation": "Transmission Control Module Power Up Temperature Sensor Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1686",
+    "faultLocation": "Transmission Control Module Power Up Temperature Sensor Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1687",
+    "faultLocation": "Fuel injector control module (FICM) -stuck on",
+    "probableCause": "ECM, FICM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1689",
+    "faultLocation": "Traction control system (TCS), delivered torque signal -malfunction",
+    "probableCause": "Wiring, poor connections, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1690",
+    "faultLocation": "Engine Control Module Loop Overrun",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1691",
+    "faultLocation": "Coolant Gauge Circuit Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1692",
+    "faultLocation": "Coolant Gauge Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1693",
+    "faultLocation": "Tachometer Circuit Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1694",
+    "faultLocation": "Tachometer Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1695",
+    "faultLocation": "Remote Keyless Entry Circuit Low Input Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1696",
+    "faultLocation": "Remote Keyless Entry Circuit High Input Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P16F3",
+    "faultLocation": "Engine control module (ECM) -malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1700",
+    "faultLocation": "Transmission control module (TCM) -MIL request circuit malfunction",
+    "probableCause": "OBO II TCM trouble codes stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1701",
+    "faultLocation": "Transmission MIL Request Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1705",
+    "faultLocation": "Park Neutral Output Circuit Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1713",
+    "faultLocation": "Transmission Fluid Pressure Sensor/Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1719",
+    "faultLocation": "Transmission control module (TCM) -detects excessive variation between transmission input/output shaft speed sensors",
+    "probableCause": "Transmission fluid level, line pressure, stuck/sticking SS",
+    "detailUrl": null
+  },
+  {
+    "code": "P1740",
+    "faultLocation": "Cruise control system, overdrive disable signal -voltage low",
+    "probableCause": "Wiring short to ground, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1743",
+    "faultLocation": "Throttle Position Invalid Signal",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1760",
+    "faultLocation": "Transaxle Control Module Supply Voltage Interrupted",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1779",
+    "faultLocation": "Engine control module (ECM), torque reduction signal via controller area network (CAN) data bus -out of range",
+    "probableCause": "Wiring, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1780",
+    "faultLocation": "Engine control module (ECM), controller area network (CAN) data bus -lost communication with transmission control module (TCM)",
+    "probableCause": "Wiring, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1781",
+    "faultLocation": "Engine control module (ECM), torque reduction signal -out of range",
+    "probableCause": "Wiring, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1790",
+    "faultLocation": "Transmission Control Module Checksum",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1791",
+    "faultLocation": "Engine control module (ECM), accelerator pedal position (APP) sensor signal via controller area network (CAN) data bus -out of range",
+    "probableCause": "Wiring, APP sensor, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1792",
+    "faultLocation": "Engine control module (ECM), engine coolant temperature (ECT) sensor signal via controller area network (CAN) data bus -out of range",
+    "probableCause": "Wiring, ECT, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1793",
+    "faultLocation": "Transmission Control Module Stack Overrun",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1795",
+    "faultLocation": "Throttle Body Position",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1800",
+    "faultLocation": "ECM to TCM Engine Coolant Signal",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1801",
+    "faultLocation": "Performance Selector Switch Failure",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1804",
+    "faultLocation": "Ground Control Relay",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1810",
+    "faultLocation": "Transmission fluid pressure (TFP) switch manual valve position",
+    "probableCause": "Fluid level low, wiring, selector lever linkage incorrectly adjusted, ECMITCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1811",
+    "faultLocation": "Shift time too long -adaptation limit reached",
+    "probableCause": "Fluid level low, transmission mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1812",
+    "faultLocation": "Transmission Fluid Overtemperature",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1813",
+    "faultLocation": "Torque Control Solenoid Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1814",
+    "faultLocation": "Torque converter clutch (TCC) -over-stressed",
+    "probableCause": "Fluid level low, fluid condition, transmission mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1815",
+    "faultLocation": "A/T Range Sensor Circuit Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1816",
+    "faultLocation": "Transmission fluid pressure (TFP) switch -invalidgear selection",
+    "probableCause": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECMITCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1818",
+    "faultLocation": "Transmission fluid pressure (TFP) switch -invalidgear selection",
+    "probableCause": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECMITCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1819",
+    "faultLocation": "Transmission range (TR) switch, signals ‘AlBIC &P’ -signal variation",
+    "probableCause": "Wiring, TR switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1820",
+    "faultLocation": "Transmission range (TR) switch, signal ‘A’ voltage low",
+    "probableCause": "Wiring short to ground, TR switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1822",
+    "faultLocation": "Transmission range (TR) switch, signal ‘B’ voltage high",
+    "probableCause": "Wiring, TR switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1823",
+    "faultLocation": "Transmission range (TR) switch, signal ‘P’ voltagelow",
+    "probableCause": "Wiring short to ground, TR switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1824",
+    "faultLocation": "Internal Mode Switch 'P' Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1825",
+    "faultLocation": "Transmission range (TR) switch, signals ‘AlBIC &P’ incorrect signal",
+    "probableCause": "Wiring, TR switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1826",
+    "faultLocation": "Transmission range (TR) switch, signal ‘C’ voltage high",
+    "probableCause": "Wiring, TR switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1831",
+    "faultLocation": "PC Solenoid Power Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1833",
+    "faultLocation": "A/T Solenoids Power Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1835",
+    "faultLocation": "Kick-Down Switch Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1836",
+    "faultLocation": "Kick-Down Switch Failed Open",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1837",
+    "faultLocation": "Kick-Down Switch Failed Short",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1838",
+    "faultLocation": "Internal Mode Switch 'A' Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1839",
+    "faultLocation": "Internal Mode Switch 'C' Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1840",
+    "faultLocation": "Internal Mode Switch 'S' Circuit Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1841",
+    "faultLocation": "Internal Mode Switch 'S' Circuit High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1842",
+    "faultLocation": "1-2 Shift Solenoid Circuit Low Input Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1843",
+    "faultLocation": "1-2 Shift Solenoid Circuit High Input Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1844",
+    "faultLocation": "Transmission Fluid Pressure Sensor/Switch 'A' Circuit Intermittent",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1845",
+    "faultLocation": "2-3 Shift Solenoid Circuit Low Input Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1847",
+    "faultLocation": "2-3 Shift Solenoid Circuit High Input Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1850",
+    "faultLocation": "Brake Band Apply Solenoid Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1852",
+    "faultLocation": "Brake Band Apply Solenoid Low Input Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1853",
+    "faultLocation": "Brake Band Apply Solenoid High Input Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1860",
+    "faultLocation": "Torque converter clutch (TCC) solenoid -circuit malfunction",
+    "probableCause": "Wiring open circuit/short circuit to ground, TCCsolenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1864",
+    "faultLocation": "Torque Converter Clutch Enable Solenoid Electrical Fault Conditions",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1868",
+    "faultLocation": "Transmission fluid life",
+    "probableCause": "Replace transmission fluid and filter",
+    "detailUrl": null
+  },
+  {
+    "code": "P1870",
+    "faultLocation": "Torque converter clutch (TCC) -slip speed excessive",
+    "probableCause": "Transmission fluid level, wiring, TCC solenoid,ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1873",
+    "faultLocation": "Torque Converter Clutch Stator Temperature Switch Circuit Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1874",
+    "faultLocation": "Torque Converter Clutch Stator Temperature Switch Circuit High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1875",
+    "faultLocation": "Transmission, 4WD low selection signal-circuit malfunction",
+    "probableCause": "Wiring, transmission, four wheel drive control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1884",
+    "faultLocation": "TCC Enable/Shift Light Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1886",
+    "faultLocation": "Transaxle Shift Timing Solenoid Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1887",
+    "faultLocation": "Torque converter clutch (TCC) solenoid release switch -circuit malfunction",
+    "probableCause": "Wiring open circuit, TCC solenoid release switch,ECMITCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1890",
+    "faultLocation": "Throttle Position Signal Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1891",
+    "faultLocation": "Throttle Position Sensor PWM Signal Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1892",
+    "faultLocation": "Throttle Position Sensor PWM Signal High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1893",
+    "faultLocation": "Engine Torque Signal Low Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1894",
+    "faultLocation": "Engine Torque Signal High Voltage",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1895",
+    "faultLocation": "Engine Torque Delivered Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1915",
+    "faultLocation": "Internal Mode Switch Start/Wrong Range",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P3400",
+    "faultLocation": "Cylinder cut-out system -malfunction",
+    "probableCause": "Wiring, intake system leaking, mechanical fault,MAF sensor, MAP sensor, TP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P3401",
+    "faultLocation": "Cylinder cut-out solenoid, cylinder 1 malfunction",
+    "probableCause": "Wiring, cylinder cut-out solenoid, mechanical fault,ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P3425",
+    "faultLocation": "Cylinder cut-out solenoid, cylinder 4 malfunction",
+    "probableCause": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P3441",
+    "faultLocation": "Cylinder cut-out solenoid, cylinder 6 malfunction",
+    "probableCause": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P3449",
+    "faultLocation": "Cylinder cut-out solenoid, cylinder 7 malfunction",
+    "probableCause": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1000",
+    "faultLocation": "CAN data bus -communication malfunction",
+    "probableCause": "Wiring, BCM, ECM, antilock brake system (ABS)/traction control system (TCS), instrumentation control module, SDM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1016",
+    "faultLocation": "CAN data bus, engine control module (ECM)/antilock brake system (ABS)/traction control system (TCS)/instrumentation control modulel diagnostic control module -loss of serial communication",
+    "probableCause": "Wiring, poor connections, ECM, ABS/TCS, diagnostic control module, instrumentation control module",
+    "detailUrl": null
+  },
+  {
+    "code": "U1026",
+    "faultLocation": "Transmission control module (TCM)/four wheel drive control module, CAN data buscommunication malfunction",
+    "probableCause": "Wiring, SCM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1040",
+    "faultLocation": "Antilock brake system (ABS)/traction control system (TCS), CAN data bus -communication malfunction",
+    "probableCause": "Wiring, ABS/TCS trouble codes stored",
+    "detailUrl": null
+  },
+  {
+    "code": "U1041",
+    "faultLocation": "Antilock brake system (ABS)/traction control system (TCS), CAN data bus -communication malfunction",
+    "probableCause": "Wiring, ABSITCS trouble codes stored",
+    "detailUrl": null
+  },
+  {
+    "code": "U1064",
+    "faultLocation": ". Body control module (BCM), CAN data bus -communication malfunction",
+    "probableCause": "Wiring, BCM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1192",
+    "faultLocation": "Engine control module (ECM)/immobilizer control module, CAN data bus -Signal malfunction",
+    "probableCause": "Wiring, immobilizer control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1193",
+    "faultLocation": "Engine control module (ECM)/immobilizer control module, CAN data bus -signal malfunction",
+    "probableCause": "Wiring, immobilizer control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1300",
+    "faultLocation": "CAN data bus -signal low",
+    "probableCause": "Wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "U1301",
+    "faultLocation": "CAN data bus -Signal high",
+    "probableCause": "Wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "U1510",
+    "faultLocation": "Lost Communication With HVAC Control Module",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "U1800",
+    "faultLocation": "Engine control module (ECM)/fuel injector control module (FICM), CAN data bus -communication malfunction",
+    "probableCause": "Wiring, FICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1802",
+    "faultLocation": "Fuel pump control module (FPCM)communication malfunction",
+    "probableCause": "Wiring, fuel pump control module (FPCM), fuel pump control module (FPCM) relay",
+    "detailUrl": null
+  },
+  {
+    "code": "U2104",
+    "faultLocation": "Engine control module (ECM)/transmissioncontrol module (TCM)/fuel injector control module (FICM), CAN data bus communication malfunction",
+    "probableCause": "Wiring, TCM, FICM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "U2106",
+    "faultLocation": "Engine control module (ECM)/transmission control module (TCM)/fuel injector control module (FICM), CAN data bus communication malfunction",
+    "probableCause": "Wiring, TCM, ECM, FICM",
+    "detailUrl": null
+  }
+]

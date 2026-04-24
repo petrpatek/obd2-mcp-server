@@ -1,0 +1,300 @@
+[
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> Catera 3.0L – DeVille 4.6L – Eldorado 4.6L – Escalade 5.3L – Escalade 5.7L – Escalade 6.0L – Escalade 6.0L – Escalade 6.2L – Seville 4.6L",
+    "url": "https://www.troublecodes.net/cadillac/catera-3-0l-deville-4-6l-eldorado-4-6l-escalade-5-3l-escalade-5-7l-escalade-6-0l-escalade-6-0l-escalade-6-2l-seville-4-6l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "1999 – Method 1 • After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC).",
+          "1999 – Method 2",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat accessing procedure to ensure no trouble codes remain in ECM fault memory.",
+          "2000 – • After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> 93 Allante 4.6L VIN 9",
+    "url": "https://www.troublecodes.net/cadillac/93-allante-4-6l-vin-9",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘Warmer’ buttons Image 1 [1] & [2]",
+          "When all segments of the display Image 1 [3] illuminate: Release the A/C control panel ‘OFF’ and ‘Warmer’ buttons",
+          "Trouble codes will be displayed in the driver information center Image 1 [3]",
+          "Trouble codes will be displayed in ascending order",
+          "All current trouble codes end with the letter ‘C’.",
+          "All history trouble codes end with the letter ‘H’.",
+          "If no ECM trouble codes are stored, ‘NO PCM CODE’ will be displayed.",
+          "When all trouble codes have been displayed:",
+          "Press the ‘RESET’ button Image 1 [4]",
+          "Switch ignition OFF."
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Switch ignition ON",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘Warmer’ buttons Image 1 [1] & [2]",
+          "When all segments of the display Image 1 [3] illuminate: Release the A/C control panel ‘OFF’ and ‘Warmer’ buttons",
+          "Trouble codes will be displayed in the driver information center Image 1 [3]",
+          "Trouble codes will be displayed in ascending order",
+          "When all trouble codes have been displayed:",
+          "Press and release the ‘LOW’ button Image 1 [5] until ‘ECM’ is displayed",
+          "Press and release the ‘HI’ button Image 1 [6]",
+          "Press and release the ‘LOW’ button until ‘ECM CLEAR CODES’ is displayed",
+          "Press and release the ‘HI’ button",
+          "‘ECM CODES CLEAR’ will be displayed for 3 seconds",
+          "Press the ‘RESET’ button Image 1 [4]",
+          "Switch ignition OFF"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> 91-92 Allante 4.5L VIN 8",
+    "url": "https://www.troublecodes.net/cadillac/91-92-allante-4-5l-vin-8",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘Warmer’ buttons Image 1 [1] & [2]",
+          "When all segments of the display Image 1 [3] illuminate: Release the A/C control panel ‘OFF’ and ‘Warmer’ buttons",
+          "Trouble codes will be displayed in the driver information center Image 1 [3]",
+          "Trouble codes will be displayed in ascending order",
+          "All current trouble codes end with the letter ‘C’.",
+          "All history trouble codes end with the letter ‘H’.",
+          "If no ECM trouble codes are stored, ‘NO ECM CODE’ will be displayed.",
+          "When all trouble codes have been displayed:",
+          "Press the ‘RESET’ button Image 1 [4]",
+          "Switch ignition OFF."
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Switch ignition ON",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘Warmer’ buttons Image 1 [1] & [2]",
+          "When all segments of the display Image 1 [3] illuminate: Release the A/C control panel ‘OFF’ and ‘Warmer’ buttons",
+          "Trouble codes will be displayed in the driver information center Image 1 [3]",
+          "Trouble codes will be displayed in ascending order",
+          "When all trouble codes have been displayed:",
+          "Press and release the ‘LOW’ button Image 1 [5] until ‘ECM’ is displayed",
+          "Press and release the ‘HI’ button Image 1 [6]",
+          "Press and release the ‘LOW’ button until ‘ECM CLEAR CODES’ is displayed",
+          "Press and release the ‘HI’ button",
+          "‘ECM CODES CLEAR’ will be displayed for 3 seconds",
+          "Press the ‘RESET’ button Image 1 [4]",
+          "Switch ignition OFF"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> 91-92 Brougham 5.0 VIN E & 5.7L VIN 7",
+    "url": "https://www.troublecodes.net/cadillac/91-92-brougham-5-0-vin-e-5-7l-vin-7",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC)",
+          "Jump data link connector (DLC) terminals A and B Image 1",
+          "Switch ignition ON. Do NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times",
+          "Trouble codes consist of 2 groups, displayed as follows:First group indicates the ‘tens’ of the trouble codeSecond group indicates the ‘units’ of the trouble codeA short pause separates each groupA long pause separates each trouble codeFor example: Trouble code 12 displayed. Start of diagnosis.",
+          "First group indicates the ‘tens’ of the trouble code",
+          "Second group indicates the ‘units’ of the trouble code",
+          "A short pause separates each group",
+          "A long pause separates each trouble code",
+          "For example: Trouble code 12 displayed. Start of diagnosis.",
+          "Each additional trouble code will now be displayed 3 times, in ascending order",
+          "NOTE: If no additional trouble codes are stored, code 12 will continue to be displayed",
+          "Switch ignition ON.",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘Warmer’ buttons Image 3 [1] & [2]",
+          "When all segments of the display Image 3 [3] illuminate: Release the A/C control panel ‘OFF’ and ‘Warmer’ buttons",
+          "Parameter number ‘-00’ (A/C codes) will be displayed Image 3 [3]",
+          "Press and release the ‘HI’ button Image 3 [4]",
+          "Parameter number ‘-01’ (ECM codes) will be displayed",
+          "Press and release the ‘HI’ button",
+          "Display will alternate between ECM parameter number ‘-01’ and the trouble code at 1.6 second intervals",
+          "Trouble codes will be displayed in ascending order",
+          "Cycle will be repeated after all ECCM trouble codes have been displayed",
+          "If no ECM trouble codes are stored, trouble code ’00’ will be displayed",
+          "To end diagnosis:Press the ‘AUTO’ button or switch ignition OFF for 10 seconds",
+          "Press the ‘AUTO’ button or switch ignition OFF for 10 seconds"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds",
+          "Reconnect battery ground cable",
+          "Repeat checking code procedure to ensure no trouble codes remain in ECM fault memory",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector (DLC)",
+          "Access ECM trouble codes",
+          "During trouble code display:",
+          "Simultaneously press and hold ‘OFF’ and ‘LO’ buttons Image 3 [1] & [6]",
+          "When ’00’ is displayed:Release the ‘OFF’ and ‘LO’ buttons",
+          "Release the ‘OFF’ and ‘LO’ buttons",
+          "To end diagnosis:Press the ‘AUTO’ button Image 3 [5], or switch ignition OFF for 10 seconds",
+          "Press the ‘AUTO’ button Image 3 [5], or switch ignition OFF for 10 seconds"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> CTS 2.8/3.2/3.6/5.7/6.0/6.2L – DTS 4.6L – SRX 3.6/4.6L – STS 3.6/4.4/4.6L – XLR 4.4/4.6L",
+    "url": "https://www.troublecodes.net/cadillac/cts-2-83-23-65-76-06-2l-dts-4-6l-srx-3-64-6l-sts-3-64-44-6l-xlr-4-44-6l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC).",
+          "After the faults have been rectified, the manufacturer recommends that trouble codes are erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> DeVille 4.6L – DeVille 4.9L – Eldorado 4.6L – Seville 4.6L",
+    "url": "https://www.troublecodes.net/cadillac/deville-4-6l-deville-4-9l-eldorado-4-6l-seville-4-6l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the driver information display."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘WARMER’ buttons [1] & [2] .",
+          "When all segments of the display illuminate:",
+          "Trouble codes will be displayed on the driver information display [3] .",
+          "Trouble codes will be displayed in ascending order.",
+          "All current trouble codes end with the letter ‘C’.",
+          "All history trouble codes end with the letter ‘H’.",
+          "If no ECM trouble codes are stored, ‘NO E CODE’ or ‘NO P CODE’ will be displayed."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Switch ignition ON .",
+          "Simultaneously press and hold the A/C control panel ‘OFF’ and ‘WARMER’ buttons [1] & [2] .",
+          "When all segments of the display illuminate:",
+          "Press and release the ‘HI’ button [7] .",
+          "Press and release the ‘LOW’ button [6] until ‘PCM CLEAR CODES’ is displayed.",
+          "Press and release the ‘HI’ button [7].",
+          "‘PCM CODES CLEAR’ will be displayed for 3 seconds.",
+          "Press the ‘AUTO’ or ‘DEFOG’ button [4] or [5] or switch ignition OFF."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cadillac OBD/OBD2 Codes >> Fleetwood 5.7L",
+    "url": "https://www.troublecodes.net/cadillac/fleetwood-5-7l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL, the AlC control panel, or by using a Scan Tool connected to the data link connector (OLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Jump data link connector (DLC) terminals A and B [1].",
+          "Switch ignition ON. D0 NOT start engine.",
+          "MIL should flash.",
+          "Long flashes indicate the ‘tens’ of the trouble code [2] [A].",
+          "Short flashes indicate the ‘units’ of the trouble code [2] [C].",
+          "A short pause separates each flash [2] [B].",
+          "A long pause separates each trouble code [2] [D].",
+          "For example: Trouble code 12 displayed [2] .",
+          "Trouble code 12 will be displayed 3 times.",
+          "Each trouble code will be displayed three times.",
+          "If no trouble codes are stored, code 12 will continue to be displayed.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) [1], located below center of fascia near SRS control module.",
+          "Switch ignition ON.",
+          "Simultaneously press and hold ‘OFF’ and ‘TEMP UP’ buttons [3]- [1] & [2].",
+          "When all segments of the display H [3]-3 illuminate: Release the ‘OFF’ and ‘TEMP UP’ buttons [3]- [1] & [2].",
+          "Parameter number ‘-00’ (ECM codes) will be displayed [3] 3.",
+          "Press and release the ‘OUT TEMP’ button [3] 4.",
+          "Buttons ‘FAN SPEED UP’ and ‘FAN SPEED DOWN’ [3] 5 increase or decrease the parameter numbers.",
+          "Display will alternate between ECM parameter number ‘-00’ and the trouble code at 1.6 second intervals [3] 3.",
+          "Trouble codes will be displayed in ascending order.",
+          "Cycle will be repeated after all ECM trouble codes have been displayed.",
+          "If no ECM trouble codes are stored, trouble code ’00’ will be displayed.",
+          "To end diagnosis:",
+          "Press the ‘AUTO’ button [3] 6 ."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Access ECM trouble codes.",
+          "During trouble code display:"
+        ]
+      }
+    ]
+  }
+]

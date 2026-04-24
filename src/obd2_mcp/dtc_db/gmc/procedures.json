@@ -1,0 +1,106 @@
+[
+  {
+    "title": "GMC OBD/OBD2 Codes >> G-Series – Jimmy – Sierra – Sonoma – Suburban – Yukon (1992 – 1995)",
+    "url": "https://www.troublecodes.net/gmc/g-series-jimmy-sierra-sonoma-suburban-yukon-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC )."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Models with 12 pin data link connector (DLC).",
+          "Models with 16 pin data link connector (DLC).",
+          "Switch ignition ON . 00 NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times.",
+          "Trouble codes consist of 2 groups, displayed as follows:"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no trouble codes rema in in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GMC OBD/OBD2 Codes >> Arcadia – Canyon – Envoy – G-Series – Jimmy/Safari – Savana – Sierra/C/K – Sonoma – Suburban/Yukon/Denali",
+    "url": "https://www.troublecodes.net/gmc/arcadia-canyon-envoy-g-series-jimmysafari-savana-sierrack-sonoma-suburbanyukondenali/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GMC OBD/OBD2 Codes >> G-Series – Sierra – Suburban – Yukon (1994 – 1995)",
+    "url": "https://www.troublecodes.net/gmc/g-series-sierra-suburban-yukon-1994-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Access data link connector (DLC).",
+          "Jump data link connector (DLC) terminals A and B [1].",
+          "Switch ignition ON. 00 NOT start engine.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Firstly trouble code 12 will be displayed 3 times.",
+          "Trouble codes consist of 2 groups, displayed as follows:"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GMC OBD/OBD2 Codes >> G-Series – Savana – Sierra – Suburban – Yukon/Denali",
+    "url": "https://www.troublecodes.net/gmc/g-series-savana-sierra-suburban-yukondenali/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  }
+]

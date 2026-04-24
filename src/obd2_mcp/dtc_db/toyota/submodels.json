@@ -1,0 +1,4759 @@
+[
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 86 Celica 86-87 Corolla/Sport/MR2 87-88 Pickup/4Runner",
+    "url": "https://www.troublecodes.net/toyota/toyota-86-celica-86-87-corollasportmr2-87-88-pickup4runner",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL1",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL3",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL5",
+        "faultLocation": "Wiring, 025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL6",
+        "faultLocation": "Wiring, RPM sensor, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL7",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL8",
+        "faultLocation": "Wiring, /AT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL9",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL10",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, AIC switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Turbocharger (TC), VAF sensor, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 86 4Runner or Pickup 2.4L",
+    "url": "https://www.troublecodes.net/toyota/toyota-86-4runner-or-pickup-2-4l",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL1",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL2",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL3",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL4",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL5",
+        "faultLocation": "Wiring, 02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL6",
+        "faultLocation": "Wiring, RPM sensor, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL7",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL8",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL10",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Turbocharger (TC), VAF sensor, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 86-89 Cressida & Supra 86-92 3.0L",
+    "url": "https://www.troublecodes.net/toyota/toyota-86-89-cressida-supra-86-92-3-0l",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL23",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/VAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 87-92 Supra 3.0L Turbo",
+    "url": "https://www.troublecodes.net/toyota/toyota-87-92-supra-3-0l-turbo",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/VAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "TC wastegate/pressure sensor, wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 88-94 Land Cruiser 4.0L",
+    "url": "https://www.troublecodes.net/toyota/toyota-88-94-land-cruiser-4-0l",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/VAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL81",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL83",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL84",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL85",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 88-91 Pickup or 4Runner",
+    "url": "https://www.troublecodes.net/toyota/toyota-88-91-pickup-or-4runner",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECTNAF sensor, intake/fue/lignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 90-93 Celica & 89-92 Corolla",
+    "url": "https://www.troublecodes.net/toyota/toyota-90-93-celica-89-92-corolla",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coi/, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, /AT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/MAP sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, co/d start injector, H02S, ECTIMAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak!blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 91-95 MR2 5S-FE or 92-95 Paseo 5E-FE",
+    "url": "https://www.troublecodes.net/toyota/toyota-91-95-mr2-5s-fe-or-92-95-paseo-5e-fe",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/MAP sensor, intake fuel/ignition/EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, H02S, ECT/MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL33",
+        "faultLocation": "Wiring, IAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control retay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR sotenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Camry Cressida",
+    "url": "https://www.troublecodes.net/toyota/toyota-camry-cressida",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, /AT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/MAP/VAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/MAP/VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 92-93 Camry & Camry Wagon 3.0L 3VZ-FE",
+    "url": "https://www.troublecodes.net/toyota/toyota-92-93-camry-camry-wagon-3-0l-3vz-fe",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECTNAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECTNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR so/enoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 92-95 Pickup or 4Runner 3.0L or 93-94 T100 3.0L",
+    "url": "https://www.troublecodes.net/toyota/toyota-92-95-pickup-or-4runner-3-0l-or-93-94-t100-3-0l",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/VAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Celica 94-95 & Corolla 93-95",
+    "url": "https://www.troublecodes.net/toyota/toyota-celica-94-95-corolla-93-95",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "EGM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, intake/fuel ignition system, valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, intake/fuel system, valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, instrument c/uster, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner 2.7L – Previa 2.4L – T100 Pickup 2.7L – Tacoma 2.4/2.7L (1994 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-2-7l-previa-2-4l-t100-pickup-2-7l-tacoma-2-42-7l-1994-2009/",
+    "vehicles": [
+      {
+        "model": "4Runner 2.7L",
+        "year": "1995-00",
+        "engine": "3RZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Previa 2.4L",
+        "year": "1995-97",
+        "engine": "2TZ·FZE",
+        "system": "SFI"
+      },
+      {
+        "model": "T100 Pickup 2.7L",
+        "year": "1994-98",
+        "engine": "3RZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tacoma 2.4L",
+        "year": "1995-04",
+        "engine": "2RZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tacoma 2.7L",
+        "year": "1995-09",
+        "engine": "3RZ·FE/2TR·FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H025, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1510",
+        "faultLocation": "Wiring, SC magnetic clutch/relay, SC bypass valve, intake system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1613",
+        "faultLocation": "Wiring open/short circuit, AIR solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1782",
+        "faultLocation": "Wiring, transfer box low ratio switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1783",
+        "faultLocation": "Wiring, transfer box neutral switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Supra 93-95 3.0L & 3.0L Turbo",
+    "url": "https://www.troublecodes.net/toyota/toyota-supra-93-95-3-0l-3-0l-turbo",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, CMP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, valve timing, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, valve timing, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, HO2S, MAF/VAF sensor, valve timing, intake/fuel/ignition, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, MAF/VAF sensor, valve timing, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "TC wastegate regulating valve/ actuator, wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring, TC pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, instrument cluster, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL47",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, AIC switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Wiring, EGRT sensor, EGR valve! solenoid, hose leak/blockage, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL78",
+        "faultLocation": "Wiring, fuel pump/control module, ECM/supply",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner – Camry – Highlander – Sienna – Yaris (2003 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-camry-highlander-sienna-yaris-2003-2009/",
+    "vehicles": [
+      {
+        "model": "4Runner 4.0L",
+        "year": "2006-09",
+        "engine": "1GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Camry 2.4L",
+        "year": "2003-09",
+        "engine": "2AZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Camry 3.5L",
+        "year": "2007",
+        "engine": "2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Highlander 2.4L",
+        "year": "2004-07",
+        "engine": "2AZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Highlander 3.3/3.5L",
+        "year": "2007-09",
+        "engine": "3MZ-FE/2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Sienna 3.5L",
+        "year": "2007-09",
+        "engine": "2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Yaris 1.5L",
+        "year": "2007-09",
+        "engine": "1 NZ-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": []
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner – Land Cruiser – Sequoia – Tundra (1998 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-land-cruiser-sequoia-tundra-1998-2009/",
+    "vehicles": [
+      {
+        "model": "4Runner 4.7L",
+        "year": "2003-09",
+        "engine": "2UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Land Cruiser 4.7L",
+        "year": "1998-07",
+        "engine": "2UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Land Cruiser 5.7L",
+        "year": "2008-09",
+        "engine": "3UR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Sequoia 4.7L",
+        "year": "2001-08",
+        "engine": "2UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Sequoia 5.7L",
+        "year": "2008",
+        "engine": "3UR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tundra 4.7L",
+        "year": "2000-08",
+        "engine": "2UZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tundra 5.7L",
+        "year": "2007-08",
+        "engine": "3UR-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pumplcontrol module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1330",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1340",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1340",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1341",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1342",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1343",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1440",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1442",
+        "faultLocation": "Wiring, AIR, vacuum hose, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1443",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1444",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1445",
+        "faultLocation": "Wiring, AIR, vacuum hose, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1613",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1614",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "Body control module, AJC control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1782",
+        "faultLocation": "Wiring, transfer box low ratio switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1783",
+        "faultLocation": "Wiring, transfer box neutral switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Avalon – Camry/Solara – Echo – Sienna (1994 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/avalon-camrysolara-echo-sienna-1994-2009/",
+    "vehicles": [
+      {
+        "model": "Avalon 3.0/3.5",
+        "year": "1995-09",
+        "engine": "1 MZ-FE/2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Camry/Camry Solara 2.4L",
+        "year": "2002-07",
+        "engine": "2AZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Camry/Camry Solara 3.0/3.3/3.5L",
+        "year": "1994-09",
+        "engine": "1 MZ-FE/3MZ-FE/2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Echo 1.5L",
+        "year": "2000-05",
+        "engine": "1 NZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Sienna 3.0/3.3L",
+        "year": "1998-06",
+        "engine": "1 MZ-FE/3ZM-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1100",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "Wiring, H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1345",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1354",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1410",
+        "faultLocation": "Wiring, EGR valve position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1411",
+        "faultLocation": "EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1550",
+        "faultLocation": "Wiring, electrical load sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1551",
+        "faultLocation": "Wiring, electrical load sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1552",
+        "faultLocation": "Wiring, electrical load sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1566",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1572",
+        "faultLocation": "Cruise control laser radar sensor alignment, cruise control laser radar sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1575",
+        "faultLocation": "Wiring, warning buzzer, ABS control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1578",
+        "faultLocation": "ABS system, ABS control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, battery, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1615",
+        "faultLocation": "Wiring, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1616",
+        "faultLocation": "Wiring, ECM, cruise control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1631",
+        "faultLocation": "Wiring, ASS/traction control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "BCM, A/C control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1647",
+        "faultLocation": "Trouble code(s) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1690",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1692",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1693",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1700",
+        "faultLocation": "Wiring, OSS sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1705",
+        "faultLocation": "Wiring, direct clutch speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1715",
+        "faultLocation": "Wiring, rear wheel speed sensor(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1725",
+        "faultLocation": "Wiring, ISS sensorfTSS sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1730",
+        "faultLocation": "Wiring, intermediate shaft speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1755",
+        "faultLocation": "Wiring, torque converter, TCC solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1760",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1765",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1770",
+        "faultLocation": "Wiring, differential lock solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switchfTR sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1781",
+        "faultLocation": "Wiring, shift lever switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1790",
+        "faultLocation": "Wiring, shift/timing solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1810",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1815",
+        "faultLocation": "Wiring, shift control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1818",
+        "faultLocation": "Wiring, shift control solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Celica 1.8/2.2L – Corolla 1.6/1.8L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/celica-1-82-2l-corolla-1-61-8l-1993-1995/",
+    "vehicles": [
+      {
+        "model": "Celica 1.8L",
+        "year": "1994-95",
+        "engine": "7A-FE",
+        "system": "TCCS"
+      },
+      {
+        "model": "Celica 2.2L",
+        "year": "1994-95",
+        "engine": "5S-FE",
+        "system": "TCCS"
+      },
+      {
+        "model": "Corolla 1.6L",
+        "year": "1993-95",
+        "engine": "4A·FE",
+        "system": "TCCS"
+      },
+      {
+        "model": "Corolla 1.8L",
+        "year": "1993-95",
+        "engine": "7A·FE",
+        "system": "TCCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H025, intake/fuel/ignition system, valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, intake/fuel system, valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, instrument cluster, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, AIC switch, AIC amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Land Cruiser 4.0L (1988 – 1994)",
+    "url": "https://www.troublecodes.net/toyota/land-cruiser-4-0l-1988-1994/",
+    "vehicles": [
+      {
+        "model": "Land Cruiser 4.0L",
+        "year": "1988-94",
+        "engine": "3F-E",
+        "system": "TCCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECTNAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECTNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL81",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL83",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL84",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL85",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Land Cruiser 4.5L (1993 – 1994)",
+    "url": "https://www.troublecodes.net/toyota/land-cruiser-4-5l-1993-1994/",
+    "vehicles": [
+      {
+        "model": "Land Cruiser 4.5L",
+        "year": "1993-94",
+        "engine": "1 FZ-FE",
+        "system": "TCCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition modulefcoil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H025, VAF sensor, intake/fuel/ignition/PAIR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, AIC switch, AIC amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL81",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL83",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL84",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL85",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> MR2 2.2L – Paseo 1.5L (1991 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/mr2-2-2l-paseo-1-5l-1991-1995/",
+    "vehicles": [
+      {
+        "model": "MR2 2.2L",
+        "year": "1991-95",
+        "engine": "5S-FE",
+        "system": "TCCS"
+      },
+      {
+        "model": "Paseo 1.5L",
+        "year": "1992-95",
+        "engine": "5E-FE",
+        "system": "TCCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/MAP sensor, intake/fuel/ignition/EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, H02S, ECT/MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL33",
+        "faultLocation": "Wiring, lAC valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, AIC switch, AIC amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Land Cruiser 4.5L (1995 – 1997)",
+    "url": "https://www.troublecodes.net/toyota/land-cruiser-4-5l-1995-1997/",
+    "vehicles": [
+      {
+        "model": "Land Cruiser 4.5L",
+        "year": "1995-97",
+        "engine": "1 FZ-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1100",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pump/control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, CMP actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1405",
+        "faultLocation": "Wiring, TC boost pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1406",
+        "faultLocation": "TC boost pressure sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1511",
+        "faultLocation": "Intake system/air control valve, wiring, TC wastegate regulating valve/actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1512",
+        "faultLocation": "Wiring, TC wastegate regulating valve/ actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1652",
+        "faultLocation": "Wiring, air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1658",
+        "faultLocation": "Wiring, TC wastegate regulating valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1661",
+        "faultLocation": "Wiring, exhaust gas control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1662",
+        "faultLocation": "Wiring, exhaust bypass valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Supra 3.0L/Turbo (1996 – 1998)",
+    "url": "https://www.troublecodes.net/toyota/supra-3-0lturbo-1996-1998/",
+    "vehicles": [
+      {
+        "model": "Supra 3.0L",
+        "year": "1996-98",
+        "engine": "2JZ-GE",
+        "system": "SFI"
+      },
+      {
+        "model": "Supra 3.0L Turbo",
+        "year": "1996-98",
+        "engine": "2JZ-GTE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1100",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring, fuel pump/control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, CMP actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1405",
+        "faultLocation": "Wiring, TC boost pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1406",
+        "faultLocation": "TC boost pressure sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1511",
+        "faultLocation": "Intake system/air control valve, wiring, TC wastegate regulating valve/actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1512",
+        "faultLocation": "Wiring, TC wastegate regulating valve/actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1652",
+        "faultLocation": "Wiring, air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1658",
+        "faultLocation": "Wiring, TC wastegate regulating valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1661",
+        "faultLocation": "Wiring, exhaust gas control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1662",
+        "faultLocation": "Wiring, exhaust bypass valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Supra 3.0L/Turbo (1993 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/supra-3-0lturbo-1993-1995/",
+    "vehicles": [
+      {
+        "model": "Supra 3.0L",
+        "year": "1993-95",
+        "engine": "2JZ-GE",
+        "system": "TCCS"
+      },
+      {
+        "model": "Supra 3.0L Turbo",
+        "year": "1993-95",
+        "engine": "2JZ-GTE",
+        "system": "TCCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, CMP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, valve timing, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, valve timing, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, MAFNAF sensor, valve timing, intake/fuel/ignition, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, intake/fuel/ignition system, valve timing, MAFNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "TC wastegate regulating valve/actuator, wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring, TC boost pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, instrument cluster, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL47",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, NC switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Wiring, EGRT sensor, EGR valve/solenoid, hose leak/blockage, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL78",
+        "faultLocation": "Wiring, fuel pump/control module, ECM/supply",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Camry Celica Corolla MR2",
+    "url": "https://www.troublecodes.net/toyota/toyota-camry-celica-corolla-mr2",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coi/, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECTNAF sensor, intake fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECTNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "TC wastegate/pressure sensor, wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring, TC wastegate pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL54",
+        "faultLocation": "coolant level/sensor, wiring, intercooler control module, ECM .",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL54",
+        "faultLocation": "intercooler coolant circuitlwater pump",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Tercel 90-94 1.5L 3E-E",
+    "url": "https://www.troublecodes.net/toyota/toyota-tercel-90-94-1-5l-3e-e",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module/coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, lAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/MAP sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, A/C switch, A/C amplifier, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 91-95 Previa 2.4L",
+    "url": "https://www.troublecodes.net/toyota/toyota-91-95-previa-2-4l",
+    "vehicles": [],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECT/VAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECT/VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Camry/Celica – Corolla – Matrix – MR2 – Paseo – RAV4 – Tercel (1995 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/camrycelica-corolla-matrix-mr2-paseo-rav4-tercel-1995-2009/",
+    "vehicles": [
+      {
+        "model": "Camry/Celica 2.2L",
+        "year": "1996-01",
+        "engine": "5S-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Celica 1.8L",
+        "year": "1996-97",
+        "engine": "7A-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Celica 1.8L",
+        "year": "2001-05",
+        "engine": "1ZZ-FE/2ZZ-GE",
+        "system": "SFI"
+      },
+      {
+        "model": "Corolla 1.6/1.8L",
+        "year": "1996-97",
+        "engine": "4A-FE/7 A-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Corolla 1.8/2.4L",
+        "year": "1998-09",
+        "engine": "1ZZ-FE/2ZZ-GE/2AZ-FE/2ZR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Matrix 1.8/2.4L",
+        "year": "2003-09",
+        "engine": "1 ZZ-FE/2ZZ-GE/2AZ-FE/2ZR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "MR2 1.8L",
+        "year": "2000-05",
+        "engine": "1ZZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Paseo 1.5L",
+        "year": "1995-98",
+        "engine": "5E-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "RAV4 2.0L",
+        "year": "1996-02",
+        "engine": "3S-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tercel 1.5L",
+        "year": "1995-98",
+        "engine": "5E-FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1010",
+        "faultLocation": "Wiring, oil control valve, variable valve lift oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1011",
+        "faultLocation": "Wiring, oil control valve, variable valve lift oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1012",
+        "faultLocation": "Wiring, oil control valve, variable valve lift oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1100",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1345",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1354",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1410",
+        "faultLocation": "Wiring, EGR valve position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1411",
+        "faultLocation": "EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1500",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1566",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "BCM, instruments, AIC control module, ABS control module, SRS control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1646",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1647",
+        "faultLocation": "Trouble code(s) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1690",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1692",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1693",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1700",
+        "faultLocation": "Wiring, OSS sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1705",
+        "faultLocation": "Wiring, direct clutch speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1715",
+        "faultLocation": "Wiring, rear wheel speed sensor(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1725",
+        "faultLocation": "Wiring, ISS sensor/TSS sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1730",
+        "faultLocation": "Wiring, intermediate shaft speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1755",
+        "faultLocation": "Wiring, torque converter, TCC solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1760",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1765",
+        "faultLocation": "Wiring, shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1770",
+        "faultLocation": "Wiring, differential lock solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, PNP switch/TR sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1781",
+        "faultLocation": "Wiring, shift lever switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1790",
+        "faultLocation": "Wiring, shift/timing solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1810",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1815",
+        "faultLocation": "Wiring, shift control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1818",
+        "faultLocation": "Wiring, shift control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "B2795",
+        "faultLocation": "Immobilizer system",
+        "probableCause": ""
+      },
+      {
+        "code": "B2796",
+        "faultLocation": "Immobilizer system",
+        "probableCause": ""
+      },
+      {
+        "code": "B2797",
+        "faultLocation": "Immobilizer system",
+        "probableCause": ""
+      },
+      {
+        "code": "B2798",
+        "faultLocation": "Immobilizer system",
+        "probableCause": ""
+      },
+      {
+        "code": "B2799",
+        "faultLocation": "Wiring, immobilizer system, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Camry Hybrid 2.4L – Highlander Hybrid 3.3L – Prius 1.5L (2001 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/camry-hybrid-2-4l-highlander-hybrid-3-3l-prius-1-5l-2001-2009/",
+    "vehicles": [
+      {
+        "model": "Camry Hybrid 2.4L",
+        "year": "2007-09",
+        "engine": "2AZ-FXE",
+        "system": "SFI"
+      },
+      {
+        "model": "Highlander Hybrid 3.3L",
+        "year": "2006-09",
+        "engine": "3MZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Prius 1.5L",
+        "year": "2001-09",
+        "engine": "1 NZ-FXE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring, engine coolant heat storage tank temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1116",
+        "faultLocation": "Wiring, engine coolant heat storage tank temperature sensor, cooling system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1117",
+        "faultLocation": "Wiring, engine coolant heat storage tank temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1118",
+        "faultLocation": "Wiring, engine coolant heat storage tank temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, engine coolant flow control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "Engine coolant flow control valve, cooling system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1122",
+        "faultLocation": "Wiring, engine coolant flow control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1123",
+        "faultLocation": "Wiring, engine coolant flow control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, engine coolant heat storage tank sensor, engine coolant flow control valve, engine coolant heat storage tank, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1151",
+        "faultLocation": "Wiring, engine coolant heat storage tank, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1420",
+        "faultLocation": "Hose connection(s), intake leak, EVAP canister, fuel pump",
+        "probableCause": ""
+      },
+      {
+        "code": "P1421",
+        "faultLocation": "Hose connection(s), intake leak, EVAP canister, fuel pump",
+        "probableCause": ""
+      },
+      {
+        "code": "P1422",
+        "faultLocation": "Hose connection(s), intake leak, EVAP canister, fuel pump",
+        "probableCause": ""
+      },
+      {
+        "code": "P1423",
+        "faultLocation": "Hose connection(s), intake leak, EVAP canister, fuel pump",
+        "probableCause": ""
+      },
+      {
+        "code": "P1450",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1451",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1452",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1453",
+        "faultLocation": "Wiring, fuel tank pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1455",
+        "faultLocation": "Wiring, fuel tank, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3190",
+        "faultLocation": "Intake system, fuel system, mechanical fault, mass air flow (MAF) sensor, engine coolant temperature (ECT) sensor, crankshaft position (CKP) sensor, camshaft position (CMP) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3191",
+        "faultLocation": "Intake system, fuel system, mechanical fault, mass air flow (MAF) sensor, engine coolant temperature (ECT) sensor, crankshaft position (CKP) sensor, camshaft position (CMP) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3193",
+        "faultLocation": "Fuel tank empty, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Previa 2.4L (1991 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/previa-2-4l-1991-1995/",
+    "vehicles": [
+      {
+        "model": "Previa 2.4L",
+        "year": "1991-95",
+        "engine": "2TZ-FE",
+        "system": "TCCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "Wiring, RPM sensor, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring, RPM sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring, injector, H02S, ECTNAF sensor, intake/fuel/ignition system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, injector, fuel system, cold start injector, H02S, ECTNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, VAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, ignition switch, engine control relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, CTP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner – FJ Cruiser – Highlander – RAV4 – T100 Pickup – Tacoma – Tundra Pickup (1995 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-fj-cruiser-highlander-rav4-t100-pickup-tacoma-tundra-pickup-1995-2009/",
+    "vehicles": [
+      {
+        "model": "4Runner 3.4L",
+        "year": "1996-02",
+        "engine": "5VZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "4Runner 4.0L",
+        "year": "2003-05",
+        "engine": "1GR·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "FJ Cruiser 4.0L",
+        "year": "2007·09",
+        "engine": "1GR·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Highlander 2.4L",
+        "year": "2001·03",
+        "engine": "2AZ-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Highlander 3.0/3.3L",
+        "year": "2001-06",
+        "engine": "1 MZ-FE/3MZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "RAV4 2.0/2.4L",
+        "year": "2002-09",
+        "engine": "1AZ·FE/2AR·FE/2AZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "RAV43.5L",
+        "year": "2006-09",
+        "engine": "2GR-FE",
+        "system": "SFI"
+      },
+      {
+        "model": "T100 Pickup 3.4L",
+        "year": "1995-98",
+        "engine": "5VZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tacoma 3.4/4.0L",
+        "year": "1995-09",
+        "engine": "1 GR·FE/5VZ·FE",
+        "system": "SFI"
+      },
+      {
+        "model": "Tundra Pickup 3.4/4.0L",
+        "year": "2000-09",
+        "engine": "1 GR·FE/5VZ·FE",
+        "system": "SFI"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P101D",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P102D",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1100",
+        "faultLocation": "Wiring, BARO sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, TAC motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, magnetic clutch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "TAC motor, throttle body, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1129",
+        "faultLocation": "TAC system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "Wiring, H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, H02S, air induction system, fuel pressure, injector(s), ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1150",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition coil/module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1325",
+        "faultLocation": "Wiring, ignition coilfmodule, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1330",
+        "faultLocation": "Wiring, ignition coilfmodule, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, starter motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1340",
+        "faultLocation": "Wiring, CMP, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1345",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, valve timing sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Valve timing, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1354",
+        "faultLocation": "Valve timing, oil control valve, valve timing control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1410",
+        "faultLocation": "Wiring, EGR valve position sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1411",
+        "faultLocation": "EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1440",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1442",
+        "faultLocation": "Wiring, AIR, vacuum hose, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1443",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1444",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1445",
+        "faultLocation": "Wiring, AIR, vacuum hose, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring, stop lamp switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1550",
+        "faultLocation": "Wiring, electrical load sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1551",
+        "faultLocation": "Wiring, electrical load sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1552",
+        "faultLocation": "Wiring, electrical load sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1566",
+        "faultLocation": "Wiring, cruise control switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1569",
+        "faultLocation": "ABS system, ABS control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1570",
+        "faultLocation": "Cruise control laser radar sensor, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1572",
+        "faultLocation": "Cruise control laser radar sensor alignment, cruise control laser radar sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1575",
+        "faultLocation": "Wiring, warning buzzer, ABS control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1578",
+        "faultLocation": "ABS system, ABS control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, battery, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1613",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1614",
+        "faultLocation": "Wiring, AIR, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1615",
+        "faultLocation": "Wiring, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1616",
+        "faultLocation": "Wiring, ECM, cruise control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1631",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "Body control module, A/C control module, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1647",
+        "faultLocation": "Trouble code(s) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, oil control valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1664",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1665",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      }
+    ]
+  }
+]

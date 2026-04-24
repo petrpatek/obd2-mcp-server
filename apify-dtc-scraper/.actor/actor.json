@@ -1,0 +1,18 @@
+{
+    "actorSpecification": 1,
+    "name": "dtc-scraper",
+    "title": "DTC Code Scraper - All Car Brands",
+    "description": "Scrapes diagnostic trouble codes (DTC) from troublecodes.net for all car brands. Produces a file-tree structured JSON database organized by brand, with generic OBD-II codes, manufacturer-specific codes, and detailed code descriptions.",
+    "version": "1.0.0",
+    "buildTag": "latest",
+    "environmentVariables": [],
+    "dockerfile": "../Dockerfile",
+    "input": "./input_schema.json",
+    "storages": {
+        "dataset": {
+            "actorSpecification": 1,
+            "title": "DTC Codes Database",
+            "description": "All scraped DTC codes organized by brand"
+        }
+    }
+}

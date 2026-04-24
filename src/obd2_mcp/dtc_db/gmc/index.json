@@ -1,0 +1,14 @@
+{
+  "name": "GMC",
+  "slug": "gmc",
+  "totalCodes": 167,
+  "totalSubmodels": 4,
+  "totalDetails": 0,
+  "totalProcedures": 4,
+  "codeTypes": {
+    "P": 160,
+    "B": 0,
+    "C": 0,
+    "U": 7
+  }
+}

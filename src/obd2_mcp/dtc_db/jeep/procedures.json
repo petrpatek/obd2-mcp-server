@@ -1,0 +1,169 @@
+[
+  {
+    "title": "Jeep OBD/OBD2 Codes >> Cherokee 2.5/4.0L – Grand Cherokee 4.0/5.2/5.9L – Wrangler 2.5/4.0L",
+    "url": "https://www.troublecodes.net/jeep/cherokee-2-54-0l-grand-cherokee-4-05-25-9l-wrangler-2-54-0l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "o Cherokee/Wrangler 1",
+          "o Grand Cherokee 2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jeep OBD/OBD2 Codes >> Cherokee 2.5/4.0L – Grand Cherokee 4.0/5.2L – Wrangler 2.5/4.0L (1996 – 1997)",
+    "url": "https://www.troublecodes.net/jeep/cherokee-2-54-0l-grand-cherokee-4-05-2l-wrangler-2-54-0l-1996-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL, digital odometer or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] A.",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [B].",
+          "A long pause separates each trouble code [1] [C].",
+          "For example: Trouble code 21 displayed [1]",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by the digital odometer using the same key cycling procedure as above. After code 55 is displayed the odometer will return to its normal mode.",
+          "Cherokee/Wrangler [2]",
+          "Grand Cherokee [3]"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jeep OBD/OBD2 Codes >> Cherokee 2.5/4.0L – Compass 2.4L – Grand Cherokee – Liberty – Patriot – Wrangler",
+    "url": "https://www.troublecodes.net/jeep/cherokee-2-54-0l-compass-2-4l-grand-cherokee-liberty-patriot-wrangler/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Cherokee/Wrangler 1",
+          "Grand Cherokee/Liberty 2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jeep OBD/OBD2 Codes >> Commander 3.7/4.7/5.7L (2006-08)",
+    "url": "https://www.troublecodes.net/jeep/commander-3-74-75-7l-2006-08/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jeep OBD/OBD2 Codes >> Cherokee 2.SL • Cherokee 4.0L • Comanche 2.SL • Comanche 4.0L • Grand Cherokee 4.0L • Grand Cherokee S.2L • Wrangler 2.SL • Wrangler 4.0L",
+    "url": "https://www.troublecodes.net/jeep/cherokee-2-sl-cherokee-4-0l-comanche-2-sl-comanche-4-0l-grand-cherokee-4-0l-grand-cherokee-s-2l-wrangler-2-sl-wrangler-4-0l",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (OLC)"
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFFON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups 0 [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ 0 [B].",
+          "A long pause separates each trouble code 0 [C].",
+          "For example: Trouble code 21 displayed 0.",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (OLC):Cherokee/Comanche flGrand Cherokee l!lWrangler 9",
+          "Cherokee/Comanche fl",
+          "Grand Cherokee l!l",
+          "Wrangler 9"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat accessing procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Crankshaft position (CKP) sensor — Wiring, air gap, CKP sensor",
+          "Engine control module (ECM) -supply voltage disconnected within last 50ignition switch ON-OFF cycles — Wiring, battery",
+          "Manifold absolute pressure (MAP) sensor — Wiring, MAP sensor",
+          "Manifold absolute pressure (MAP) sensor voltage low/high — Wiring, MAP sensor",
+          "Vehicle speed sensor (VSS) -signal — Wiring, VSS",
+          "Engine temperature -low for long period — Wiring, coolant thermostat, ECT sensor",
+          "Heated oxygen sensor (H02S) -incorrect signal/voltage high — Wiring, fuel pressure, injector control,EVAP canister purge valve, compression, air filter blocked, H02S",
+          "Engine coolant temperature (ECT) sensorvoltage low/high — Wiring, ECT sensor",
+          "Intake air temperature (IAT) sensor -voltage low/high — Wiring, IAT sensor",
+          "Throttle position (TP) sensor -voltage low/high — Wiring, accelerator cable adjustment, TP sensor",
+          "Idle air control (lAC) valve — Wiring, lAC valve",
+          "Injector(s) -circuit malfunction — Wiring, injector",
+          "Evaporative emission (EVAP) canister purge valve -open/short circuit — Wiring, EVAP canister purge valve",
+          "Exhaust gas recirculation (EGR) solenoid/system -circuit malfunction — Wiring, hoses, EGR solenoid",
+          "AlC compressor clutch reiay/AICrefrigerant pressure sensor -voltage low/high — Wiring, AlC compressor clutch relay, AlC refrigerant pressure sensor",
+          "Cruise control — Wiring open circuit/short circuit, hoses, voltage low/high, cruise control master switch, cruise control vacuum switching valve",
+          "Engine coolant blower motor relay -low/high speed — Wiring, engine coolant blower motor relay low/high speed",
+          "Torque converter clutch (TCC) solenoidcircuit malfunction — Wiring, TCC solenoid",
+          "Alternator — Wiring open circuit/short circuit, alternator",
+          "Engine control relay — Wiring open circuit/short circuit, engine control relay",
+          "Battery temperature sensor/engine coolant temperature (ECT) sensor — Wiring open circuit/short circuit, battery temperature sensor, ECT sensor, ECM",
+          "Overdrive solenoid — Wiring open circuit/short circuit, overdrive solenoid",
+          "Alternator -voltage high — Wiring, battery, alternator",
+          "Alternator -voltage low — Wiring, battery, alternator drive belt, alternator",
+          "System too lean — Wiring, intake/exhaust leak, fuel pressure, injector control, EVAP canister purge valve, H025",
+          "System too rich — Wiring, exhaust blockage, fuel pressure, injector control, EVAP canister purge valve, compression, air filter blocked, ignition system, H025",
+          "Engine control module (ECM) -internal fault — ECM",
+          "Camshaft position (CMP) sensor -no signal — Wiring, CMP sensor",
+          "End of MIL code output — –",
+          "Engine control module (ECM) -EEPROM error — ECM",
+          "Engine control module (ECM) -EEPROM error — ECM",
+          "Fuel pump resistor — Wiring open circuit/short circuit, fuel pump resistor"
+        ]
+      }
+    ]
+  }
+]

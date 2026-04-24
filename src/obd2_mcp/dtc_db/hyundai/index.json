@@ -1,0 +1,14 @@
+{
+  "name": "Hyundai",
+  "slug": "hyundai",
+  "totalCodes": 494,
+  "totalSubmodels": 2,
+  "totalDetails": 0,
+  "totalProcedures": 2,
+  "codeTypes": {
+    "P": 446,
+    "B": 0,
+    "C": 0,
+    "U": 48
+  }
+}

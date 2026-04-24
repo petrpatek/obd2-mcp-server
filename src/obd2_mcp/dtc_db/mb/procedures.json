@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Mercedes OBD/OBD2 Codes >> C230K/240/280 – CL500/600 – CLK320 – E320 – S320/420/500/600 – SL500/600 – SLK230 (1993 – 2002)",
+    "url": "https://www.troublecodes.net/mb/c230k240280-cl500600-clk320-e320-s320420500600-sl500600-slk230-1993-2002/",
+    "procedures": [
+      {
+        "heading": "Accessing and erasing",
+        "type": "accessing",
+        "steps": [
+          "The engine control module (ECM) fault memory can only be accessed and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mercedes OBD/OBD2 Codes >> C-Class – CL – CLK – CLS – E-Class – G-Class – GL – M-Class – R-Class – S-Class – SL- Class – SLK (2002 – 2008)",
+    "url": "https://www.troublecodes.net/mb/c-class-cl-clk-cls-e-class-g-class-gl-m-class-r-class-s-class-sl-class-slk-2002-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan tool connected to the data link connector (DLC)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mercedes OBD/OBD2 Codes >> C-Class – CL – CLK – E-Class – M-Class – S-Class – SL – SLK (2000 – 2005)",
+    "url": "https://www.troublecodes.net/mb/c-class-cl-clk-e-class-m-class-s-class-sl-slk-2000-2005/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1 – 38-pin- C-Ciass (202), fJ – 16-pin­ C-Ciass (203), E-Ciass (210), M-Ciass (163), S-Ciass (220), CL (215), CLK (208), CLK (209), SL (129), SL (230), SLK (170)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mercedes OBD/OBD2 Codes >> C220/280 (202) – E280/320 (124) – S320 (140) – SL320 (129) (1993 – 2000)",
+    "url": "https://www.troublecodes.net/mb/c220280-202-e280320-124-s320-140-sl320-129-1993-2000/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by using an LED connected to the data link connector (DLC).",
+          "The ECM fault memory can also be checked using diagnostic equipment connected to the data link connector (DLC).",
+          "Diagnostic equipment can also be used to erase data from ECM fault memory.",
+          "More detailed fault diagnosis information can be obtained using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing – flash codes ->02/95",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump data link connector (DLC) terminals 1 and 4 or 1 and 8 with a switched lead – contacts normally open [1] or [2].",
+          "Connect LED test lamp between terminals 3 and 4 or 8 and 16 [1] or [2]",
+          "Switch ignition ON.",
+          "Operate switch for 2-4 seconds.",
+          "Count LED flashes. Note trouble code.",
+          "Trouble codes consist of short flashes [3].",
+          "For example: Trouble code 3 displayed [3].",
+          "Repeat operation. Note trouble codes. Compare with trouble code table.",
+          "Switch ignition OFF."
+        ]
+      },
+      {
+        "heading": "Erasing – flash codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump data link connector (DLC) terminals 1 and 4 or 1 and 8 with a switched lead – contacts normally open [1] or [2].",
+          "Connect LED test lamp between terminals 3 and 4 or 8 and 16 [1] or [2].",
+          "Switch ignition ON.",
+          "Operate switch for 2-4 seconds.",
+          "Operate switch for 5-6 seconds – Bosch ECM –>08/93.",
+          "Allow LED to display trouble code.",
+          "Operate switch for 6-8 seconds.",
+          "Operate switch for 8-9 seconds – Bosch ECM –>08/93.",
+          "Repeat operation to erase all stored trouble codes.",
+          "After erasing trouble code 1: Switch ignition OFF.",
+          "Wait 2 seconds.",
+          "Switch ignition ON.",
+          "Wait 10 seconds minimum.",
+          "Start engine."
+        ]
+      },
+      {
+        "heading": "Accessing and erasing – scanner codes",
+        "type": "accessing",
+        "steps": [
+          "The engine control module (ECM) fault memory can only be accessed and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing and erasing – OBO-II codes",
+        "type": "accessing",
+        "steps": [
+          "The engine control module (ECM) fault memory can only be accessed and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  }
+]

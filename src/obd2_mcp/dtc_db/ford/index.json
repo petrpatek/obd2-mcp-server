@@ -1,0 +1,14 @@
+{
+  "name": "Ford",
+  "slug": "ford",
+  "totalCodes": 524,
+  "totalSubmodels": 11,
+  "totalDetails": 0,
+  "totalProcedures": 11,
+  "codeTypes": {
+    "P": 523,
+    "B": 0,
+    "C": 0,
+    "U": 1
+  }
+}

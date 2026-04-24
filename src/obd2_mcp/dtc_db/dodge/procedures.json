@@ -1,0 +1,578 @@
+[
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Avenger – Caliber – Intrepid – Neon – Sratus Sedan (2003 – 2008)",
+    "url": "https://www.troublecodes.net/dodge/avenger-caliber-intrepid-neon-sratus-sedan-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Caravan 2.4/3.0/3.3/3.8L (1999 – 2003)",
+    "url": "https://www.troublecodes.net/dodge/caravan-2-43-03-33-8l-1999-2003/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFFON-OFF-ON .",
+          "Odometer will display trouble codes.",
+          "If no trouble codes are stored in ECM, odometer will display ‘P1684’ and ‘done’ or only ‘done’.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) [2]"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Caravan 2.5/3.0/3.3/3.8L (1992 – 1995)",
+    "url": "https://www.troublecodes.net/dodge/caravan-2-53-03-33-8l-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [B].",
+          "A long pause separates each trouble code [1] [C].",
+          "For example: Trouble code 21 displayed [1].",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) 1992-93 [2] & 1994-95 [3]"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 30 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat accessing procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Charger – Dakota – Durango – Magnum – Nitro – Ram Truck (2003 – 2008)",
+    "url": "https://www.troublecodes.net/dodge/charger-dakota-durango-magnum-nitro-ram-truck-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Moving the shift lever towards neutral while the accelerating .",
+          "Resting a hand on the shift lever while driving."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Dakota – Ramcharger – Ram Pickup/Truck/Van/Wagon (1992 – 1995)",
+    "url": "https://www.troublecodes.net/dodge/dakota-ramcharger-ram-pickuptruckvanwagon-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 3 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [B].",
+          "A long pause separates each trouble code [1] [C].",
+          "For example: Trouble code 21 displayed [1].",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Dakota – Ram Truck/Van/Wagon (1996 – 1997)",
+    "url": "https://www.troublecodes.net/dodge/dakota-ram-truckvanwagon-1996-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC).",
+          "Dakota 1997: Trouble codes can also be displayed by the digital odometer."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [B].",
+          "A long pause separates each trouble code [1] [C].",
+          "For example: Trouble code 21 displayed [1].",
+          "End of test sequence indicated by trouble code 55.",
+          "Dakota 1997: Trouble codes can also be displayed by the digital odometer using the same key cycling procedure as above. After code 55 is displayed the odometer will return to its normal mode.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) [2]"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Dakota – Durango – Ran Truck/Van/Wagon (1999 – 2003)",
+    "url": "https://www.troublecodes.net/dodge/dakota-durango-ran-truckvanwagon-1999-2003/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Avenger 2.0/2.5L (1995 – 1996)",
+    "url": "https://www.troublecodes.net/dodge/avenger-2-02-5l-1995-1996/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 5 minutes.",
+          "Reconnect battery ground cable.",
+          "Repeat accessing procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Avenger 2.0/2.5L (1997 – 2000)",
+    "url": "https://www.troublecodes.net/dodge/avenger-2-02-5l-1997-2000/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 5 minutes.",
+          "Reconnect battery ground cable.",
+          "Repeat accessing procedure to ensure no trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Daytona – Dynasty – Intrepid – Monaco – Shadow – Spirit – Stratus (1992 – 1995)",
+    "url": "https://www.troublecodes.net/dodge/daytona-dynasty-intrepid-monaco-shadow-spirit-stratus-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [B].",
+          "A long pause separates each trouble code [1] [C].",
+          "For example: Trouble code 21 displayed [1]",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Intrepid – Neon – Stratus Sedan (1999 – 2004)",
+    "url": "https://www.troublecodes.net/dodge/intrepid-neon-stratus-sedan-1999-2004/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail. to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Odometer will display trouble codes.",
+          "If no trouble codes are stored in ECM , odometer will display ‘P1684’ and ‘done’ or only ‘done’.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (OLC):",
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) [1]"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Intrepid – Neon – Stratus (1996 – 1997)",
+    "url": "https://www.troublecodes.net/dodge/intrepid-neon-stratus-1996-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Ram Pickup/Chassis Cab/Truck D/W 5.9L Turbo Diesel (1992 – 1995)",
+    "url": "https://www.troublecodes.net/dodge/ram-pickupchassis-cabtruck-dw-5-9l-turbo-diesel-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 3 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [D].",
+          "A long pause separates each trouble code [1] [E].",
+          "For example: Trouble code 44 displayed [1]",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Ram Truck 5.9L Turbo Diesel (1996 – 1997)",
+    "url": "https://www.troublecodes.net/dodge/ram-truck-5-9l-turbo-diesel-1996-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups [1] [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ [1] [D].",
+          "A long pause separates each trouble code [1] [E].",
+          "For example: Trouble code 42 displayed [1]",
+          "End of test sequence indicated by trouble code 55.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) [2]"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Ram Truck 5.9L Turbo Diesel (1998)",
+    "url": "https://www.troublecodes.net/dodge/ram-truck-5-9l-turbo-diesel-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Ram Truck 5.9L Turbo Diesel (1999 – 2002)",
+    "url": "https://www.troublecodes.net/dodge/ram-truck-5-9l-turbo-diesel-1999-2002/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Ram Truck 5.9/6.7L Turbo Diesel (2003 – 2008)",
+    "url": "https://www.troublecodes.net/dodge/ram-truck-5-96-7l-turbo-diesel-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Sprinter 2.7L CDI/3.0L TD/3.5L (2003 – 2007)",
+    "url": "https://www.troublecodes.net/dodge/sprinter-2-7l-cdi3-0l-td3-5l-2003-2007/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Stealth 3.0/3.0L Turbo – Stratus Coupe 2.4/3.0L (1996, 2001 – 2005)",
+    "url": "https://www.troublecodes.net/dodge/stealth-3-03-0l-turbo-stratus-coupe-2-43-0l-1996-2001-2005/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Service engine soon/malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 15 seconds.",
+          "Reconnect battery ground lead .",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Caravan 2.4/3.0/3.3/3.8L (1998)",
+    "url": "https://www.troublecodes.net/dodge/caravan-2-43-03-33-8l-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Caravan 2.4/3.3/3.8/4.0L (2003 – 2008)",
+    "url": "https://www.troublecodes.net/dodge/caravan-2-43-33-84-0l-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Colt 1.8/2.4L – Stealth 3.0/3.0L Turbo (1994 – 1995)",
+    "url": "https://www.troublecodes.net/dodge/colt-1-82-4l-stealth-3-03-0l-turbo-1994-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Access 16 pin data link connector (DLC):",
+          "Jump data link connector (DLC) terminal 1 and ground [3]",
+          "Switch ignition ON.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Each trouble code consists of two groups [4] :",
+          "If MIL remains ON : Suspect faulty engine control module (ECM).",
+          "If constant short flashes are displayed, no trouble code is stored .",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 15 seconds.",
+          "Reconnect battery ground lead.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Dakota – Durango – Ram Truck/Van/Wagon (1998)",
+    "url": "https://www.troublecodes.net/dodge/dakota-durango-ram-truckvanwagon-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Caravan 2.4/3.0/3.3/3.8L (1996 – 1997)",
+    "url": "https://www.troublecodes.net/dodge/caravan-2-43-03-33-8l-1996-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodge OBD/OBD2 Codes >> Intrepid 2.7/3.2L – Neon 2.0L – Stratus 2.0/2.4/2.5L (1998)",
+    "url": "https://www.troublecodes.net/dodge/intrepid-2-73-2l-neon-2-0l-stratus-2-02-42-5l-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      }
+    ]
+  }
+]

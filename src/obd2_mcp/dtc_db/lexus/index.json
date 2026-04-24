@@ -1,0 +1,14 @@
+{
+  "name": "Lexus",
+  "slug": "lexus",
+  "totalCodes": 151,
+  "totalSubmodels": 6,
+  "totalDetails": 0,
+  "totalProcedures": 6,
+  "codeTypes": {
+    "P": 143,
+    "B": 8,
+    "C": 0,
+    "U": 0
+  }
+}

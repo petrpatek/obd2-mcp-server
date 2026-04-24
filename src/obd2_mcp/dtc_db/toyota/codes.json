@@ -1,0 +1,950 @@
+[
+  {
+    "code": "P0031",
+    "faultLocation": "Oxygen Sensor Heater Control Circuit Low Bank 1 Sensor 1",
+    "probableCause": "Wiring, Electrical Connections",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0031/"
+  },
+  {
+    "code": "P0171",
+    "faultLocation": "System too lean, bank 1",
+    "probableCause": "Intake/exhaust leak, AIR system, MAFNAF sensor, fuel pressure/pump, injector(s), HO2S",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0171/"
+  },
+  {
+    "code": "P0300",
+    "faultLocation": "Random Cylinder Misfire (Cylinder Not Specified)",
+    "probableCause": "Spark plug(s), HT lead(s), injector(s), ignition coil(s), low compression, wiring",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0300/"
+  },
+  {
+    "code": "P0301",
+    "faultLocation": "Cylinder #1 Misfire",
+    "probableCause": "Engine mechanical fault, wiring, ignition/fuel system, injector, ECT/MAF sensor, ECM",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0301/"
+  },
+  {
+    "code": "P0340",
+    "faultLocation": "Camshaft Position Sensor “A” Circuit Malfunction",
+    "probableCause": "Wiring, CMP sensor, ECM",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0340/"
+  },
+  {
+    "code": "P0420",
+    "faultLocation": "Catalytic converter system, bank 1 -efficiency below threshold",
+    "probableCause": "Catalytic converter, wiring, HO2S 2",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0420/"
+  },
+  {
+    "code": "P0441",
+    "faultLocation": "Evaporative Emission Control System Incorrect Purge Flow",
+    "probableCause": "Charcoal canister, CCV Valve, Switching Valve, Gas Cap, Purge Valve",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0441/"
+  },
+  {
+    "code": "P0446",
+    "faultLocation": "Evaporative emission (EVAP) system, vent control -circuit malfunction",
+    "probableCause": "Wiring, EVAP canister purge valve, ECM",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0446/"
+  },
+  {
+    "code": "P0456",
+    "faultLocation": "EVAP Control System Leak Detected Very Small Leak",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0456/"
+  },
+  {
+    "code": "P0500",
+    "faultLocation": "Vehicle Speed Sensor \"A\"",
+    "probableCause": "VSS, Software version, Wiring",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0500/"
+  },
+  {
+    "code": "P0741",
+    "faultLocation": "P0741 - Torque Converter Clutch Solenoid Performance",
+    "probableCause": "Worn valve sleeves, torque converter seal, gear pinion, ECM",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p0741/"
+  },
+  {
+    "code": "P1010",
+    "faultLocation": "Oil control valve/variable valve lift – LH bank – circuit malfunction",
+    "probableCause": "Wiring, oil control valve, variable valve lift oil pressure switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1011",
+    "faultLocation": "Oil control valve/variable valve lift – LH bank – open malfunction",
+    "probableCause": "Wiring, oil control valve, variable valve lift oil pressure switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1012",
+    "faultLocation": "Oil control valve/variable valve lift – LH bank – close malfunction",
+    "probableCause": "Wiring, oil control valve, variable valve lift oil pressure switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P101D",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 – heater circuit malfunction – stuck on",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1023",
+    "faultLocation": "Camshaft Position Signal Output B Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P102D",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 1 – heater circuit malfunction – stuck on",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1100",
+    "faultLocation": "BARO Sensor Circuit Malfunction",
+    "probableCause": "Wiring, BARO sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1115",
+    "faultLocation": "Coolant Temperature Sensor Circuit For Heat Storage System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1116",
+    "faultLocation": "Coolant Temperature Sensor Circuit Stack for Coolant Heat Storage System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1117",
+    "faultLocation": "Coolant Temperature Sensor Circuit Stack for Coolant Heat Storage System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1118",
+    "faultLocation": "Coolant Temperature Sensor Circuit High for Coolant Heat Storage System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1120",
+    "faultLocation": "Accelerator pedal position (APP) sensor - circuit malfunction",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1121",
+    "faultLocation": "Accelerator pedal position (APP) sensor - range/performance problem",
+    "probableCause": "APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1123",
+    "faultLocation": "Coolant Flow Control Valve Position Sensor Circuit High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1125",
+    "faultLocation": "Throttle actuator control (TAC) motor - circuit malfunction",
+    "probableCause": "Wiring, TAC motor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1126",
+    "faultLocation": "Magnetic clutch - circuit malfunction",
+    "probableCause": "Wiring, magnetic clutch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1127",
+    "faultLocation": "Throttle actuator control (TAC) power source - circuit malfunction",
+    "probableCause": "Wiring, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1128",
+    "faultLocation": "Throttle actuator control (TAC) lock - malfunction",
+    "probableCause": "TAC motor, throttle body, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1129",
+    "faultLocation": "Throttle actuator control (TAC) system - malfunction",
+    "probableCause": "TAC system, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1130",
+    "faultLocation": "Heated oxygen sensor (H02S)- LH front- range/performance malfunction",
+    "probableCause": "Wiring, H025, air induction system, fuel pressure, injector(s), ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1133",
+    "faultLocation": "Heated oxygen sensor (H02S) – LH front- response malfunction",
+    "probableCause": "H02S, air induction system, fuel pressure, injector(s), ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1135",
+    "faultLocation": "Heated oxygen sensor (H02S) – LH front – heater circuit malfunction",
+    "probableCause": "Wiring, H02S, ECM",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p1135/"
+  },
+  {
+    "code": "P1150",
+    "faultLocation": "Air fuel sensor - California - RH front - performance malfunction",
+    "probableCause": "Wiring, air fuel ratio sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1153",
+    "faultLocation": "Air fuel sensor - California - RH front - response malfunction",
+    "probableCause": "Air fuel ratio sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1155",
+    "faultLocation": "Air fuel sensor - California - RH front - heater circuit malfunction",
+    "probableCause": "Wiring, air fuel ratio sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1170",
+    "faultLocation": "Port Injector Fuel Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1200",
+    "faultLocation": "Fuel pump (FP) relay/ECM - circuit malfunction",
+    "probableCause": "Wiring, fuel pump/control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1215",
+    "faultLocation": "Electronic Driving Unit Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1222",
+    "faultLocation": "Throttle Motor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1228",
+    "faultLocation": "Fuel Pump Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1229",
+    "faultLocation": "Fuel System Over Pressure",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1235",
+    "faultLocation": "High Pressure Fuel Pump Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1236",
+    "faultLocation": "High Pressure Fuel Pump Number 2 Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1276",
+    "faultLocation": "Port Injector Circuit Number 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1277",
+    "faultLocation": "Port Injector Circuit Number 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1278",
+    "faultLocation": "Port Injector Circuit Number 3",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1279",
+    "faultLocation": "Port Injector Circuit Number 4",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1300",
+    "faultLocation": "Ignition control - circuit malfunction",
+    "probableCause": "Wiring, ignition module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1305",
+    "faultLocation": "Ignition control - cylinder No. 2 - circuit malfunction",
+    "probableCause": "Wiring, ignition coil/module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1310",
+    "faultLocation": "Ignition control - cylinder No. 3 - circuit malfunction",
+    "probableCause": "Wiring, ignition coil/module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1315",
+    "faultLocation": "Ignition control - cylinder No. 4 - circuit malfunction",
+    "probableCause": "Wiring, ignition coil/module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1320",
+    "faultLocation": "Ignition control - cylinder No. 5 - circuit malfunction",
+    "probableCause": "Wiring, ignition coil/module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1325",
+    "faultLocation": "Ignition control - cylinder No. 6 - circuit malfunction",
+    "probableCause": "Wiring, ignition coil/module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1330",
+    "faultLocation": "Ignition control - cylinder No. 7 - circuit malfunction",
+    "probableCause": "Wiring, ignition module/coil, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1335",
+    "faultLocation": "Crankshaft position (CKP) sensor - circuit malfunction",
+    "probableCause": "Wiring, CKP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1340",
+    "faultLocation": "Ignition control - cylinder No. 8 - circuit malfunction",
+    "probableCause": "Wiring, ignition module/coil, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1341",
+    "faultLocation": "Camshaft Position Sensor 'A' No Signal Over 600 RPM Bank 1 Sensor 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1342",
+    "faultLocation": "Camshaft Position Sensor 'A' Low Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1343",
+    "faultLocation": "Camshaft Position Sensor 'A' High Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1345",
+    "faultLocation": "Variable valve timing sensor - LH bank - circuit malfunction",
+    "probableCause": "Wiring, valve timing sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1346",
+    "faultLocation": "Variable valve timing sensor - LH bank - range/performance problem",
+    "probableCause": "Valve timing, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1349",
+    "faultLocation": "Camshaft position (CMP) actuator system - malfunction",
+    "probableCause": "Valve timing, CMP actuator, ECM",
+    "detailUrl": "https://www.troublecodes.net/toyotacodes/p1349/"
+  },
+  {
+    "code": "P1350",
+    "faultLocation": "Variable valve timing sensor - RH bank - circuit malfunction",
+    "probableCause": "Wiring, valve timing sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1351",
+    "faultLocation": "Variable valve timing sensor - RH bank - range/performance problem",
+    "probableCause": "Valve timing, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1354",
+    "faultLocation": "Variable valve timing system - RH bank - malfunction",
+    "probableCause": "Valve timing, oil control valve, valve control module, ECM timing",
+    "detailUrl": null
+  },
+  {
+    "code": "P1360",
+    "faultLocation": "'A' Camshaft Position Actuator Circuit Open/Low/High Bank 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1361",
+    "faultLocation": "'A' Camshaft Position Actuator Circuit Open/Low/High Bank 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1362",
+    "faultLocation": "'B' Camshaft Position Actuator Circuit Open/Low/High Bank 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1363",
+    "faultLocation": "'B' Camshaft Position Actuator Circuit Open/Low/High Bank 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1364",
+    "faultLocation": "'C' Camshaft Position Actuator Circuit Open/Low/High Bank 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1366",
+    "faultLocation": "'E' Camshaft Position Actuator Circuit Open/Low/High Bank 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1367",
+    "faultLocation": "'E' Camshaft Position Actuator Circuit Open/Low/High Bank 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1400",
+    "faultLocation": "Throttle position (TP) sensor 2 - circuit malfunction",
+    "probableCause": "Wiring, TP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1401",
+    "faultLocation": "Throttle position (TP) sensor 2 - range/ performance problem",
+    "probableCause": "TP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1405",
+    "faultLocation": "Turbocharger (TC) pressure sensor - circuit malfunction",
+    "probableCause": "Wiring, TC pressure sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1406",
+    "faultLocation": "Turbocharger (TC) pressure sensor - range/ performance problem",
+    "probableCause": "TC pressure sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1410",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - malfunction",
+    "probableCause": "Wiring, EGR valve position sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1411",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - range/performance problem",
+    "probableCause": "EGR valve position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1420",
+    "faultLocation": "EVAP Canister Small Leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1421",
+    "faultLocation": "EVAP Canister Gross Leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1422",
+    "faultLocation": "Fuel Tank Small leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1423",
+    "faultLocation": "Fuel Tank Gross Leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1436",
+    "faultLocation": "Bypass Valve Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1440",
+    "faultLocation": "Secondary Air Injection Vacuum Switching Valve Circuit Malfunction Bank 1",
+    "probableCause": "Wiring, AIR, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1441",
+    "faultLocation": "Secondary Air Injection System Switching Valve No.2 Stuck Open Bank 1",
+    "probableCause": "Wiring, AIR, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1442",
+    "faultLocation": "Stuck Closed In Secondary Air Injection Vacuum Switching Valve Bank 1",
+    "probableCause": "Wiring, AIR, vacuum hose, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1443",
+    "faultLocation": "Secondary Air Injection Vacuum Switching Valve Circuit Malfunction Bank 2",
+    "probableCause": "Wiring, AIR, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1444",
+    "faultLocation": "Secondary Air Injection System Switching Valve Stuck Open Bank 2",
+    "probableCause": "Wiring, AIR, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1445",
+    "faultLocation": "Secondary Air Injection System Switching Valve Stuck Close Bank 2",
+    "probableCause": "Wiring, AIR, vacuum hose, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1450",
+    "faultLocation": "Fuel Tank Pressure Sensor",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1451",
+    "faultLocation": "Fuel Tank Pressure Sensor Range/Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1452",
+    "faultLocation": "Fuel Tank Pressure Sensor Low Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1453",
+    "faultLocation": "Fuel Tank Pressure Sensor High Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1455",
+    "faultLocation": "Vapor Reducing Fuel Tank System Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1500",
+    "faultLocation": "Starter signal - circuit malfunction",
+    "probableCause": "Wiring, ignition switch, engine control relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1510",
+    "faultLocation": "Supercharger (SC) pressure control - circuit malfunction",
+    "probableCause": "Wiring, SC magnetic clutch/relay, SC bypass valve, Intake system, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1511",
+    "faultLocation": "Turbocharger (TC) pressure - too low",
+    "probableCause": "Intake system/air control valve, wiring, TC wastegate regulating valve/actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1512",
+    "faultLocation": "Turbocharger (TC) pressure - too high",
+    "probableCause": "Wiring, TC wastegate regulating valve/ actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1520",
+    "faultLocation": "Stop lamp switch - signal malfunction",
+    "probableCause": "Wiring, stop lamp switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1550",
+    "faultLocation": "Battery Current Sensor Circuit Range/Performance",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1551",
+    "faultLocation": "Battery Current Sensor Circuit Low Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1552",
+    "faultLocation": "Battery Current Sensor Circuit High Input",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1555",
+    "faultLocation": "Reactor Temperature Sensor Circuit Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1556",
+    "faultLocation": "Reactor Temperature Sensor Circuit High",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1557",
+    "faultLocation": "DC/DC Converter Temperature Sensor Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1565",
+    "faultLocation": "Cruise control switch - signal malfunction",
+    "probableCause": "Wiring, cruise control switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1566",
+    "faultLocation": "Cruise Control Main Switch Circuit Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1569",
+    "faultLocation": "Brake system – malfunction",
+    "probableCause": "ABS system, ABS control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1570",
+    "faultLocation": "Radar Sensor Malfunction",
+    "probableCause": "Cruise control laser radar sensor, cruise control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1572",
+    "faultLocation": "Improper Aiming Of Radar Sensor Beam Axis",
+    "probableCause": "Cruise control laser radar sensor alignment, cruise control laser radar sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1575",
+    "faultLocation": "Cruise control/skid control warning buzzer – malfunction",
+    "probableCause": "Wiring, warning buzzer, ABS control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1578",
+    "faultLocation": "Brake system – malfunction",
+    "probableCause": "ABS system, ABS control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1589",
+    "faultLocation": "Acceleration Sensor Learning Value",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1600",
+    "faultLocation": "Engine control module (ECM) - supply voltage",
+    "probableCause": "Wiring, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1601",
+    "faultLocation": "Injector Correction Circuit Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1602",
+    "faultLocation": "Battery voltage monitor – malfunction",
+    "probableCause": "Wiring, battery, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1603",
+    "faultLocation": "Engine Stall History",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1604",
+    "faultLocation": "Startability Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1605",
+    "faultLocation": "Knock control - malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1607",
+    "faultLocation": "Cruise Control Input Processor",
+    "probableCause": "Wiring, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1613",
+    "faultLocation": "Secondary air injection (AIR) – malfunction",
+    "probableCause": "Wiring, AIR, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1614",
+    "faultLocation": "Secondary air injection (AIR), bank 2 – malfunction",
+    "probableCause": "Wiring, AIR, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1615",
+    "faultLocation": "CAN data bus, cruise control module – communication error",
+    "probableCause": "Wiring, cruise control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1616",
+    "faultLocation": "CAN data bus, cruise control module – communication error",
+    "probableCause": "Wiring, ECM, cruise control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1630",
+    "faultLocation": "Traction control system - malfunction",
+    "probableCause": "Wiring, throttle control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1631",
+    "faultLocation": "Communication Error Between From ECM To VSC",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1633",
+    "faultLocation": "Engine control module (ECM) - throttle actuator control (TAC) system - malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1645",
+    "faultLocation": "Body control module - malfunction",
+    "probableCause": "Body control module, A/C control module, wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1647",
+    "faultLocation": "Transmission control module (TCM) - system malfunction",
+    "probableCause": "Trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1652",
+    "faultLocation": "Turbocharger (TC) 2 air control solenoid - circuit malfunction",
+    "probableCause": "Wiring, air control solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1653",
+    "faultLocation": "SCV Circuit Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1656",
+    "faultLocation": "Oil control valve - circuit malfunction",
+    "probableCause": "Wiring, oil control valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1658",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve - circuit malfunction",
+    "probableCause": "Wiring, TC wastegate regulating valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1661",
+    "faultLocation": "Turbocharger (TC) 2 exhaust gas control valve - circuit malfunction",
+    "probableCause": "Wiring, exhaust gas control valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1662",
+    "faultLocation": "Exhaust bypass valve - circuit malfunction",
+    "probableCause": "Wiring, exhaust bypass valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1663",
+    "faultLocation": "Oil control valve/variable valve timing - RH bank - malfunction",
+    "probableCause": "Wiring, oil control valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1690",
+    "faultLocation": "Oil control valve/variable valve timing - malfunction",
+    "probableCause": "Wiring, oil control valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1692",
+    "faultLocation": "Variable valve timing - malfunction",
+    "probableCause": "Wiring, valve timing sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1693",
+    "faultLocation": "Variable valve timing - malfunction",
+    "probableCause": "Wiring, valve timing sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1700",
+    "faultLocation": "Output shaft speed (OSS) sensor",
+    "probableCause": "Wiring, OSS sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1705",
+    "faultLocation": "AT - direct clutch speed sensor",
+    "probableCause": "Wiring, direct clutch speed sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1715",
+    "faultLocation": "Rear wheel speed sensor(s) - malfunction",
+    "probableCause": "Wiring, rear wheel speed sensor(s), ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1725",
+    "faultLocation": "Input shaft speed (ISS) sensor/turbine shaft speed (TSS) sensor - circuit malfunction",
+    "probableCause": "Wiring, ISS sensor/TSS sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1730",
+    "faultLocation": "Intermediate shaft speed sensor - AT",
+    "probableCause": "Wiring, intermediate shaft speed sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1755",
+    "faultLocation": "Torque converter clutch (TCC) solenoid - circuit malfunction",
+    "probableCause": "Wiring, torque converter, TCC solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1760",
+    "faultLocation": "AT - pressure control shift solenoid",
+    "probableCause": "Wiring, shift solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1765",
+    "faultLocation": "AT - pressure control shift solenoid",
+    "probableCause": "Wiring, shift solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1770",
+    "faultLocation": "Differential lock solenoid - circuit malfunction",
+    "probableCause": "Wiring, differential lock solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1780",
+    "faultLocation": "Park/neutral position (PNP) switch - circuit malfunction",
+    "probableCause": "Wiring, PNP switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1781",
+    "faultLocation": "Shift lever switch - malfunction",
+    "probableCause": "Wiring, shift lever switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1782",
+    "faultLocation": "Transfer box low ratio switch – circuit malfunction",
+    "probableCause": "Wiring, transfer box low ratio switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1783",
+    "faultLocation": "Transfer box neutral switch – circuit malfunction",
+    "probableCause": "Wiring, transfer box neutral switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1790",
+    "faultLocation": "Shift/timing solenoid",
+    "probableCause": "Wiring, shift/timing solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1810",
+    "faultLocation": "CAN data bus malfunction - malfunction",
+    "probableCause": "Wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1815",
+    "faultLocation": "Shift control solenoid - malfunction",
+    "probableCause": "Wiring, shift control solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1818",
+    "faultLocation": "Shift control solenoid - circuit malfunction",
+    "probableCause": "Wiring, shift control solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P3193",
+    "faultLocation": "Fuel Run Out",
+    "probableCause": "Empty fuel tank",
+    "detailUrl": null
+  }
+]

@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=64", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "obd2-mcp-server"
+version = "0.1.0"
+description = "MCP server that bridges a car's OBD-II port to Claude via the Model Context Protocol"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    { name = "Bitvea", email = "petrpatekml@gmail.com" },
+]
+keywords = ["mcp", "obd", "obd2", "automotive", "diagnostics", "claude", "ai"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Interface Engine/Protocol Translator",
+]
+dependencies = [
+    "mcp>=1.0.0",
+    "obd>=0.7.2",
+]
+
+[project.optional-dependencies]
+ble = [
+    "bleak>=0.21.0",
+]
+dev = [
+    "pytest>=7.0",
+    "pytest-asyncio>=0.21",
+    "ruff>=0.1.0",
+]
+
+[project.scripts]
+obd2-mcp = "obd2_mcp.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100

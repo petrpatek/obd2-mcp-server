@@ -1,0 +1,297 @@
+[
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> FX35 – FX45 – G35 – G37 – M35 – M45 – QX56 (2003 – 2008)",
+    "url": "https://www.troublecodes.net/infiniti/fx35-fx45-g35-g37-m35-m45-qx56-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1, or by the malfunction indicator lamp (MIL)."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2",
+        "type": "accessing",
+        "steps": [
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2.",
+          "Count flashes and compare with trouble code table.",
+          "Each trouble code consists of four groups of one or more flashes.",
+          "The first group of flashes indicate the ‘thousands’ of the trouble code [2] [A].",
+          "The second group of flashes indicate the ‘hundreds’ of the trouble code [2] [B).",
+          "The third group of flashes indicate the ‘tens’ of the trouble code [2] [C].",
+          "The fourth group of flashes indicate the ‘units’ of the trouble code [2] [D].",
+          "Ten flashes in a group indicate ‘0’.",
+          "A short pause separates each trouble code group [2] [E].",
+          "A long pause separates each trouble code [2] [F].",
+          "For example: Trouble code P1130 displayed [2].",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2.",
+          "Fully depress accelerator pedal for more than 10 seconds.",
+          "Fully release accelerator pedal."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> G20 – I30 – QX4 (1999 – 2002)",
+    "url": "https://www.troublecodes.net/infiniti/g20-i30-qx4-1999-2002/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> I35 – Q45 – QX4 (2002 – 2006)",
+    "url": "https://www.troublecodes.net/infiniti/i35-q45-qx4-2002-2006/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1, or by the malfunction indicator lamp (MIL)."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2",
+        "type": "accessing",
+        "steps": [
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2.",
+          "Count flashes and compare with trouble code table.",
+          "Each trouble code consists of four groups of one or more flashes.",
+          "The first group of flashes indicate the ‘thousands’ of the trouble code [2] [A].",
+          "The second group of flashes indicate the ‘hundreds’ of the trouble code [2] [B).",
+          "The third group of flashes indicate the ‘tens’ of the trouble code [2] [C].",
+          "The fourth group of flashes indicate the ‘units’ of the trouble code [2] [D].",
+          "Ten flashes in a group indicate ‘0’.",
+          "A short pause separates each trouble code group [2] [E].",
+          "A long pause separates each trouble code [2] [F].",
+          "For example: Trouble code P1130 displayed [2].",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure accelerator pedal is fully released.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Wait 3 seconds.",
+          "Within 5 seconds, repeat the following 5 times:",
+          "Wait 7 seconds.",
+          "Fully depress accelerator pedal.",
+          "After approximately 10 seconds MIL will start flashing.",
+          "Fully release accelerator pedal.",
+          "Self-diagnosis now in Mode 2.",
+          "Fully depress accelerator pedal for more than 10 seconds.",
+          "Fully release accelerator pedal.",
+          "Trouble code 0000 should be displayed."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> Q45 4.1/4.5L (1996 – 2001)",
+    "url": "https://www.troublecodes.net/infiniti/q45-4-14-5l-1996-2001/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1], or by the malfunction indicator lamp (MIL)."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2",
+        "type": "accessing",
+        "steps": [
+          "Access engine control module (ECM) 1 [3].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Turn diagnostic mode selector on ECM fully clockwise [2]",
+          "Wait at least 2 seconds.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [2].",
+          "Self-diagnosis now in Mode 2.",
+          "MIL should flash.",
+          "Count flashes and compare with trouble code table.",
+          "Each trouble code consists of four groups of one or more flashes.",
+          "The first group of flashes indicate the ‘thousands’ of the trouble code [3] [A].",
+          "The second group of flashes indicate the ‘hundreds’ of the trouble code [3] [B].",
+          "The third group of flashes indicate the ‘tens’ of the trouble code [3] [C].",
+          "The fourth group of flashes indicate the ‘units’ of the trouble code [3] [D].",
+          "Ten flashes in a group indicate ‘0’.",
+          "A short pause separates each trouble code group D [E].",
+          "A long pause separates each trouble code D [F].",
+          "For example: Trouble code P1130 displayed U",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "With the ignition switch ON and the engine control module (ECM) in diagnosis test mode 2.",
+          "Turn diagnostic mode selector on ECM fully clockwise [2]",
+          "Trouble codes are erased.",
+          "Switch ignition OFF.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [2].",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> G20 – I30 – J30 – QX4 (1994 – 2000)",
+    "url": "https://www.troublecodes.net/infiniti/g20-i30-j30-qx4-1994-2000/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1], or by the malfunction indicator lamp (MIL)."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 1",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Mode 2",
+        "type": "accessing",
+        "steps": [
+          "Access engine control module (ECM) 1 [3].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Turn diagnostic mode selector on ECM fully clockwise [2]",
+          "Wait at least 2 seconds.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [2].",
+          "Self-diagnosis now in Mode 2.",
+          "MIL should flash.",
+          "Count flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Self-diagnosis will return to Mode 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "With the ignition switch ON and the engine control module (ECM) in diagnosis test mode 2.",
+          "Turn diagnostic mode selector on ECM fully clockwise [2].",
+          "Trouble codes are erased.",
+          "Switch ignition OFF.",
+          "Turn diagnostic mode selector on ECM fully counterclockwise [2].",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  }
+]

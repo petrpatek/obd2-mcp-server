@@ -1,0 +1,240 @@
+{
+  "scrapedAt": "2026-04-23T20:22:35.892Z",
+  "source": "https://www.troublecodes.net",
+  "totalBrands": 26,
+  "totalBrandCodes": 8134,
+  "totalGenericCodes": 3764,
+  "totalProcedures": 188,
+  "brands": [
+    {
+      "slug": "acura",
+      "name": "Acura",
+      "totalCodes": 221,
+      "totalSubmodels": 24,
+      "totalDetails": 0,
+      "totalProcedures": 11
+    },
+    {
+      "slug": "audi",
+      "name": "Audi",
+      "totalCodes": 586,
+      "totalSubmodels": 3,
+      "totalDetails": 0,
+      "totalProcedures": 1
+    },
+    {
+      "slug": "bmw",
+      "name": "BMW",
+      "totalCodes": 487,
+      "totalSubmodels": 8,
+      "totalDetails": 0,
+      "totalProcedures": 6
+    },
+    {
+      "slug": "buick",
+      "name": "Buick",
+      "totalCodes": 430,
+      "totalSubmodels": 3,
+      "totalDetails": 0,
+      "totalProcedures": 3
+    },
+    {
+      "slug": "cadillac",
+      "name": "Cadillac",
+      "totalCodes": 439,
+      "totalSubmodels": 8,
+      "totalDetails": 0,
+      "totalProcedures": 7
+    },
+    {
+      "slug": "chevrolet",
+      "name": "Chevrolet",
+      "totalCodes": 511,
+      "totalSubmodels": 5,
+      "totalDetails": 0,
+      "totalProcedures": 5
+    },
+    {
+      "slug": "chrysler",
+      "name": "Chrysler",
+      "totalCodes": 222,
+      "totalSubmodels": 35,
+      "totalDetails": 0,
+      "totalProcedures": 11
+    },
+    {
+      "slug": "dodge",
+      "name": "Dodge",
+      "totalCodes": 423,
+      "totalSubmodels": 25,
+      "totalDetails": 0,
+      "totalProcedures": 25
+    },
+    {
+      "slug": "ford",
+      "name": "Ford",
+      "totalCodes": 524,
+      "totalSubmodels": 11,
+      "totalDetails": 0,
+      "totalProcedures": 11
+    },
+    {
+      "slug": "gm",
+      "name": "GM",
+      "totalCodes": 448,
+      "totalSubmodels": 0,
+      "totalDetails": 0,
+      "totalProcedures": 0
+    },
+    {
+      "slug": "gmc",
+      "name": "GMC",
+      "totalCodes": 167,
+      "totalSubmodels": 4,
+      "totalDetails": 0,
+      "totalProcedures": 4
+    },
+    {
+      "slug": "honda",
+      "name": "Honda",
+      "totalCodes": 364,
+      "totalSubmodels": 22,
+      "totalDetails": 0,
+      "totalProcedures": 20
+    },
+    {
+      "slug": "hyundai",
+      "name": "Hyundai",
+      "totalCodes": 494,
+      "totalSubmodels": 2,
+      "totalDetails": 0,
+      "totalProcedures": 2
+    },
+    {
+      "slug": "infiniti",
+      "name": "Infiniti",
+      "totalCodes": 180,
+      "totalSubmodels": 5,
+      "totalDetails": 0,
+      "totalProcedures": 5
+    },
+    {
+      "slug": "jeep",
+      "name": "Jeep",
+      "totalCodes": 202,
+      "totalSubmodels": 6,
+      "totalDetails": 0,
+      "totalProcedures": 5
+    },
+    {
+      "slug": "kia",
+      "name": "Kia",
+      "totalCodes": 134,
+      "totalSubmodels": 2,
+      "totalDetails": 0,
+      "totalProcedures": 2
+    },
+    {
+      "slug": "lexus",
+      "name": "Lexus",
+      "totalCodes": 151,
+      "totalSubmodels": 6,
+      "totalDetails": 0,
+      "totalProcedures": 6
+    },
+    {
+      "slug": "mazda",
+      "name": "Mazda",
+      "totalCodes": 347,
+      "totalSubmodels": 6,
+      "totalDetails": 0,
+      "totalProcedures": 5
+    },
+    {
+      "slug": "mb",
+      "name": "Mercedes-Benz",
+      "totalCodes": 106,
+      "totalSubmodels": 4,
+      "totalDetails": 0,
+      "totalProcedures": 4
+    },
+    {
+      "slug": "nissan",
+      "name": "Nissan",
+      "totalCodes": 199,
+      "totalSubmodels": 5,
+      "totalDetails": 0,
+      "totalProcedures": 5
+    },
+    {
+      "slug": "pontiac",
+      "name": "Pontiac",
+      "totalCodes": 240,
+      "totalSubmodels": 7,
+      "totalDetails": 0,
+      "totalProcedures": 7
+    },
+    {
+      "slug": "saturn",
+      "name": "Saturn",
+      "totalCodes": 171,
+      "totalSubmodels": 2,
+      "totalDetails": 0,
+      "totalProcedures": 2
+    },
+    {
+      "slug": "subaru",
+      "name": "Subaru",
+      "totalCodes": 136,
+      "totalSubmodels": 2,
+      "totalDetails": 0,
+      "totalProcedures": 2
+    },
+    {
+      "slug": "toyota",
+      "name": "Toyota",
+      "totalCodes": 158,
+      "totalSubmodels": 31,
+      "totalDetails": 0,
+      "totalProcedures": 30
+    },
+    {
+      "slug": "volvo",
+      "name": "Volvo",
+      "totalCodes": 202,
+      "totalSubmodels": 7,
+      "totalDetails": 0,
+      "totalProcedures": 7
+    },
+    {
+      "slug": "vw",
+      "name": "Volkswagen",
+      "totalCodes": 592,
+      "totalSubmodels": 2,
+      "totalDetails": 0,
+      "totalProcedures": 2
+    }
+  ],
+  "generic": [
+    {
+      "slug": "bcodes",
+      "category": "Body",
+      "totalCodes": 705
+    },
+    {
+      "slug": "ucodes",
+      "category": "Network",
+      "totalCodes": 299
+    },
+    {
+      "slug": "pcodes",
+      "category": "Powertrain",
+      "totalCodes": 2442
+    },
+    {
+      "slug": "ccodes",
+      "category": "Chassis",
+      "totalCodes": 318
+    }
+  ]
+}

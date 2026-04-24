@@ -1,0 +1,14 @@
+{
+  "name": "Buick",
+  "slug": "buick",
+  "totalCodes": 430,
+  "totalSubmodels": 3,
+  "totalDetails": 0,
+  "totalProcedures": 3,
+  "codeTypes": {
+    "P": 430,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

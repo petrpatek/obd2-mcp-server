@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Volvo OBD/OBD2 Codes >> 960 3.0L (1992)",
+    "url": "https://www.troublecodes.net/volvo/960-3-0l-1992/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by the LED on the data link connector (DLC).",
+          "The ECM fault memory can also be checked and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Open cover on black data link connector (DLC).",
+          "Insert selector cable in socket 2 [1] [1].",
+          "Switch ignition ON.",
+          "Depress test button for approximately 1 second [1] [2].",
+          "Count LED flashes [1] [3]. Note trouble code.",
+          "Each trouble code consists of three groups of flashes [2].",
+          "A 3 second pause separates each group [2] [A].",
+          "For example: Trouble code 223 displayed [2] -idle air control (lAC) valve.",
+          "Repeat switch operation [1] [2]. Note trouble codes. Compare with trouble code table.",
+          "Switch ignition OFF. Rectify faults as necessary."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Insert selector cable in socket 2 [1] [1].",
+          "Access trouble codes.",
+          "Depress test button for approximately 5 seconds.",
+          "Release test button.",
+          "Wait for LED to illuminate.",
+          "Depress test button for approximately 5 seconds.",
+          "Release test button.",
+          "Depress test button for approximately 1 second.",
+          "Ensure trouble code 111 displayed."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volvo OBD/OBD2 Codes >> C30 – C70 – S40 – S80 – V50 – V70 – XC70 – XC90 (2005 – 2008)",
+    "url": "https://www.troublecodes.net/volvo/c30-c70-s40-s80-v50-v70-xc70-xc90-2005-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC): 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volvo OBD/OBD2 Codes >> C70 2.3L Turbo – S90/V90 2.9L Turbo – V70 2.3L Turbo (1997 – 1998)",
+    "url": "https://www.troublecodes.net/volvo/c70-2-3l-turbo-s90v90-2-9l-turbo-v70-2-3l-turbo-1997-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC).",
+          "Trouble code identification"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volvo OBD/OBD2 Codes >> 240 2.3L – 740 2.3L/Turbo – 940 2.3L Turbo (1992 -1995)",
+    "url": "https://www.troublecodes.net/volvo/240-2-3l-740-2-3lturbo-940-2-3l-turbo-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by the LED on the data link connector (DLC).",
+          "The fuel/ignition/turbocharger control module fault memory can also be checked and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Open cover on black data link connector (DLC).",
+          "Insert selector cable in socket 2 [1] [1].",
+          "Switch ignition ON.",
+          "Depress test button for approximately 1 second [1] [2].",
+          "Count LED flashes [1] [3]. Note trouble code.",
+          "Each trouble code consists of three groups of flashes [2]",
+          "A 3 second pause separates each group [2] [A].",
+          "For example: Trouble code 223 displayed [2] -idle air control (lAC) valve.",
+          "Repeat switch operation [1] [2]. Note trouble codes. Compare with trouble code table.",
+          "Switch ignition OFF. Rectify faults as necessary.",
+          "Ensure ignition switched OFF.",
+          "Open cover on black data link connector (DLC).",
+          "Insert selector cable in socket 6 [3] [1].",
+          "Switch ignition ON.",
+          "Depress test button for approximately 1 second [3][2].",
+          "Count LED flashes [3]. Note trouble code.",
+          "Trouble codes are displayed in the same way as those from the fuel system:",
+          "Repeat switch operation 3 [2]. Note trouble codes. Compare with trouble code table.",
+          "Switch ignition OFF. Rectify faults as necessary.",
+          "Ensure ignition switched OFF.",
+          "Open cover on black data link connector (DLC).",
+          "Insert selector cable in socket 5 [4] [1].",
+          "Switch ignition ON.",
+          "Depress test button for approximately 1 second [4] [2].",
+          "Count LED flashes [4] [3]. Note trouble code.",
+          "Trouble codes are displayed in the same way as those from the fuel system:",
+          "Repeat switch operation [4] [2]. Note trouble codes. Compare with trouble code table.",
+          "Switch ignition OFF. Rectify faults as necessary."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Insert selector cable:",
+          "1 Access trouble codes.",
+          "Depress test button for approximately 5 seconds.",
+          "Release test button.",
+          "Wait for LED to illuminate.",
+          "Depress test button for approximately 5 seconds.",
+          "Release test button.",
+          "Depress test button for approximately 1 second.",
+          "Ensure trouble code 111 displayed.",
+          "Trouble code identification",
+          "No fault found — –",
+          "Engine control module (ECM) — ECM",
+          "Mass air flow (MAF) sensor — Wiring, MAF sensor",
+          "Engine coolant temperature (ECT) sensor — Wiring, ECT sensor",
+          "Engine control module (ECM) – supply voltage low/high — Battery, alternator",
+          "Throttle position (TP) switch – CTP contacts — TP switch adjustment, accelerator cable adjustment, wiring, TP switch",
+          "Ignition control module (ICM) — ICM",
+          "Knock sensor (KS) 1 — Wiring, KS",
+          "Engine control module (ECM) – load signal — Wiring, ECM",
+          "Exhaust gas recirculation (EGR) system – excessive flow detected — Wiring, EGR valve, EGR control module, engine coolant thermostat",
+          "Heated oxygen sensor (H02S) — Wiring, heating inoperative, MAF sensor, H02S",
+          "Throttle position (TP) switch – WOT contacts — TP switch adjustment, accelerator cable adjustment, wiring, TP switch",
+          "Engine speed (RPM) sensor – intermittent signal — Wiring, flywheel/drive plate damaged, air gap, RPM sensor",
+          "Fuel trim (FT), part load – too weak — Intake/exhaust leak, fuel pressure, wiring, MAF sensor, H02S",
+          "Idle air control (lAC) valve — Wiring, lAC valve",
+          "Engine coolant temperature (ECT) sensor — Wiring, ECT sensor",
+          "Fuel trim (FT), idling – weak/rich — Intake/exhaust leak, fuel pressure, excessive fuel in engine oil, injector(s), EVAP canister purge valve, wiring, MAF sensor, ECT sensor, H02S",
+          "Throttle position (TP) switch – CTP contacts — TP switch adjustment, accelerator cable adjustment, wiring, TP switch",
+          "Exhaust gas recirculation (EGR) system – insufficient flow detected — Hose leak/blockage, wiring, EGR valve, EGR control module, EGRT sensor, engine coolant thermostat",
+          "Turbocharger (TC) wastegate regulating valve — Wiring, TC wastegate regulating valve",
+          "Vehicle speed sensor (VSS) — Wiring, speedometer, VSS",
+          "Ignition control module (ICM) – KS signal missing — Wiring, ICM",
+          "Camshaft position (CMP) sensor- no/incorrect signal — Wiring, CMP sensor",
+          "Mass air flow (MAF) sensor – no filament burn- off signal — Wiring, ECM",
+          "Camshaft position (CMP) sensor- intermittent signal — Wiring, CMP sensor",
+          "NC compressor clutch cut-off relay — Wiring, A/C compressor clutch cut-off relay",
+          "Exhaust gas temperature sensor — Wiring, EGRT sensor",
+          "Throttle position (TP) sensor — Wiring, TP sensor",
+          "Exhaust gas recirculation temperature (EGRT) sensor — Wiring, EGRT sensor",
+          "Manifold absolute pressure (MAP) sensor — Hose leak/blockage, Turbocharger (TC), TC control module",
+          "Throttle position (TP) sensor — Wiring, TP sensor",
+          "Engine control module (ECM) – load signal — Wiring, ECM if trouble code also stored in ICM",
+          "Engine coolant blower motor temperature sensor — Wiring, engine coolant blower motor temperature sensor",
+          "Engine control module (ECM) – overheating — Engine coolant blower motor, air supply blocked, module cooling fan",
+          "Knock sensor (KS) 2 — Wiring, KS",
+          "Fuel trim (FT) – too rich — Intake blockage, excessive fuel in engine oil, fuel pressure high, wiring, MAF sensor, H02S",
+          "Engine control module (ECM) – overheating — Engine coolant blower motor, air supply blocked, module cooling fan"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volvo OBD/OBD2 Codes >> C70 – S40 – S60 – S80 – V70 – XC70 – XC90 (1998 – 2008)",
+    "url": "https://www.troublecodes.net/volvo/c70-s40-s60-s80-v70-xc70-xc90-1998-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL} will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volvo OBD/OBD2 Codes >> S40/V40 2.0L Turbo (2000 – 2004)",
+    "url": "https://www.troublecodes.net/volvo/s40v40-2-0l-turbo-2000-2004/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC).",
+          "Trouble code identification"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Volvo OBD/OBD2 Codes >> 850 2.3L Turbo (1994 – 1997)",
+    "url": "https://www.troublecodes.net/volvo/850-2-3l-turbo-1994-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing and erasing",
+        "type": "accessing",
+        "steps": [
+          "The engine control module (ECM) fault memory can only be accessed and erased using diagnostic equipment connected to the data link connector (DLC) 1.",
+          "Trouble code identification"
+        ]
+      }
+    ]
+  }
+]

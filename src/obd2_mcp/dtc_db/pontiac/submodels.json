@@ -1,0 +1,3109 @@
+[
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Aztek – Bonneville – Grand AM – Grand Prix – Trans Sport – Vibe",
+    "url": "https://www.troublecodes.net/pontiac/aztek-bonneville-grand-am-grand-prix-trans-sport-vibe/",
+    "vehicles": [
+      {
+        "model": "Aztek 3.4L",
+        "year": "2001-05",
+        "engine": "VIN position 8 = E",
+        "system": "GM"
+      },
+      {
+        "model": "Bonneville 3.8/4.6L",
+        "year": "1994-05",
+        "engine": "VIN position 8 = L/K/Y/1",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 2.2L",
+        "year": "2002-05",
+        "engine": "VIN position 8 = F",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 2.4L",
+        "year": "1996-01",
+        "engine": "VIN position 8 = T",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 3.1 L",
+        "year": "1996-98",
+        "engine": "VIN position 8 = M",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 3.4L",
+        "year": "1999-05",
+        "engine": "VIN position 8 = E",
+        "system": "GM"
+      },
+      {
+        "model": "Grand Prix 3.4L",
+        "year": "1994-95",
+        "engine": "VIN position 8 = X",
+        "system": "GM"
+      },
+      {
+        "model": "Trans Sport 3.8L",
+        "year": "1994-95",
+        "engine": "VIN position 8 = L",
+        "system": "GM"
+      },
+      {
+        "model": "Vibe 1.8/2.4L",
+        "year": "2003-09",
+        "engine": "VIN position 8 = 0/8/L",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1010",
+        "faultLocation": "Wiring open circuit/short circuit to ground, rocker arm oil control actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1011",
+        "faultLocation": "Wiring open circuit/short circuit to positive, rocker arm oil control actuator, rocker arm oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1012",
+        "faultLocation": "Wiring open circuit/short circuit to ground, mechanical fault, rocker arm oil control actuator,rocker arm oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1101",
+        "faultLocation": "Wiring, mechanical fault, engine coolant temperature (ECT) sensor, barometric pressure (BARO) sensor, intake air temperature (IAT) sensor, manifold absolute pressure (MAP) sensor, mass air flow (MAF) sensor, throttle position (TP) switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1106",
+        "faultLocation": "Wiring open circuit/short circuit to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1107",
+        "faultLocation": "Wiring short circuit to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1112",
+        "faultLocation": "Wiring short circuit to ground",
+        "probableCause": ""
+      },
+      {
+        "code": "P1114",
+        "faultLocation": "Wiring short circuit to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1122",
+        "faultLocation": "Wiring open circuit/short to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "Wiring, exhaust system leaking, 02S/H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1134",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1137",
+        "faultLocation": "Wiring, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1138",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1154",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1171",
+        "faultLocation": "Fuel filter, fuel pump, H02S, injectors",
+        "probableCause": ""
+      },
+      {
+        "code": "P1189",
+        "faultLocation": "Wiring, engine oil pressure warning lamp switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring open circuit/short circuit to ground/short circuit to positive, injectors, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1257",
+        "faultLocation": "Supercharger (SC) bypass valve hoses blockedlleaking/interchanged/not connected, wiring short circuit to ground, supercharger (SC) bypass valve solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1300",
+        "faultLocation": "Wiring, ignition coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1305",
+        "faultLocation": "Wiring, ignition coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1310",
+        "faultLocation": "Wiring, ignition coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1315",
+        "faultLocation": "Wiring, ignition coil, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1336",
+        "faultLocation": "Learning procedure not performed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1346",
+        "faultLocation": "Wiring, mechanical fault, camshaft position actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1349",
+        "faultLocation": "Wiring, mechanical fault, camshaft position actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Wiring open circuit, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1352",
+        "faultLocation": "Wiring open circuit, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1361",
+        "faultLocation": "Wiring, circuit short circuit to ground, poorconnections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1362",
+        "faultLocation": "Wiring short circuit to ground, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1372",
+        "faultLocation": "Wiring open circuit/short circuit to ground/ short circuit to positive, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1374",
+        "faultLocation": "Wiring, wiring routed near spark plug wires, ignition coils arcing/tracking, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1380",
+        "faultLocation": "ABSITCS trouble code(s) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1381",
+        "faultLocation": "Wiring, poor connections, ABSITCS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1403",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1404",
+        "faultLocation": "Wiring, poor connections, EGR valve position sensor, EGR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "P1404",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1405",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1406",
+        "faultLocation": "Wiring, EGR valve tight/sticking, EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "Hose connection(s), EVAP canister, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1442",
+        "faultLocation": "Hoses blockedlleaking, wiring, EVAP canister, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1483",
+        "faultLocation": "Cooling system, engine coolant temperature(ECT) sensor, intake air temperature (IAT) sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring short circuit to ground, PNP switchincorrectly adjusted",
+        "probableCause": ""
+      },
+      {
+        "code": "P1530",
+        "faultLocation": "Wiring, NC refrigerant pressure sensor/switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1531",
+        "faultLocation": "Incorrect refrigerant charge, wiring, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1536",
+        "faultLocation": "Cooling system",
+        "probableCause": ""
+      },
+      {
+        "code": "P1540",
+        "faultLocation": "Wiring open circuit, NC refrigerant high pressure switch, AlC system",
+        "probableCause": ""
+      },
+      {
+        "code": "P1546",
+        "faultLocation": "Wiring, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1550",
+        "faultLocation": "Wiring, poor connections, cruise control motor/actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1554",
+        "faultLocation": "Wiring open circuit/short circuit to ground, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1558",
+        "faultLocation": "Wiring, poor connections, accelerator cable sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "P1561",
+        "faultLocation": "Wiring, solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1562",
+        "faultLocation": "Wiring, solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1565",
+        "faultLocation": "Wiring, poor connections, servo position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1567",
+        "faultLocation": "Wiring, poor connections, cruise control master switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1568",
+        "faultLocation": "Wiring, poor connections, accelerator cable sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "P1571",
+        "faultLocation": "Wiring, poor connections, ABSITCS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1573",
+        "faultLocation": "Wiring, poor connections, ABS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1575",
+        "faultLocation": "Wiring, ABS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1585",
+        "faultLocation": "Wiring, poor connections, cruise control motor/actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1599",
+        "faultLocation": "Accelerator cable sticking, brake vacuum release valve, cruise control actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1601",
+        "faultLocation": "Wiring, poor connections, ECM, ABSITCS, diagnostic control module, instrumentation control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, ABS control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1610",
+        "faultLocation": "Wiring, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1619",
+        "faultLocation": "Wiring short circuit to ground, engine oil life monitor reset switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1621",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1623",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1624",
+        "faultLocation": "ECM trouble codes stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1626",
+        "faultLocation": "Wiring, poor connections, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1627",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1629",
+        "faultLocation": "Incorrect ignition key, wiring, poor connections, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "Wiring, battery, alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "ECM immobilizer code programming not completed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1631",
+        "faultLocation": "Incorrect key, immobilizer code not programmed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1632",
+        "faultLocation": "Fuses, BCM, immobilizer code",
+        "probableCause": ""
+      },
+      {
+        "code": "P1633",
+        "faultLocation": "Fuse, wiring open circuit, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1634",
+        "faultLocation": "Wiring open circuit, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1635",
+        "faultLocation": "Wiring, poor connections, TP sensor, MAP sensor, EGR valve position sensor, fuel tank pressure (FTP) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1639",
+        "faultLocation": "Wiring, poor connections, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1640",
+        "faultLocation": "Wiring, ECM controlled components, ECM 0",
+        "probableCause": ""
+      },
+      {
+        "code": "P1641",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1641",
+        "faultLocation": "Wiring, poor connections, MIL, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1643",
+        "faultLocation": "Wiring, fuel pump control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1644",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "Wiring, SC bypass valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1646",
+        "faultLocation": "Wiring, SC bypass valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1650",
+        "faultLocation": "Wiring, ECM controlled components, ECM 0",
+        "probableCause": ""
+      },
+      {
+        "code": "P1651",
+        "faultLocation": "Wiring, engine coolant blower motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1652",
+        "faultLocation": "Wiring, engine coolant blower motor relay(s),ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1653",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1654",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1655",
+        "faultLocation": "Wiring open circuit/short circuit to ground, EVAP canister vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1656",
+        "faultLocation": "Wiring open circuit/short circuit to ground, camshaft position actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1660",
+        "faultLocation": "Wiring, ECM controlled components, ECM 0",
+        "probableCause": ""
+      },
+      {
+        "code": "P1662",
+        "faultLocation": "Wiring open circuit/short circuit to ground, cruise control motor/actuator, cruise control module,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, instrument panel, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1665",
+        "faultLocation": "Wiring open circuit/short circuit to ground, EVAP canister vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1667",
+        "faultLocation": "Wiring, fuel pump control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1668",
+        "faultLocation": "Wiring, voltage regulator, alternator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1670",
+        "faultLocation": "Wiring, ECM controlled components, ECM D",
+        "probableCause": ""
+      },
+      {
+        "code": "P1671",
+        "faultLocation": "Wiring open circuit/short circuit to ground/short circuit to positive, MIL, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1672",
+        "faultLocation": "Wiring short circuit to ground, engine oil level, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1673",
+        "faultLocation": "Wiring, instrument panel, cooling system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1675",
+        "faultLocation": "Wiring, poor connection, EVAP canister vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1676",
+        "faultLocation": "Wiring open circuit/short circuit to ground, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1680",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1681",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1683",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1689",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1690",
+        "faultLocation": "Wiring open circuit/short circuit to ground, rocker arm oil control actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1692",
+        "faultLocation": "Wiring open circuit/short circuit to positive, rocker arm oil control actuator, rocker arm oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1693",
+        "faultLocation": "Wiring open circuit/short circuit to ground, mechanical fault, rocker arm oil control actuator, rocker arm oil pressure switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1725",
+        "faultLocation": "Wiring open circuit/short circuit to ground, input shaft speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1760",
+        "faultLocation": "Wiring open circuit/short circuit, TFP solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring short circuit to ground, PNP syvitch incorrectly adjusted, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1790",
+        "faultLocation": "Wiring open circuit/short circuit, overdrive solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1810",
+        "faultLocation": "Fluid level low, wiring, selector lever linkage incorrectly adjusted, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1811",
+        "faultLocation": "Fluid level low, transmission mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1814",
+        "faultLocation": "Fluid level low, fluid condition, transmission mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1815",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1816",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1817",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1818",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1819",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1820",
+        "faultLocation": "Wiring short to ground, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1822",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1823",
+        "faultLocation": "Wiring short to ground, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1825",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1826",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1842",
+        "faultLocation": "ATF level/condition, short circuit, wiring, 55, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1843",
+        "faultLocation": "ATF level/condition, short circuit, wiring, 55, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1845",
+        "faultLocation": "ATF level/condition, short circuit, wiring, 55, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1847",
+        "faultLocation": "ATF level/condition, short circuit, wiring, 55, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1860",
+        "faultLocation": "Wiring open circuit/short circuit to ground, TCC solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1866",
+        "faultLocation": "Wiring open circuit/short circuit to positive, TCC solenoid, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1867",
+        "faultLocation": "Wiring open circuit/short circuit to positive,TCCso~n~d,TCM,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1868",
+        "faultLocation": "Replace transmission fluid and filter",
+        "probableCause": ""
+      },
+      {
+        "code": "P1887",
+        "faultLocation": "Wiring open circuit, TCC solenoid release switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1000",
+        "faultLocation": "Wiring, BCM, ECM, instrumentation controlmodule,50M",
+        "probableCause": ""
+      },
+      {
+        "code": "U1001",
+        "faultLocation": "Wiring, BCM, ECM, instrumentation controlmodule,50M",
+        "probableCause": ""
+      },
+      {
+        "code": "U1016",
+        "faultLocation": "Wiring, poor connections, ECM, AB5ITC5,diagnostic control module, instrumentation control module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1161",
+        "faultLocation": "Wiring, passenger door control module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1162",
+        "faultLocation": "Wiring, rear door control module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1163",
+        "faultLocation": "Wiring, rear door control module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1170",
+        "faultLocation": "Wiring, driver door control module, driver’s door switch module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1254",
+        "faultLocation": "Wiring, SCM, ECM, instrumentation control module,SDM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1255",
+        "faultLocation": "Wiring, SCM, ECM, instrumentation control module,SDM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1300",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "U1301",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "U1305",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "U1450",
+        "faultLocation": "Wiring, electronic compass, instrumentation control module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1500",
+        "faultLocation": "VCIM",
+        "probableCause": ""
+      },
+      {
+        "code": "U2105",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird – Grand AM – Grand Prix – LeMans – Sunbird – Sunfire – Trans Sport (1992 – 1995)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-grand-am-grand-prix-lemans-sunbird-sunfire-trans-sport-1992-1995/",
+    "vehicles": [
+      {
+        "model": "Firebird 3.1/5.0/5.7L",
+        "year": "1992",
+        "engine": "VIN position 8 = E/F/T/8",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 2.3L",
+        "year": "1992-95",
+        "engine": "VIN position 8 = D/A/3",
+        "system": "GM"
+      },
+      {
+        "model": "Grand Prix 3.1/3.4L",
+        "year": "1992-93",
+        "engine": "VIN position 8 = T/M/X",
+        "system": "GM"
+      },
+      {
+        "model": "LeMans 1.6L",
+        "year": "1992-93",
+        "engine": "VIN position 8 = 6",
+        "system": "GM"
+      },
+      {
+        "model": "Sunbird 2.0/3.1 L",
+        "year": "1992-94",
+        "engine": "VIN position 8 = H/T",
+        "system": "GM"
+      },
+      {
+        "model": "Sunfire 2.2L",
+        "year": "1995",
+        "engine": "VIN position 8 = 4",
+        "system": "GM"
+      },
+      {
+        "model": "Sunfire 2.3L",
+        "year": "1992-95",
+        "engine": "VIN position 8 = D",
+        "system": "GM"
+      },
+      {
+        "model": "Trans Sport 3.1L",
+        "year": "1992-95",
+        "engine": "VIN position 8 = D",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "No engine speed (RPM) signal received",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring open circuit, 02S/H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL15",
+        "faultLocation": "Wiring open circuit, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL17",
+        "faultLocation": "Wiring, CMP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL19",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring open circuit/short circuit to ground, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL23",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring short circuit to ground, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, ECM controlled components, ECM IiJ",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, ECM controlled components, ECM IiJ",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, ECM controlled components, ECM liJ",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL29",
+        "faultLocation": "Wiring, ECM controlled components, ECM liJ",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, TR switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, poor connections, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL33",
+        "faultLocation": "Wiring, hose blocked/leaking, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "Wiring open circuit/short circuit to ground, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring, lAC valve, intake system leaking, fuel system, PCV valve, A/C system, mechanical fault,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL36",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL39",
+        "faultLocation": "Wiring, incorrectly adjusted, CPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL44",
+        "faultLocation": "Wiring open circuit/short circuit to ground, injector(s) blocked, fuel contamination, fuel pressure low, exhaust system leaking, 02S/H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL45",
+        "faultLocation": "Wiring open circuit, fuel pressure high, injector(s) leaking, 02S/H02S, EVAP purge valve, TP sensor, EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL46",
+        "faultLocation": "Incorrect key, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "Alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL54",
+        "faultLocation": "Wiring open circuit/short circuit to ground, fuel pump relay, engine oil pressure warning lamp/fuel pump switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL550",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL61",
+        "faultLocation": "25",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL62",
+        "faultLocation": "Wiring open circuit/short circuit to ground, 2nd gear switch, 3rd gear switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL65",
+        "faultLocation": "Wiring, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL66",
+        "faultLocation": "Wiring open circuit/short circuit to ground, A/C refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL70",
+        "faultLocation": "Wiring open circuit/short circuit to positive, A/C refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL72",
+        "faultLocation": "Wiring, poor connections, instrumentation control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL75",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL76",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL77",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL79",
+        "faultLocation": "Wiring, V55, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL80",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL81",
+        "faultLocation": "Wiring, BPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL82",
+        "faultLocation": "Wiring open circuit/short circuit to ground, CKP sensor, ICM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL85",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL86",
+        "faultLocation": "A/C refrigerant pressure sensor/knock sensor(KS)/engine coolant temperature (ECT) sensor/fuel pump monitor circuit short circuit to battery voltage",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL87",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird 3.4L – Grand AM 3.1L – Grand Prix 3.1L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-3-4l-grand-am-3-1l-grand-prix-3-1l-1993-1995/",
+    "vehicles": [
+      {
+        "model": "Firebird 3.4L",
+        "year": "1993-95",
+        "engine": "VIN position 8 = S",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 3.1 L",
+        "year": "1994-95",
+        "engine": "VIN position 8 = M",
+        "system": "GM"
+      },
+      {
+        "model": "Grand Prix 3.1 L",
+        "year": "1994-95",
+        "engine": "VIN position 8 = T/M",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "No engine speed (RPM) signal received",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring short circuit to ground, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL15",
+        "faultLocation": "Wiring open circuit, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "Wiring, alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL17",
+        "faultLocation": "Wiring, CMP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring open circuit/short circuit to positive, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring open circuit/short circuit to ground, TP sensor,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL23",
+        "faultLocation": "Wiring open circuit, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring short circuit to ground, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring, TR switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL33",
+        "faultLocation": "Wiring short circuit to positive, hose blockedl leaking, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "Wiring open circuit/short circuit to ground, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL35",
+        "faultLocation": "Wiring open circuit/short circuit to groundl short circuit to positive, lAC valve, intake system leaking,fuel system, PCV valve, AlC system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL36",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL37",
+        "faultLocation": "Wiring, incorrectly adjusted, BPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL39",
+        "faultLocation": "Wiring, incorrectly adjusted, CPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, K5, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL46",
+        "faultLocation": "Incorrect key, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "Alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL54",
+        "faultLocation": "Wiring open circuit/short circuit to ground, fuel pump relay, engine oil pressure warning lamp/ fuel pump switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL58",
+        "faultLocation": "Wiring short circuit to ground, TFT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL59",
+        "faultLocation": "Wiring open circuit, TFT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL61",
+        "faultLocation": "Refrigerant low, wiring, AlC refrigerant pressure sensor, AlC evaporator temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL63",
+        "faultLocation": "Wiring open circuit, 025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL64",
+        "faultLocation": "Wiring open circuit/short circuit to ground, injector(s) blocked, fuel contamination, fuel pressure low,exhaust system leaking, 025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL65",
+        "faultLocation": "Wiring open circuit, fuel pressure high, injector(s) leaking, 025, EVAP purge valve, throttle position (TP) sensor, EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL66",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL67",
+        "faultLocation": "Wiring open circuit, AlC refrigerant pressure sensor,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL68",
+        "faultLocation": "Wiring short circuit, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL69",
+        "faultLocation": "Wiring open circuit, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL70",
+        "faultLocation": "Wiring open circuit/short circuit to positive, AlCrefrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Wiring, poor connections, AlC evaporator temperaturesensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL72",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL73",
+        "faultLocation": "Wiring, poor connections, AlC evaporator temperature sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL75",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL76",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL77",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL79",
+        "faultLocation": "Transmission mechanical fault, towing weight limitexceeded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL80",
+        "faultLocation": "Wiring, TCC solenoid, transmission mechanical fault,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL81",
+        "faultLocation": "Wiring, BPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL82",
+        "faultLocation": "Wiring open circuit/short circuit to ground, CKP sensor, ICM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL85",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL86",
+        "faultLocation": "AlC refrigerant pressure sensor/knock sensor(KS)/engine coolant temperature (ECT) sensor/ fuel pump monitor circuit short circuit to battery voltage",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL87",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL90",
+        "faultLocation": "Wiring open circuit/short circuit to ground, transmission internal wiring, TCC solenoid, transmission mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL93",
+        "faultLocation": "Wiring, poor connection, TFP solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL96",
+        "faultLocation": "Wiring open circuit, alternator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL98",
+        "faultLocation": "ECM incorrectly coded, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL99",
+        "faultLocation": "ECM incorrectly coded, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird – Grand Prix – Montana/SV6 – Sunfire – Trans Sport (1995 – 2008)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-grand-prix-montanasv6-sunfire-trans-sport-1995-2008/",
+    "vehicles": [
+      {
+        "model": "Firebird 3.8L",
+        "year": "1995-02",
+        "engine": "VIN position 8 = K",
+        "system": "GM"
+      },
+      {
+        "model": "Firebird 5.7L",
+        "year": "1996-02",
+        "engine": "VIN position 8 = G/P",
+        "system": "GM"
+      },
+      {
+        "model": "Grand Prix 3.1 L",
+        "year": "1996-03",
+        "engine": "VIN position 8 = M/J",
+        "system": "GM"
+      },
+      {
+        "model": "Grand Prix 3.4L",
+        "year": "1996",
+        "engine": "VIN position 8 = X",
+        "system": "GM"
+      },
+      {
+        "model": "Grand Prix 3.8/5.3L",
+        "year": "1997-08",
+        "engine": "VIN position 8 = 1/2/4/C/K",
+        "system": "GM"
+      },
+      {
+        "model": "Montana/SV6 3.4/3.5L",
+        "year": "1999-07",
+        "engine": "VIN position 8 = E/L",
+        "system": "GM"
+      },
+      {
+        "model": "Sunfire 2.2L",
+        "year": "1995-05",
+        "engine": "VIN position 8 = 4/5/F",
+        "system": "GM"
+      },
+      {
+        "model": "Sunfire 2.3L",
+        "year": "1995",
+        "engine": "VIN position 8 = D",
+        "system": "GM"
+      },
+      {
+        "model": "Sunfire 2.4L",
+        "year": "1996-02",
+        "engine": "VIN position 8 = T",
+        "system": "GM"
+      },
+      {
+        "model": "Trans Sport 3.4L",
+        "year": "1996-98",
+        "engine": "VIN position 8 = E",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1101",
+        "faultLocation": "Wiring, mechanical fault, engine coolanttemperature (ECT) sensor, barometric pressure (BARO) sensor, intake air temperature (IAT) sensor, manifold absolute pressure (MAP) sensor, mass air flow (MAF) sensor, throttle position (TP) switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1106",
+        "faultLocation": "Wiring open circuit/short circuit to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1107",
+        "faultLocation": "Wiring short circuit to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1112",
+        "faultLocation": "Wiring short circuit to ground",
+        "probableCause": ""
+      },
+      {
+        "code": "P1114",
+        "faultLocation": "Wiring short circuit to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1120",
+        "faultLocation": "Wiring, throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1122",
+        "faultLocation": "Wiring open circuit/short to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "Wiring, exhaust system leaking, 02S/H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1134",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1137",
+        "faultLocation": "Wiring, exhaust system leaking, H025",
+        "probableCause": ""
+      },
+      {
+        "code": "P1138",
+        "faultLocation": "Wiring, H025",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust systemleaking, H025",
+        "probableCause": ""
+      },
+      {
+        "code": "P1154",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1171",
+        "faultLocation": "Fuel filter, fuel pump, H025, injectors",
+        "probableCause": ""
+      },
+      {
+        "code": "P1189",
+        "faultLocation": "Wiring, engine oil pressure warning lamp switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1200",
+        "faultLocation": "Wiring open circuit/short circuit to ground/short circuit to positive, injectors, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1220",
+        "faultLocation": "Wiring, throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1221",
+        "faultLocation": "Wiring, throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1222",
+        "faultLocation": "Injector, wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1258",
+        "faultLocation": "Cooling system, engine coolant temperature (ECT) sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1260",
+        "faultLocation": "Wiring, fuel pump control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1271",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1272",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1273",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1275",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1276",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1280",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1281",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1285",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1286",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1336",
+        "faultLocation": "Learning procedure not performed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1350",
+        "faultLocation": "Wiring, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1351",
+        "faultLocation": "Wiring open circuit, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1352",
+        "faultLocation": "Wiring open circuit, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1361",
+        "faultLocation": "Wiring, circuit short circuit to ground, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1362",
+        "faultLocation": "Wiring short circuit to ground, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1371",
+        "faultLocation": "Wiring,ICM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1374",
+        "faultLocation": "Wiring, wiring routed near spark plug wires, ignition coils arcing/tracking, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1380",
+        "faultLocation": "ASS trouble coders) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1381",
+        "faultLocation": "Wiring, poor connections, ASS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Intake/exhaust leak/blockage, mechanical fault,idle speed control (ISC) system, ignition control,engine coolant temperature (ECT) sensor, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1404",
+        "faultLocation": "Wiring, poor connections, EGR valve position sensor, EGR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "P1406",
+        "faultLocation": "Wiring, EGR valve tight/sticking, EGR valve position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1415",
+        "faultLocation": "Wiring, hoses blocked/leaking, AIR valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1416",
+        "faultLocation": "Wiring, hoses blocked/leaking, AIR valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "Hose connection(s), EVAP canister, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1442",
+        "faultLocation": "Hoses blocked/leaking, wiring, EVAP canister, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1483",
+        "faultLocation": "Cooling system, engine coolant temperature(ECT) sensor, intake air temperature (IAT) sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1508",
+        "faultLocation": "Wiring open circuit/short circuit to ground/short circuit to positive, lAC valve, throttle valve tight/sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "P1509",
+        "faultLocation": "Wiring open circuit/short circuit to ground/short circuit to positive, lAC valve, throttle valve tight/sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "P1514",
+        "faultLocation": "Throttle control unit, MAP sensor, CMP sensorsignal, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1515",
+        "faultLocation": "Wiring, throttle valve sticking, throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1516",
+        "faultLocation": "Wiring, throttle valve sticking, throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1517",
+        "faultLocation": "Throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1518",
+        "faultLocation": "Wiring, throttle control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1519",
+        "faultLocation": "Throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1523",
+        "faultLocation": "Throttle valve movement restricted, throttle control unit",
+        "probableCause": ""
+      },
+      {
+        "code": "P1532",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC refrigerant temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1533",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC refrigerant temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1539",
+        "faultLocation": "Wiring, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1543",
+        "faultLocation": "Refrigerant low, wiring, AlC refrigerant pressure sensor, AlC evaporator temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1545",
+        "faultLocation": "Wiring, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1546",
+        "faultLocation": "Wiring, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1554",
+        "faultLocation": "Wiring open circuit/short circuit to ground, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1571",
+        "faultLocation": "Wiring, poor connections, ABSITCS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1572",
+        "faultLocation": "Wiring short to ground, ABSITCS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1573",
+        "faultLocation": "Wiring, poor connections, ABS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1574",
+        "faultLocation": "Wiring, ABS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1585",
+        "faultLocation": "Wiring, poor connections, cruise control motor/actuator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1586",
+        "faultLocation": "Wiring, poor connections, BPP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1601",
+        "faultLocation": "Wiring, poor connections, ECM, ABSITCS, diagnostic control module, instrumentation control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1621",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1626",
+        "faultLocation": "Wiring, poor connections, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1627",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1629",
+        "faultLocation": "Incorrect ignition key, wiring, poor connections, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1630",
+        "faultLocation": "ECM immobilizer code programming not completed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1631",
+        "faultLocation": "Incorrect key, immobilizer code not programmed",
+        "probableCause": ""
+      },
+      {
+        "code": "P1632",
+        "faultLocation": "Fuses, SCM, immobilizer code",
+        "probableCause": ""
+      },
+      {
+        "code": "P1635",
+        "faultLocation": "Wiring, poor connections, TP sensor, MAP sensor, EGR valve position sensor, fuel tank pressure (FTP) sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1637",
+        "faultLocation": "Wiring, instrument panel, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1639",
+        "faultLocation": "Wiring, poor connections, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1640",
+        "faultLocation": "Wiring, ECM controlled components, ECM III",
+        "probableCause": ""
+      },
+      {
+        "code": "P1644",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1645",
+        "faultLocation": "Wiring, SC bypass valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1650",
+        "faultLocation": "Wiring, ECM controlled components, ECM III",
+        "probableCause": ""
+      },
+      {
+        "code": "P1651",
+        "faultLocation": "Wiring, engine coolant blower motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1654",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1655",
+        "faultLocation": "Wiring open circuit/short circuit to ground, EVAP canister vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1657",
+        "faultLocation": "Wiring, skip shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1660",
+        "faultLocation": "Wiring, ECM controiled components, ECM liJ",
+        "probableCause": ""
+      },
+      {
+        "code": "P1661",
+        "faultLocation": "Wiring, MIL, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1662",
+        "faultLocation": "Wiring open circuit/short circuit to ground, cruise control motor/actuator, cruise control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1663",
+        "faultLocation": "Wiring, instrument panel, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1664",
+        "faultLocation": "Wiring, skip shift warning lamp, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1665",
+        "faultLocation": "Wiring open circuit/short circuit to ground, EVAP canister vent valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1668",
+        "faultLocation": "Wiring, voltage regulator, alternator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1670",
+        "faultLocation": "Wiring, ECM controlled components, ECM liJ",
+        "probableCause": ""
+      },
+      {
+        "code": "P1671",
+        "faultLocation": "Wiring open circuit/short circuit to ground/short circuit to positive, MIL, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1672",
+        "faultLocation": "Wiring short circuit to ground, engine oil level,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1673",
+        "faultLocation": "Wiring, instrument panel, cooling system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1676",
+        "faultLocation": "Wiring open circuit/short circuit to ground, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1680",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1681",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1682",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1683",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1689",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1750",
+        "faultLocation": "Wiring, TCC solenoid/transmission shift control valve/transmission pressure control solenoid, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1810",
+        "faultLocation": "Fluid level low, wiring, selector lever linkageincorrectly adjusted, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1811",
+        "faultLocation": "Fluid level low, transmission mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1814",
+        "faultLocation": "Fluid level low, fluid condition, transmission mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1815",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1816",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1817",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1818",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1819",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1820",
+        "faultLocation": "Wiring short to ground, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1822",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1823",
+        "faultLocation": "Wiring short to ground, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1825",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1826",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1860",
+        "faultLocation": "Wiring open circuit/short circuit to ground, TCC solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1870",
+        "faultLocation": "Transmission fluid level, wiring, TCC solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1887",
+        "faultLocation": "Wiring open circuit, TCC solenoid release switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1915",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P3401",
+        "faultLocation": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3425",
+        "faultLocation": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3441",
+        "faultLocation": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P3449",
+        "faultLocation": "Wiring, cylinder cut-out solenoid, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1000",
+        "faultLocation": "Wiring, BCM, ECM, ABS/TCS, instrumentation control module, SOM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1001",
+        "faultLocation": "Wiring, BCM, ECM, instrumentation controlmodule, SOM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1016",
+        "faultLocation": "Wiring, poor connections, ECM, ABS/TCS, diagnostic control module, instrumentation control module",
+        "probableCause": ""
+      },
+      {
+        "code": "U1254",
+        "faultLocation": "Wiring, BCM, ECM, instrumentation control module, SOM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1255",
+        "faultLocation": "Wiring, BCM, ECM, ABS/TCS, instrumentation control module, SOM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1300",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "U1301",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "U1304",
+        "faultLocation": "Wiring, ABS/TCS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1305",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "U1500",
+        "faultLocation": "VCIM",
+        "probableCause": ""
+      },
+      {
+        "code": "U1650",
+        "faultLocation": "Wiring, steering angle sensor, ABS/TCS",
+        "probableCause": ""
+      },
+      {
+        "code": "U1651",
+        "faultLocation": "Wiring, steering angle sensor, ABS/TCS",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Firebird 5.7L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/pontiac/firebird-5-7l-1993-1995/",
+    "vehicles": [
+      {
+        "model": "Firebird 5.7L",
+        "year": "1993-95",
+        "engine": "VIN position 8 = P",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL11",
+        "faultLocation": "Wiring open circuit/short circuit to ground, MIL, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL12",
+        "faultLocation": "No engine speed (RPM) signal received",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring open circuit, 02S/H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL15",
+        "faultLocation": "Wiring open circuit, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "Wiring, distributor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL18",
+        "faultLocation": "Wiring, injector(s)",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring open circuit/short circuit to ground, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL23",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring short circuit to ground, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, ECM controlled components, ECM III",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring, ECM controlled components, ECM III",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL29",
+        "faultLocation": "Wiring, AIR pump relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring, poor connections, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL33",
+        "faultLocation": "Wiring, hose blockedlleaking, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "Wiring open circuit/short circuit to ground, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL36",
+        "faultLocation": "Wiring, distributor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL37",
+        "faultLocation": "Wiring short to positive, incorrectly adjusted, BPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL38",
+        "faultLocation": "Wiring open circuit, incorrectly adjusted, BPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring open circuit. poor connections, ICM. ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring short to ground. ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL44",
+        "faultLocation": "Wiring open circuit/short circuit to ground, injector(s) blocked. fuel contamination. fuel pressure low. exhaust system leaking, 02S/H02S,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL45",
+        "faultLocation": "Wiring open circuit, fuel pressure high, injector(s) leaking, 02S/H02S, EVAP purge valve, throttle position (TP) sensor, EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL46",
+        "faultLocation": "Incorrect key, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL47",
+        "faultLocation": "Wiring. poor connection, missing knock control module. ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL48",
+        "faultLocation": "Wiring. poor connections, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL50",
+        "faultLocation": "Alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "Alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Fuel filterllines blocked, fuel contamination",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL58",
+        "faultLocation": "Wiring short circuit to ground, TFT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL59",
+        "faultLocation": "Wiring open circuit, TFT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL61",
+        "faultLocation": "Refrigerant low, wiring, AlC refrigerant pressure sensor, AlC evaporator temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL63",
+        "faultLocation": "Wiring open circuit, 025/H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL64",
+        "faultLocation": "Wiring open circuit/short circuit to ground, injector(s) blocked, fuel contamination, fuel pressure low, exhaust system leaking, 025/H025,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL65",
+        "faultLocation": "Wiring open circuit, fuel pressure high, injector(s)leaking, 025/H025, EVAP purge valve, throttle position (TP) sensor, EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL66",
+        "faultLocation": "Wiring open circuit/short circuit to ground, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL67",
+        "faultLocation": "Wiring open circuit, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL68",
+        "faultLocation": "Wiring short circuit, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL69",
+        "faultLocation": "Wiring open circuit, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL70",
+        "faultLocation": "Wiring, AlC compressor clutch relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL71",
+        "faultLocation": "Wiring, poor connections, AlC evaporator temperature sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL72",
+        "faultLocation": "Wiring, V55, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL73",
+        "faultLocation": "Wiring, poor connection, TFP solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL74",
+        "faultLocation": "Wiring short to ground, AB5ITC5, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL75",
+        "faultLocation": "Wiring, battery, alternator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL77",
+        "faultLocation": "Wiring, engine coolant blower motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL79",
+        "faultLocation": "Transmission mechanical fault, towing weightlimit exceeded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL80",
+        "faultLocation": "Wiring, TCC solenoid, transmission mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL81",
+        "faultLocation": "Wiring, 55, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL82",
+        "faultLocation": "Wiring, 55, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL83",
+        "faultLocation": "Wiring, reverse gear inhibit solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL84",
+        "faultLocation": "Wiring, control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL84",
+        "faultLocation": "Wiring, skip shift solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL85",
+        "faultLocation": "Wiring open circuit/short circuit to ground,transmission internal wiring, TCC solenoid, transmission mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL90",
+        "faultLocation": "Wiring, TCC solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL91",
+        "faultLocation": "Wiring, skip shift warning lamp, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL97",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL99",
+        "faultLocation": "Wiring, poor connections, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> G5 – G6 – G8 – GTO – Montana – Solstice – Torrent (2004 – 2009)",
+    "url": "https://www.troublecodes.net/pontiac/g5-g6-g8-gto-montana-solstice-torrent-2004-2009/",
+    "vehicles": [
+      {
+        "model": "G52.2/2.4L",
+        "year": "2007-09",
+        "engine": "VIN position 8 = F/B/5",
+        "system": "GM"
+      },
+      {
+        "model": "G6 2.4/3.5/3.9L",
+        "year": "2005-09",
+        "engine": "VIN position 8 = 1/7/8/B/N",
+        "system": "GM"
+      },
+      {
+        "model": "G83.6/6.0L",
+        "year": "2008-09",
+        "engine": "VIN position 8 = 7/Y",
+        "system": "GM"
+      },
+      {
+        "model": "GTO 5.7/6.0L",
+        "year": "2004-07",
+        "engine": "VIN position 8 = G/U",
+        "system": "GM"
+      },
+      {
+        "model": "Montana SV6 3.9L",
+        "year": "2006-07",
+        "engine": "VIN position 8 = 1",
+        "system": "GM"
+      },
+      {
+        "model": "Solstice 2.0/2.4L",
+        "year": "2006-09",
+        "engine": "VIN position 8 = B/X",
+        "system": "GM"
+      },
+      {
+        "model": "Torrent 3.4L",
+        "year": "2006-09",
+        "engine": "VIN position 8 = F",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1101",
+        "faultLocation": "Wiring, mechanical fault, engine coolant temperature (ECT) sensor, barometric pressure (BARO) sensor, intake air temperature (IAT) sensor, manifold absolute pressure (MAP) sensor, mass air flow (MAF) sensor, throttle position (TP) switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1106",
+        "faultLocation": "Wiring open circuit/short circuit to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1107",
+        "faultLocation": "Wiring short circuit to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1112",
+        "faultLocation": "Wiring short circuit to ground",
+        "probableCause": ""
+      },
+      {
+        "code": "P1114",
+        "faultLocation": "Wiring short circuit to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1121",
+        "faultLocation": "Wiring open circuit/short to positive, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1122",
+        "faultLocation": "Wiring open circuit/short to ground, poor connections",
+        "probableCause": ""
+      },
+      {
+        "code": "P1125",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1133",
+        "faultLocation": "Wiring, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1134",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1154",
+        "faultLocation": "Wiring, oxygen sensor heater, exhaust system leaking, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1174",
+        "faultLocation": "Intake/exhaust leak/blockage, mechanical fault, ignition control, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1175",
+        "faultLocation": "Intake/exhaust leak/blockage, mechanical fault, ignition control, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1380",
+        "faultLocation": "ASS trouble code(s) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1381",
+        "faultLocation": "Wiring, poor connections, ASS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Intake/exhaust leak/blockage, mechanical fault, idle speed control (ISC) system, ignition control , engine coolant temperature (ECT) sensor, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1404",
+        "faultLocation": "Wiring, poor connections, EGR valve position sensor, EGR solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "P1516",
+        "faultLocation": "Wiring, throttle valve sticking, throttle control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1600",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1621",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1627",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1640",
+        "faultLocation": "Wiring, ECM controlled components, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1650",
+        "faultLocation": "Wiring, ECM controlled components, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1660",
+        "faultLocation": "Wiring, ECM controlled components, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1668",
+        "faultLocation": "Wiring, voltage regulator, alternator, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P167A",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P167D",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1680",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1681",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1682",
+        "faultLocation": "Wiring, fuse(s), EC relay, starter motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1683",
+        "faultLocation": "Engine control module (ECM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1700",
+        "faultLocation": "OBO II TCM trouble codes stored",
+        "probableCause": ""
+      },
+      {
+        "code": "P1719",
+        "faultLocation": "Transmission fluid level, line pressure,stuck/sticking SS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1750",
+        "faultLocation": "Wiring, TCC solenoid/transmission shift control valve/transmission pressure control solenoid,ECMITCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1779",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1780",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1810",
+        "faultLocation": "Fluid level low, wiring, selector lever linkage incorrectly adjusted, ECMITCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1811",
+        "faultLocation": "Fluid level low, transmission mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1816",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted, TFP switch, ECMITCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1818",
+        "faultLocation": "Wiring, selector lever linkage incorrectly adjusted,TFP switch, ECMITCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1819",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1820",
+        "faultLocation": "Wiring short to ground, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1822",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1823",
+        "faultLocation": "Wiring short to ground, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1825",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1826",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1876",
+        "faultLocation": "Wiring, manual mode selection switch, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1877",
+        "faultLocation": "Wiring, transmission shift control switch, ECMITCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1887",
+        "faultLocation": "Wiring open circuit, TCC solenoid release switch, ECMITCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1915",
+        "faultLocation": "Wiring, TR switch",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Pontiac OBD/OBD2 Codes >> Bonneville 3.8L – Grand AM 3.3L – Trans Sport 3.8L (1992 – 1993)",
+    "url": "https://www.troublecodes.net/pontiac/bonneville-3-8l-grand-am-3-3l-trans-sport-3-8l-1992-1993/",
+    "vehicles": [
+      {
+        "model": "Bonneville 3.8L",
+        "year": "1992-93",
+        "engine": "VIN position 8 = L",
+        "system": "GM"
+      },
+      {
+        "model": "Grand AM 3.3L",
+        "year": "1992-93",
+        "engine": "VIN position 8 = N",
+        "system": "GM"
+      },
+      {
+        "model": "Trans Sport 3.8L",
+        "year": "1992-93",
+        "engine": "VIN position 8 = L",
+        "system": "GM"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL12",
+        "faultLocation": "No engine speed (RPM) signal received",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL13",
+        "faultLocation": "Wiring open Circuit, 02S/H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL14",
+        "faultLocation": "Wiring short circuit to ground, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL15",
+        "faultLocation": "Wiring open circuit, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL16",
+        "faultLocation": "Wiring, battery, alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL17",
+        "faultLocation": "Wiring, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL18",
+        "faultLocation": "Wiring, CMP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Wiring open circuit/short circuit to positive, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL22",
+        "faultLocation": "Wiring open circuit/short circuit to ground, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL23",
+        "faultLocation": "Wiring open circuit, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL24",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL25",
+        "faultLocation": "Wiring short circuit to ground, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL26",
+        "faultLocation": "Wiring, ECM controlled components, ECM 0",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL27",
+        "faultLocation": "Wiring open circuit/short circuit to ground, 2nd gear switch, 3rd gear switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL28",
+        "faultLocation": "Wiring open circuit/short circuit to ground, 2nd gear switch, 3rd gear switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL34",
+        "faultLocation": "Wiring, poor connections, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL36",
+        "faultLocation": "Wiring, 55, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL38",
+        "faultLocation": "Wiring, incorrectly adjusted, BPP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL39",
+        "faultLocation": "Wiring, TCC solenoid, transmission mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL41",
+        "faultLocation": "Wiring, CMP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL42",
+        "faultLocation": "Wiring, poor connections, ICM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL43",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL44",
+        "faultLocation": "Wiring open circuit/short circuit to ground, injector(s) blocked, fuel contamination, fuelpressure low, exhaust system leaking, 025/H025,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL45",
+        "faultLocation": "Wiring open circuit, fuel pressure high, injector(s) leaking, 025/H025, EVAP purge valve, throttle position (TP) sensor, EGR system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL48",
+        "faultLocation": "Ignition system, fuel system, 025, engine mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Poor connections, incorrect programming, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL53",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL54",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL55",
+        "faultLocation": "Wiring, EGR valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL56",
+        "faultLocation": "Wiring, ECM controlled components, ECM 0",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL61",
+        "faultLocation": "Wiring, solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL62",
+        "faultLocation": "Wiring, solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL63",
+        "faultLocation": "Wiring, poor connections, accelerator cable sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL65",
+        "faultLocation": "Wiring, poor connections, servo position sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL66",
+        "faultLocation": "Incorrect refrigerant charge, wiring, AlC refrigerant pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL67",
+        "faultLocation": "Wiring, poor connections, cruise control master switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL68",
+        "faultLocation": "Wiring, poor connections, accelerator cable sticking",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL69",
+        "faultLocation": "Wiring open circuit, AlC refrigerant pressure switch,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL99",
+        "faultLocation": "Accelerator cable sticking, brake vacuum release valve, cruise control actuator",
+        "probableCause": ""
+      }
+    ]
+  }
+]

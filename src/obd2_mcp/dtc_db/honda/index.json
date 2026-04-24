@@ -1,0 +1,14 @@
+{
+  "name": "Honda",
+  "slug": "honda",
+  "totalCodes": 364,
+  "totalSubmodels": 22,
+  "totalDetails": 0,
+  "totalProcedures": 20,
+  "codeTypes": {
+    "P": 364,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

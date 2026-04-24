@@ -1,0 +1,14 @@
+{
+  "name": "Mercedes-Benz",
+  "slug": "mb",
+  "totalCodes": 106,
+  "totalSubmodels": 4,
+  "totalDetails": 0,
+  "totalProcedures": 4,
+  "codeTypes": {
+    "P": 106,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

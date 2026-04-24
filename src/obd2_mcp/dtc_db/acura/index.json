@@ -1,0 +1,14 @@
+{
+  "name": "Acura",
+  "slug": "acura",
+  "totalCodes": 221,
+  "totalSubmodels": 24,
+  "totalDetails": 0,
+  "totalProcedures": 11,
+  "codeTypes": {
+    "P": 221,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

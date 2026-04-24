@@ -1,0 +1,14 @@
+{
+  "name": "Kia",
+  "slug": "kia",
+  "totalCodes": 134,
+  "totalSubmodels": 2,
+  "totalDetails": 0,
+  "totalProcedures": 2,
+  "codeTypes": {
+    "P": 134,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

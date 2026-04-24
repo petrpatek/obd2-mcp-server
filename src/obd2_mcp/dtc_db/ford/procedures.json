@@ -1,0 +1,608 @@
+[
+  {
+    "title": "Ford OBD/OBD2 Codes >> Aerostar Van/Wagon – Bronco – Econoline/Club Wagon – Explorer – F-Series – Ranger (1992 – 1997)",
+    "url": "https://www.troublecodes.net/ford/aerostar-vanwagon-bronco-econolineclub-wagon-explorer-f-series-ranger-1992-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using an analogue voltmeter or Scan Tool connected to the data link connectors (DLC) 1 and 2:",
+          "o Automatic transmission in ‘PARK’.",
+          "o All auxiliary equipment, including air conditioning, switched OFF.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If engine does not start or stalls: Continue with KOEO test.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "4.9L MT: Depress clutch pedal for entire accessing procedure.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 6.",
+          "Switch ignition ON .",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Each trouble code is displayed twice. Firstly for present faults followed by those for memorized faults as follows:",
+          "A 6-9 second pause [8] [B] indicates the end of trouble code output for present faults [8] [A] .",
+          "A 0.5 second flash (separator code) [8] [C], followed by a 6-9 second pause [8] [D] indicates the start of trouble code output for memorized faults [8] [E].",
+          "Trouble codes for memorized faults displayed in the same manner as those for present faults.",
+          "Switch ignition OFF.",
+          "Remove jump lead.",
+          "4.9L MT: Release clutch pedal.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 9.",
+          "Set analogue voltmeter to a DC voltage range of 0-20 V.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If engine does not start or stalls: Continue with KOEO test.",
+          "4.9L MT: Depress clutch pedal for entire accessing procedure.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 1iJ.",
+          "Switch ignition ON.",
+          "Switch ignition OFF.",
+          "Remove jump lead and voltmeter.",
+          "4.9L MT: Release clutch pedal.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Increase engine speed to over 2000 rpm for 2 minutes.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 6.",
+          "Start engine.",
+          "Engine identification code displayed as follows:",
+          "o 4 cylinder: Two 0.5 second flashes.",
+          "o 6 cylinder: Three 0.5 second flashes.",
+          "o 8 cylinder: Four 0.5 second flashes.",
+          "o For example: 6 cylinder engine identified 10[A].",
+          "With PSP switch: Within 1-2 seconds, tum steering wheel at least Y. a tum and release.",
+          "With BPP switch: Oepress and release brake pedal.",
+          "If fitted: Operate overdrive selection switch twice.",
+          "If after 6-20 seconds 10 [B], a single 0.5 second flash is displayed (dynamic response signal) 10 [C]: Briefly fully open throttle.",
+          "Trouble codes displayed for present faults after 4-15 second pause [10] [D].",
+          "Fast OTCs are issued for Scan Tool during 4-15 second pause [10] [E].",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Trouble codes for KOER test are displayed in the same manner as those for KOEO test [10] [F].",
+          "For example: Three digit trouble code 111 is displayed [10] . No fault found.",
+          "Switch ignition OFF.",
+          "Remove jump lead.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 6.",
+          "Switch ignition ON.",
+          "When trouble codes start to be displayed: Remove jump lead.",
+          "Switch ignition OFF.",
+          "Repeat accessing procedure to ensure no memorized trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "If emission related component(s) have been replaced :",
+          "o Disconnect battery ground cable for at least 5 minutes to erase adaptive memory from ECM.",
+          "o If required: Drive vehicle for 10 miles or more to allow ECM to relearn basic values.",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 9.",
+          "Set analogue voltmeter to a DC voltage range of 0-20 V.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 9.",
+          "Switch ignition ON .",
+          "When trouble codes start to be displayed: Remove jump lead.",
+          "Switch ignition OFF.Repeat accessing procedure to ensure nomemorized trouble codes remain in ECM fault memory.",
+          "Repeat accessing procedure to ensure no",
+          "memorized trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "If emission related component(s) have been replaced:",
+          "o Disconnect battery ground cable for at least 5 minutes to erase adaptive memory from ECM.",
+          "o If required: Drive vehicle for 10 miles or more to allow ECM to relearn basic values."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> EEC IV Self Test – Ford Fuel Injection and EEC IV Electronic Engine Control – EEC 4",
+    "url": "https://www.troublecodes.net/ford/eectest",
+    "procedures": [
+      {
+        "heading": "CODE TYPES",
+        "type": "reference",
+        "steps": [
+          "NOTE: Some people have problems distinguishing the different codes.",
+          "READ THIS SECTION CAREFULLY.",
+          "There are drawings of the code formats at the end of this section."
+        ]
+      },
+      {
+        "heading": "CODE FORMATS",
+        "type": "reference",
+        "steps": [
+          "Codes are output as a series of pulses. The following charts show the (approximate) timing of the various code pulses.",
+          "NOTE: Two digit codes are shown. Three digit codes have similar timing. It just takes a little practice to distinguish between two and three digit types."
+        ]
+      },
+      {
+        "heading": "TESTS",
+        "type": "test",
+        "steps": [
+          "NOTE: Vehicle should be fully warmed for all tests."
+        ]
+      },
+      {
+        "heading": "Hookup",
+        "type": "test",
+        "steps": [
+          "See figure below. EEC IV vehicles have two connectors for self testing the system. They are located on the firewall or the left or right front fender. The large connector contains the self test output (STO) and ground (SIG RTN). The small pigtail is the self test input (STI)."
+        ]
+      },
+      {
+        "heading": "Key On Engine Off (KOEO) Test",
+        "type": "test",
+        "steps": [
+          "NOTE: On 4.9L trucks with a manual transmission hold the clutch pedal in during this test. On Diesel engine trucks hold the throttle to the floor during this test.",
+          "Make sure engine is fully warmed. If in doubt, run engine at 2000 rpm for 2 minutes.",
+          "Turn ignition off and wait 10 seconds for system to shut off. Make sure A/C is off and transmission is in Park (automatic) or Neutral (manual).",
+          "Hook up light and jumper (or a tester if you have one). Turn key to ON (do not start engine).",
+          "Fast Codes are output (ignore fast light flashes).",
+          "NOTE: Unhook self test input jumper (or tester if used) at any time during code output to erase memory.",
+          "Read hard faults.",
+          "Separator Pulse.",
+          "Read memory codes.",
+          "See code explanations and check components as necessary.",
+          "Use FIRST CODE OUTPUT and retest after any repairs are made."
+        ]
+      },
+      {
+        "heading": "Key On Engine Running (KOER) Test",
+        "type": "test",
+        "steps": [
+          "Make sure engine is fully warmed. If in doubt, run engine at 2000 rpm for 2 minutes.",
+          "Turn ignition off and wait 10 seconds for system to shut off. Make sure A/C is off and transmission is in Park (automatic) or Neutral (manual).",
+          "Hook up light and jumper (or tester if you have one).",
+          "Make sure vehicle is safe to run and start engine.",
+          "Engine I.D. should be output.",
+          "Step on brake and turn steering wheel 1/4 turn.",
+          "If the vehicle has an overdrive cancel switch, push it.",
+          "If a “Goose” pulse is received, move throttle quickly 1/2 way down and release.",
+          "Fast Codes are output (ignore).",
+          "Read codes.",
+          "See code explanations and check components as necessary.",
+          "Use FIRST CODE OUTPUT and retest after any repairs are made."
+        ]
+      },
+      {
+        "heading": "Cylinder Balance Test",
+        "type": "test",
+        "steps": [
+          "NOTE: This test is only available on Sequential Fuel Injection (SFI) Engines.",
+          "Start an engine running test and press the accelerator lightly within 2 minutes after the last code is output. The PCM will cancel each cylinder in turn and measure the RPM drop. If any weak cylinders are noted their number will be output as a multiple of 10 (e.g. 30, 40). The output is the actual cylinder number, not the number in the firing order. NOTE: Will not always pinpoint bad injectors."
+        ]
+      },
+      {
+        "heading": "Wiggle Test",
+        "type": "test",
+        "steps": [
+          "Engine running or engine off tests",
+          "Hook up for a self test but do not hook up the self test trigger. Turn key to on. Hook up the trigger, wait 10 seconds and disconnect. Hook up trigger again . Tap suspected sensors (be careful if engine is running), wiggle the wiring harnesses etc. IF the PCM picks up a fault the self test output will pulse and a memory code will be stored (The value of this is questionable. I NEVER located a problem with it. – JT)."
+        ]
+      },
+      {
+        "heading": "Memory Erase",
+        "type": "clearing",
+        "steps": [
+          "To erase the memory disconnect the self test trigger while the codes are being output. You COULD also disconnect the battery but then the PCM forgets some important running characteristics."
+        ]
+      },
+      {
+        "heading": "Output State Test",
+        "type": "test",
+        "steps": [
+          "NOTE: Do not perform on E4OD diesel.",
+          "Run the KOEO test all the way through and leave the test hooked up.",
+          "Cycle throttle 3/4 open and closed while watching tester, light or voltmeter. Self test output will switch with every throttle activation. On some testers (like my old pocket testers) the light will only pulse every other push. But the outputs still switch EVERY time.",
+          "Solenoids (EGR etc.) will switch on or off with every throttle activation (push throttle they’re on, push throttle they’re off). You should be able to hear clicks as the solenoids switch states. The test will work for most solenoids: AIRB, AIRD, BOOST, EGR, EVR (NOTE: EVR does not click but vacuum cycles). Below is a graphic example of Output State test."
+        ]
+      },
+      {
+        "heading": "IGNITION TIMING TESTS",
+        "type": "test",
+        "steps": [
+          "NOTE: Timing is not adjustable on Electronic Ignition",
+          "Engine off. Unplug the SPOUT connector in the (usually) yellow wire coming from the distributor connector (either in-line or shorting plug see figure below).",
+          "Restart engine, and with a timing light, set to specifications on decal (usually 10 degrees BTDC). Shut off engine and reconnect SPOUT wire.",
+          "To check timing advance the SPOUT must be hooked up. Start a running EEC test and when test starts (RPM’s go up) check the timing.",
+          "It should be advanced about 20 degrees (plus or minus 3 degrees) more than the original base timing. Since base timing is usually 10 degrees BTDC then the advance is usually to 30 degrees BTDC."
+        ]
+      },
+      {
+        "heading": "INTERMITTENT WIRING FAULTS",
+        "type": "reference",
+        "steps": [
+          "The first thing to do for wiring faults is an inspection. Checking the wiring CAREFULLY can make a long job into a quick one. Get into the habit of doing a quick wire harness check first.",
+          "Typical bad spots are where wiring runs across engine brackets or body parts. If you see a harness that’s laying on any of these areas pick it up and look underneath for shiny metal showing through.",
+          "If you have a persistent problem that needs to be fixed, there are a few ways you can check for intermittent faults."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Crown Victoria – Focus – Mustang Cobra/GT/Mach – Taurus – Thunderbird (2003 – 2007)",
+    "url": "https://www.troublecodes.net/ford/crown-victoria-focus-mustang-cobragtmach-taurus-thunderbird-2003-2007/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Probe 2.5L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/ford/probe-2-5l-1993-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate continuously if permanent faults are recorded.",
+          "Malfunction indicator lamp (MIL) will illuminate briefly and then switch off if intermittent faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using an analogue voltmeter or Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Access data link connector (DLC) 1",
+          "Jump data link connector (DLC) terminals STI and GNO 2",
+          "Switch ignition ON .",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table .",
+          "Switch ignition OFF.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) 1"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable.",
+          "Depress brake pedal for 5-10 seconds.",
+          "Reconnect battery ground cable.",
+          "Repeat accessing procedure to ensure no trouble codes remain in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Aerostar/Bronco – Ecoline/Club Wagon – Escape/Excursion – Expedition/Explorer – F-Series – Ranger – Windstar (1995 – 2002)",
+    "url": "https://www.troublecodes.net/ford/aerostarbronco-ecolineclub-wagon-escapeexcursion-expeditionexplorer-f-series-ranger-windstar-1995-2002/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Crown Victoria – Mustang Cobra/LX/GT – Taurus – Thunderbird (1992 – 1995)",
+    "url": "https://www.troublecodes.net/ford/crown-victoria-mustang-cobralxgt-taurus-thunderbird-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using an analogue voltmeter or Scan Tool connected to the data link connectors (DLC) 1 and 2:",
+          "Automatic transmission in ‘PARK’.",
+          "All auxiliary equipment, including air conditioning, switched OFF.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If engine does not start or stalls: Continue with KOEO test.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC ).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 6.",
+          "Switch ignition ON.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Each trouble code is displayed twice. Firstly for present faults followed by those for memorized faults as follows:",
+          "Switch ignition OFF.",
+          "Remove jump lead.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive [9].",
+          "Set analogue voltmeter to a DC voltage range of 0-20 V.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If engine does not start or stalls: Continue with KOEO test.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) [9].",
+          "Count voltmeter needle deflections. Note trouble codes. Compare with trouble code table.",
+          "Each trouble code is displayed twice. Firstly for present faults followed by those for memorized faults as follows:",
+          "Switch ignition OFF.",
+          "Remove jump lead and voltmeter.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Increase engine speed to over 2000 rpm for 2 minutes.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 6.",
+          "Start engine.",
+          "Engine identification code displayed as follows:",
+          "With PSP switch: Within 1-2 seconds, turn steering wheel at least 1/2 a turn and release.",
+          "With BPP switch: Depress and release brake pedal.",
+          "If fitted: Operate overdrive selection switch twice.",
+          "If after 6-20 seconds [10] [B], a single 0.5 second flash is displayed (dynamic response signal) [10] [C]: Briefly fully open throttle.",
+          "Trouble codes displayed for present faults after 4-15 second pause [10] [D].",
+          "Fast OTCs are issued for Scan Tool during 4-15 second pause [10] [E].",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Trouble codes for KOER test are displayed in the same manner as those for KOEO test [Ii] [F].",
+          "For example: Three digit trouble code 111 is displayed [10] . No fault found .",
+          "Switch ignition OFF.",
+          "Remove jump lead.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Ensure ignition switched OFF.",
+          "If fitted : Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 9",
+          "Set analogue voltmeter to a OC voltage range of 0-20 V.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Increase engine speed to over 2000 rpm for 2 minutes.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 9.",
+          "Start engine.",
+          "Engine identification code displayed as follows:",
+          "With PSP switch: Within 1-2 seconds, tum steering wheel at least 1/2 a turn and release.",
+          "With BPP switch: Depress and release brake pedal.",
+          "If fitted: Operate overdrive selection switch twice.",
+          "If after 6-20 seconds [10] [B], a single 0.5 second needle deflection is displayed (dynamic response signal) [10] [C]: Briefly fully open throttle.",
+          "Trouble codes displayed for present faults after 4-15 second pause 10 [D].",
+          "Fast OTCs are issued for Scan Tool during 4-15 second pause 10 [E].",
+          "Count needle deflections. Note trouble codes. Compare with trouble code table.",
+          "Trouble codes for KOER test are displayed in the same manner as those for KOEO test 10 [F].",
+          "For example: Three digit trouble code 111 is displayed 10. No fault found.",
+          "Switch ignition OFF.",
+          "Remove jump lead and voltmeter.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) [6].",
+          "Switch ignition ON.",
+          "When trouble codes start to be displayed: Remove jump lead.",
+          "Switch ignition OFF.",
+          "Repeat accessing procedure to ensure no memorized trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "If emission related component(s) have been replaced:",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 9",
+          "Set analogue voltmeter to a DC voltage range of 0-20 V.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 9.",
+          "Switch ignition ON.",
+          "When trouble codes start to be displayed: Remove jump lead.",
+          "Switch ignition OFF.",
+          "Repeat accessing procedure to ensure no memorized trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "If emission related component(s) have been replaced:"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> E-Series/Econoline/Club Wagon – Escape – Excursion – Expedition – Explorer/Sport/Sport Trac – Freestar – F-Series – Ranger – Windstar (2003 – 2009)",
+    "url": "https://www.troublecodes.net/ford/e-serieseconolineclub-wagon-escape-excursion-expedition-explorersportsport-trac-freestar-f-series-ranger-windstar-2003-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "o Excursion/Expedition/F-Super Duty",
+          "o Explorer/Escape/Freestar",
+          "o E-Series/Econoline/Club Wagon/Ranger/F-1501 Windstar"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Aspire – Contour – Crown Victoria – Escort – Focus – Mustang – Probe – Taurus – Thunderbird (1994 – 2002)",
+    "url": "https://www.troublecodes.net/ford/aspire-contour-crown-victoria-escort-focus-mustang-probe-taurus-thunderbird-1994-2002/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> E-Series/Econoline/Club Wagon – Excursion – F-Series (2003 – 2008)",
+    "url": "https://www.troublecodes.net/ford/e-serieseconolineclub-wagon-excursion-f-series-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "o E-Series/Econoline/Club Wagon 1",
+          "o Excursion/F-Series 2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Contour – Escort – Mustang – Probe – Taurus – Tempo (1992 – 1995)",
+    "url": "https://www.troublecodes.net/ford/contour-escort-mustang-probe-taurus-tempo-1992-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using an analogue voltmeter or Scan Tool connected to the data link connectors (DLC) 1 and 2:",
+          "Automatic transmission in ‘PARK’.",
+          "All auxiliary equipment, including air conditioning, switched OFF.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If engine does not start or stalls: Continue with KOEO test.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 7.",
+          "Switch ignition ON.",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Each trouble code is displayed twice. Firstly for present faults followed by those for memorized · faults as follows:",
+          "Switch ignition OFF.",
+          "Remove jump lead.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 10 .",
+          "Set analogue voltmeter to a OC voltage range of 0-20 V.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If engine does not start or stalls: Continue with KOEO test.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 10 .",
+          "Switch ignition ON.",
+          "Count voltmeter needle deflections. Note trouble codes. Compare with trouble code table.",
+          "Each trouble code is displayed twice. Firstly for present faults followed by those for memorized faults as follows:",
+          "Switch ignition OFF.",
+          "Remove jump lead and voltmeter.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Increase engine speed to over 2000 rpm for 2 minutes.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 7.",
+          "Start engine.",
+          "Engine identification code displayed as follows:",
+          "With PSP switch: Within 1-2 seconds, turn steering wheel at least 1/2 a turn and release.",
+          "With BPP switch: Depress and release brake pedal.",
+          "If fitted: Operate overdrive selection switch twice.",
+          "If after 6-20 seconds 11 [B], a single 0.5 second flash is displayed (dynamic response signal) 11 [C]: Briefly fully open throttle.",
+          "Trouble codes displayed for present faults after 4-15 second pause 11 [D].",
+          "Fast OTCs are issued for Scan Tool during 4-15 second pause 11 [E].",
+          "Count MIL flashes. Note trouble codes. Compare with trouble code table.",
+          "Trouble codes for KOER test are displayed in the same manner as those for KOEO test 11[F].",
+          "For example: Three digit trouble code 111 is displayed [11]. No fault found.",
+          "Switch ignition OFF.",
+          "Remove jump lead.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 10.",
+          "Set analogue voltmeter to a DC voltage range of 0-20 V.",
+          "Start engine.",
+          "Allow to idle until engine at normal operating temperature.",
+          "Increase engine speed to over 2000 rpm for 2 minutes.",
+          "Switch ignition OFF.",
+          "Wait 10 seconds.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 10.",
+          "Start engine.",
+          "Engine identification code displayed as follows:",
+          "With PSP switch: Within 1-2 seconds, turn steering wheel at least 1/2 a tum and release.",
+          "With BPP switch: Depress and release brake pedal.",
+          "If fitted: Operate overdrive selection switch twice.",
+          "If after 6-20 seconds 11 [B], a single 0.5 second needle deflection is displayed (dynamic response signal) 11 [C]: Briefly fully open throttle.",
+          "Trouble codes displayed for present faults after 4-15 second pause 11 [D].",
+          "Fast DTCs are issued for Scan Tool during 4-15 second pause 11 [E].",
+          "Count needle deflections. Note trouble codes. Compare with trouble code table.",
+          "Trouble codes for KOER test are displayed in the same manner as those for KOEO test 11[F].",
+          "For example: Three digit trouble code 111 is displayed [11]. No fault found.",
+          "Switch ignition OFF.",
+          "Remove jump lead and voltmeter.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connectors (DLC) 1 and 2."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 7.",
+          "Switch ignition ON.",
+          "When trouble codes start to be displayed: Remove jump lead.",
+          "Switch ignition OFF.",
+          "Repeat accessing procedure to ensure no memorized trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "If emission related component(s) have been replaced:",
+          "Ensure ignition switched OFF.",
+          "If fitted: Remove ‘EEC TEST’ cover to access data link connector (DLC).",
+          "Connect an analogue voltmeter between data link connector (DLC) 2 terminal 4 (STO) and battery (12 volt) positive 10.",
+          "Set analogue voltmeter to a DC voltage range of 0-20 V.",
+          "Jump DLC 1 terminal (STI) to DLC 2 terminal 2 (SIG RTN) 10 .",
+          "Switch ignition ON.",
+          "When trouble codes start to be displayed: Remove jump lead .",
+          "Switch ignition OFF.",
+          "Repeat accessing procedure to ensure no memorized trouble codes remain in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connectors (DLC) 1 and 2.",
+          "If emission related component(s) have been replaced :"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ford OBD/OBD2 Codes >> Crown Victoria – Flex – Focus – Mustang (2005 – 2009)",
+    "url": "https://www.troublecodes.net/ford/crown-victoria-flex-focus-mustang-2005-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  }
+]

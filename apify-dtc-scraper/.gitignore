@@ -1,0 +1,5 @@
+node_modules/
+storage/
+apify_storage/
+.venv/
+dist/

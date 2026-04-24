@@ -1,0 +1,1295 @@
+[
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 86 Celica 86-87 Corolla/Sport/MR2 87-88 Pickup/4Runner",
+    "url": "https://www.troublecodes.net/toyota/toyota-86-celica-86-87-corollasportmr2-87-88-pickup4runner",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Corolla – jump DLC terminals 1 and 2 with a short lead 1",
+          "Corolla sport – jump DLC terminals T and E1 with a short lead 2",
+          "MR2 – jump DLC terminals T and E1 with a short lead 3",
+          "Celica – jump DLC terminals T and E1 with a short lead 4",
+          "4Runner/Pickup – jump DLC terminals T and E1 with a short lead 5",
+          "Count MIL flashes and compare with trouble code table below",
+          "Trouble codes are indicated by 0.5 second flashes",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Corolla/Sport – remove STOP fuse (15A) from LH kick panel fusebox for 10 seconds minimum",
+          "MR2 – remove AM2 fuse (7.5A) from No.2 underhood fusebox for 10 seconds minimum",
+          "Celica – remove EFI fuse (15A) from underhood fusebox for 10 seconds minimum",
+          "4Runner/Pickup – remove EFI fuse (15A) from LH kick panel fusebox for 30 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 86 4Runner or Pickup 2.4L",
+    "url": "https://www.troublecodes.net/toyota/toyota-86-4runner-or-pickup-2-4l",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes.",
+          "Switch ignition ON. Do NOT start engine.",
+          "Jump DLC terminals 1 and 2 with a short lead 1",
+          "Count MIL flashes and compare with trouble code table below",
+          "Trouble codes are indicated by 0.5 second flashes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Remove EFI fuse (15A) from LH kick panel fusebox for 30 seconds minimum 3",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 86-89 Cressida & Supra 86-92 3.0L",
+    "url": "https://www.troublecodes.net/toyota/toyota-86-89-cressida-supra-86-92-3-0l",
+    "procedures": [
+      {
+        "heading": "Accessing – MIL",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON",
+          "Check MIL illuminates",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – without Super monitor display",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine",
+          "Cressida – jump DLC terminals T and E1 with a short lead 1",
+          "Supra – jump DLC terminals T and E1 with a short lead 2",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "The MIL flashes once every 0.25 seconds if the system is correct",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Accessing -with Super monitor display",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Push and hold the SELECT and INPUT M keys simultaneously for 3 seconds minimum, DIAG should appear on the screen",
+          "Push and hold the SET key for 3 seconds minimum",
+          "The screen will show if the system is OK or if any trouble codes are recorded:",
+          "Cressida – 5",
+          "Supra – 6",
+          "A 3 second pause occurs between codes",
+          "After reading trouble codes either switch ignition OFF or press any key (except SET) to bring clock back",
+          "Switch ignition OFF"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Cressida – remove EFI fuse (15A) from underhood fusebox for 30 seconds minimum",
+          "Supra – remove EFI fuse (15A) from No.2 underhood fusebox for 30 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 87-92 Supra 3.0L Turbo",
+    "url": "https://www.troublecodes.net/toyota/toyota-87-92-supra-3-0l-turbo",
+    "procedures": [
+      {
+        "heading": "Accessing – MIL",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON",
+          "Check MIL illuminates",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – without Super monitor display",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine",
+          "Jump DLC terminals T and E1 with a short lead 1",
+          "Count MIL flashes and compare with trouble code table",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "The MIL flashes once every 0.25 seconds if the system is correct",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Accessing -with Super monitor display",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Push and hold the SELECT and INPUT M keys simultaneously for 3 seconds minimum, DIAG should appear on the screen",
+          "Push and hold the SET key for 3 seconds minimum",
+          "The screen will show if the system is OK or if any trouble codes are recorded 4",
+          "A 3 second pause occurs between codes",
+          "After reading trouble codes either switch ignition OFF or press any key (except SET) to bring clock back",
+          "Switch ignition OFF"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Cressida – remove EFI fuse (15A) from underhood fusebox for 30 seconds minimum",
+          "Supra – remove EFI fuse (15A) from No.2 underhood fusebox for 30 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 88-94 Land Cruiser 4.0L",
+    "url": "https://www.troublecodes.net/toyota/toyota-88-94-land-cruiser-4-0l",
+    "procedures": [
+      {
+        "heading": "Accessing – MIL",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON",
+          "Check MIL illuminates",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine",
+          "1988-90 – jump DLC terminals T and E1 with a short lead 1",
+          "1991-94 – jump DLC terminals T and E1 with a short lead 2",
+          "Count MIL flashes and compare with trouble code table",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "The MIL flashes once every 0.25 seconds if the system is correct",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "1988-90 – remove EFI fuse (15A) from LH fascia panel fusebox for 30 seconds minimum 5",
+          "1991-94 – remove EFI fuse (15A) from underhood fusebox for 30 seconds minimum 6",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 88-91 Pickup or 4Runner",
+    "url": "https://www.troublecodes.net/toyota/toyota-88-91-pickup-or-4runner",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Jump DLC terminals T and E1 with a short lead 1",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "1988 4Runner/Pickup – remove EFI fuse (15A) from LH kick panel fusebox for 30 seconds minimum 4",
+          "1989 on 4Runner/Pickup – remove EFI fuse (15A) from underhood fusebox for 30 seconds minimum 4",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 90-93 Celica & 89-92 Corolla",
+    "url": "https://www.troublecodes.net/toyota/toyota-90-93-celica-89-92-corolla",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Corolla – jump DLC terminals T and E1 with a short lead 1",
+          "Celica – jump DLC terminals T and E1 with a short lead 2",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Corolla – remove STOP fuse (15A) from LH kick panel fusebox. 5 Wait 60 seconds.",
+          "Celica – remove EFI fuse (15A) from underhood fusebox. 6 Wait 20 seconds.",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 91-95 MR2 5S-FE or 92-95 Paseo 5E-FE",
+    "url": "https://www.troublecodes.net/toyota/toyota-91-95-mr2-5s-fe-or-92-95-paseo-5e-fe",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates",
+          "Switch ignition OFF",
+          "Paseo – Jump DLC terminals TE1 and E1 with a short lead 1",
+          "MR2 – Jump DLC terminals TE1 and E1 with a short lead 2",
+          "Switch ignition ON",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Paseo – remove EFI fuse (15A) from underhood fusebox 5",
+          "MR2 – remove EFI fuse (15A) from underhood fusebox 6",
+          "Wait 30 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Camry Cressida",
+    "url": "https://www.troublecodes.net/toyota/toyota-camry-cressida",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates",
+          "Switch ignition OFF",
+          "Cressida – jump DLC terminals TE1 and E1 with a short lead 1 or 2",
+          "Camry – jump DLC terminals TE1 and E1 with a short lead 1 or 3",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead",
+          "Carry out preparatory conditions",
+          "Jump DLC terminals TE2 and E1 with a short lead 1",
+          "Switch ignition ON. Do NOT start engine",
+          "Check MIL is flashing to confirm test mode is operating",
+          "NOTE: Test mode will not be activated if the DLC terminals are connected after the ignition switch is turned ON.",
+          "Start the engine",
+          "Drive vehicle over 10 mph to simulate possible fault conditions",
+          "Stop vehicle",
+          "Jump DLC terminals TE1 and E1 with a short lead 1",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Remove jump leads"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Cressida – Remove EFI fuse (20A) from underhood fusebox 6",
+          "Wait 20 seconds",
+          "Camry – Remove EFI fuse (15A) from underhood fusebox 7",
+          "Wait 30 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 92-93 Camry & Camry Wagon 3.0L 3VZ-FE",
+    "url": "https://www.troublecodes.net/toyota/toyota-92-93-camry-camry-wagon-3-0l-3vz-fe",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates",
+          "Switch ignition OFF",
+          "Jump DLC terminals TE1 and E1 with a short lead 1",
+          "Switch ignition ON",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead",
+          "Carry out preparatory conditions",
+          "Jump DLC terminals TE2 and E1 with a short lead 1",
+          "Switch ignition ON. Do NOT start engine",
+          "Check MIL is flashing to confirm test mode is operating",
+          "NOTE: Test mode will not be activated if the DLC terminals are connected after the ignition switch is turned ON.",
+          "Start the engine",
+          "Drive vehicle over 10 mph to simulate possible fault conditions",
+          "Stop vehicle",
+          "Jump DLC terminals TE1 and E1 with a short lead 1",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Remove jump leads"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Remove EFI fuse (15A) from underhood fusebox",
+          "Wait 30 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 92-95 Pickup or 4Runner 3.0L or 93-94 T100 3.0L",
+    "url": "https://www.troublecodes.net/toyota/toyota-92-95-pickup-or-4runner-3-0l-or-93-94-t100-3-0l",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates",
+          "Switch ignition OFF",
+          "4Runner/Pickup – jump DLC terminals TE1 and E1 with a short lead 1",
+          "T100 Pickup – jump DLC terminals TE1 and E1 with a short lead 2",
+          "Switch ignition ON",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead",
+          "Carry out preparatory conditions",
+          "4Runner/Pickup – jump DLC terminals TE2 and E1 with a short lead 1",
+          "T100 Pickup – jump DLC terminals TE2 and E1 with a short lead 2",
+          "Switch ignition ON. Do NOT start engine",
+          "Check MIL is flashing to confirm test mode is operating",
+          "NOTE: Test mode will not be activated if the DLC terminals are connected after the ignition switch is turned ON.",
+          "Start the engine",
+          "Drive vehicle over 10 mph to simulate possible fault conditions",
+          "Stop vehicle",
+          "Jump DLC terminals TE1 and E1 with a short lead 1 or 2",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Remove jump leads"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Corolla – remove EFI fuse (15A) from underhood fusebox 5",
+          "Celica – remove EFI fuse (15A) from underhood fusebox 6",
+          "Wait 30 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Celica 94-95 & Corolla 93-95",
+    "url": "https://www.troublecodes.net/toyota/toyota-celica-94-95-corolla-93-95",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates",
+          "Switch ignition OFF",
+          "Corolla – jump DLC terminals TE1 and E1 with a short lead 1",
+          "Celica – jump DLC terminals TE1 and E1 with a short lead 2",
+          "Switch ignition ON",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead",
+          "Carry out preparatory conditions",
+          "Corolla – jump DLC terminals TE2 and E1 with a short lead 1",
+          "Celica – jump DLC terminals TE2 and E1 with a short lead 2",
+          "Switch ignition ON. Do NOT start engine",
+          "Check MIL is flashing to confirm test mode is operating",
+          "NOTE: Test mode will not be activated if the DLC terminals are connected after the ignition switch is turned ON.",
+          "Start the engine",
+          "Drive vehicle over 10 mph to simulate possible fault conditions",
+          "Stop vehicle",
+          "Jump DLC terminals TE1 and E1 with a short lead 1 or 2",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Remove jump leads"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Corolla – remove EFI fuse (15A) from underhood fusebox 5",
+          "Celica – remove EFI fuse (15A) from underhood fusebox 6",
+          "Wait 30 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner 2.7L – Previa 2.4L – T100 Pickup 2.7L – Tacoma 2.4/2.7L (1994 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-2-7l-previa-2-4l-t100-pickup-2-7l-tacoma-2-42-7l-1994-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 60 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner – Camry – Highlander – Sienna – Yaris (2003 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-camry-highlander-sienna-yaris-2003-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner – Land Cruiser – Sequoia – Tundra (1998 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-land-cruiser-sequoia-tundra-1998-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 60 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Avalon – Camry/Solara – Echo – Sienna (1994 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/avalon-camrysolara-echo-sienna-1994-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 60 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Celica 1.8/2.2L – Corolla 1.6/1.8L (1993 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/celica-1-82-2l-corolla-1-61-8l-1993-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "ECM trouble codes can be displayed by the MIL or accessed with suitable code reader connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Accessing – Normal mode",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "Switch ignition OFF.",
+          "Corolla- jump DLC terminals TE1 and E1 with a short lead [1]",
+          "Celica- jump DLC terminals TE1 and E1 with a short lead [2]",
+          "Switch ignition ON.",
+          "Count MIL flashes and compare with trouble code table.",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’ [3]",
+          "A 2.5 second pause occurs between codes.",
+          "After a 4.5 second pause, trouble codes will be repeated.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Accessing – Test mode",
+        "type": "accessing",
+        "steps": [
+          "Carry out preparatory conditions as in normal mode.",
+          "Corolla- jump DLC terminals TE2 and E1 with a short lead [1].",
+          "Celica- jump DLC terminals TE2 and E1 with a short lead [2]",
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL is flashing to confirm test mode is operating.",
+          "Start the engine.",
+          "Drive vehicle over 10 mph to simulate possible fault conditions.",
+          "Stop vehicle.",
+          "Jump DLC terminals TE1 and E1 with a short lead [1] or [2]",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump leads."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Corolla- remove EFI fuse (15A) from underhood fusebox [5].",
+          "Celica- remove EFI fuse (15A) from underhood fusebox [6]",
+          "Wait 30 seconds.",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Land Cruiser 4.0L (1988 – 1994)",
+    "url": "https://www.troublecodes.net/toyota/land-cruiser-4-0l-1988-1994/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by the MIL or accessed with suitable code reader connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Accessing – MIL",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON.",
+          "Check MIL illuminates.",
+          "Start engine. Allow to idle.",
+          "If MIL extinguishes, no trouble codes have been recorded.",
+          "If MIL remains illuminated, access trouble codes."
+        ]
+      },
+      {
+        "heading": "Accessing – trouble codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "1988-90- jump DLC terminals Tand E1 with a short lead [1]",
+          "1991-94- jump DLC terminals Tand E1 with a short lead [2]",
+          "Count MIL flashes and compare with trouble code table.",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’ [3]",
+          "A 2.5 second pause occurs between codes.",
+          "After a 4.5 second pause, trouble codes will be repeated.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "1988-90 :- remove EFI fuse (15A) from LH fascia panel fusebox for 30 seconds minimum [5]",
+          "1991-94 -remove EFI fuse (15A) from underhood fusebox for 30 seconds minimum [6]",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Land Cruiser 4.5L (1993 – 1994)",
+    "url": "https://www.troublecodes.net/toyota/land-cruiser-4-5l-1993-1994/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "ECM trouble codes can be accessed with suitable code reader connected to the data link connector (DLC) [1] or displayed by the MIL."
+        ]
+      },
+      {
+        "heading": "Accessing – Normal mode",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "Switch ignition OFF.",
+          "Jump DLC terminals TE1 and E1 with a short lead [1].",
+          "Switch ignition ON.",
+          "Count MIL flashes and compare with trouble code table.",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’ [2].",
+          "A 2.5 second pause occurs between codes.",
+          "After a 4.5 second pause, trouble codes will be repeated.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Accessing- Test mode",
+        "type": "accessing",
+        "steps": [
+          "Carry out preparatory conditions as in normal mode.",
+          "Jump DLC terminals TE2 and E1 with a short lead [1].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL is flashing to confirm test mode is operating.",
+          "Start the engine.",
+          "Drive vehicle over 10 mph to simulate possible fault conditions.",
+          "Stop vehicle.",
+          "Jump DLC terminals TE1 and E1 with a short lead [1].",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump leads."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Remove EFI fuse (15A) from underhood fusebox 9.",
+          "Wait 30 seconds.",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> MR2 2.2L – Paseo 1.5L (1991 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/mr2-2-2l-paseo-1-5l-1991-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "ECM trouble codes can be displayed by the MIL or accessed with suitable code reader connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "Switch ignition OFF.",
+          "Paseo- jump DLC terminals TE1 and E1 with a short lead [1].",
+          "MR2- jump DLC terminals TE1 and E1 with a short lead [2]",
+          "Switch ignition ON.",
+          "Count MIL flashes and compare with trouble code table.",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’ [3].",
+          "A 2.5 second pause occurs between codes.",
+          "After a 4.5 second pause, trouble codes will be repeated.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Paseo- remove EFI fuse (15A) from underhood fusebox [5]",
+          "MR2 – remove EFI fuse (15A) from underhood fusebox [6]",
+          "Wait 30 seconds.",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory.",
+          "Engine speed (RPM) sensor – circuit — Wiring, RPM sensor, ECM",
+          "Engine speed (RPM) sensor – above1000 rpm — Wiring, RPM sensor, ECM",
+          "Ignition reference signal – no signal — Wiring, ignition module, ECM",
+          "Transmission control signal – malfunction — ECM",
+          "Heated oxygen sensor (H02S) -front -circuit — Wiring, H02S, ECM",
+          "Engine coolant temperature (ECT) sensor – circuit — Wiring, ECT sensor, ECM",
+          "Intake air temperature (IAT) sensor – circuit — Wiring, IAT sensor, ECM",
+          "Mixture control – continuously lean — Wiring, injector, H02S, ECT/MAP sensor, intake/fuel/ignition/EGR system, ECM",
+          "Mixture control – continuously rich — Wiring, injector, fuel system, H02S, ECT/MAP sensor, ECM",
+          "Heated oxygen sensor (H02S) – rear- circuit — Wiring, H02S, ECM",
+          "Manifold absolute pressure (MAP) sensor – circuit — Wiring, MAP sensor, ECM",
+          "Idle air control (lAC) valve – circuit — Wiring, lAC valve, ECM",
+          "Throttle position (TP) sensor – circuit — Wiring, TP sensor, ECM",
+          "Vehicle speed sensor (VSS) – circuit — Wiring, VSS, ECM",
+          "Starter signal – circuit — Wiring, ignition switch, engine control relay, ECM",
+          "Switch signal – NC switch ON during diagnosis — Wiring, AIC switch, AIC amplifier, ECM",
+          "Switch signal – closed throttle position (CTP)switch OFF during diagnosis — Wiring, CTP switch, ECM",
+          "Switch signal – park/neutral position (PNP)switch not in P or N during diagnosis — Wiring, PNP switch, ECM",
+          "Knock sensor (KS)- circuit — Wiring, KS, ECM",
+          "Exhaust gas recirculation (EGR) system – malfunction — Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Land Cruiser 4.5L (1995 – 1997)",
+    "url": "https://www.troublecodes.net/toyota/land-cruiser-4-5l-1995-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) [1]"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Supra 3.0L/Turbo (1996 – 1998)",
+    "url": "https://www.troublecodes.net/toyota/supra-3-0lturbo-1996-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Supra 3.0L/Turbo (1993 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/supra-3-0lturbo-1993-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "ECM trouble codes can be accessed with suitable code reader connected to the data link connector (DLC) [1] or displayed by the MIL.",
+          "NOTE: A second diagnostic link connector is fitted [2] , which can also be used to output diagnostic codes."
+        ]
+      },
+      {
+        "heading": "Accessing – Normal mode",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "Switch ignition OFF.",
+          "Jump DLC terminals TE1 and E1 with a short lead [1] or [2]",
+          "Switch ignition ON.",
+          "Count MIL flashes and compare with trouble code table. ·",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units’ [3].",
+          "A 2.5 second pause occurs between codes.",
+          "After a 4.5 second pause, trouble codes will be repeated.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Accessing – Test mode",
+        "type": "accessing",
+        "steps": [
+          "Carry out preparatory conditions as in normal mode.",
+          "Jump DLC terminals TE2 and E1 with a short lead [1]",
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL is flashing to confirm test mode is operating.",
+          "Start the engine.",
+          "Drive vehicle over 10 mph to simulate possible fault conditions.",
+          "Stop vehicle.",
+          "Jump DLC terminals TE1 and E1 with a short lead [1].",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump leads."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Remove EFI fuse (30A) from underhood fusebox [5]",
+          "Wait 30 seconds.",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Camry Celica Corolla MR2",
+    "url": "https://www.troublecodes.net/toyota/toyota-camry-celica-corolla-mr2",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Corolla – jump data link connector (DLC) terminals T and E1 with a short lead 1",
+          "Camry – jump DLC terminals T and E1 with a short lead 2",
+          "MR2 – jump DLC terminals T and E1 with a short lead 3",
+          "Celica – jump DLC terminals T and E1 with a short lead 4",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "NOTE: The MIL flashes once every 0.25 seconds if the system is correct",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Corolla – remove STOP fuse (15A) from LH kick panel fusebox for 10 seconds minimum 7",
+          "Camry – remove EFI fuse (15A) from underhood fusebox for 10 seconds minimum 8",
+          "MR2 – remove AM2 fuse (7.5A) from No.2 underhood fusebox for 10 seconds minimum 9",
+          "Celica – remove EFI fuse (15A) from underhood fusebox for 10 seconds minimum 10",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory",
+          "Engine control module (ECM) power supply — Wiring, ignition switch, engine control relay, ECM",
+          "Engine speed (RPM) sensor -circuit — Wiring, RPM sensor, ECM",
+          "Engine speed (RPM) sensor -above 1000 rpm — Wiring, RPM sensor, ECM",
+          "Ignition reference signal -no signal — Wiring, ignition module/coi/, ECM",
+          "Transmission control signal — Wiring, ECM, TCM",
+          "Heated oxygen sensor (H02S) -front circuit — Wiring, H02S, ECM",
+          "Engine coolant temperature (ECT) sensor circuit — Wiring, ECT sensor, ECM",
+          "lntake air temperature (lAT) sensor-circuit — Wiring, IAT sensor, ECM",
+          "Mixture control -continuously lean — Wiring, injector, H02S, ECTNAF sensor, intake fuel/ignition system, ECM",
+          "Mixture control -continuously rich — Wiring, injector, fuel system, cold start injector, H02S, ECTNAF sensor, ECM",
+          "Heated oxygen sensor (H02S) -rear-circuit — Wiring, H02S, ECM",
+          "Volume air flow (VAF) sensor-circuit — Wiring, VAF sensor, ECM",
+          "Volume air flow (VAF) sensor-circuit — Wiring, VAF sensor, ECM",
+          "Turbocharger (TC) wastegate pressure sensor high pressure — TC wastegate/pressure sensor, wiring, ECM",
+          "Turbocharger (TC) wastegate pressure sensor circuit — Wiring, TC wastegate pressure sensor, ECM",
+          "Throttle position (TP) sensor-circuit — Wiring, TP sensor, ECM",
+          "Vehicle speed sensor (VSS) -circuit — Wiring, VSS, ECM",
+          "Starter signal -circuit — Wiring, ignition switch, ECM",
+          "Switch signal -A/C switch ON during diagnosis — Wiring, A/C switch, A/C amplifier, ECM",
+          "Switch signal -closed throttle position (CTP) switch OFF during diagnosis — Wiring, CTP switch, ECM",
+          "Switch signal -park/neutra! position (PNP) switch not in P or N during diagnosis — Wiring, PNP switch, ECM",
+          "Knock sensor (KS) -circuit — Wiring, KS, ECM",
+          "Knock control -malfunction — ECM",
+          "Turbocharger (TC) intercooler control module low coolant level — coolant level/sensor, wiring, intercooler control module, ECM .",
+          "Turbocharger (TC) intercooler control module coolant pump motor — intercooler coolant circuitlwater pump",
+          "Exhaust gas recirculation (EGR) system -malfunction — Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota Tercel 90-94 1.5L 3E-E",
+    "url": "https://www.troublecodes.net/toyota/toyota-tercel-90-94-1-5l-3e-e",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Jump DLC terminals T and E1 with a short lead 1",
+          "Count MIL flashes and compare with trouble code table (below)",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Remove EFI fuse (15A) from underhood fusebox",
+          "Wait 60 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory",
+          "Engine speed (RPM) sensor -circuit — Wiring, RPM sensor, ECM",
+          "Engine speed (RPM) sensor -above 1000 rpm — Wiring, RPM sensor, ECM",
+          "Ignition reference signal -no signal — Wiring, ignition module/coil, ECM",
+          "Heated oxygen sensor (H02S) -circuit — Wiring, H02S, ECM",
+          "Engine coolant temperature (ECT) sensor circuit — Wiring, ECT sensor, ECM",
+          "lntake air temperature (lAT) sensor-circuit — Wiring, lAT sensor, ECM",
+          "Mixture control -continuously lean — Wiring, injector, H02S, ECT/MAP sensor, intake/fuel/ignition system, ECM",
+          "Mixture control -continuously rich — Wiring, injector, fuel system, cold start injector, H02S, ECT/MAP sensor, ECM",
+          "Manifold absolute pressure (MAP) sensor circuit — Wiring, MAP sensor, ECM",
+          "Throttle position (TP) sensor-circuit — Wiring, TP sensor, ECM",
+          "Vehicle speed sensor (VSS) -circuit — Wiring, VSS, ECM",
+          "Starter signal -circuit — Wiring, ignition switch, ECM",
+          "Switch signal -A/C switch ON during diagnosis — Wiring, A/C switch, A/C amplifier, ECM",
+          "Switch signal -closed throttle position (CTP) switch OFF during diagnosis — Wiring, CTP switch, ECM",
+          "Switch signal -park/neutral position (PNP) switch not in P or N during diagnosis — Wiring, PNP switch, ECM",
+          "Exhaust gas recirculation (EGR) system -malfunction — Hose leak/blockage, wiring, EGRT sensor, EGR solenoid, ECM"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Toyota 91-95 Previa 2.4L",
+    "url": "https://www.troublecodes.net/toyota/toyota-91-95-previa-2-4l",
+    "procedures": [
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates",
+          "Switch ignition OFF",
+          "Jump DLC terminals TE1 and E1 with a short lead 1",
+          "Switch ignition ON",
+          "Count MIL flashes and compare with trouble code table below",
+          "First flashes of .5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of .5 second duration indicate ‘units’",
+          "A 2.5 second pause occurs between codes",
+          "After a 4.5 second pause, trouble codes will be repeated",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Remove EFI fuse (15A) from fascia fusebox 4",
+          "Wait 30 seconds",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Camry/Celica – Corolla – Matrix – MR2 – Paseo – RAV4 – Tercel (1995 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/camrycelica-corolla-matrix-mr2-paseo-rav4-tercel-1995-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 60 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Camry Hybrid 2.4L – Highlander Hybrid 3.3L – Prius 1.5L (2001 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/camry-hybrid-2-4l-highlander-hybrid-3-3l-prius-1-5l-2001-2009/",
+    "procedures": [
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) 1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> Previa 2.4L (1991 – 1995)",
+    "url": "https://www.troublecodes.net/toyota/previa-2-4l-1991-1995/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "ECM trouble codes can be accessed with suitable code reader connected to the data link connector (DLC) [1] or displayed by the MIL."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "Switch ignition OFF.",
+          "Jump DLC terminals TE1 and E1 0",
+          "Switch ignition ON.",
+          "Count MIL flashes and compare with trouble code table.",
+          "First flashes of 0.5 second duration indicate ‘tens’, after a 1.5 second pause, next flashes of 0.5 second duration indicate ‘units'[2]",
+          "A 2.5 second pause occurs between codes.",
+          "After a 4.5 second pause, trouble codes will be repeated.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Remove EFI fuse (15A) from fascia fusebox 19.",
+          "Wait 30 seconds.",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toyota OBD/OBD2 Codes >> 4Runner – FJ Cruiser – Highlander – RAV4 – T100 Pickup – Tacoma – Tundra Pickup (1995 – 2009)",
+    "url": "https://www.troublecodes.net/toyota/4runner-fj-cruiser-highlander-rav4-t100-pickup-tacoma-tundra-pickup-1995-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 60 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  }
+]

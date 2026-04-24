@@ -1,0 +1,14 @@
+{
+  "name": "GM",
+  "slug": "gm",
+  "totalCodes": 448,
+  "totalSubmodels": 0,
+  "totalDetails": 0,
+  "totalProcedures": 0,
+  "codeTypes": {
+    "P": 447,
+    "B": 1,
+    "C": 0,
+    "U": 0
+  }
+}

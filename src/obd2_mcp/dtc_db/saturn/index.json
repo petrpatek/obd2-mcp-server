@@ -1,0 +1,14 @@
+{
+  "name": "Saturn",
+  "slug": "saturn",
+  "totalCodes": 171,
+  "totalSubmodels": 2,
+  "totalDetails": 0,
+  "totalProcedures": 2,
+  "codeTypes": {
+    "P": 157,
+    "B": 0,
+    "C": 0,
+    "U": 14
+  }
+}

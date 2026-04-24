@@ -1,0 +1,3018 @@
+[
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> FX35 – FX45 – G35 – G37 – M35 – M45 – QX56 (2003 – 2008)",
+    "url": "https://www.troublecodes.net/infiniti/fx35-fx45-g35-g37-m35-m45-qx56-2003-2008/",
+    "vehicles": [
+      {
+        "model": "FX35 3.5L",
+        "year": "2003-08",
+        "engine": "VQ35DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "FX45 4.5L",
+        "year": "2003-08",
+        "engine": "VK45DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "G35 3.5L",
+        "year": "2003-08",
+        "engine": "VQ35DE/VQ35HR",
+        "system": "ECCS"
+      },
+      {
+        "model": "M35 3.5L",
+        "year": "2005-08",
+        "engine": "VQ35DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "M45 4.5L",
+        "year": "2003-08",
+        "engine": "VK45DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "QX56 5.6L",
+        "year": "2004-08",
+        "engine": "VK56DE",
+        "system": "ECCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL2008",
+        "faultLocation": "ECCS",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL0",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1000",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1001",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1010",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1031",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1032",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1051",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1052",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1065",
+        "faultLocation": "Wiring, fuse, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1078",
+        "faultLocation": "Wiring, CMP",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1084",
+        "faultLocation": "Wiring, CMP",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1102",
+        "faultLocation": "Wiring, MAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1111",
+        "faultLocation": "Wiring, intake valve control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1119",
+        "faultLocation": "Wiring, engine coolant temperature (ECT) sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1121",
+        "faultLocation": "Throttle motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1122",
+        "faultLocation": "Wiring, throttle motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1124",
+        "faultLocation": "Wiring, throttle motor, throttle motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1126",
+        "faultLocation": "Wiring, throttle motor, throttle motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1128",
+        "faultLocation": "Wiring, throttle motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1130",
+        "faultLocation": "Wiring, intake manifold air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1136",
+        "faultLocation": "Wiring, intake valve control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1140",
+        "faultLocation": "Wiring, intake valve control position sensor, crankshaft (CKP) sensor, camshaft position (CMP) sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1143",
+        "faultLocation": "Wiring, mixture, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1144",
+        "faultLocation": "H02S, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1145",
+        "faultLocation": "Wiring, intake valve control position sensor, crankshaft (CKP) sensor, camshaft position (CMP) sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1146",
+        "faultLocation": "Wiring, mixture, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1147",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1148",
+        "faultLocation": "Wiring, H025 front, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1163",
+        "faultLocation": "Wiring, mixture, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1164",
+        "faultLocation": "H025, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1166",
+        "faultLocation": "Wiring, mixture, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1167",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1168",
+        "faultLocation": "Wiring, H02S front, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1211",
+        "faultLocation": "Wiring, ABSfTCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1212",
+        "faultLocation": "Wiring, ABS/TCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1217",
+        "faultLocation": "Cooling system, engine coolant blower motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1220",
+        "faultLocation": "Wiring, fuel pump speed resistor, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1223",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1224",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1225",
+        "faultLocation": "Wiring, TP sensor 1, TP sensor 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1226",
+        "faultLocation": "Wiring, TP sensor 1, TP sensor 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1227",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1228",
+        "faultLocation": "Wiring, APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1229",
+        "faultLocation": "Wiring, APP sensor, throttle motor position sensor, MAF sensor, fuel tank pressure sensor, TP sensor(s), refrigerant pressure sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1233",
+        "faultLocation": "Wiring, throttle control motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1234",
+        "faultLocation": "Wiring, TP simsor 1, TP sensor 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1235",
+        "faultLocation": "Wiring, TP sensor 1, TP sensor 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1236",
+        "faultLocation": "Wiring, throttle control motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1238",
+        "faultLocation": "Throttle control motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1239",
+        "faultLocation": "Wiring, throttle actuator, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1271",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1272",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1273",
+        "faultLocation": "H02S, fuel pressure, injectors, intake air leak",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1274",
+        "faultLocation": "H02S, fuel pressure, injectors",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1276",
+        "faultLocation": "Wiring, H025",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1278",
+        "faultLocation": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H02S, intake air leaks, exhaust leaks",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1279",
+        "faultLocation": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H025, intake air leaks, exhaust leaks",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1281",
+        "faultLocation": "Wiring, H025",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1282",
+        "faultLocation": "Wiring, H025",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1283",
+        "faultLocation": "H02S, fuel pressure, injectors, intake air leak",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1284",
+        "faultLocation": "H02S, fuel pressure, injectors",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1286",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1288",
+        "faultLocation": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H02S, intake air leaks, exhaust leaks",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1289",
+        "faultLocation": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H02S, intake air leaks, exhaust leaks",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1290",
+        "faultLocation": "Wiring, relay",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1402",
+        "faultLocation": "Wiring, EGRIEVAP valve, EGR valve, EGRT sensor, EGR back pressure transducer, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1421",
+        "faultLocation": "Intake/exhaust leak/blockage, mechanical fault, idle speed control (ISC) system, ignition control, engine coolant temperature (ECT) sensor, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1442",
+        "faultLocation": "EVAP canister purge system, hose leak, EVAP pressure sensor/vent valve, fuel filler cap, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1444",
+        "faultLocation": "Wiring, EVAP valve, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1446",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1448",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1456",
+        "faultLocation": "EVAP canister purge system, hose leak, EVAP pressure sensor/vent valve, fuel filler cap, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1464",
+        "faultLocation": "Wiring, fuel gauge tank sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1480",
+        "faultLocation": "Wiring, blower motor speed control solenoid valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1490",
+        "faultLocation": "Wiring, vacuum cut valve bypass valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1491",
+        "faultLocation": "Wiring, vacuum cut valve bypass valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1550",
+        "faultLocation": "Wiring, battery condition sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1551",
+        "faultLocation": "Wiring, battery condition sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1552",
+        "faultLocation": "Wiring, battery condition sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1553",
+        "faultLocation": "Wiring, battery condition sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1554",
+        "faultLocation": "Wiring, battery condition sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1564",
+        "faultLocation": "Wiring, cruise control master switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1568",
+        "faultLocation": "Wiring, cruise control master switch, . ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1572",
+        "faultLocation": "Wiring, brake pedal position (BPP) switch, cruise control brake pedal switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1574",
+        "faultLocation": "Wiring, TCM – DTC’s stored, ABSfTCS control module – DTC’s stored, instrument panel, wheel speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1610",
+        "faultLocation": "Incorrect ignition key, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1611",
+        "faultLocation": "Immobilizer control module/ECM incorrectly coded",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1612",
+        "faultLocation": "Wiring, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1613",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1614",
+        "faultLocation": "Wiring, immobilizer control module, module coding plug",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1615",
+        "faultLocation": "Incorrect ignition key, immobilizer control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1700",
+        "faultLocation": "TCM trouble code(s) stored",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1705",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1706",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1715",
+        "faultLocation": "Wiring, TSS sensor, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1716",
+        "faultLocation": "Wiring, TSS sensor 1, TSS sensor 2, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1720",
+        "faultLocation": "Wiring, TCM – DTC’s stored, ABSfTCS control module – DTC’s stored, instrument panel",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1730",
+        "faultLocation": "Wiring, transmission clutches, transmission solenoid valves, transmission pressure switches",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1740",
+        "faultLocation": "Wiring, lock-up select solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1752",
+        "faultLocation": "Wiring, input clutch solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1754",
+        "faultLocation": "Wiring, input clutch solenoid valve, transmission pressure switch 3",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1757",
+        "faultLocation": "Wiring, front brake solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1759",
+        "faultLocation": "Wiring, front brake solenoid valve, transmission pressure switch 1",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1760",
+        "faultLocation": "Wiring, clutch solenoid, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1762",
+        "faultLocation": "Wiring, direct clutch solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1764",
+        "faultLocation": "Wiring, direct clutch solenoid valve, transmission pressure switch 5",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1767",
+        "faultLocation": "Wiring, high/low reverse solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1769",
+        "faultLocation": "Wiring, high/low reverse solenoid valve, transmission pressure switch 6",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1772",
+        "faultLocation": "Wiring, low coast brake solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1774",
+        "faultLocation": "Wiring, low coast brake solenoid valve, transmission pressure switch 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1777",
+        "faultLocation": "Wiring, step motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1778",
+        "faultLocation": "Step motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1780",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1800",
+        "faultLocation": "Wiring, intake manifold air control solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1805",
+        "faultLocation": "Wiring, BPP switch",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> G20 – I30 – QX4 (1999 – 2002)",
+    "url": "https://www.troublecodes.net/infiniti/g20-i30-qx4-1999-2002/",
+    "vehicles": [
+      {
+        "model": "G20 2.0L",
+        "year": "1999-02",
+        "engine": "SR20DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "I30 3.0L",
+        "year": "2000-01",
+        "engine": "VQ30DE",
+        "system": "ECCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL2001",
+        "faultLocation": "ECCS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1110",
+        "faultLocation": "Wiring, CMP actuator, CMP actuator position sensor, CMP sensor, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring, CMP actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "P1126",
+        "faultLocation": "Wiring, thermostat, ECT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1130",
+        "faultLocation": "Wiring, control solenoid, intake system, hose leak/blockage, control vacuum check switch, MAF sensor, TP sensor, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1135",
+        "faultLocation": "Wiring, CMP actuator, CMP actuator position sensor, CMP sensor, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1136",
+        "faultLocation": "Wiring, CMP actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "P1140",
+        "faultLocation": "Wiring, CMP actuator, CMP actuator position sensor, CMP sensor, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1145",
+        "faultLocation": "Wiring, CMP actuator, CMP actuator position sensor, CMP sensor, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1148",
+        "faultLocation": "Wiring, H02S, oxygen sensor heater",
+        "probableCause": ""
+      },
+      {
+        "code": "P1165",
+        "faultLocation": "Wiring, control solenoid, intake system, hose leak/blockage, control vacuum check switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1168",
+        "faultLocation": "Wiring, H025, oxygen sensor heater",
+        "probableCause": ""
+      },
+      {
+        "code": "P1211",
+        "faultLocation": "TCS system, ABSfTCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1212",
+        "faultLocation": "Wiring, ABSfTCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1217",
+        "faultLocation": "Thermostat, cooling system",
+        "probableCause": ""
+      },
+      {
+        "code": "P1320",
+        "faultLocation": "Wiring, ignition amplifier, audio unit suppresser, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1335",
+        "faultLocation": "Wiring, CKP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1336",
+        "faultLocation": "Wiring, CKP sensor, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "Wiring, EGRT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1402",
+        "faultLocation": "Wiring, EGRIEVAP valve, EGR valve, EGRT sensor, EGR back pressure transducer, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1440",
+        "faultLocation": "Wiring, fuel tank/cap, hose leak/blockage, EVAP valve/canister, EVAP vent valve, BARO sensor, MAP/BARO switching valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1441",
+        "faultLocation": "EVAP valve, hoses, fuel filler cap, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1444",
+        "faultLocation": "Wiring, EVAP canister purge valve, hoses, EVAP pressure sensor, EVAP canister, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1446",
+        "faultLocation": "Hoses, EVAP vent valve, EVAP pressure sensor, EVAP canister",
+        "probableCause": ""
+      },
+      {
+        "code": "P1447",
+        "faultLocation": "EVAP canister purge valve, hoses, EVAP pressure sensor, EVAP canister",
+        "probableCause": ""
+      },
+      {
+        "code": "P1448",
+        "faultLocation": "Hoses, EVAP vent valve, EVAP pressure sensor, EVAP canister",
+        "probableCause": ""
+      },
+      {
+        "code": "P1464",
+        "faultLocation": "Wiring, fuel gauge tank sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1490",
+        "faultLocation": "Wiring, EVAP vacuum cut bypass valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1491",
+        "faultLocation": "Hoses, EVAP vacuum cut bypass valve, EVAP pressure sensor, EVAP canister, EVAP canister vent valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "Wiring, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1610",
+        "faultLocation": "Wiring, imobilizer control module, incorrect key",
+        "probableCause": ""
+      },
+      {
+        "code": "P1615",
+        "faultLocation": "Wiring, imobilizer control module, incorrect key",
+        "probableCause": ""
+      },
+      {
+        "code": "P1705",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1706",
+        "faultLocation": "Wiring, PNP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1760",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> I35 – Q45 – QX4 (2002 – 2006)",
+    "url": "https://www.troublecodes.net/infiniti/i35-q45-qx4-2002-2006/",
+    "vehicles": [
+      {
+        "model": "I35 3.5L",
+        "year": "2002-04",
+        "engine": "VQ35DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "Q45 4.5L",
+        "year": "2002-06",
+        "engine": "VK45DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "QX4 3.5L",
+        "year": "2002-03",
+        "engine": "VQ35DE",
+        "system": "ECCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL0",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL11",
+        "faultLocation": "Valve timin_g, engine mechanical fault, CMP actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL21",
+        "faultLocation": "Valve timing, engine mechanical fault, CMP actuator",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL31",
+        "faultLocation": "Wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL32",
+        "faultLocation": "Wiring short to positive, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL37",
+        "faultLocation": "Wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL38",
+        "faultLocation": "Wiring short to positive, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL51",
+        "faultLocation": "Wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL52",
+        "faultLocation": "Wiring short to positive, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL57",
+        "faultLocation": "Wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL58",
+        "faultLocation": "Wiring short to positive, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL100",
+        "faultLocation": "Wiring, MAFNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL101",
+        "faultLocation": "Intake leak/blockage, MAFNAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL102",
+        "faultLocation": "Wiring short to ground, MAFNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL103",
+        "faultLocation": "Wiring short to positive, MAFNAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL105",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL107",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL108",
+        "faultLocation": "Wiring open circuit, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL110",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL112",
+        "faultLocation": "Wiring short to ground, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL113",
+        "faultLocation": "Wiring open circuit/short to positive, ground wire defective, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL115",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL117",
+        "faultLocation": "Wiring short circuit, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL118",
+        "faultLocation": "Wiring open circuit, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL120",
+        "faultLocation": "Wiring, TP/APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL121",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL122",
+        "faultLocation": "Wiring short to ground, TP/APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL123",
+        "faultLocation": "Wiring short to positive, TP/APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL125",
+        "faultLocation": "Wiring, ECT sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL127",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL128",
+        "faultLocation": "Thermostat, ECT, coolant leak",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL130",
+        "faultLocation": "Heating inoperative, poor connection, wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL131",
+        "faultLocation": "Exhaust leak, wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL132",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL133",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL134",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL137",
+        "faultLocation": "Exhaust leak, wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL138",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL139",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL140",
+        "faultLocation": "Wiring, heating inoperative, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL141",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL150",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL151",
+        "faultLocation": "Exhaust leak, wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL152",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL153",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL154",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL155",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL157",
+        "faultLocation": "Exhaust leak, wiring short to ground, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL158",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL159",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL160",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL161",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL171",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL172",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL174",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL175",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL180",
+        "faultLocation": "Wiring, fuel temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL181",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL182",
+        "faultLocation": "Wiring short to ground, fuel temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL183",
+        "faultLocation": "Wiring short to positive; fuel temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL217",
+        "faultLocation": "Wiring, cooling system, coolant thermostat, ECT sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL221",
+        "faultLocation": "Wiring, throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL222",
+        "faultLocation": "Wiring, throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL223",
+        "faultLocation": "Wiring, throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL226",
+        "faultLocation": "Accelerator cable adjustment, TP/APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL227",
+        "faultLocation": "Wiring short to ground, TP/APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL228",
+        "faultLocation": "Wiring short to positive, TP/APP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL300",
+        "faultLocation": "Wiring, ignition system, fuel system, EGR valve, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL301",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL302",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL303",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL304",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL305",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL306",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL307",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL308",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL325",
+        "faultLocation": "Wiring, poor connection, KS",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL327",
+        "faultLocation": "Insecure KS, poor connection, wiring short to ground, incorrectly tightened, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL328",
+        "faultLocation": "Wiring short to positive, KS incorrectly tightened, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL330",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL332",
+        "faultLocation": "Insecure KS, poor connection, wiring short to ground, KS incorrectly tightened, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL333",
+        "faultLocation": "Wiring short to positive, KS incorrectly tightened, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL335",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL340",
+        "faultLocation": "Wiring, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL345",
+        "faultLocation": "Wiring, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL420",
+        "faultLocation": "Catalytic converter, rear H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL430",
+        "faultLocation": "Catalytic converter, rear H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL440",
+        "faultLocation": "Hose connection(s), intake leak, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL441",
+        "faultLocation": "Wiring, EVAP solenoid, hose leak/ blockage, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL442",
+        "faultLocation": "Wiring, EVAP solenoid, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL443",
+        "faultLocation": "Wiring, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL444",
+        "faultLocation": "Wiring open circuit, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL445",
+        "faultLocation": "Wiring short circuit, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL446",
+        "faultLocation": "Wiring, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL447",
+        "faultLocation": "Wiring open circuit, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL450",
+        "faultLocation": "Wiring, EVAP pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL452",
+        "faultLocation": "Wiring, pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL453",
+        "faultLocation": "Wiring open circuit, pressure sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL455",
+        "faultLocation": "Wiring, EVAP solenoid, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL456",
+        "faultLocation": "Hose, fuel tank/pressure sensor, fuel filler cap, EVAP valve/bypass solenoid, EVAP two way valve, EVAP canister/vent valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL460",
+        "faultLocation": "Wiring, sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL461",
+        "faultLocation": "Wiring, sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL462",
+        "faultLocation": "Wiring, sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL463",
+        "faultLocation": "Wiring, sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL464",
+        "faultLocation": "Wiring, poor connection, fuel tank level sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL500",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL505",
+        "faultLocation": "Wiring, lAC valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL506",
+        "faultLocation": "Wiring, ISC actuator/lAC valve, throttle motor, throttle valve tight/sticking, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL507",
+        "faultLocation": "Wiring, ISC actuator/lAC valve, throttle motor, throttle valve tight/sticking, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL510",
+        "faultLocation": "Wiring, CTP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL550",
+        "faultLocation": "Wiring, PSP sensor/switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL600",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL605",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL650",
+        "faultLocation": "Wiring, MIL, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL705",
+        "faultLocation": "Wiring, PNP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL710",
+        "faultLocation": "Wiring, temperature sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL720",
+        "faultLocation": "Wiring, VSS, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL725",
+        "faultLocation": "Wiring, RPM sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL731",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL732",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL733",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL734",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL740",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL744",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL745",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL750",
+        "faultLocation": "Wiring, shift solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL755",
+        "faultLocation": "Wiring, shift solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1065",
+        "faultLocation": "Wiring, fuse, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1102",
+        "faultLocation": "Wiring, MAF sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1110",
+        "faultLocation": "Wiring, intake valve control solenoid position sensor, CKP sensor, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1111",
+        "faultLocation": "Wiring, intake valve control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1119",
+        "faultLocation": "Wiring, engine coolant temperature (ECT) sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1121",
+        "faultLocation": "Throttle motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1122",
+        "faultLocation": "Wiring, throttle motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1123",
+        "faultLocation": "Wiring, throttle motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1124",
+        "faultLocation": "Wiring, throttle motor, throttle motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1126",
+        "faultLocation": "Wiring, throttle motor, throttle motor relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1128",
+        "faultLocation": "Wiring, throttle motor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1130",
+        "faultLocation": "Wiring, control solenoid, intake system, hose leak/blockage, control vacuum check switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1131",
+        "faultLocation": "Wiring, intake manifold air control solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1135",
+        "faultLocation": "Wiring, intake valve control solenoid position sensor, CKP sensor, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1136",
+        "faultLocation": "Wiring, intake valve control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1140",
+        "faultLocation": "Wiring, CMP actuator, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1143",
+        "faultLocation": "Wiring, mixture, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1144",
+        "faultLocation": "H02S, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1145",
+        "faultLocation": "Wiring, CMP actuator, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1146",
+        "faultLocation": "Wiring, mixture, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1147",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1148",
+        "faultLocation": "Wiring, H02S front, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1163",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1164",
+        "faultLocation": "H02S, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1165",
+        "faultLocation": "Wiring, vacuum check switch, hose leak/ blockage, air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1166",
+        "faultLocation": "Wiring, mixture, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1167",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1168",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1211",
+        "faultLocation": "Wiring, ABS/TCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1212",
+        "faultLocation": "Wiring, ABS/TCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1217",
+        "faultLocation": "Cooling system, engine coolant blower motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1220",
+        "faultLocation": "Wiring, fuel pump speed resistor, fuel pump control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1223",
+        "faultLocation": "Wiring, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1224",
+        "faultLocation": "Wiring, TP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1225",
+        "faultLocation": "Wiring, TP sensor 1, TP sensor 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1226",
+        "faultLocation": "Wiring, TP sensor 1, TP sensor 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1227",
+        "faultLocation": "Wiring, APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1228",
+        "faultLocation": "Wiring, APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1229",
+        "faultLocation": "Wiring, APP sensor, throttle motor position sensor, MAF sensor, fuel tank pressure sensor, TP sensor(s), refrigerant pressure sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1320",
+        "faultLocation": "Wiring, ignition coil/module, ignition system, CKP sensor, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1335",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1336",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1440",
+        "faultLocation": "EVAP valve, hoses, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1442",
+        "faultLocation": "EVAP canister purge system, hose leak, EVAP pressure sensor/vent valve, fuel filler cap, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1444",
+        "faultLocation": "Wiring, EVAP valve, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1446",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1447",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1448",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1456",
+        "faultLocation": "EVAP canister purge system, hose leak, EVAP pressure sensor/vent valve, fuel filler cap, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1464",
+        "faultLocation": "Wiring, fuel gauge tank sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1480",
+        "faultLocation": "Wiring, blower motor speed control solenoid valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1490",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1491",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1564",
+        "faultLocation": "Wiring, cruise control master switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1568",
+        "faultLocation": "Wiring, cruise control master switch, . ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1572",
+        "faultLocation": "Wiring, cruise control brake pedal switch, clutch pedal position (CPP) switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1574",
+        "faultLocation": "Wiring, cruise control vehicle speed sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1605",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1610",
+        "faultLocation": "Incorrect ignition key, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1615",
+        "faultLocation": "Incorrect ignition key, immobilizer control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1705",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1706",
+        "faultLocation": "Wiring, PNP switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1715",
+        "faultLocation": "Wiring, TSS sensor, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1716",
+        "faultLocation": "Wiring, turbine sensor 1, turbine sensor 2, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1720",
+        "faultLocation": "Wiring, TCM – DTC’s stored, ABSfTCS control module – DTC’s stored, instrument panel",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1730",
+        "faultLocation": "Wiring, transmission clutches, transmission solenoid valves, transmission pressure switches",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1752",
+        "faultLocation": "Wiring, input clutch solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1754",
+        "faultLocation": "Wiring, input clutch solenoid valve, transmission pressure switch 3",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1757",
+        "faultLocation": "Wiring, front brake solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1759",
+        "faultLocation": "Wiring, front brake solenoid valve, transmission pressure switch 1",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1760",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1762",
+        "faultLocation": "Wiring, direct clutch solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1764",
+        "faultLocation": "Wiring, direct clutch solenoid valve, transmission pressure switch 5",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1767",
+        "faultLocation": "Wiring, high/low reverse solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1769",
+        "faultLocation": "Wiring, high/low reverse solenoid valve, transmission pressure switch 6",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1772",
+        "faultLocation": "Wiring, low coast brake solenoid valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1774",
+        "faultLocation": "Wiring, low coast brake solenoid valve, transmission pressure switch 2",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1780",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1800",
+        "faultLocation": "Wiring, intake manifold air control solenoid",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1805",
+        "faultLocation": "Wiring, BPP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1000",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1001",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> Q45 4.1/4.5L (1996 – 2001)",
+    "url": "https://www.troublecodes.net/infiniti/q45-4-14-5l-1996-2001/",
+    "vehicles": [
+      {
+        "model": "Q45 4.1/4.SL",
+        "year": "1996-01",
+        "engine": "VH410E/VH450E",
+        "system": "ECCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL101",
+        "faultLocation": "Wiring, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL102",
+        "faultLocation": "Wiring, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL103",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL104",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL106",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL107",
+        "faultLocation": "Wiring, ABS/TCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL110",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL111",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL113",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL114",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL115",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL201",
+        "faultLocation": "Wiring, ignition control module (ICM), ignition coil",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL203",
+        "faultLocation": "Wiring, CTP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL205",
+        "faultLocation": "Wiring, lAC valve, mechanical fault,ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL208",
+        "faultLocation": "Wiring, cooling fan, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL209",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL210",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL212",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL213",
+        "faultLocation": "EVAP valve, hoses, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL214",
+        "faultLocation": "Wiring, EVAP valve, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL215",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL301",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL302",
+        "faultLocation": "Wiring, EGR solenoid valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL303",
+        "faultLocation": "H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL304",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL305",
+        "faultLocation": "Wiring, EGR temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL306",
+        "faultLocation": "EGR valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL307",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL308",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL309",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL311",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL312",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL313",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL314",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL315",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL401",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL402",
+        "faultLocation": "Wiring, temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL403",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL404",
+        "faultLocation": "Wiring, ABS/TCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL406",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL407",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL409",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL410",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL411",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL412",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL413",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL414",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL415",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL503",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL504",
+        "faultLocation": "Wiring, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL505",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL509",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL510",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL511",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL512",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL514",
+        "faultLocation": "Wiring, EGR temperature sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL601",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL602",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL603",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL604",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL605",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL606",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL607",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL608",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL701",
+        "faultLocation": "Wiring, ignition system, fuel system, EGR valve, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL702",
+        "faultLocation": "Catalytic converter, rear H025",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL703",
+        "faultLocation": "Catalytic converter, rear H025",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL704",
+        "faultLocation": "Wiring, pressure sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL705",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL707",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL708",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL715",
+        "faultLocation": "Hose connection(s), intake leak, EVAP canister, EVAP canister purge valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL801",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL802",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL803",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL804",
+        "faultLocation": "Wiring, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL805",
+        "faultLocation": "Wiring, CMP actuator, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL807",
+        "faultLocation": "Wiring, EVAP solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL901",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL902",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL903",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL905",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL908",
+        "faultLocation": "Wiring, ECT sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1001",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1002",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1003",
+        "faultLocation": "Wiring, PNP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1005",
+        "faultLocation": "Wiring, EGR valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1008",
+        "faultLocation": "Wiring, EVAP valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1008",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1101",
+        "faultLocation": "Wiring, PNP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1102",
+        "faultLocation": "Wiring, VSS, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1103",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1104",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1105",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1106",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1107",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1108",
+        "faultLocation": "Wiring, shift solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1130",
+        "faultLocation": "Wiring, control solenoid, intake system, hose leak/blockage, control vacuum check switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1201",
+        "faultLocation": "Wiring, shift solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1203",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1204",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1205",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1206",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1207",
+        "faultLocation": "Wiring, RPM sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1208",
+        "faultLocation": "Wiring, temperature sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1301",
+        "faultLocation": "Wiring, CMP actuator, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1302",
+        "faultLocation": "Wiring, MAP/BARO switching valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1303",
+        "faultLocation": "Wiring, CMP actuator, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1304",
+        "faultLocation": "Wiring, CMP actuator, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1305",
+        "faultLocation": "Wiring, FP control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1308",
+        "faultLocation": "Wiring, blower motor, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Infiniti OBD/OBD2 Codes >> G20 – I30 – J30 – QX4 (1994 – 2000)",
+    "url": "https://www.troublecodes.net/infiniti/g20-i30-j30-qx4-1994-2000/",
+    "vehicles": [
+      {
+        "model": "G20 2.0L",
+        "year": "1994-96",
+        "engine": "SR20DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "I30 3.0L",
+        "year": "1996-99",
+        "engine": "VQ30DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "J30 3.0L",
+        "year": "1996-98",
+        "engine": "VG30DE",
+        "system": "ECCS"
+      },
+      {
+        "model": "QX4 3.3L",
+        "year": "1997-00",
+        "engine": "VG33E",
+        "system": "ECCS"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL101",
+        "faultLocation": "Wiring, CMP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL102",
+        "faultLocation": "Wiring, MAF sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL103",
+        "faultLocation": "Wiring, ECT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL104",
+        "faultLocation": "Wiring, VSS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL107",
+        "faultLocation": "Wiring, ABS/TCS control module, ECM, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL111",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL112",
+        "faultLocation": "Wiring, vacuum check switch, hose leak/ blockage, air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL113",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL114",
+        "faultLocation": "H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL115",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL201",
+        "faultLocation": "Wiring, ignition control module (ICM), ignition coil",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL203",
+        "faultLocation": "Wiring, CTP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL205",
+        "faultLocation": "Wiring, lAC valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL207",
+        "faultLocation": "Wiring, ABSrrcs control module, ECM, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL208",
+        "faultLocation": "Cooling system, wiring, engine coolant blower motor",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL209",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL210",
+        "faultLocation": "H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL213",
+        "faultLocation": "EVAP valve, hoses, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL214",
+        "faultLocation": "Wiring, EVAP valve, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL215",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL301",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL302",
+        "faultLocation": "Wiring, EGR solenoid valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL303",
+        "faultLocation": "H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL304",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL305",
+        "faultLocation": "Wiring, EGR temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL306",
+        "faultLocation": "EGR valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL307",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL307",
+        "faultLocation": "Wiring, H025, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL308",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL309",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL311",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL312",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL313",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL314",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL315",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL401",
+        "faultLocation": "Wiring, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL402",
+        "faultLocation": "Wiring, temperature sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL403",
+        "faultLocation": "Wiring, TP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL404",
+        "faultLocation": "Wiring, ABSfTCS control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL407",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL409",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL410",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL411",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL412",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL413",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL414",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL415",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL503",
+        "faultLocation": "Wiring, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL504",
+        "faultLocation": "Wiring, ECM, TCM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL505",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL509",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL510",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL511",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL512",
+        "faultLocation": "Wiring open/short circuit, H02S, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL514",
+        "faultLocation": "Wiring, EGR temperature sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL515",
+        "faultLocation": "Wiring, EGR volume control valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL603",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL604",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL605",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL606",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL607",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL608",
+        "faultLocation": "Wiring, ignition system, fuel system, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL701",
+        "faultLocation": "Wiring, ignition system, fuel system, EGR valve, fuel pressure, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL702",
+        "faultLocation": "Catalytic converter, rear H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL703",
+        "faultLocation": "Catalytic converter, rear H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL704",
+        "faultLocation": "Wiring, canister pressure sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL705",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL707",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL708",
+        "faultLocation": "Wiring, H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL715",
+        "faultLocation": "EVAP valve, hoses leaking, fuel filler cap missing, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL801",
+        "faultLocation": "Wiring, EVAP solenoid, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL802",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL803",
+        "faultLocation": "Wiring, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL804",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL807",
+        "faultLocation": "Wiring, EVAP solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL807",
+        "faultLocation": "Wiring, EVAP solenoid, hoses, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL901",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL902",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL903",
+        "faultLocation": "Wiring, EVAP valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL905",
+        "faultLocation": "Wiring, CKP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL908",
+        "faultLocation": "Wiring, ECT sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1001",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1002",
+        "faultLocation": "Wiring, H025, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1003",
+        "faultLocation": "Wiring, PNP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1004",
+        "faultLocation": "Wiring, control solenoid, intake system, hose leak/blockage, control vacuum check switch, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1005",
+        "faultLocation": "Wiring, EGR valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1008",
+        "faultLocation": "Wiring, EVAP valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1101",
+        "faultLocation": "Wiring, PNP switch, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1102",
+        "faultLocation": "Wiring, VSS, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1103",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1104",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1105",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1106",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1107",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1108",
+        "faultLocation": "Wiring, shift solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1201",
+        "faultLocation": "Wiring, shift solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1203",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1204",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1205",
+        "faultLocation": "Wiring, solenoid, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1206",
+        "faultLocation": "Wiring, TP sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1207",
+        "faultLocation": "Wiring, RPM sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1208",
+        "faultLocation": "Wiring, temperature sensor, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1302",
+        "faultLocation": "Wiring, MAP/BARO switching valve",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1305",
+        "faultLocation": "Wiring, FP control module",
+        "probableCause": ""
+      },
+      {
+        "code": "MIL1308",
+        "faultLocation": "Wiring, blower motor, ECM",
+        "probableCause": ""
+      }
+    ]
+  }
+]

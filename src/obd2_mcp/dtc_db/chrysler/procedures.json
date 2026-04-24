@@ -1,0 +1,325 @@
+[
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> 300 – Aspen – Concorde – Crossfire – Pacifica – PT Cruiser – Sebring Convertible/Sedan",
+    "url": "https://www.troublecodes.net/chrysler/300-aspen-concorde-crossfire-pacifica-pt-cruiser-sebring-convertiblesedan/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Except Crossfire [1]",
+          "Crossfire [2]"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> 300M – Cirrus – Concorde – LHS – Prowler – PT Cruiser – Sebring Convertible / Sedan",
+    "url": "https://www.troublecodes.net/chrysler/300m-cirrus-concorde-lhs-prowler-pt-cruiser-sebring-convertible-sedan/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing -1999-2001",
+        "type": "accessing",
+        "steps": [
+          "o Cirrus [1]",
+          "o Concorde/LHS/300M [2]"
+        ]
+      },
+      {
+        "heading": "Accessing -2001-2002",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Odometer will display trouble codes.",
+          "If no trouble codes are stored in ECM, odometer will display ‘P1684’ and ‘done’ or only ‘done’.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC):",
+          "o Cirrus [1]",
+          "o Concorde/LHS/Sebring/300M [2]",
+          "o Prowler [3]",
+          "o PT Cruiser [4]"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Cirrus 2.4L/2.5L – Concorde 3.3L – LHS 3.5L – New Yorker 3.5L – Sebring Convertible 2.4L",
+    "url": "https://www.troublecodes.net/chrysler/cirrus-2-4l2-5l-concorde-3-3l-lhs-3-5l-new-yorker-3-5l-sebring-convertible-2-4l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups 1 [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ 1 [B].",
+          "A long pause separates each trouble code 1 [C].",
+          "For example: Trouble code 21 displayed 1",
+          "End of test sequence indicated by trouble code 55."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Cirrus 2.4L/2.5L – Concorde 2.7L/3.2L – Sebring Convertible 2.4L",
+    "url": "https://www.troublecodes.net/chrysler/cirrus-2-4l2-5l-concorde-2-7l3-2l-sebring-convertible-2-4l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Cirrus [1]",
+          "Concorde/Sebring [2]"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Sebring 2.0/2.5L",
+    "url": "https://www.troublecodes.net/chrysler/sebring-2-02-5l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups 1 [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ 1 [B].",
+          "A long pause separates each trouble code 1 [C].",
+          "For example: Trouble code 21 displayed 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 5 minutes.",
+          "Reconnect battery ground cable."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Sebring 2.0/2.5/Convertible 2.5L",
+    "url": "https://www.troublecodes.net/chrysler/sebring-2-02-5convertible-2-5l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups 1 [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ 1 [B].",
+          "A long pause separates each trouble code 1 [C].",
+          "For example: Trouble code 21 displayed 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 5 minutes.",
+          "Reconnect battery ground cable."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Sebring Coupe 2.4/3.0L",
+    "url": "https://www.troublecodes.net/chrysler/sebring-coupe-2-43-0l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Service engine soon/malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for at least 15 seconds.",
+          "Reconnect battery ground lead.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory.",
+          "Trouble codes can also be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Town & Country 3.3/3.8L 1998",
+    "url": "https://www.troublecodes.net/chrysler/town-country-3-33-8l-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Town & Country 3.3/3.8L – Voyager 2.4L",
+    "url": "https://www.troublecodes.net/chrysler/town-country-3-33-8l-voyager-2-4l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector(s) (DLC) 1"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "• Trouble codes can also be erased by using a Scan Tool connected to the data link connector(s) (DLC )."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Town & Country 3.3/3.8L",
+    "url": "https://www.troublecodes.net/chrysler/town-country-3-33-8l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop.",
+          "Trouble codes can be displayed by the MIL or by using a Scan Tool connected to the data link connector(s) (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Count MIL flashes. Note trouble codes.",
+          "Each trouble code consists of two groups 1 [A].",
+          "The first group of flashes indicate the ‘tens’ of the trouble code.",
+          "The second group of flashes indicate the ‘units’ of the trouble code.",
+          "A short pause separates ‘tens’ and ‘units’ 1 [B].",
+          "A long pause separates each trouble code 1 [C].",
+          "For example: Trouble code 21 displayed 1.",
+          "End of test sequence indicated by trouble code 55."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chrysler OBD / OBD2 Codes >> Town & Country 3.3/3.8L 99-04 – Voyager 2.4/3.3L",
+    "url": "https://www.troublecodes.net/chrysler/town-country-3-33-8l-99-04-voyager-2-43-3l/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate or flash if certain faults are recorded .",
+          "ECM operates in backup mode if sensors fail , to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Within 5 seconds switch the ignition key ON-OFF-ON-OFF-ON.",
+          "Odometer will display trouble codes.",
+          "If no trouble codes are stored in ECM, odometer will display ‘P1684’ and ‘done’ or only ‘done’.",
+          "Trouble codes can also be displayed by using a Scan Tool connected to the data link connector (DLC) 2.",
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 2."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  }
+]

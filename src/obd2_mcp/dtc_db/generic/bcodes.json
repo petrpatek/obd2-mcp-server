@@ -1,0 +1,4236 @@
+{
+  "category": "Body",
+  "codesCount": 705,
+  "codes": [
+    {
+      "code": "B0000",
+      "faultLocation": "ISO/SAE Reserved / Vehicle speed information circuit malfunction (Chevy, GM)",
+      "probableCause": "B0001",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b0000/"
+    },
+    {
+      "code": "B0002",
+      "faultLocation": "Driver Frontal Stage 2 Deployment Control (Subfault)",
+      "probableCause": "B0003",
+      "detailUrl": null
+    },
+    {
+      "code": "B0004",
+      "faultLocation": "Driver Knee Bolster Deployment Control (Subfault)",
+      "probableCause": "B0005",
+      "detailUrl": null
+    },
+    {
+      "code": "B0006",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0007",
+      "detailUrl": null
+    },
+    {
+      "code": "B0008",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0009",
+      "detailUrl": null
+    },
+    {
+      "code": "B000A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B000B",
+      "detailUrl": null
+    },
+    {
+      "code": "B000C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B000D",
+      "detailUrl": null
+    },
+    {
+      "code": "B000E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B000F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0010",
+      "faultLocation": "Passenger Frontal Stage 1 Deployment Control (Subfault)",
+      "probableCause": "B0011",
+      "detailUrl": null
+    },
+    {
+      "code": "B0012",
+      "faultLocation": "Passenger Frontal Stage 3 Deployment Control (Subfault)",
+      "probableCause": "B0013",
+      "detailUrl": null
+    },
+    {
+      "code": "B0014",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0015",
+      "detailUrl": null
+    },
+    {
+      "code": "B0016",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0017",
+      "detailUrl": null
+    },
+    {
+      "code": "B0018",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0019",
+      "detailUrl": null
+    },
+    {
+      "code": "B001A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B001B",
+      "detailUrl": null
+    },
+    {
+      "code": "B001C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B001D",
+      "detailUrl": null
+    },
+    {
+      "code": "B001E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B001F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0020",
+      "faultLocation": "Left Side Airbag Deployment Control (Subfault)",
+      "probableCause": "B0021",
+      "detailUrl": null
+    },
+    {
+      "code": "B0022",
+      "faultLocation": "Left Curtain Deployment Control 2 (Subfault)",
+      "probableCause": "B0023",
+      "detailUrl": null
+    },
+    {
+      "code": "B0024",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0025",
+      "detailUrl": null
+    },
+    {
+      "code": "B0026",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0027",
+      "detailUrl": null
+    },
+    {
+      "code": "B0028",
+      "faultLocation": "Right Side Airbag Deployment Control (Subfault)",
+      "probableCause": "B0029",
+      "detailUrl": null
+    },
+    {
+      "code": "B002A",
+      "faultLocation": "Right Curtain Deployment Control 2 (Subfault)",
+      "probableCause": "B002B",
+      "detailUrl": null
+    },
+    {
+      "code": "B002C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B002D",
+      "detailUrl": null
+    },
+    {
+      "code": "B002E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B002F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0030",
+      "faultLocation": "Second Row Left Side Airbag Deployment Control (Subfault)",
+      "probableCause": "B0031",
+      "detailUrl": null
+    },
+    {
+      "code": "B0032",
+      "faultLocation": "Second Row Left Frontal Stage 2 Deployment Control (Subfault)",
+      "probableCause": "B0033",
+      "detailUrl": null
+    },
+    {
+      "code": "B0034",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0035",
+      "detailUrl": null
+    },
+    {
+      "code": "B0036",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0037",
+      "detailUrl": null
+    },
+    {
+      "code": "B0038",
+      "faultLocation": "Second Row Right Side Airbag Deployment Control (Subfault)",
+      "probableCause": "B0039",
+      "detailUrl": null
+    },
+    {
+      "code": "B003A",
+      "faultLocation": "Second Row Right Frontal Stage 2 Deployment Control (Subfault)",
+      "probableCause": "B003B",
+      "detailUrl": null
+    },
+    {
+      "code": "B003C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B003D",
+      "detailUrl": null
+    },
+    {
+      "code": "B003E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B003F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0040",
+      "faultLocation": "Third Row Left Side Airbag Deployment Control (Subfault)",
+      "probableCause": "B0041",
+      "detailUrl": null
+    },
+    {
+      "code": "B0042",
+      "faultLocation": "Third Row Left Frontal Stage 2 Deployment Control (Subfault)",
+      "probableCause": "B0043",
+      "detailUrl": null
+    },
+    {
+      "code": "B0044",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0045",
+      "detailUrl": null
+    },
+    {
+      "code": "B0046",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0047",
+      "detailUrl": null
+    },
+    {
+      "code": "B0048",
+      "faultLocation": "Third Row Right Side Airbag Deployment Control (Subfault)",
+      "probableCause": "B0049",
+      "detailUrl": null
+    },
+    {
+      "code": "B004A",
+      "faultLocation": "Third Row Right Frontal Stage 2 Deployment Control (Subfault)",
+      "probableCause": "B004B",
+      "detailUrl": null
+    },
+    {
+      "code": "B004C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B004D",
+      "detailUrl": null
+    },
+    {
+      "code": "B004E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B004F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0050",
+      "faultLocation": "Driver Seatbelt Sensor (Subfault)",
+      "probableCause": "B0051",
+      "detailUrl": null
+    },
+    {
+      "code": "B0052",
+      "faultLocation": "Passenger Seatbelt Sensor (Subfault)",
+      "probableCause": "B0053",
+      "detailUrl": null
+    },
+    {
+      "code": "B0054",
+      "faultLocation": "Second Row Center Seatbelt Sensor (Subfault)",
+      "probableCause": "B0055",
+      "detailUrl": null
+    },
+    {
+      "code": "B0056",
+      "faultLocation": "Third Row Left Seatbelt Sensor (Subfault)",
+      "probableCause": "B0057",
+      "detailUrl": null
+    },
+    {
+      "code": "B0058",
+      "faultLocation": "Third Row Right Seatbelt Sensor (Subfault)",
+      "probableCause": "B0059",
+      "detailUrl": null
+    },
+    {
+      "code": "B005A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B005B",
+      "detailUrl": null
+    },
+    {
+      "code": "B005C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B005D",
+      "detailUrl": null
+    },
+    {
+      "code": "B005E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B005F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0060",
+      "faultLocation": "Driver Seatbelt Tension Sensor (Subfault)",
+      "probableCause": "B0061",
+      "detailUrl": null
+    },
+    {
+      "code": "B0062",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0063",
+      "detailUrl": null
+    },
+    {
+      "code": "B0064",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0065",
+      "detailUrl": null
+    },
+    {
+      "code": "B0066",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0067",
+      "detailUrl": null
+    },
+    {
+      "code": "B0068",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B0069",
+      "detailUrl": null
+    },
+    {
+      "code": "B006A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B006B",
+      "detailUrl": null
+    },
+    {
+      "code": "B006C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B006D",
+      "detailUrl": null
+    },
+    {
+      "code": "B006E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B006F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0070",
+      "faultLocation": "Driver Seatbelt Pretensioner \"A\" Deployment Control (Subfault)",
+      "probableCause": "B0071",
+      "detailUrl": null
+    },
+    {
+      "code": "B0072",
+      "faultLocation": "Passenger Seatbelt Pretensioner \"A\" Deployment Control (Subfault)",
+      "probableCause": "B0073",
+      "detailUrl": null
+    },
+    {
+      "code": "B0074",
+      "faultLocation": "Second Row Center Seatbelt Pretensioner Deployment Control (Subfault)",
+      "probableCause": "B0075",
+      "detailUrl": null
+    },
+    {
+      "code": "B0076",
+      "faultLocation": "Third Row Left Seatbelt Pretensioner Deployment Control (Subfault)",
+      "probableCause": "B0077",
+      "detailUrl": null
+    },
+    {
+      "code": "B0078",
+      "faultLocation": "Third Row Right Seatbelt Pretensioner Deployment Control (Subfault)",
+      "probableCause": "B0079",
+      "detailUrl": null
+    },
+    {
+      "code": "B007A",
+      "faultLocation": "Passenger Seatbelt Pretensioner \"B\" Deployment Control (Subfault)",
+      "probableCause": "B007B",
+      "detailUrl": null
+    },
+    {
+      "code": "B007C",
+      "faultLocation": "Second Row Right Seatbelt Pretensioner \"B\" Deployment Control (Subfault)",
+      "probableCause": "B007D",
+      "detailUrl": null
+    },
+    {
+      "code": "B007E",
+      "faultLocation": "Driver Seatbelt Pretensioner \"C\" Deployment Control (Subfault)",
+      "probableCause": "B007F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0080",
+      "faultLocation": "Driver Seatbelt Load Limiter Deployment Control (Subfault)",
+      "probableCause": "B0081",
+      "detailUrl": null
+    },
+    {
+      "code": "B0082",
+      "faultLocation": "Passenger Seatbelt Load Limiter Deployment Control (Subfault)",
+      "probableCause": "B0083",
+      "detailUrl": null
+    },
+    {
+      "code": "B0084",
+      "faultLocation": "Second Row Center Seatbelt Load Limiter Deployment Control (Subfault)",
+      "probableCause": "B0085",
+      "detailUrl": null
+    },
+    {
+      "code": "B0086",
+      "faultLocation": "Third Row Left Seatbelt Load Limiter Deployment Control (Subfault)",
+      "probableCause": "B0087",
+      "detailUrl": null
+    },
+    {
+      "code": "B0088",
+      "faultLocation": "Third Row Right Seatbelt Load Limiter Deployment Control (Subfault)",
+      "probableCause": "B0089",
+      "detailUrl": null
+    },
+    {
+      "code": "B008A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B008B",
+      "detailUrl": null
+    },
+    {
+      "code": "B008C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B008D",
+      "detailUrl": null
+    },
+    {
+      "code": "B008E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B008F",
+      "detailUrl": null
+    },
+    {
+      "code": "B0090",
+      "faultLocation": "Left Frontal Restraints Sensor (Subfault)",
+      "probableCause": "B0091",
+      "detailUrl": null
+    },
+    {
+      "code": "B0092",
+      "faultLocation": "Left Side Restraints Sensor 2 (Subfault)",
+      "probableCause": "B0093",
+      "detailUrl": null
+    },
+    {
+      "code": "B0094",
+      "faultLocation": "Center Frontal Restraints Sensor (Subfault)",
+      "probableCause": "B0095",
+      "detailUrl": null
+    },
+    {
+      "code": "B0096",
+      "faultLocation": "Right Side Restraints Sensor 1 (Subfault)",
+      "probableCause": "B0097",
+      "detailUrl": null
+    },
+    {
+      "code": "B0098",
+      "faultLocation": "Right Side Restraints Sensor 3 (Subfault)",
+      "probableCause": "B0099",
+      "detailUrl": null
+    },
+    {
+      "code": "B009A",
+      "faultLocation": "Left Side Restraints Sensor 4 (Subfault)",
+      "probableCause": "B009B",
+      "detailUrl": null
+    },
+    {
+      "code": "B009C",
+      "faultLocation": "Left Side Restraints Sensor 6 (Subfault)",
+      "probableCause": "B009D",
+      "detailUrl": null
+    },
+    {
+      "code": "B009E",
+      "faultLocation": "Right Side Restraints Sensor 5 (Subfault)",
+      "probableCause": "B009F",
+      "detailUrl": null
+    },
+    {
+      "code": "B00A0",
+      "faultLocation": "Occupant Classification System (Subfault)",
+      "probableCause": "B00A1",
+      "detailUrl": null
+    },
+    {
+      "code": "B00A2",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00A3",
+      "detailUrl": null
+    },
+    {
+      "code": "B00A4",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00A5",
+      "detailUrl": null
+    },
+    {
+      "code": "B00A6",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00A7",
+      "detailUrl": null
+    },
+    {
+      "code": "B00A8",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00A9",
+      "detailUrl": null
+    },
+    {
+      "code": "B00AA",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00AB",
+      "detailUrl": null
+    },
+    {
+      "code": "B00AC",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00AD",
+      "detailUrl": null
+    },
+    {
+      "code": "B00AE",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00AF",
+      "detailUrl": null
+    },
+    {
+      "code": "B00B0",
+      "faultLocation": "Driver Seat Occupant Classification Sensor \"A\" (Subfault)",
+      "probableCause": "B00B1",
+      "detailUrl": null
+    },
+    {
+      "code": "B00B2",
+      "faultLocation": "Driver Seat Occupant Classification Sensor \"C\" (Subfault)",
+      "probableCause": "B00B3",
+      "detailUrl": null
+    },
+    {
+      "code": "B00B4",
+      "faultLocation": "Driver Seat Occupant Classification Sensor \"E\" (Subfault)",
+      "probableCause": "B00B5",
+      "detailUrl": null
+    },
+    {
+      "code": "B00B6",
+      "faultLocation": "Driver Seat Recline Position Restraints Sensor (Subfault)",
+      "probableCause": "B00B7",
+      "detailUrl": null
+    },
+    {
+      "code": "B00B8",
+      "faultLocation": "Driver Seat Occupant Position Sensor \"B\" (Subfault)",
+      "probableCause": "B00B9",
+      "detailUrl": null
+    },
+    {
+      "code": "B00BA",
+      "faultLocation": "Driver Seat Occupant Position Sensor \"D\" (Subfault)",
+      "probableCause": "B00BB",
+      "detailUrl": null
+    },
+    {
+      "code": "B00BC",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00BD",
+      "detailUrl": null
+    },
+    {
+      "code": "B00BE",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00BF",
+      "detailUrl": null
+    },
+    {
+      "code": "B00C0",
+      "faultLocation": "Passenger Seat Occupant Classification Sensor \"A\" (Subfault)",
+      "probableCause": "B00C1",
+      "detailUrl": null
+    },
+    {
+      "code": "B00C2",
+      "faultLocation": "Passenger Seat Occupant Classification Sensor \"C\" (Subfault)",
+      "probableCause": "B00C3",
+      "detailUrl": null
+    },
+    {
+      "code": "B00C4",
+      "faultLocation": "Passenger Seat Occupant Classification Sensor \"E\" (Subfault)",
+      "probableCause": "B00C5",
+      "detailUrl": null
+    },
+    {
+      "code": "B00C6",
+      "faultLocation": "Passenger Seat Recline Position Restraints Sensor (Subfault)",
+      "probableCause": "B00C7",
+      "detailUrl": null
+    },
+    {
+      "code": "B00C8",
+      "faultLocation": "Passenger Seat Occupant Position Sensor \"B\" (Subfault)",
+      "probableCause": "B00C9",
+      "detailUrl": null
+    },
+    {
+      "code": "B00CA",
+      "faultLocation": "Passenger Seat Occupant Position Sensor \"D\" (Subfault)",
+      "probableCause": "B00CB",
+      "detailUrl": null
+    },
+    {
+      "code": "B00CC",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00CD",
+      "detailUrl": null
+    },
+    {
+      "code": "B00CE",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00CF",
+      "detailUrl": null
+    },
+    {
+      "code": "B00D0",
+      "faultLocation": "Driver Seatbelt Indicator (Subfault)",
+      "probableCause": "B00D1",
+      "detailUrl": null
+    },
+    {
+      "code": "B00D2",
+      "faultLocation": "Restraint System Malfunction Indicator 1 (Subfault)",
+      "probableCause": "B00D3",
+      "detailUrl": null
+    },
+    {
+      "code": "B00D4",
+      "faultLocation": "Restraint System Malfunction Audible Indicator (Subfault)",
+      "probableCause": "B00D5",
+      "detailUrl": null
+    },
+    {
+      "code": "B00D6",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00D7",
+      "detailUrl": null
+    },
+    {
+      "code": "B00D8",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00D9",
+      "detailUrl": null
+    },
+    {
+      "code": "B00DA",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00DB",
+      "detailUrl": null
+    },
+    {
+      "code": "B00DC",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00DD",
+      "detailUrl": null
+    },
+    {
+      "code": "B00DE",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B00DF",
+      "detailUrl": null
+    },
+    {
+      "code": "B00E0",
+      "faultLocation": "Third Row Left Seatbelt Pretensioner \"B\" Deployment Control (Subfault)",
+      "probableCause": "B00E1",
+      "detailUrl": null
+    },
+    {
+      "code": "B00E2",
+      "faultLocation": "Third Row Center Seatbelt Pretensioner \"B\" Deployment Control (Subfault)",
+      "probableCause": "B00E3",
+      "detailUrl": null
+    },
+    {
+      "code": "B00E4",
+      "faultLocation": "Second Row Right Seatbelt Pretensioner \"C\" Deployment Control (Subfault)",
+      "probableCause": "B00E5",
+      "detailUrl": null
+    },
+    {
+      "code": "B00E6",
+      "faultLocation": "Third Row Right Seatbelt Pretensioner \"C\" Deployment Control (Subfault)",
+      "probableCause": "B00E7",
+      "detailUrl": null
+    },
+    {
+      "code": "B00E8",
+      "faultLocation": "Third Row Center Seatbelt Pretensioner \"C\" Deployment Control (Subfault)",
+      "probableCause": "B00E9",
+      "detailUrl": null
+    },
+    {
+      "code": "B0101",
+      "faultLocation": "Left Front Impact Sensor",
+      "probableCause": "B0500",
+      "detailUrl": null
+    },
+    {
+      "code": "B1000",
+      "faultLocation": "Manufacturer Controlled DTC",
+      "probableCause": "B1039",
+      "detailUrl": null
+    },
+    {
+      "code": "B1200",
+      "faultLocation": "Climate Control Pushbutton Circuit Failure",
+      "probableCause": "B1201",
+      "detailUrl": null
+    },
+    {
+      "code": "B1202",
+      "faultLocation": "Fuel Sender Circuit Open",
+      "probableCause": "B1203",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1202/"
+    },
+    {
+      "code": "B1204",
+      "faultLocation": "Fuel Sender Circuit Short To Ground",
+      "probableCause": "B1205",
+      "detailUrl": null
+    },
+    {
+      "code": "B1206",
+      "faultLocation": "EIC Switch-1 Assembly Circuit Open",
+      "probableCause": "B1207",
+      "detailUrl": null
+    },
+    {
+      "code": "B1208",
+      "faultLocation": "EIC Switch-1 Assembly Circuit Short To Ground",
+      "probableCause": "B1209",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1208/"
+    },
+    {
+      "code": "B1210",
+      "faultLocation": "EIC Switch-2 Assembly Circuit Open",
+      "probableCause": "B1211",
+      "detailUrl": null
+    },
+    {
+      "code": "B1212",
+      "faultLocation": "EIC Switch-2 Assembly Circuit Short To Ground",
+      "probableCause": "B1213",
+      "detailUrl": null
+    },
+    {
+      "code": "B1214",
+      "faultLocation": "Running Board Lamp Circuit Failure",
+      "probableCause": "B1215",
+      "detailUrl": null
+    },
+    {
+      "code": "B1216",
+      "faultLocation": "Emergency & Road Side Assistance Switch Circuit Short to Ground",
+      "probableCause": "B1217",
+      "detailUrl": null
+    },
+    {
+      "code": "B1218",
+      "faultLocation": "Horn Relay Coil Circuit Short to Vbatt",
+      "probableCause": "B1219",
+      "detailUrl": null
+    },
+    {
+      "code": "B1220",
+      "faultLocation": "Fuel Tank Pressure Sensor Circuit Open",
+      "probableCause": "B1222",
+      "detailUrl": null
+    },
+    {
+      "code": "B1223",
+      "faultLocation": "Fuel Temperature Sensor #1 Circuit Open",
+      "probableCause": "B1224",
+      "detailUrl": null
+    },
+    {
+      "code": "B1225",
+      "faultLocation": "Fuel Temperature Sensor #1 Circuit Short to Ground",
+      "probableCause": "B1226",
+      "detailUrl": null
+    },
+    {
+      "code": "B1227",
+      "faultLocation": "Fuel Temperature Sensor #2 Circuit Open",
+      "probableCause": "B1228",
+      "detailUrl": null
+    },
+    {
+      "code": "B1229",
+      "faultLocation": "Fuel Temperature Sensor #2 Circuit Short to Ground",
+      "probableCause": "B1231",
+      "detailUrl": null
+    },
+    {
+      "code": "B1232",
+      "faultLocation": "See Manufacturer",
+      "probableCause": "B1233",
+      "detailUrl": null
+    },
+    {
+      "code": "B1234",
+      "faultLocation": "Mirror Switch Invalid Code",
+      "probableCause": "B1235",
+      "detailUrl": null
+    },
+    {
+      "code": "B1236",
+      "faultLocation": "Window Feedback Loss of Signal",
+      "probableCause": "B1237",
+      "detailUrl": null
+    },
+    {
+      "code": "B1238",
+      "faultLocation": "Over Temperature Fault",
+      "probableCause": "B1239",
+      "detailUrl": null
+    },
+    {
+      "code": "B1240",
+      "faultLocation": "Wiper Washer Rear Pump Relay Circuit Failure",
+      "probableCause": "B1241",
+      "detailUrl": null
+    },
+    {
+      "code": "B1242",
+      "faultLocation": "Air Flow Recirculation Door Driver Circuit Failure",
+      "probableCause": "B1243",
+      "detailUrl": null
+    },
+    {
+      "code": "B1244",
+      "faultLocation": "Wiper Rear Motor Run Relay Circuit Failure",
+      "probableCause": "B1245",
+      "detailUrl": null
+    },
+    {
+      "code": "B1246",
+      "faultLocation": "Dim Panel Potentiometer Switch Circuit Failure",
+      "probableCause": "B1247",
+      "detailUrl": null
+    },
+    {
+      "code": "B1248",
+      "faultLocation": "Passenger’s Seatback Autoglide Rearward Switch Circuit Short to Ground",
+      "probableCause": "B1249",
+      "detailUrl": null
+    },
+    {
+      "code": "B1250",
+      "faultLocation": "Air Temperature Internal Sensor Circuit Failure",
+      "probableCause": "B1251",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1250/"
+    },
+    {
+      "code": "B1252",
+      "faultLocation": "Air Temperature Internal Sensor Circuit Short To Battery",
+      "probableCause": "B1253",
+      "detailUrl": null
+    },
+    {
+      "code": "B1254",
+      "faultLocation": "Air Temperature External Sensor Circuit Failure",
+      "probableCause": "B1255",
+      "detailUrl": null
+    },
+    {
+      "code": "B1256",
+      "faultLocation": "Air Temperature External Sensor Circuit Short To Battery",
+      "probableCause": "B1257",
+      "detailUrl": null
+    },
+    {
+      "code": "B1258",
+      "faultLocation": "Solar Radiation Sensor Circuit Failure",
+      "probableCause": "B1259",
+      "detailUrl": null
+    },
+    {
+      "code": "B1260",
+      "faultLocation": "Solar Radiation Sensor Circuit Short To Battery",
+      "probableCause": "B1261",
+      "detailUrl": null
+    },
+    {
+      "code": "B1262",
+      "faultLocation": "Servo Motor Defrost Circuit Failure",
+      "probableCause": "B1263",
+      "detailUrl": null
+    },
+    {
+      "code": "B1264",
+      "faultLocation": "Servo Motor Foot Circuit Failure",
+      "probableCause": "B1265",
+      "detailUrl": null
+    },
+    {
+      "code": "B1266",
+      "faultLocation": "Servo Motor Airintake Left Circuit Failure",
+      "probableCause": "B1267",
+      "detailUrl": null
+    },
+    {
+      "code": "B1268",
+      "faultLocation": "Servo Motor Potentiometer Defrost Circuit Failure",
+      "probableCause": "B1269",
+      "detailUrl": null
+    },
+    {
+      "code": "B1270",
+      "faultLocation": "Servo Motor Potentiometer Defrost Circuit Short To Battery",
+      "probableCause": "B1271",
+      "detailUrl": null
+    },
+    {
+      "code": "B1272",
+      "faultLocation": "Servo Motor Potentiometer Vent Circuit Failure",
+      "probableCause": "B1273",
+      "detailUrl": null
+    },
+    {
+      "code": "B1274",
+      "faultLocation": "Servo Motor Potentiometer Vent Circuit Short To Battery",
+      "probableCause": "B1275",
+      "detailUrl": null
+    },
+    {
+      "code": "B1276",
+      "faultLocation": "Servo Motor Potentiometer Foot Circuit Failure",
+      "probableCause": "B1277",
+      "detailUrl": null
+    },
+    {
+      "code": "B1278",
+      "faultLocation": "Servo Motor Potentiometer Foot Circuit Short To Battery",
+      "probableCause": "B1279",
+      "detailUrl": null
+    },
+    {
+      "code": "B1280",
+      "faultLocation": "Servo Motor Potentiometer Coolair Circuit Failure",
+      "probableCause": "B1281",
+      "detailUrl": null
+    },
+    {
+      "code": "B1282",
+      "faultLocation": "Servo Motor Potentiometer Coolair Circuit Short To Battery",
+      "probableCause": "B1283",
+      "detailUrl": null
+    },
+    {
+      "code": "B1284",
+      "faultLocation": "Servo Motor Potentiometer Airintake Left Circuit Failure",
+      "probableCause": "B1285",
+      "detailUrl": null
+    },
+    {
+      "code": "B1286",
+      "faultLocation": "Servo Motor Potentiometer Airintake Left Circuit Short To Battery",
+      "probableCause": "B1287",
+      "detailUrl": null
+    },
+    {
+      "code": "B1288",
+      "faultLocation": "Servo Motor Potentiometer Airintake Right Circuit Failure",
+      "probableCause": "B1289",
+      "detailUrl": null
+    },
+    {
+      "code": "B1290",
+      "faultLocation": "Servo Motor Potentiometer Airintake Right Circuit Short To Battery",
+      "probableCause": "B1291",
+      "detailUrl": null
+    },
+    {
+      "code": "B1292",
+      "faultLocation": "Battery Power Relay Circuit Failure",
+      "probableCause": "B1293",
+      "detailUrl": null
+    },
+    {
+      "code": "B1294",
+      "faultLocation": "Battery Power Relay Circuit Short To Battery",
+      "probableCause": "B1295",
+      "detailUrl": null
+    },
+    {
+      "code": "B1296",
+      "faultLocation": "Power Supply Sensor Circuit Failure",
+      "probableCause": "B1297",
+      "detailUrl": null
+    },
+    {
+      "code": "B1298",
+      "faultLocation": "Power Supply Sensor Circuit Short To Battery",
+      "probableCause": "B1299",
+      "detailUrl": null
+    },
+    {
+      "code": "B1300",
+      "faultLocation": "Power Door Lock Circuit Failure",
+      "probableCause": "B1301",
+      "detailUrl": null
+    },
+    {
+      "code": "B1302",
+      "faultLocation": "Accessory Delay Relay Coil Circuit Failure",
+      "probableCause": "B1303",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1302/"
+    },
+    {
+      "code": "B1304",
+      "faultLocation": "Accessory Delay Relay Coil Circuit Short To Battery",
+      "probableCause": "B1305",
+      "detailUrl": null
+    },
+    {
+      "code": "B1306",
+      "faultLocation": "Oil Level Switch Circuit Open",
+      "probableCause": "B1307",
+      "detailUrl": null
+    },
+    {
+      "code": "B1308",
+      "faultLocation": "Oil Level Switch Circuit Short To Ground",
+      "probableCause": "B1309",
+      "detailUrl": null
+    },
+    {
+      "code": "B1310",
+      "faultLocation": "Power Door Unlock Circuit Failure",
+      "probableCause": "B1311",
+      "detailUrl": null
+    },
+    {
+      "code": "B1312",
+      "faultLocation": "Lamp Headlamp Input Circuit Short To Battery",
+      "probableCause": "B1313",
+      "detailUrl": null
+    },
+    {
+      "code": "B1314",
+      "faultLocation": "Battery Saver Relay Coil Circuit Open",
+      "probableCause": "B1315",
+      "detailUrl": null
+    },
+    {
+      "code": "B1316",
+      "faultLocation": "Battery Saver Relay Coil Circuit Short To Ground",
+      "probableCause": "B1317",
+      "detailUrl": null
+    },
+    {
+      "code": "B1318",
+      "faultLocation": "Battery Voltage Low",
+      "probableCause": "B1319",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1318/"
+    },
+    {
+      "code": "B1320",
+      "faultLocation": "Driver Door Ajar Circuit Open",
+      "probableCause": "B1321",
+      "detailUrl": null
+    },
+    {
+      "code": "B1322",
+      "faultLocation": "Driver Door Ajar Circuit Short To Ground",
+      "probableCause": "B1323",
+      "detailUrl": null
+    },
+    {
+      "code": "B1324",
+      "faultLocation": "Door Ajar Lamp Circuit Open",
+      "probableCause": "B1325",
+      "detailUrl": null
+    },
+    {
+      "code": "B1326",
+      "faultLocation": "Door Ajar Lamp Circuit Short To Ground",
+      "probableCause": "B1327",
+      "detailUrl": null
+    },
+    {
+      "code": "B1328",
+      "faultLocation": "Passenger Door Ajar Circuit Open",
+      "probableCause": "B1329",
+      "detailUrl": null
+    },
+    {
+      "code": "B1330",
+      "faultLocation": "Passenger Door Ajar Circuit Short To Ground",
+      "probableCause": "B1331",
+      "detailUrl": null
+    },
+    {
+      "code": "B1332",
+      "faultLocation": "Decklid Ajar Rear Door Circuit Open",
+      "probableCause": "B1333",
+      "detailUrl": null
+    },
+    {
+      "code": "B1334",
+      "faultLocation": "Decklid Ajar Rear Door Circuit Short To Ground",
+      "probableCause": "B1335",
+      "detailUrl": null
+    },
+    {
+      "code": "B1336",
+      "faultLocation": "Door Ajar RR Circuit Open",
+      "probableCause": "B1337",
+      "detailUrl": null
+    },
+    {
+      "code": "B1338",
+      "faultLocation": "Door Ajar RR Circuit Short To Ground",
+      "probableCause": "B1339",
+      "detailUrl": null
+    },
+    {
+      "code": "B1340",
+      "faultLocation": "Chime Input Request Circuit Short To Ground",
+      "probableCause": "B1341",
+      "detailUrl": null
+    },
+    {
+      "code": "B1342",
+      "faultLocation": "ECU Is Defective",
+      "probableCause": "B1343",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1342/"
+    },
+    {
+      "code": "B1344",
+      "faultLocation": "Heated Backlite Input Circuit Open",
+      "probableCause": "B1345",
+      "detailUrl": null
+    },
+    {
+      "code": "B1346",
+      "faultLocation": "Heated Backlite Input Circuit Short To Battery",
+      "probableCause": "B1347",
+      "detailUrl": null
+    },
+    {
+      "code": "B1348",
+      "faultLocation": "Heated Backlite Relay Circuit Open",
+      "probableCause": "B1349",
+      "detailUrl": null
+    },
+    {
+      "code": "B1350",
+      "faultLocation": "Heated Backlite Relay Short To Ground",
+      "probableCause": "B1351",
+      "detailUrl": null
+    },
+    {
+      "code": "B1352",
+      "faultLocation": "Ignition Key-In Circuit Failure",
+      "probableCause": "B1353",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1352/"
+    },
+    {
+      "code": "B1354",
+      "faultLocation": "Ignition Key-In Circuit Short To Ground",
+      "probableCause": "B1355",
+      "detailUrl": null
+    },
+    {
+      "code": "B1356",
+      "faultLocation": "Ignition Run Circuit Open",
+      "probableCause": "B1357",
+      "detailUrl": null
+    },
+    {
+      "code": "B1358",
+      "faultLocation": "Ignition Run Circuit Short To Ground",
+      "probableCause": "B1359",
+      "detailUrl": null
+    },
+    {
+      "code": "B1360",
+      "faultLocation": "Ignition Run/Acc Circuit Open",
+      "probableCause": "B1361",
+      "detailUrl": null
+    },
+    {
+      "code": "B1362",
+      "faultLocation": "Ignition Run/Acc Circuit Short To Ground",
+      "probableCause": "B1363",
+      "detailUrl": null
+    },
+    {
+      "code": "B1364",
+      "faultLocation": "Ignition Start Circuit Open",
+      "probableCause": "B1365",
+      "detailUrl": null
+    },
+    {
+      "code": "B1366",
+      "faultLocation": "Ignition Start Circuit Short To Ground",
+      "probableCause": "B1367",
+      "detailUrl": null
+    },
+    {
+      "code": "B1368",
+      "faultLocation": "Ignition Tach Circuit Open",
+      "probableCause": "B1369",
+      "detailUrl": null
+    },
+    {
+      "code": "B1370",
+      "faultLocation": "Ignition Tach Circuit Short To Ground",
+      "probableCause": "B1371",
+      "detailUrl": null
+    },
+    {
+      "code": "B1372",
+      "faultLocation": "Illuminated Entry Relay Circuit Open",
+      "probableCause": "B1373",
+      "detailUrl": null
+    },
+    {
+      "code": "B1374",
+      "faultLocation": "Illuminated Entry Relay Short To Ground",
+      "probableCause": "B1375",
+      "detailUrl": null
+    },
+    {
+      "code": "B1376",
+      "faultLocation": "Oil Change Lamp Circuit Short To Battery",
+      "probableCause": "B1377",
+      "detailUrl": null
+    },
+    {
+      "code": "B1378",
+      "faultLocation": "Oil Change Lamp Circuit Short To Ground",
+      "probableCause": "B1379",
+      "detailUrl": null
+    },
+    {
+      "code": "B1380",
+      "faultLocation": "Oil Change Reset Button Circuit Failure",
+      "probableCause": "B1381",
+      "detailUrl": null
+    },
+    {
+      "code": "B1382",
+      "faultLocation": "Oil Change Reset Button Circuit Short To Battery",
+      "probableCause": "B1383",
+      "detailUrl": null
+    },
+    {
+      "code": "B1384",
+      "faultLocation": "Oil Level Lamp Circuit Failure",
+      "probableCause": "B1385",
+      "detailUrl": null
+    },
+    {
+      "code": "B1386",
+      "faultLocation": "Oil Level Lamp Circuit Short To Ground",
+      "probableCause": "B1387",
+      "detailUrl": null
+    },
+    {
+      "code": "B1388",
+      "faultLocation": "Oil Temperature Sensor Circuit Short To Battery",
+      "probableCause": "B1389",
+      "detailUrl": null
+    },
+    {
+      "code": "B1390",
+      "faultLocation": "Oil Temperature Sensor Circuit Short To Ground",
+      "probableCause": "B1391",
+      "detailUrl": null
+    },
+    {
+      "code": "B1392",
+      "faultLocation": "Power Door Memory Lock Relay Circuit Failure",
+      "probableCause": "B1393",
+      "detailUrl": null
+    },
+    {
+      "code": "B1394",
+      "faultLocation": "Power Door Memory Lock Relay Circuit Short To Battery",
+      "probableCause": "B1395",
+      "detailUrl": null
+    },
+    {
+      "code": "B1396",
+      "faultLocation": "Power Door Lock Circuit Short To Battery",
+      "probableCause": "B1397",
+      "detailUrl": null
+    },
+    {
+      "code": "B1398",
+      "faultLocation": "Driver Power Window One Touch Window Relay Circuit Failure",
+      "probableCause": "B1399",
+      "detailUrl": null
+    },
+    {
+      "code": "B1400",
+      "faultLocation": "Driver Power Window One Touch Window Relay Circuit Short To Battery",
+      "probableCause": "B1401",
+      "detailUrl": null
+    },
+    {
+      "code": "B1402",
+      "faultLocation": "Driver Power Window Down Switch Circuit Failure",
+      "probableCause": "B1403",
+      "detailUrl": null
+    },
+    {
+      "code": "B1404",
+      "faultLocation": "Driver Power Window Down Circuit Open",
+      "probableCause": "B1405",
+      "detailUrl": null
+    },
+    {
+      "code": "B1406",
+      "faultLocation": "Driver Power Window Down Circuit Short To Ground",
+      "probableCause": "B1407",
+      "detailUrl": null
+    },
+    {
+      "code": "B1408",
+      "faultLocation": "Driver Power Window Up Circuit Short To Battery",
+      "probableCause": "B1409",
+      "detailUrl": null
+    },
+    {
+      "code": "B1410",
+      "faultLocation": "Driver Power Window Motor Circuit Failure",
+      "probableCause": "B1411",
+      "detailUrl": null
+    },
+    {
+      "code": "B1412",
+      "faultLocation": "Driver Power Window Motor Circuit Short To Battery",
+      "probableCause": "B1413",
+      "detailUrl": null
+    },
+    {
+      "code": "B1414",
+      "faultLocation": "Power Window LR Motor Circuit Failure",
+      "probableCause": "B1415",
+      "detailUrl": null
+    },
+    {
+      "code": "B1416",
+      "faultLocation": "Power Window LR Motor Circuit Short To Battery",
+      "probableCause": "B1417",
+      "detailUrl": null
+    },
+    {
+      "code": "B1418",
+      "faultLocation": "Passenger Power Window Motor Circuit Failure",
+      "probableCause": "B1419",
+      "detailUrl": null
+    },
+    {
+      "code": "B1420",
+      "faultLocation": "Passenger Power Window Motor Circuit Short To Battery",
+      "probableCause": "B1421",
+      "detailUrl": null
+    },
+    {
+      "code": "B1422",
+      "faultLocation": "Power Window RR Motor Circuit Failure",
+      "probableCause": "B1423",
+      "detailUrl": null
+    },
+    {
+      "code": "B1424",
+      "faultLocation": "Power Window RR Motor Circuit Short To Battery",
+      "probableCause": "B1425",
+      "detailUrl": null
+    },
+    {
+      "code": "B1426",
+      "faultLocation": "Lamp Seat Belt Circuit Short To Battery",
+      "probableCause": "B1427",
+      "detailUrl": null
+    },
+    {
+      "code": "B1428",
+      "faultLocation": "Lamp Seat Belt Circuit Failure",
+      "probableCause": "B1429",
+      "detailUrl": null
+    },
+    {
+      "code": "B1430",
+      "faultLocation": "Seat Belt Switch Circuit Short To Ground",
+      "probableCause": "B1431",
+      "detailUrl": null
+    },
+    {
+      "code": "B1432",
+      "faultLocation": "Wiper Brake/Run Relay Circuit Short To Battery",
+      "probableCause": "B1433",
+      "detailUrl": null
+    },
+    {
+      "code": "B1434",
+      "faultLocation": "Wiper Hi/Low Speed Relay Coil Circuit Failure",
+      "probableCause": "B1435",
+      "detailUrl": null
+    },
+    {
+      "code": "B1436",
+      "faultLocation": "Wiper Hi/Low Speed Relay Coil Circuit Short To Battery",
+      "probableCause": "B1437",
+      "detailUrl": null
+    },
+    {
+      "code": "B1438",
+      "faultLocation": "Wiper Mode Select Switch Circuit Failure",
+      "probableCause": "B1439",
+      "detailUrl": null
+    },
+    {
+      "code": "B1440",
+      "faultLocation": "Wiper Mode Select Switch Circuit Short To Battery",
+      "probableCause": "B1441",
+      "detailUrl": null
+    },
+    {
+      "code": "B1442",
+      "faultLocation": "Door Handle Switch Circuit Failure",
+      "probableCause": "B1443",
+      "detailUrl": null
+    },
+    {
+      "code": "B1444",
+      "faultLocation": "Door Handle Switch Circuit Short To Battery",
+      "probableCause": "B1445",
+      "detailUrl": null
+    },
+    {
+      "code": "B1446",
+      "faultLocation": "Wiper Park Sense Circuit Failure",
+      "probableCause": "B1447",
+      "detailUrl": null
+    },
+    {
+      "code": "B1448",
+      "faultLocation": "Wiper Park Sense Circuit Short To Battery",
+      "probableCause": "B1449",
+      "detailUrl": null
+    },
+    {
+      "code": "B1450",
+      "faultLocation": "Wiper Wash/Delay Switch Circuit Failure",
+      "probableCause": "B1451",
+      "detailUrl": null
+    },
+    {
+      "code": "B1452",
+      "faultLocation": "Wiper Wash/Delay Switch Circuit Short To Battery",
+      "probableCause": "B1453",
+      "detailUrl": null
+    },
+    {
+      "code": "B1454",
+      "faultLocation": "Wiper Washer Fluid Lamp Circuit Failure",
+      "probableCause": "B1455",
+      "detailUrl": null
+    },
+    {
+      "code": "B1456",
+      "faultLocation": "Wiper Washer Fluid Lamp Circuit Short To Battery",
+      "probableCause": "B1457",
+      "detailUrl": null
+    },
+    {
+      "code": "B1458",
+      "faultLocation": "Wiper Washer Pump Motor Relay Circuit Failure",
+      "probableCause": "B1459",
+      "detailUrl": null
+    },
+    {
+      "code": "B1460",
+      "faultLocation": "Wiper Washer Pump Motor Relay Coil Circuit Short To Battery",
+      "probableCause": "B1461",
+      "detailUrl": null
+    },
+    {
+      "code": "B1462",
+      "faultLocation": "Seat Belt Switch Circuit Failure",
+      "probableCause": "B1463",
+      "detailUrl": null
+    },
+    {
+      "code": "B1464",
+      "faultLocation": "Seat Belt Switch Circuit Short To Battery",
+      "probableCause": "B1465",
+      "detailUrl": null
+    },
+    {
+      "code": "B1466",
+      "faultLocation": "Wiper Hi/Low Speed Not Switching",
+      "probableCause": "B1467",
+      "detailUrl": null
+    },
+    {
+      "code": "B1468",
+      "faultLocation": "Chime Input Request Circuit Failure",
+      "probableCause": "B1469",
+      "detailUrl": null
+    },
+    {
+      "code": "B1470",
+      "faultLocation": "Lamp Headlamp Input Circuit Failure",
+      "probableCause": "B1471",
+      "detailUrl": null
+    },
+    {
+      "code": "B1472",
+      "faultLocation": "Lamp Headlamp Input Circuit Short To Ground",
+      "probableCause": "B1473",
+      "detailUrl": null
+    },
+    {
+      "code": "B1474",
+      "faultLocation": "Battery Saver Power Relay Circuit Short To Battery",
+      "probableCause": "B1475",
+      "detailUrl": null
+    },
+    {
+      "code": "B1476",
+      "faultLocation": "Wiper High Speed Circuit Motor Failure",
+      "probableCause": "B1477",
+      "detailUrl": null
+    },
+    {
+      "code": "B1478",
+      "faultLocation": "Power Window One Touch Up/Down Activated Simultaneously",
+      "probableCause": "B1479",
+      "detailUrl": null
+    },
+    {
+      "code": "B1480",
+      "faultLocation": "Wiper Washer Fluid Level Sensor Circuit Open",
+      "probableCause": "B1481",
+      "detailUrl": null
+    },
+    {
+      "code": "B1482",
+      "faultLocation": "Wiper Washer Fluid Level Sensor Circuit Short To Ground",
+      "probableCause": "B1483",
+      "detailUrl": null
+    },
+    {
+      "code": "B1484",
+      "faultLocation": "Brake Pedal Input Open Circuit",
+      "probableCause": "B1485",
+      "detailUrl": null
+    },
+    {
+      "code": "B1486",
+      "faultLocation": "Brake Pedal Input Circuit Ground Short",
+      "probableCause": "B1487",
+      "detailUrl": null
+    },
+    {
+      "code": "B1488",
+      "faultLocation": "Door Handle Right Front Circuit Open",
+      "probableCause": "B1489",
+      "detailUrl": null
+    },
+    {
+      "code": "B1490",
+      "faultLocation": "Door Handle Right Front Short To Ground",
+      "probableCause": "B1491",
+      "detailUrl": null
+    },
+    {
+      "code": "B1492",
+      "faultLocation": "Ignition Cylinder Sensor Open Circuit",
+      "probableCause": "B1493",
+      "detailUrl": null
+    },
+    {
+      "code": "B1494",
+      "faultLocation": "Ignition Cylinder Sensor Ground Short",
+      "probableCause": "B1495",
+      "detailUrl": null
+    },
+    {
+      "code": "B1496",
+      "faultLocation": "Decklid Punch-Out Sensor Open Circuit",
+      "probableCause": "B1497",
+      "detailUrl": null
+    },
+    {
+      "code": "B1498",
+      "faultLocation": "Decklid Punch-Out Sensor Ground Short",
+      "probableCause": "B1499",
+      "detailUrl": null
+    },
+    {
+      "code": "B1500",
+      "faultLocation": "Lamp Turn Signal Left Circuit Open",
+      "probableCause": "B1501",
+      "detailUrl": null
+    },
+    {
+      "code": "B1502",
+      "faultLocation": "Lamp Turn Signal Left Circuit Short To Ground",
+      "probableCause": "B1503",
+      "detailUrl": null
+    },
+    {
+      "code": "B1504",
+      "faultLocation": "Lamp Turn Signal Right Circuit Open",
+      "probableCause": "B1505",
+      "detailUrl": null
+    },
+    {
+      "code": "B1506",
+      "faultLocation": "Lamp Turn Signal Right Circuit Short To Ground",
+      "probableCause": "B1507",
+      "detailUrl": null
+    },
+    {
+      "code": "B1508",
+      "faultLocation": "Flash To Pass Switch Circuit Open",
+      "probableCause": "B1509",
+      "detailUrl": null
+    },
+    {
+      "code": "B1510",
+      "faultLocation": "Flash To Pass Switch Circuit Short To Ground",
+      "probableCause": "B1511",
+      "detailUrl": null
+    },
+    {
+      "code": "B1512",
+      "faultLocation": "Driver Door Handle Circuit Open",
+      "probableCause": "B1513",
+      "detailUrl": null
+    },
+    {
+      "code": "B1514",
+      "faultLocation": "Driver Door Handle Circuit Short To Ground",
+      "probableCause": "B1515",
+      "detailUrl": null
+    },
+    {
+      "code": "B1516",
+      "faultLocation": "Seat Driver Occupied Switch Circuit Open",
+      "probableCause": "B1517",
+      "detailUrl": null
+    },
+    {
+      "code": "B1518",
+      "faultLocation": "Seat Driver Occupied Switch Circuit Short To Ground",
+      "probableCause": "B1519",
+      "detailUrl": null
+    },
+    {
+      "code": "B1520",
+      "faultLocation": "Hood Switch Circuit Open",
+      "probableCause": "B1521",
+      "detailUrl": null
+    },
+    {
+      "code": "B1522",
+      "faultLocation": "Hood Switch Circuit Short To Ground",
+      "probableCause": "B1523",
+      "detailUrl": null
+    },
+    {
+      "code": "B1524",
+      "faultLocation": "Keyless Entry Circuit Open",
+      "probableCause": "B1525",
+      "detailUrl": null
+    },
+    {
+      "code": "B1526",
+      "faultLocation": "Keyless Entry Circuit Short To Ground",
+      "probableCause": "B1527",
+      "detailUrl": null
+    },
+    {
+      "code": "B1528",
+      "faultLocation": "Memory Set Switch Circuit Open",
+      "probableCause": "B1529",
+      "detailUrl": null
+    },
+    {
+      "code": "B1530",
+      "faultLocation": "Memory Set Switch Circuit Short To Ground",
+      "probableCause": "B1531",
+      "detailUrl": null
+    },
+    {
+      "code": "B1532",
+      "faultLocation": "Memory 1 Switch Circuit Open",
+      "probableCause": "B1533",
+      "detailUrl": null
+    },
+    {
+      "code": "B1534",
+      "faultLocation": "Memory 1 Switch Circuit Short To Ground",
+      "probableCause": "B1535",
+      "detailUrl": null
+    },
+    {
+      "code": "B1536",
+      "faultLocation": "Memory 2 Switch Circuit Open",
+      "probableCause": "B1537",
+      "detailUrl": null
+    },
+    {
+      "code": "B1538",
+      "faultLocation": "Memory 2 Switch Circuit Short To Ground",
+      "probableCause": "B1539",
+      "detailUrl": null
+    },
+    {
+      "code": "B1540",
+      "faultLocation": "Mirror Driver Switch Assembly Circuit Open",
+      "probableCause": "B1541",
+      "detailUrl": null
+    },
+    {
+      "code": "B1542",
+      "faultLocation": "Mirror Driver Switch Assembly Circuit Short To Ground",
+      "probableCause": "B1543",
+      "detailUrl": null
+    },
+    {
+      "code": "B1544",
+      "faultLocation": "Seat Direction Switch Assembly Circuit Open",
+      "probableCause": "B1545",
+      "detailUrl": null
+    },
+    {
+      "code": "B1546",
+      "faultLocation": "Seat Direction Switch Assembly Circuit Short To Ground",
+      "probableCause": "B1547",
+      "detailUrl": null
+    },
+    {
+      "code": "B1548",
+      "faultLocation": "Power Window Master Circuit Open",
+      "probableCause": "B1549",
+      "detailUrl": null
+    },
+    {
+      "code": "B1550",
+      "faultLocation": "Power Window Master Circuit Short To Ground",
+      "probableCause": "B1551",
+      "detailUrl": null
+    },
+    {
+      "code": "B1552",
+      "faultLocation": "Decklid Release Circuit Open",
+      "probableCause": "B1553",
+      "detailUrl": null
+    },
+    {
+      "code": "B1554",
+      "faultLocation": "Decklid Release Circuit Short To Ground",
+      "probableCause": "B1555",
+      "detailUrl": null
+    },
+    {
+      "code": "B1556",
+      "faultLocation": "Ignition Run/Start Circuit Open",
+      "probableCause": "B1557",
+      "detailUrl": null
+    },
+    {
+      "code": "B1558",
+      "faultLocation": "Ignition Run/Start Circuit Short To Ground",
+      "probableCause": "B1559",
+      "detailUrl": null
+    },
+    {
+      "code": "B1560",
+      "faultLocation": "Door Lock Cylinder Circuit Open",
+      "probableCause": "B1561",
+      "detailUrl": null
+    },
+    {
+      "code": "B1562",
+      "faultLocation": "Door Lock Cylinder Circuit Short To Ground",
+      "probableCause": "B1563",
+      "detailUrl": null
+    },
+    {
+      "code": "B1564",
+      "faultLocation": "Door Ajar Circuit Open",
+      "probableCause": "B1565",
+      "detailUrl": null
+    },
+    {
+      "code": "B1566",
+      "faultLocation": "Door Ajar Circuit Short To Ground",
+      "probableCause": "B1567",
+      "detailUrl": null
+    },
+    {
+      "code": "B1568",
+      "faultLocation": "Lamp Headlamp High-Beam Circuit Open",
+      "probableCause": "B1569",
+      "detailUrl": null
+    },
+    {
+      "code": "B1570",
+      "faultLocation": "Lamp Headlamp High-Beam Circuit Short To Ground",
+      "probableCause": "B1571",
+      "detailUrl": null
+    },
+    {
+      "code": "B1572",
+      "faultLocation": "Door Ajar LR Circuit Open",
+      "probableCause": "B1573",
+      "detailUrl": null
+    },
+    {
+      "code": "B1574",
+      "faultLocation": "Door Ajar LR Circuit Short To Ground",
+      "probableCause": "B1575",
+      "detailUrl": null
+    },
+    {
+      "code": "B1576",
+      "faultLocation": "Lamp Park Input Circuit Open",
+      "probableCause": "B1577",
+      "detailUrl": null
+    },
+    {
+      "code": "B1578",
+      "faultLocation": "Lamp Park Input Circuit Short To Ground",
+      "probableCause": "B1579",
+      "detailUrl": null
+    },
+    {
+      "code": "B1580",
+      "faultLocation": "Dim Panel Increase Input Circuit Open",
+      "probableCause": "B1581",
+      "detailUrl": null
+    },
+    {
+      "code": "B1582",
+      "faultLocation": "Dim Panel Increase Input Circuit Short To Ground",
+      "probableCause": "B1583",
+      "detailUrl": null
+    },
+    {
+      "code": "B1584",
+      "faultLocation": "Dim Panel Decrease Input Circuit Open",
+      "probableCause": "B1585",
+      "detailUrl": null
+    },
+    {
+      "code": "B1586",
+      "faultLocation": "Dim Panel Decrease Input Circuit Short To Ground",
+      "probableCause": "B1587",
+      "detailUrl": null
+    },
+    {
+      "code": "B1588",
+      "faultLocation": "Autolamp Delay Increase Circuit Open",
+      "probableCause": "B1589",
+      "detailUrl": null
+    },
+    {
+      "code": "B1590",
+      "faultLocation": "Autolamp Delay Increase Circuit Short To Ground",
+      "probableCause": "B1591",
+      "detailUrl": null
+    },
+    {
+      "code": "B1592",
+      "faultLocation": "Autolamp Delay Decrease Circuit Open",
+      "probableCause": "B1593",
+      "detailUrl": null
+    },
+    {
+      "code": "B1594",
+      "faultLocation": "Autolamp Delay Decrease Circuit Short To Ground",
+      "probableCause": "B1595",
+      "detailUrl": null
+    },
+    {
+      "code": "B1596",
+      "faultLocation": "Service Continuous Codes",
+      "probableCause": "B1597",
+      "detailUrl": null
+    },
+    {
+      "code": "B1598",
+      "faultLocation": "Driver’s Seat Seatback Autoglide Rearward Switch Circuit Short to Ground",
+      "probableCause": "B1599",
+      "detailUrl": null
+    },
+    {
+      "code": "B1600",
+      "faultLocation": "PATS Ignition Key Transponder Signal Is Not Received",
+      "probableCause": "B1601",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1600/"
+    },
+    {
+      "code": "B1602",
+      "faultLocation": "PATS Received Invalid Format Of Key-Code From Ignition Key Transponder",
+      "probableCause": "B1603",
+      "detailUrl": null
+    },
+    {
+      "code": "B1604",
+      "faultLocation": "Lamp Anti-Theft Indicator Circuit Open",
+      "probableCause": "B1605",
+      "detailUrl": null
+    },
+    {
+      "code": "B1606",
+      "faultLocation": "Lamp Anti-Theft Indicator Circuit Short To Ground",
+      "probableCause": "B1607",
+      "detailUrl": null
+    },
+    {
+      "code": "B1608",
+      "faultLocation": "Illuminated Entry Input Open Circuit",
+      "probableCause": "B1609",
+      "detailUrl": null
+    },
+    {
+      "code": "B1610",
+      "faultLocation": "Illuminated Entry Input Short Circuit To Ground",
+      "probableCause": "B1611",
+      "detailUrl": null
+    },
+    {
+      "code": "B1612",
+      "faultLocation": "Wiper Rear Mode Select Switch Circuit Open",
+      "probableCause": "B1613",
+      "detailUrl": null
+    },
+    {
+      "code": "B1614",
+      "faultLocation": "Wiper Rear Mode Select Switch Circuit Short To Ground",
+      "probableCause": "B1615",
+      "detailUrl": null
+    },
+    {
+      "code": "B1616",
+      "faultLocation": "Wiper Rear Disable Switch Circuit Open",
+      "probableCause": "B1617",
+      "detailUrl": null
+    },
+    {
+      "code": "B1618",
+      "faultLocation": "Wiper Rear Disable Switch Circuit Short To Ground",
+      "probableCause": "B1619",
+      "detailUrl": null
+    },
+    {
+      "code": "B1620",
+      "faultLocation": "Wiper Rear Low Limit Input Circuit Open",
+      "probableCause": "B1621",
+      "detailUrl": null
+    },
+    {
+      "code": "B1622",
+      "faultLocation": "Wiper Rear Low Limit Input Circuit Short To Ground",
+      "probableCause": "B1623",
+      "detailUrl": null
+    },
+    {
+      "code": "B1624",
+      "faultLocation": "Lamp Keypad Output Open Circuit",
+      "probableCause": "B1625",
+      "detailUrl": null
+    },
+    {
+      "code": "B1626",
+      "faultLocation": "Lamp Keypad Output Short Circuit To Ground",
+      "probableCause": "B1627",
+      "detailUrl": null
+    },
+    {
+      "code": "B1628",
+      "faultLocation": "PRNDL Reverse Input Open Circuit",
+      "probableCause": "B1629",
+      "detailUrl": null
+    },
+    {
+      "code": "B1630",
+      "faultLocation": "PRNDL Reverse Input Short Circuit To Ground",
+      "probableCause": "B1631",
+      "detailUrl": null
+    },
+    {
+      "code": "B1632",
+      "faultLocation": "Mirror Driver Left Circuit Open",
+      "probableCause": "B1633",
+      "detailUrl": null
+    },
+    {
+      "code": "B1634",
+      "faultLocation": "Mirror Driver Left Circuit Short To Ground",
+      "probableCause": "B1635",
+      "detailUrl": null
+    },
+    {
+      "code": "B1636",
+      "faultLocation": "Mirror Driver Right Circuit Open",
+      "probableCause": "B1637",
+      "detailUrl": null
+    },
+    {
+      "code": "B1638",
+      "faultLocation": "Mirror Driver Right Short To Ground",
+      "probableCause": "B1639",
+      "detailUrl": null
+    },
+    {
+      "code": "B1640",
+      "faultLocation": "Mirror Passenger Left Circuit Open",
+      "probableCause": "B1641",
+      "detailUrl": null
+    },
+    {
+      "code": "B1642",
+      "faultLocation": "Mirror Passenger Left Circuit Short To Ground",
+      "probableCause": "B1643",
+      "detailUrl": null
+    },
+    {
+      "code": "B1644",
+      "faultLocation": "Mirror Passenger Right Circuit Open",
+      "probableCause": "B1645",
+      "detailUrl": null
+    },
+    {
+      "code": "B1646",
+      "faultLocation": "Mirror Passenger Right Circuit Short To Ground",
+      "probableCause": "B1647",
+      "detailUrl": null
+    },
+    {
+      "code": "B1648",
+      "faultLocation": "Seat Driver Recline Forward Circuit Open",
+      "probableCause": "B1649",
+      "detailUrl": null
+    },
+    {
+      "code": "B1650",
+      "faultLocation": "Seat Driver Recline Forward Circuit Short To Ground",
+      "probableCause": "B1651",
+      "detailUrl": null
+    },
+    {
+      "code": "B1652",
+      "faultLocation": "Seat Driver Recline Backward Circuit Open",
+      "probableCause": "B1653",
+      "detailUrl": null
+    },
+    {
+      "code": "B1654",
+      "faultLocation": "Seat Driver Recline Backward Circuit Short To Ground",
+      "probableCause": "B1655",
+      "detailUrl": null
+    },
+    {
+      "code": "B1656",
+      "faultLocation": "Seat Driver Rear Up Circuit Open",
+      "probableCause": "B1657",
+      "detailUrl": null
+    },
+    {
+      "code": "B1658",
+      "faultLocation": "Seat Driver Rear Up Circuit Short To Ground",
+      "probableCause": "B1659",
+      "detailUrl": null
+    },
+    {
+      "code": "B1660",
+      "faultLocation": "Seat Driver Front Up Circuit Open",
+      "probableCause": "B1661",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1660/"
+    },
+    {
+      "code": "B1662",
+      "faultLocation": "Seat Driver Front Up Circuit Short To Ground",
+      "probableCause": "B1663",
+      "detailUrl": null
+    },
+    {
+      "code": "B1664",
+      "faultLocation": "Seat Driver Rear Up/Down Motor Stalled",
+      "probableCause": "B1665",
+      "detailUrl": null
+    },
+    {
+      "code": "B1666",
+      "faultLocation": "Seat Driver Recline Motor Stalled",
+      "probableCause": "B1667",
+      "detailUrl": null
+    },
+    {
+      "code": "B1668",
+      "faultLocation": "Mirror Driver Right/Left Motor Stalled",
+      "probableCause": "B1669",
+      "detailUrl": null
+    },
+    {
+      "code": "B1670",
+      "faultLocation": "Mirror Passenger Right/Left Motor Stalled",
+      "probableCause": "B1671",
+      "detailUrl": null
+    },
+    {
+      "code": "B1672",
+      "faultLocation": "Seat Driver Occupied Input Circuit Failure",
+      "probableCause": "B1673",
+      "detailUrl": null
+    },
+    {
+      "code": "B1674",
+      "faultLocation": "Seat Driver Occupied Input Circuit Short To Battery",
+      "probableCause": "B1675",
+      "detailUrl": null
+    },
+    {
+      "code": "B1676",
+      "faultLocation": "Battery Pack Voltage Out Of Range",
+      "probableCause": "B1677",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b1676/"
+    },
+    {
+      "code": "B1678",
+      "faultLocation": "Alarm Panic Input Circuit Open",
+      "probableCause": "B1679",
+      "detailUrl": null
+    },
+    {
+      "code": "B1680",
+      "faultLocation": "Alarm Panic Input Circuit Short To Ground",
+      "probableCause": "B1681",
+      "detailUrl": null
+    },
+    {
+      "code": "B1682",
+      "faultLocation": "PATS Is Disabled (Check Link Between PATS And Transponder)",
+      "probableCause": "B1683",
+      "detailUrl": null
+    },
+    {
+      "code": "B1684",
+      "faultLocation": "Mirror Driver/Passenger Switch Circuit Open",
+      "probableCause": "B1685",
+      "detailUrl": null
+    },
+    {
+      "code": "B1686",
+      "faultLocation": "Lamp Dome Input Circuit Open",
+      "probableCause": "B1687",
+      "detailUrl": null
+    },
+    {
+      "code": "B1688",
+      "faultLocation": "Lamp Dome Input Circuit Short To Ground",
+      "probableCause": "B1689",
+      "detailUrl": null
+    },
+    {
+      "code": "B1690",
+      "faultLocation": "Autolamp Delay Circuit Open",
+      "probableCause": "B1691",
+      "detailUrl": null
+    },
+    {
+      "code": "B1692",
+      "faultLocation": "Autolamp Delay Circuit Short To Ground",
+      "probableCause": "B1693",
+      "detailUrl": null
+    },
+    {
+      "code": "B1694",
+      "faultLocation": "Autolamp On Circuit Open",
+      "probableCause": "B1695",
+      "detailUrl": null
+    },
+    {
+      "code": "B1696",
+      "faultLocation": "Autolamp On Circuit Short To Ground",
+      "probableCause": "B1697",
+      "detailUrl": null
+    },
+    {
+      "code": "B1698",
+      "faultLocation": "Mirror Driver/Passenger Switch Circuit Short To Ground",
+      "probableCause": "B1699",
+      "detailUrl": null
+    },
+    {
+      "code": "B1700",
+      "faultLocation": "Passenger’s Seatbelt Tension Reducer Circuit Short to Ground",
+      "probableCause": "B1701",
+      "detailUrl": null
+    },
+    {
+      "code": "B1702",
+      "faultLocation": "Seat Driver Recline Forward Switch Circuit Open",
+      "probableCause": "B1703",
+      "detailUrl": null
+    },
+    {
+      "code": "B1704",
+      "faultLocation": "Seat Driver Recline Forward Switch Circuit Short To Ground",
+      "probableCause": "B1705",
+      "detailUrl": null
+    },
+    {
+      "code": "B1706",
+      "faultLocation": "Seat Driver Recline Rearward Switch Circuit Open",
+      "probableCause": "B1707",
+      "detailUrl": null
+    },
+    {
+      "code": "B1708",
+      "faultLocation": "Seat Driver Recline Rearward Switch Circuit Short To Ground",
+      "probableCause": "B1709",
+      "detailUrl": null
+    },
+    {
+      "code": "B1710",
+      "faultLocation": "Seat Driver Front Up Switch Circuit Open",
+      "probableCause": "B1711",
+      "detailUrl": null
+    },
+    {
+      "code": "B1712",
+      "faultLocation": "Seat Driver Front Up Switch Circuit Short To Ground",
+      "probableCause": "B1713",
+      "detailUrl": null
+    },
+    {
+      "code": "B1714",
+      "faultLocation": "Seat Driver Front Down Switch Circuit Open",
+      "probableCause": "B1715",
+      "detailUrl": null
+    },
+    {
+      "code": "B1716",
+      "faultLocation": "Seat Driver Front Down Switch Circuit Short To Ground",
+      "probableCause": "B1717",
+      "detailUrl": null
+    },
+    {
+      "code": "B1718",
+      "faultLocation": "Seat Driver Forward Switch Circuit Open",
+      "probableCause": "B1719",
+      "detailUrl": null
+    },
+    {
+      "code": "B1720",
+      "faultLocation": "Seat Driver Forward Switch Circuit Short To Ground",
+      "probableCause": "B1721",
+      "detailUrl": null
+    },
+    {
+      "code": "B1722",
+      "faultLocation": "Seat Driver Rearward Switch Circuit Open",
+      "probableCause": "B1723",
+      "detailUrl": null
+    },
+    {
+      "code": "B1724",
+      "faultLocation": "Seat Driver Rearward Switch Circuit Short To Ground",
+      "probableCause": "B1725",
+      "detailUrl": null
+    },
+    {
+      "code": "B1726",
+      "faultLocation": "Seat Driver Rear Up Switch Circuit Open",
+      "probableCause": "B1727",
+      "detailUrl": null
+    },
+    {
+      "code": "B1728",
+      "faultLocation": "Seat Driver Rear Up Switch Circuit Short To Ground",
+      "probableCause": "B1729",
+      "detailUrl": null
+    },
+    {
+      "code": "B1730",
+      "faultLocation": "Seat Driver Rear Down Switch Circuit Open",
+      "probableCause": "B1731",
+      "detailUrl": null
+    },
+    {
+      "code": "B1732",
+      "faultLocation": "Seat Driver Rear Down Switch Circuit Short To Ground",
+      "probableCause": "B1733",
+      "detailUrl": null
+    },
+    {
+      "code": "B1734",
+      "faultLocation": "Mirror Driver Vertical Switch Circuit Open",
+      "probableCause": "B1735",
+      "detailUrl": null
+    },
+    {
+      "code": "B1736",
+      "faultLocation": "Mirror Driver Vertical Switch Circuit Short To Ground",
+      "probableCause": "B1737",
+      "detailUrl": null
+    },
+    {
+      "code": "B1738",
+      "faultLocation": "Mirror Driver Horizontal Switch Circuit Open",
+      "probableCause": "B1739",
+      "detailUrl": null
+    },
+    {
+      "code": "B1740",
+      "faultLocation": "Mirror Driver Horizontal Switch Circuit Short To Ground",
+      "probableCause": "B1741",
+      "detailUrl": null
+    },
+    {
+      "code": "B1742",
+      "faultLocation": "Mirror Passenger Vertical Switch Circuit Open",
+      "probableCause": "B1743",
+      "detailUrl": null
+    },
+    {
+      "code": "B1744",
+      "faultLocation": "Mirror Passenger Vertical Switch Circuit Short To Ground",
+      "probableCause": "B1745",
+      "detailUrl": null
+    },
+    {
+      "code": "B1746",
+      "faultLocation": "Mirror Passenger Horizontal Switch Circuit Open",
+      "probableCause": "B1747",
+      "detailUrl": null
+    },
+    {
+      "code": "B1748",
+      "faultLocation": "Mirror Passenger Horizontal Switch Circuit Short To Ground",
+      "probableCause": "B1749",
+      "detailUrl": null
+    },
+    {
+      "code": "B1750",
+      "faultLocation": "Park/Neutral Switch Circuit Open",
+      "probableCause": "B1751",
+      "detailUrl": null
+    },
+    {
+      "code": "B1752",
+      "faultLocation": "Park/Neutral Switch Circuit Short To Ground",
+      "probableCause": "B1753",
+      "detailUrl": null
+    },
+    {
+      "code": "B1754",
+      "faultLocation": "Hazard Flash Output Circuit Open",
+      "probableCause": "B1755",
+      "detailUrl": null
+    },
+    {
+      "code": "B1756",
+      "faultLocation": "Hazard Flash Output Circuit Short To Ground",
+      "probableCause": "B1757",
+      "detailUrl": null
+    },
+    {
+      "code": "B1758",
+      "faultLocation": "Seat Driver Rear Down Circuit Open",
+      "probableCause": "B1759",
+      "detailUrl": null
+    },
+    {
+      "code": "B1760",
+      "faultLocation": "Seat Driver Rear Down Circuit Short To Ground",
+      "probableCause": "B1761",
+      "detailUrl": null
+    },
+    {
+      "code": "B1762",
+      "faultLocation": "Seat Driver Front Down Circuit Open",
+      "probableCause": "B1763",
+      "detailUrl": null
+    },
+    {
+      "code": "B1764",
+      "faultLocation": "Seat Driver Front Down Circuit Short To Ground",
+      "probableCause": "B1765",
+      "detailUrl": null
+    },
+    {
+      "code": "B1766",
+      "faultLocation": "Seat Driver Forward Circuit Open",
+      "probableCause": "B1767",
+      "detailUrl": null
+    },
+    {
+      "code": "B1768",
+      "faultLocation": "Seat Driver Forward Circuit Short To Ground",
+      "probableCause": "B1769",
+      "detailUrl": null
+    },
+    {
+      "code": "B1770",
+      "faultLocation": "Seat Driver Backward Circuit Open",
+      "probableCause": "B1771",
+      "detailUrl": null
+    },
+    {
+      "code": "B1772",
+      "faultLocation": "Seat Driver Backward Circuit Short To Ground",
+      "probableCause": "B1773",
+      "detailUrl": null
+    },
+    {
+      "code": "B1774",
+      "faultLocation": "Mirror Driver Up Circuit Open",
+      "probableCause": "B1775",
+      "detailUrl": null
+    },
+    {
+      "code": "B1776",
+      "faultLocation": "Mirror Driver Up Circuit Short To Ground",
+      "probableCause": "B1777",
+      "detailUrl": null
+    },
+    {
+      "code": "B1778",
+      "faultLocation": "Mirror Driver Down Circuit Failure",
+      "probableCause": "B1779",
+      "detailUrl": null
+    },
+    {
+      "code": "B1780",
+      "faultLocation": "Mirror Driver Down Circuit Short To Battery",
+      "probableCause": "B1781",
+      "detailUrl": null
+    },
+    {
+      "code": "B1782",
+      "faultLocation": "Mirror Passenger Up Circuit Failure",
+      "probableCause": "B1783",
+      "detailUrl": null
+    },
+    {
+      "code": "B1784",
+      "faultLocation": "Mirror Passenger Up Circuit Short To Battery",
+      "probableCause": "B1785",
+      "detailUrl": null
+    },
+    {
+      "code": "B1786",
+      "faultLocation": "Mirror Passenger Down Circuit Failure",
+      "probableCause": "B1787",
+      "detailUrl": null
+    },
+    {
+      "code": "B1788",
+      "faultLocation": "Mirror Passenger Down Circuit Short To Battery",
+      "probableCause": "B1789",
+      "detailUrl": null
+    },
+    {
+      "code": "B1790",
+      "faultLocation": "Autolamp Sensor Input Circuit Failure",
+      "probableCause": "B1791",
+      "detailUrl": null
+    },
+    {
+      "code": "B1792",
+      "faultLocation": "Autolamp Sensor Input Circuit Short To Battery",
+      "probableCause": "B1793",
+      "detailUrl": null
+    },
+    {
+      "code": "B1794",
+      "faultLocation": "Lamp Headlamp Low-Beam Circuit Failure",
+      "probableCause": "B1795",
+      "detailUrl": null
+    },
+    {
+      "code": "B1796",
+      "faultLocation": "Lamp Headlamp Low-Beam Circuit Short To Battery",
+      "probableCause": "B1797",
+      "detailUrl": null
+    },
+    {
+      "code": "B1798",
+      "faultLocation": "Lamp Turn Signal Front Output Circuit Failure",
+      "probableCause": "B1799",
+      "detailUrl": null
+    },
+    {
+      "code": "B1800",
+      "faultLocation": "Lamp Turn Signal Front Output Circuit Short To Battery",
+      "probableCause": "B1801",
+      "detailUrl": null
+    },
+    {
+      "code": "B1802",
+      "faultLocation": "Lamp Turn Signal Rear Output Circuit Failure",
+      "probableCause": "B1803",
+      "detailUrl": null
+    },
+    {
+      "code": "B1804",
+      "faultLocation": "Lamp Turn Signal Rear Output Circuit Short To Battery",
+      "probableCause": "B1805",
+      "detailUrl": null
+    },
+    {
+      "code": "B1806",
+      "faultLocation": "Lamp Tail Output Circuit Failure",
+      "probableCause": "B1807",
+      "detailUrl": null
+    },
+    {
+      "code": "B1808",
+      "faultLocation": "Lamp Tail Output Circuit Short To Battery",
+      "probableCause": "B1809",
+      "detailUrl": null
+    },
+    {
+      "code": "B1810",
+      "faultLocation": "Lamp Backup Switch Input Circuit Failure",
+      "probableCause": "B1811",
+      "detailUrl": null
+    },
+    {
+      "code": "B1812",
+      "faultLocation": "Lamp Backup Switch Input Circuit Short To Battery",
+      "probableCause": "B1813",
+      "detailUrl": null
+    },
+    {
+      "code": "B1814",
+      "faultLocation": "Wiper Rear Motor Down Relay Coil Circuit Failure",
+      "probableCause": "B1815",
+      "detailUrl": null
+    },
+    {
+      "code": "B1816",
+      "faultLocation": "Wiper Rear Motor Down Relay Coil Circuit Short To Battery",
+      "probableCause": "B1817",
+      "detailUrl": null
+    },
+    {
+      "code": "B1818",
+      "faultLocation": "Wiper Rear Motor Up Relay Coil Circuit Failure",
+      "probableCause": "B1819",
+      "detailUrl": null
+    },
+    {
+      "code": "B1820",
+      "faultLocation": "Wiper Rear Motor Up Relay Coil Circuit Short To Battery",
+      "probableCause": "B1821",
+      "detailUrl": null
+    },
+    {
+      "code": "B1822",
+      "faultLocation": "Wiper Rear Park Sense Input Circuit Failure",
+      "probableCause": "B1823",
+      "detailUrl": null
+    },
+    {
+      "code": "B1824",
+      "faultLocation": "Wiper Rear Park Sense Input Circuit Short To Battery",
+      "probableCause": "B1825",
+      "detailUrl": null
+    },
+    {
+      "code": "B1826",
+      "faultLocation": "Wiper Rear High Limit Input Circuit Failure",
+      "probableCause": "B1827",
+      "detailUrl": null
+    },
+    {
+      "code": "B1828",
+      "faultLocation": "Wiper Rear High Limit Input Circuit Short To Battery",
+      "probableCause": "B1829",
+      "detailUrl": null
+    },
+    {
+      "code": "B1830",
+      "faultLocation": "Door Unlock Disarm Switch Circuit Failure",
+      "probableCause": "B1831",
+      "detailUrl": null
+    },
+    {
+      "code": "B1832",
+      "faultLocation": "Door Unlock Disarm Switch Circuit Short To Battery",
+      "probableCause": "B1833",
+      "detailUrl": null
+    },
+    {
+      "code": "B1834",
+      "faultLocation": "Door Unlock Disarm Output Circuit Failure",
+      "probableCause": "B1835",
+      "detailUrl": null
+    },
+    {
+      "code": "B1836",
+      "faultLocation": "Door Unlock Disarm Output Circuit Short To Battery",
+      "probableCause": "B1837",
+      "detailUrl": null
+    },
+    {
+      "code": "B1838",
+      "faultLocation": "Battery Saver Power Relay Circuit Failure",
+      "probableCause": "B1839",
+      "detailUrl": null
+    },
+    {
+      "code": "B1840",
+      "faultLocation": "Wiper Front Power Circuit Failure",
+      "probableCause": "B1841",
+      "detailUrl": null
+    },
+    {
+      "code": "B1842",
+      "faultLocation": "Wiper Front Power Circuit Short To Battery",
+      "probableCause": "B1843",
+      "detailUrl": null
+    },
+    {
+      "code": "B1844",
+      "faultLocation": "Phone Handset Circuit Failure",
+      "probableCause": "B1845",
+      "detailUrl": null
+    },
+    {
+      "code": "B1846",
+      "faultLocation": "Ignition Tamper Circuit Open",
+      "probableCause": "B1847",
+      "detailUrl": null
+    },
+    {
+      "code": "B1848",
+      "faultLocation": "Ignition Tamper Circuit Short To Ground",
+      "probableCause": "B1849",
+      "detailUrl": null
+    },
+    {
+      "code": "B1850",
+      "faultLocation": "Climate Control Temperature Differential Circuit Open",
+      "probableCause": "B1851",
+      "detailUrl": null
+    },
+    {
+      "code": "B1852",
+      "faultLocation": "Climate Control Temperature Differential Circuit Short To Ground",
+      "probableCause": "B1853",
+      "detailUrl": null
+    },
+    {
+      "code": "B1854",
+      "faultLocation": "Climate Control Air Temperature Internal Sensor Motor Circuit Open",
+      "probableCause": "B1855",
+      "detailUrl": null
+    },
+    {
+      "code": "B1856",
+      "faultLocation": "Climate Control Air Temperature Internal Sensor Motor Circuit Short To Ground",
+      "probableCause": "B1857",
+      "detailUrl": null
+    },
+    {
+      "code": "B1858",
+      "faultLocation": "Climate Control A/C Pressure Switch Circuit Failure",
+      "probableCause": "B1859",
+      "detailUrl": null
+    },
+    {
+      "code": "B1860",
+      "faultLocation": "Climate Control A/C Pressure Switch Circuit Short To Battery",
+      "probableCause": "B1861",
+      "detailUrl": null
+    },
+    {
+      "code": "B1862",
+      "faultLocation": "Climate Control A/C Lock Sensor Failure",
+      "probableCause": "B1863",
+      "detailUrl": null
+    },
+    {
+      "code": "B1864",
+      "faultLocation": "Battery Power Supply ECU Circuit Failure",
+      "probableCause": "B1865",
+      "detailUrl": null
+    },
+    {
+      "code": "B1866",
+      "faultLocation": "Battery Power Supply ECU Circuit Short To Battery",
+      "probableCause": "B1867",
+      "detailUrl": null
+    },
+    {
+      "code": "B1868",
+      "faultLocation": "Lamp Air Bag Warning Indicator Circuit Failure",
+      "probableCause": "B1869",
+      "detailUrl": null
+    },
+    {
+      "code": "B1870",
+      "faultLocation": "Lamp Air Bag Warning Indicator Circuit Short To Battery",
+      "probableCause": "B1871",
+      "detailUrl": null
+    },
+    {
+      "code": "B1872",
+      "faultLocation": "Turn Signal / Hazard Power Feed Circuit Short To Battery",
+      "probableCause": "B1873",
+      "detailUrl": null
+    },
+    {
+      "code": "B1874",
+      "faultLocation": "Cellular Phone Handset Not Present",
+      "probableCause": "B1875",
+      "detailUrl": null
+    },
+    {
+      "code": "B1876",
+      "faultLocation": "Seatbelt Driver Pretensioner Circuit Failure",
+      "probableCause": "B1877",
+      "detailUrl": null
+    },
+    {
+      "code": "B1878",
+      "faultLocation": "Seatbelt Driver Pretensioner Circuit Short to Battery",
+      "probableCause": "B1879",
+      "detailUrl": null
+    },
+    {
+      "code": "B1880",
+      "faultLocation": "Seatbelt Passenger Pretensioner Circuit Failure",
+      "probableCause": "B1881",
+      "detailUrl": null
+    },
+    {
+      "code": "B1882",
+      "faultLocation": "Seatbelt Passenger Pretensioner Circuit Short to Battery",
+      "probableCause": "B1883",
+      "detailUrl": null
+    },
+    {
+      "code": "B1884",
+      "faultLocation": "PAD Warning Lamp Inoperative",
+      "probableCause": "B1885",
+      "detailUrl": null
+    },
+    {
+      "code": "B1886",
+      "faultLocation": "Seatbelt Passenger Pretensioner Circuit Resistance Low on Squib",
+      "probableCause": "B1887",
+      "detailUrl": null
+    },
+    {
+      "code": "B1888",
+      "faultLocation": "Air Bag Passenger Circuit Resistance Low or Shorted Together",
+      "probableCause": "B1889",
+      "detailUrl": null
+    },
+    {
+      "code": "B1890",
+      "faultLocation": "PAD Warning Lamp Circuit Short to Battery",
+      "probableCause": "B1891",
+      "detailUrl": null
+    },
+    {
+      "code": "B1892",
+      "faultLocation": "Air Bag Tone Warning Indicator Circuit Failure",
+      "probableCause": "B1893",
+      "detailUrl": null
+    },
+    {
+      "code": "B1894",
+      "faultLocation": "Wiper Rear Motor Speed Sense Circuit Failure",
+      "probableCause": "B1895",
+      "detailUrl": null
+    },
+    {
+      "code": "B1896",
+      "faultLocation": "Driver’s / Passenger’s Door Ajar Output Circuit Short to Battery",
+      "probableCause": "B1897",
+      "detailUrl": null
+    },
+    {
+      "code": "B1898",
+      "faultLocation": "Chime Input #2 Circuit Short to Ground",
+      "probableCause": "B1899",
+      "detailUrl": null
+    },
+    {
+      "code": "B1900",
+      "faultLocation": "Driver Side Airbag Fault",
+      "probableCause": "B1901",
+      "detailUrl": null
+    },
+    {
+      "code": "B1902",
+      "faultLocation": "Air Bag Crash Sensor #1 Ground Circuit Failure",
+      "probableCause": "B1903",
+      "detailUrl": null
+    },
+    {
+      "code": "B1904",
+      "faultLocation": "Air Bag Crash Sensor #2 Feed/Return Circuit Failure",
+      "probableCause": "B1905",
+      "detailUrl": null
+    },
+    {
+      "code": "B1906",
+      "faultLocation": "Air Bag Crash Sensor #2 Feed/Return Circuit Short To Ground",
+      "probableCause": "B1907",
+      "detailUrl": null
+    },
+    {
+      "code": "B1908",
+      "faultLocation": "Air Bag Crash Sensor #2 Ground Circuit Short To Battery",
+      "probableCause": "B1909",
+      "detailUrl": null
+    },
+    {
+      "code": "B1910",
+      "faultLocation": "Air Bag Diagnostic Monitor Ground Circuit Failure",
+      "probableCause": "B1911",
+      "detailUrl": null
+    },
+    {
+      "code": "B1912",
+      "faultLocation": "Air Bag Diagnostic Monitor Ground Circuit Short To Ground",
+      "probableCause": "B1913",
+      "detailUrl": null
+    },
+    {
+      "code": "B1914",
+      "faultLocation": "Air Bag Crash Sensors #1 / #2 Circuit Short To Ground",
+      "probableCause": "B1915",
+      "detailUrl": null
+    },
+    {
+      "code": "B1916",
+      "faultLocation": "Air Bag Driver Circuit Short To Battery",
+      "probableCause": "B1917",
+      "detailUrl": null
+    },
+    {
+      "code": "B1918",
+      "faultLocation": "Air Bag Memory Clear Circuit Open",
+      "probableCause": "B1919",
+      "detailUrl": null
+    },
+    {
+      "code": "B1920",
+      "faultLocation": "Air Bag Passenger Circuit Failure",
+      "probableCause": "B1921",
+      "detailUrl": null
+    },
+    {
+      "code": "B1922",
+      "faultLocation": "Air Bag Safing Sensor Output Circuit Short To Battery",
+      "probableCause": "B1923",
+      "detailUrl": null
+    },
+    {
+      "code": "B1924",
+      "faultLocation": "Air Bag Internal Diagnostic Monitor Fault or System Disarm Fault",
+      "probableCause": "B1925",
+      "detailUrl": null
+    },
+    {
+      "code": "B1926",
+      "faultLocation": "Air Bag Passenger Pressure Switch Circuit Failure",
+      "probableCause": "B1927",
+      "detailUrl": null
+    },
+    {
+      "code": "B1928",
+      "faultLocation": "Air Bag Safing Sensor Output Circuit Failure",
+      "probableCause": "B1929",
+      "detailUrl": null
+    },
+    {
+      "code": "B1930",
+      "faultLocation": "Air Bag Safing Sensor Output Circuit Short To Ground",
+      "probableCause": "B1931",
+      "detailUrl": null
+    },
+    {
+      "code": "B1932",
+      "faultLocation": "Air Bag Driver Circuit Open",
+      "probableCause": "B1933",
+      "detailUrl": null
+    },
+    {
+      "code": "B1934",
+      "faultLocation": "Air Bag Driver Inflator Circuit Resistance Low on Squib",
+      "probableCause": "B1935",
+      "detailUrl": null
+    },
+    {
+      "code": "B1936",
+      "faultLocation": "Air Bag Driver Circuit Short To Ground",
+      "probableCause": "B1937",
+      "detailUrl": null
+    },
+    {
+      "code": "B1938",
+      "faultLocation": "Air Bag Passenger Circuit Short To Ground",
+      "probableCause": "B1939",
+      "detailUrl": null
+    },
+    {
+      "code": "B1941",
+      "faultLocation": "Air Bag Crash Sensor #1 Feed/Return Circuit Open",
+      "probableCause": "B1942",
+      "detailUrl": null
+    },
+    {
+      "code": "B1943",
+      "faultLocation": "Air Bag Crash Sensor #1 Ground Circuit Short To Ground",
+      "probableCause": "B1944",
+      "detailUrl": null
+    },
+    {
+      "code": "B1945",
+      "faultLocation": "Air Bag Crash Sensor #2 Ground Circuit Open",
+      "probableCause": "B1946",
+      "detailUrl": null
+    },
+    {
+      "code": "B1947",
+      "faultLocation": "Climate Control A/C Post Evaporator Sensor Circuit Short To Ground",
+      "probableCause": "B1948",
+      "detailUrl": null
+    },
+    {
+      "code": "B1949",
+      "faultLocation": "Climate Control Water Temperature Sensor Circuit Short To Ground",
+      "probableCause": "B1950",
+      "detailUrl": null
+    },
+    {
+      "code": "B1951",
+      "faultLocation": "Seat Rear Up/Down Potentiometer Feedback Circuit Open",
+      "probableCause": "B1952",
+      "detailUrl": null
+    },
+    {
+      "code": "B1953",
+      "faultLocation": "Seat Rear Up/Down Potentiometer Feedback Circuit Short To Ground",
+      "probableCause": "B1954",
+      "detailUrl": null
+    },
+    {
+      "code": "B1955",
+      "faultLocation": "Seat Front Up/Down Potentiometer Feedback Circuit Open",
+      "probableCause": "B1956",
+      "detailUrl": null
+    },
+    {
+      "code": "B1957",
+      "faultLocation": "Seat Front Up/Down Potentiometer Feedback Circuit Short To Ground",
+      "probableCause": "B1958",
+      "detailUrl": null
+    },
+    {
+      "code": "B1959",
+      "faultLocation": "Seat Recline Forward/Backward Potentiometer Feedback Circuit Open",
+      "probableCause": "B1960",
+      "detailUrl": null
+    },
+    {
+      "code": "B1961",
+      "faultLocation": "Seat Recline Forward/Backward Potentiometer Feedback Circuit Short To Ground",
+      "probableCause": "B1962",
+      "detailUrl": null
+    },
+    {
+      "code": "B1963",
+      "faultLocation": "Seat Horizontal Forward/Rearward Potentiometer Feedback Circuit Open",
+      "probableCause": "B1964",
+      "detailUrl": null
+    },
+    {
+      "code": "B1965",
+      "faultLocation": "Seat Horizontal Forward/Rearward Potentiometer Feedback Circuit Short To Ground",
+      "probableCause": "B1966",
+      "detailUrl": null
+    },
+    {
+      "code": "B1967",
+      "faultLocation": "A/C Post Heater Sensor Circuit Short To Ground",
+      "probableCause": "B1968",
+      "detailUrl": null
+    },
+    {
+      "code": "B1969",
+      "faultLocation": "A/C Clutch Magnetic Control Circuit Failure",
+      "probableCause": "B1970",
+      "detailUrl": null
+    },
+    {
+      "code": "B1971",
+      "faultLocation": "Passenger Seatback Rearward Switch Circuit Short to Ground",
+      "probableCause": "B1972",
+      "detailUrl": null
+    },
+    {
+      "code": "B1973",
+      "faultLocation": "Passenger Rear Seat Down Switch Circuit Short to Battery",
+      "probableCause": "B1974",
+      "detailUrl": null
+    },
+    {
+      "code": "B1975",
+      "faultLocation": "Passenger’s Seat Recline Back Switch Circuit Short to Battery",
+      "probableCause": "B1976",
+      "detailUrl": null
+    },
+    {
+      "code": "B1977",
+      "faultLocation": "Passenger’s Front Seat Up Switch Circuit Short to Battery",
+      "probableCause": "B1978",
+      "detailUrl": null
+    },
+    {
+      "code": "B1979",
+      "faultLocation": "Passenger Seat Rearward Switch Circuit Short to Battery",
+      "probableCause": "B1980",
+      "detailUrl": null
+    },
+    {
+      "code": "B1981",
+      "faultLocation": "Memory Off Switch Circuit Short to Battery",
+      "probableCause": "B1982",
+      "detailUrl": null
+    },
+    {
+      "code": "B1983",
+      "faultLocation": "Driver’s Door Unlock Relay Circuit Short to Battery",
+      "probableCause": "B1984",
+      "detailUrl": null
+    },
+    {
+      "code": "B1985",
+      "faultLocation": "Seat Switch Lumbar Deflate Circuit Failure",
+      "probableCause": "B1986",
+      "detailUrl": null
+    },
+    {
+      "code": "B1987",
+      "faultLocation": "Pedal Forward / Rearward Motor Stalled",
+      "probableCause": "B1988",
+      "detailUrl": null
+    },
+    {
+      "code": "B1989",
+      "faultLocation": "Pedal Position Rearward Switch Circuit Short to Battery",
+      "probableCause": "B1990",
+      "detailUrl": null
+    },
+    {
+      "code": "B1991",
+      "faultLocation": "Pedal Forward / Rearward Potentiometer Feedback Circuit Short to Battery",
+      "probableCause": "B1992",
+      "detailUrl": null
+    },
+    {
+      "code": "B1993",
+      "faultLocation": "Driver Side, Side mount Airbag Circuit Short to Ground",
+      "probableCause": "B1994",
+      "detailUrl": null
+    },
+    {
+      "code": "B1995",
+      "faultLocation": "Driver Side, Side mount Airbag Low resistance on Squib",
+      "probableCause": "B1996",
+      "detailUrl": null
+    },
+    {
+      "code": "B1997",
+      "faultLocation": "Passenger Side, Side mount Airbag Circuit Short to Ground",
+      "probableCause": "B1998",
+      "detailUrl": null
+    },
+    {
+      "code": "B1999",
+      "faultLocation": "Passenger Side, Side mount Airbag Low resistance on Squib",
+      "probableCause": "B2000",
+      "detailUrl": null
+    },
+    {
+      "code": "B2097",
+      "faultLocation": "Compass Module Failure (Ford)",
+      "probableCause": "B2100",
+      "detailUrl": null
+    },
+    {
+      "code": "B2101",
+      "faultLocation": "Head Rest Switch Circuit Failure",
+      "probableCause": "B2102",
+      "detailUrl": null
+    },
+    {
+      "code": "B2103",
+      "faultLocation": "Antenna Not Connected",
+      "probableCause": "B2104",
+      "detailUrl": null
+    },
+    {
+      "code": "B2105",
+      "faultLocation": "Throttle Position Input Out of Range Low",
+      "probableCause": "B2106",
+      "detailUrl": null
+    },
+    {
+      "code": "B2107",
+      "faultLocation": "Front Wiper Motor Relay Circuit Short to Vbatt",
+      "probableCause": "B2108",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b2107/"
+    },
+    {
+      "code": "B2109",
+      "faultLocation": "Heated Wind Shield Relay Short to Vbatt (changed from Failure 2/6/97)",
+      "probableCause": "B2110",
+      "detailUrl": null
+    },
+    {
+      "code": "B2111",
+      "faultLocation": "All Door Lock Input Short to Ground",
+      "probableCause": "B2112",
+      "detailUrl": null
+    },
+    {
+      "code": "B2113",
+      "faultLocation": "Heated Windshield Input Short to Ground",
+      "probableCause": "B2114",
+      "detailUrl": null
+    },
+    {
+      "code": "B2115",
+      "faultLocation": "Rear Washer Input Short to Ground",
+      "probableCause": "B2116",
+      "detailUrl": null
+    },
+    {
+      "code": "B2117",
+      "faultLocation": "Driver Side, Side mount Airbag Low capacitance on Squib",
+      "probableCause": "B2118",
+      "detailUrl": null
+    },
+    {
+      "code": "B2119",
+      "faultLocation": "Compressor Failure",
+      "probableCause": "B2120",
+      "detailUrl": null
+    },
+    {
+      "code": "B2122",
+      "faultLocation": "Driver Side Satellite Communication Circuit Short to Ground",
+      "probableCause": "B2123",
+      "detailUrl": null
+    },
+    {
+      "code": "B2124",
+      "faultLocation": "Door Passenger Reset Switch Stuck Failure",
+      "probableCause": "B2128",
+      "detailUrl": null
+    },
+    {
+      "code": "B2129",
+      "faultLocation": "Central Lock Feedback Failure",
+      "probableCause": "B2130",
+      "detailUrl": null
+    },
+    {
+      "code": "B2131",
+      "faultLocation": "Double Lock Feedback Failure",
+      "probableCause": "B2132",
+      "detailUrl": null
+    },
+    {
+      "code": "B2133",
+      "faultLocation": "Brake Motor Warning lamp Circuit Failure",
+      "probableCause": "B2134",
+      "detailUrl": null
+    },
+    {
+      "code": "B2135",
+      "faultLocation": "Park Brake Applied Warning Lamp Circuit Failure",
+      "probableCause": "B2136",
+      "detailUrl": null
+    },
+    {
+      "code": "B2139",
+      "faultLocation": "Data Mismatch (receive data does not match what was expected)",
+      "probableCause": "B2141",
+      "detailUrl": null
+    },
+    {
+      "code": "B2142",
+      "faultLocation": "NVM TIC Failure",
+      "probableCause": "B2143",
+      "detailUrl": null
+    },
+    {
+      "code": "B2144",
+      "faultLocation": "NVM Alarm Data Failure",
+      "probableCause": "B2145",
+      "detailUrl": null
+    },
+    {
+      "code": "B2146",
+      "faultLocation": "Seat Recline Motor Position Out of Range",
+      "probableCause": "B2148",
+      "detailUrl": null
+    },
+    {
+      "code": "B2149",
+      "faultLocation": "Seat Front Vertical Motor Position Out of Range",
+      "probableCause": "B2150",
+      "detailUrl": null
+    },
+    {
+      "code": "B2151",
+      "faultLocation": "Power Supply #2 Circuit Short to Ground",
+      "probableCause": "B2152",
+      "detailUrl": null
+    },
+    {
+      "code": "B2153",
+      "faultLocation": "Rear Echo Sensor Circuit Failure",
+      "probableCause": "B2154",
+      "detailUrl": null
+    },
+    {
+      "code": "B2155",
+      "faultLocation": "Seat Horizontal Motor Position Out of Range",
+      "probableCause": "B2156",
+      "detailUrl": null
+    },
+    {
+      "code": "B2157",
+      "faultLocation": "Front Doppler Sensor Circuit Failure",
+      "probableCause": "B2158",
+      "detailUrl": null
+    },
+    {
+      "code": "B2159",
+      "faultLocation": "Memory #1 output Short to Ground",
+      "probableCause": "B2160",
+      "detailUrl": null
+    },
+    {
+      "code": "B2161",
+      "faultLocation": "Seat Front Vertical Motor Memory Position Out of Range",
+      "probableCause": "B2162",
+      "detailUrl": null
+    },
+    {
+      "code": "B2163",
+      "faultLocation": "Clutch Position Fault",
+      "probableCause": "B2164",
+      "detailUrl": null
+    },
+    {
+      "code": "B2165",
+      "faultLocation": "Gear shift position Fault",
+      "probableCause": "B2166",
+      "detailUrl": null
+    },
+    {
+      "code": "B2167",
+      "faultLocation": "Seat Horizontal Motor Memory Position Out of Range",
+      "probableCause": "B2168",
+      "detailUrl": null
+    },
+    {
+      "code": "B2169",
+      "faultLocation": "Unable to confirm lock Condition",
+      "probableCause": "B2170",
+      "detailUrl": null
+    },
+    {
+      "code": "B2172",
+      "faultLocation": "Inertia Switch input Circuit Open",
+      "probableCause": "B2174",
+      "detailUrl": null
+    },
+    {
+      "code": "B2175",
+      "faultLocation": "A/C Request Signal Circuit Short to Ground",
+      "probableCause": "B2176",
+      "detailUrl": null
+    },
+    {
+      "code": "B2177",
+      "faultLocation": "Interior Scanning Sensor Circuit Failure",
+      "probableCause": "B2178",
+      "detailUrl": null
+    },
+    {
+      "code": "B2179",
+      "faultLocation": "Front Wiper Select Switch \"A\" Short to Ground",
+      "probableCause": "B2180",
+      "detailUrl": null
+    },
+    {
+      "code": "B2181",
+      "faultLocation": "Front Wiper Select Switch \"C\" Short to Ground",
+      "probableCause": "B2182",
+      "detailUrl": null
+    },
+    {
+      "code": "B2183",
+      "faultLocation": "Front Wiper Select Switch \"H\" Short to Ground",
+      "probableCause": "B2184",
+      "detailUrl": null
+    },
+    {
+      "code": "B2185",
+      "faultLocation": "Rear Wiper Select Switch \"D\" Short to Ground",
+      "probableCause": "B2186",
+      "detailUrl": null
+    },
+    {
+      "code": "B2187",
+      "faultLocation": "Rear Wiper Select Switch \"B\" Short to Ground",
+      "probableCause": "B2188",
+      "detailUrl": null
+    },
+    {
+      "code": "B2190",
+      "faultLocation": "Window Passenger Rear Remote Up Switch Short to Battery",
+      "probableCause": "B2194",
+      "detailUrl": null
+    },
+    {
+      "code": "B2195",
+      "faultLocation": "Driver Window Up / Down Power Circuit Short to Ground",
+      "probableCause": "B2196",
+      "detailUrl": null
+    },
+    {
+      "code": "B2197",
+      "faultLocation": "TV Module Error",
+      "probableCause": "B2198",
+      "detailUrl": null
+    },
+    {
+      "code": "B2199",
+      "faultLocation": "VICS Module Error",
+      "probableCause": "B2200",
+      "detailUrl": null
+    },
+    {
+      "code": "B2201",
+      "faultLocation": "No Communication With Traffic MasterModule",
+      "probableCause": "B2202",
+      "detailUrl": null
+    },
+    {
+      "code": "B2203",
+      "faultLocation": "CD-ROM Error",
+      "probableCause": "B2204",
+      "detailUrl": null
+    },
+    {
+      "code": "B2205",
+      "faultLocation": "GPS Receiver Error",
+      "probableCause": "B2206",
+      "detailUrl": null
+    },
+    {
+      "code": "B2207",
+      "faultLocation": "ECU ROM Checksum Error",
+      "probableCause": "B2208",
+      "detailUrl": null
+    },
+    {
+      "code": "B2209",
+      "faultLocation": "Interior Lamp Override Switch Open Circuit",
+      "probableCause": "B2210",
+      "detailUrl": null
+    },
+    {
+      "code": "B2211",
+      "faultLocation": "Low Coolant Lamp Output Circuit Short to Battery",
+      "probableCause": "B2214",
+      "detailUrl": null
+    },
+    {
+      "code": "B2215",
+      "faultLocation": "Window Passenger Front Down Switch Short to Battery",
+      "probableCause": "B2219",
+      "detailUrl": null
+    },
+    {
+      "code": "B2220",
+      "faultLocation": "Window Driver Rear Current Feedback Exceeded",
+      "probableCause": "B2221",
+      "detailUrl": null
+    },
+    {
+      "code": "B2222",
+      "faultLocation": "Window Passenger Rear Current Feedback Exceeded",
+      "probableCause": "B2223",
+      "detailUrl": null
+    },
+    {
+      "code": "B2224",
+      "faultLocation": "Mirror Passenger Drive Circuit Failure",
+      "probableCause": "B2225",
+      "detailUrl": null
+    },
+    {
+      "code": "B2226",
+      "faultLocation": "Front Crash Sensor Internal Fault",
+      "probableCause": "B2227",
+      "detailUrl": null
+    },
+    {
+      "code": "B2228",
+      "faultLocation": "Air Bag Driver Circuit Short to Ground – Loop #2",
+      "probableCause": "B2229",
+      "detailUrl": null
+    },
+    {
+      "code": "B2230",
+      "faultLocation": "Air Bag Driver Circuit Short to Battery – Loop #2",
+      "probableCause": "B2231",
+      "detailUrl": null
+    },
+    {
+      "code": "B2232",
+      "faultLocation": "Air Bag Driver Circuit Open – Loop #2",
+      "probableCause": "B2233",
+      "detailUrl": null
+    },
+    {
+      "code": "B2234",
+      "faultLocation": "Air Bag Driver Inflator Circuit Resistance Low on Squib – Loop #2",
+      "probableCause": "B2235",
+      "detailUrl": null
+    },
+    {
+      "code": "B2236",
+      "faultLocation": "Weak or Defected Electric Vehicle Battery Module Fault",
+      "probableCause": "B2237",
+      "detailUrl": null
+    },
+    {
+      "code": "B2238",
+      "faultLocation": "Power Cable For Power Sliding Door Broken",
+      "probableCause": "B2239",
+      "detailUrl": null
+    },
+    {
+      "code": "B2240",
+      "faultLocation": "Rear Cargo Door Reset Switch Stuck (Short to Ground)",
+      "probableCause": "B2241",
+      "detailUrl": null
+    },
+    {
+      "code": "B2242",
+      "faultLocation": "Rear Cargo Door Unlock Circuit Open",
+      "probableCause": "B2243",
+      "detailUrl": null
+    },
+    {
+      "code": "B2244",
+      "faultLocation": "Driver Sliding Door Ajar Circuit Short to GND",
+      "probableCause": "B2245",
+      "detailUrl": null
+    },
+    {
+      "code": "B2246",
+      "faultLocation": "Passenger Sliding Door Ajar Circuit Short to GND",
+      "probableCause": "B2247",
+      "detailUrl": null
+    },
+    {
+      "code": "B2248",
+      "faultLocation": "Heated Windshield Relay Coil Circuit Failure",
+      "probableCause": "B2249",
+      "detailUrl": null
+    },
+    {
+      "code": "B2250",
+      "faultLocation": "All Doors Unlock Relay Circuit Failure",
+      "probableCause": "B2251",
+      "detailUrl": null
+    },
+    {
+      "code": "B2252",
+      "faultLocation": "Parklamp Output Relay Dirver Short to Battery",
+      "probableCause": "B2300",
+      "detailUrl": null
+    },
+    {
+      "code": "B2301",
+      "faultLocation": "Seat Passenger Memory Position Error",
+      "probableCause": "B2302",
+      "detailUrl": null
+    },
+    {
+      "code": "B2303",
+      "faultLocation": "Seat Headrest Feedback Potentiometer Circuit Open",
+      "probableCause": "B2304",
+      "detailUrl": null
+    },
+    {
+      "code": "B2305",
+      "faultLocation": "Seat Headrest Feedback Potentiometer Circuit Short to Ground",
+      "probableCause": "B2306",
+      "detailUrl": null
+    },
+    {
+      "code": "B2310",
+      "faultLocation": "Mirror Driver Memory Position Error",
+      "probableCause": "B2311",
+      "detailUrl": null
+    },
+    {
+      "code": "B2312",
+      "faultLocation": "Mirror Passenger Horizontal Feedback Potentiometer Circuit Failure",
+      "probableCause": "B2313",
+      "detailUrl": null
+    },
+    {
+      "code": "B2314",
+      "faultLocation": "Mirror Passenger Horizontal Feedback Potentiometer Circuit Short to Battery",
+      "probableCause": "B2315",
+      "detailUrl": null
+    },
+    {
+      "code": "B2316",
+      "faultLocation": "Mirror Passenger Vertical Feedback Potentiometer Circuit Failure",
+      "probableCause": "B2317",
+      "detailUrl": null
+    },
+    {
+      "code": "B2318",
+      "faultLocation": "Mirror Passenger Vertical Feedback Potentiometer Circuit Short to Battery",
+      "probableCause": "B2319",
+      "detailUrl": null
+    },
+    {
+      "code": "B2320",
+      "faultLocation": "Mirror Driver Horizontal Feedback Potentiometer Circuit Failure",
+      "probableCause": "B2321",
+      "detailUrl": null
+    },
+    {
+      "code": "B2322",
+      "faultLocation": "Mirror Driver Horizontal Feedback Potentiometer Circuit Short to Battery",
+      "probableCause": "B2323",
+      "detailUrl": null
+    },
+    {
+      "code": "B2324",
+      "faultLocation": "Mirror Driver Vertical Feedback Potentiometer Circuit Failure",
+      "probableCause": "B2325",
+      "detailUrl": null
+    },
+    {
+      "code": "B2326",
+      "faultLocation": "Mirror Driver Vertical Feedback Potentiometer Circuit Short to Battery",
+      "probableCause": "B2327",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b2326/"
+    },
+    {
+      "code": "B2328",
+      "faultLocation": "Column Reach Feedback Potentiometer Circuit Failure",
+      "probableCause": "B2329",
+      "detailUrl": null
+    },
+    {
+      "code": "B2330",
+      "faultLocation": "Column Reach Feedback Potentiometer Circuit Short to Battery",
+      "probableCause": "B2331",
+      "detailUrl": null
+    },
+    {
+      "code": "B2332",
+      "faultLocation": "Column Tilt Feedback Potentiometer Circuit Failure",
+      "probableCause": "B2333",
+      "detailUrl": null
+    },
+    {
+      "code": "B2334",
+      "faultLocation": "Column Tilt Feedback Potentiometer Circuit Short to Battery",
+      "probableCause": "B2335",
+      "detailUrl": null
+    },
+    {
+      "code": "B2336",
+      "faultLocation": "Mirror Switch Assembly Circuit Failure",
+      "probableCause": "B2337",
+      "detailUrl": null
+    },
+    {
+      "code": "B2338",
+      "faultLocation": "Mirror Switch Assembly Circuit Short to Battery",
+      "probableCause": "B2339",
+      "detailUrl": null
+    },
+    {
+      "code": "B2340",
+      "faultLocation": "Column Reach Motor Stalled",
+      "probableCause": "B2341",
+      "detailUrl": null
+    },
+    {
+      "code": "B2342",
+      "faultLocation": "Seat Switch Reference Voltage Positive Common Open Circuit",
+      "probableCause": "B2343",
+      "detailUrl": null
+    },
+    {
+      "code": "B2344",
+      "faultLocation": "Seat Switch Reference Voltage Positive Common Supply Voltage Fault",
+      "probableCause": "B2345",
+      "detailUrl": null
+    },
+    {
+      "code": "B2346",
+      "faultLocation": "Mirror Switch Reference Voltage Positive Common Open Circuit",
+      "probableCause": "B2347",
+      "detailUrl": null
+    },
+    {
+      "code": "B2348",
+      "faultLocation": "Mirror Switch Reference Voltage Positive Common Supply Voltage Fault",
+      "probableCause": "B2349",
+      "detailUrl": null
+    },
+    {
+      "code": "B2350",
+      "faultLocation": "Steering Column Switch Circuit Short to Battery",
+      "probableCause": "B2351",
+      "detailUrl": null
+    },
+    {
+      "code": "B2352",
+      "faultLocation": "Driver Memory Power Switch Indicator Circuit Short to Battery",
+      "probableCause": "B2353",
+      "detailUrl": null
+    },
+    {
+      "code": "B2354",
+      "faultLocation": "Driver Mirror Horizontal / Vertical Feedback Potentiometer Circuit Open",
+      "probableCause": "B2355",
+      "detailUrl": null
+    },
+    {
+      "code": "B2357",
+      "faultLocation": "Driver Window Down Current Sense Low Circuit Failure",
+      "probableCause": "B2362",
+      "detailUrl": null
+    },
+    {
+      "code": "B2363",
+      "faultLocation": "Optical Sensor System Failure",
+      "probableCause": "B2364",
+      "detailUrl": null
+    },
+    {
+      "code": "B2365",
+      "faultLocation": "B-pillar Power Sliding Door Open/Close Switch Input Ckt Short to Gnd",
+      "probableCause": "B2366",
+      "detailUrl": null
+    },
+    {
+      "code": "B2367",
+      "faultLocation": "Power Sliding Door Override Switch Input Ckt Short to Gnd",
+      "probableCause": "B2368",
+      "detailUrl": null
+    },
+    {
+      "code": "B2369",
+      "faultLocation": "Chime OUTPUT Request Ckt Short to Ground",
+      "probableCause": "B2373",
+      "detailUrl": null
+    },
+    {
+      "code": "B2374",
+      "faultLocation": "Power Sliding Detent (Latch) Circuit Failure",
+      "probableCause": "B2380",
+      "detailUrl": null
+    },
+    {
+      "code": "B2381",
+      "faultLocation": "Heater Coolant Temp sensor circuit Open",
+      "probableCause": "B2384",
+      "detailUrl": null
+    },
+    {
+      "code": "B2385",
+      "faultLocation": "Audio Navigation Mute Input Ckt Failure",
+      "probableCause": "B2401",
+      "detailUrl": null
+    },
+    {
+      "code": "B2402",
+      "faultLocation": "Audio CD/DJ Thermal Shutdown Fault",
+      "probableCause": "B2403",
+      "detailUrl": null
+    },
+    {
+      "code": "B2404",
+      "faultLocation": "Audio Steering Wheel Switch Circuit Fault",
+      "probableCause": "B2405",
+      "detailUrl": null
+    },
+    {
+      "code": "B2406",
+      "faultLocation": "Audio Single-Disc CD Player Internal Fault",
+      "probableCause": "B2416",
+      "detailUrl": null
+    },
+    {
+      "code": "B2425",
+      "faultLocation": "Remote Keyless Entry Out of Synchronization",
+      "probableCause": "B2426",
+      "detailUrl": null
+    },
+    {
+      "code": "B2427",
+      "faultLocation": "Passenger Solar Radiation Sensor Circuit Short to Ground",
+      "probableCause": "B2428",
+      "detailUrl": null
+    },
+    {
+      "code": "B2429",
+      "faultLocation": "A/C Post Heater Sensor #2 Circuit Short to Ground",
+      "probableCause": "B2431",
+      "detailUrl": null
+    },
+    {
+      "code": "B2432",
+      "faultLocation": "Drivers Seat Belt Buckle Switch Circuit Open",
+      "probableCause": "B2433",
+      "detailUrl": null
+    },
+    {
+      "code": "B2434",
+      "faultLocation": "Drivers Seat Belt Buckle Switch Circuit Short to Ground",
+      "probableCause": "B2435",
+      "detailUrl": null
+    },
+    {
+      "code": "B2436",
+      "faultLocation": "Passengers Seat Belt Buckle Switch Circuit Open",
+      "probableCause": "B2437",
+      "detailUrl": null
+    },
+    {
+      "code": "B2438",
+      "faultLocation": "Passengers Seat Belt Buckle Switch Circuit Short to Ground",
+      "probableCause": "B2439",
+      "detailUrl": null
+    },
+    {
+      "code": "B2440",
+      "faultLocation": "Passenger Side, Side crash sensor mount fault",
+      "probableCause": "B2441",
+      "detailUrl": null
+    },
+    {
+      "code": "B2442",
+      "faultLocation": "Intrusion Sensor Fault",
+      "probableCause": "B2443",
+      "detailUrl": null
+    },
+    {
+      "code": "B2444",
+      "faultLocation": "Driver Side Crash Sensor Internal Fault",
+      "probableCause": "B2445",
+      "detailUrl": null
+    },
+    {
+      "code": "B2446",
+      "faultLocation": "RESCU/VEMS Input Circuit Open",
+      "probableCause": "B2447",
+      "detailUrl": null
+    },
+    {
+      "code": "B2448",
+      "faultLocation": "RESCU/VEMS Input Circuit Short to Ground",
+      "probableCause": "B2449",
+      "detailUrl": null
+    },
+    {
+      "code": "B2450",
+      "faultLocation": "Aux Heater Glow Plug Circuit Open",
+      "probableCause": "B2451",
+      "detailUrl": null
+    },
+    {
+      "code": "B2452",
+      "faultLocation": "Aux Heater Fuel Pump Circuit Open",
+      "probableCause": "B2453",
+      "detailUrl": null
+    },
+    {
+      "code": "B2454",
+      "faultLocation": "Aux Heater Blower Fan Circuit Open",
+      "probableCause": "B2455",
+      "detailUrl": null
+    },
+    {
+      "code": "B2456",
+      "faultLocation": "Aux Heater Coolant Sensor Circuit Short to Ground",
+      "probableCause": "B2457",
+      "detailUrl": null
+    },
+    {
+      "code": "B2458",
+      "faultLocation": "Aux Heater Overheat Sensor Circuit Short to Ground",
+      "probableCause": "B2459",
+      "detailUrl": null
+    },
+    {
+      "code": "B2460",
+      "faultLocation": "Aux Heater Flame Sensor Circuit Short to Ground",
+      "probableCause": "B2461",
+      "detailUrl": null
+    },
+    {
+      "code": "B2462",
+      "faultLocation": "Aux Heater Flame Out Fault",
+      "probableCause": "B2463",
+      "detailUrl": null
+    },
+    {
+      "code": "B2464",
+      "faultLocation": "Aux Heater Start Time Exceeded",
+      "probableCause": "B2465",
+      "detailUrl": null
+    },
+    {
+      "code": "B2466",
+      "faultLocation": "Aux Heater Overheat Counter Overrun/System Locked",
+      "probableCause": "B2467",
+      "detailUrl": null
+    },
+    {
+      "code": "B2468",
+      "faultLocation": "Aux Heater Coolant Pump Circuit Short to Ground",
+      "probableCause": "B2469",
+      "detailUrl": null
+    },
+    {
+      "code": "B2470",
+      "faultLocation": "Interior Fan Control Circuit Short to Ground",
+      "probableCause": "B2471",
+      "detailUrl": null
+    },
+    {
+      "code": "B2472",
+      "faultLocation": "Fog Lamp Switch Failure",
+      "probableCause": "B2473",
+      "detailUrl": null
+    },
+    {
+      "code": "B2474",
+      "faultLocation": "Passenger Door Lock Switch Circuit Shorted to Ground",
+      "probableCause": "B2475",
+      "detailUrl": null
+    },
+    {
+      "code": "B2476",
+      "faultLocation": "RADIO PRESENT SWITCH Ckt Failure",
+      "probableCause": "B2477",
+      "detailUrl": null
+    },
+    {
+      "code": "B2478",
+      "faultLocation": "ANTI THEFT INPUT SIGNAL SHORT TO GROUND",
+      "probableCause": "B2479",
+      "detailUrl": null
+    },
+    {
+      "code": "B2480",
+      "faultLocation": "LF CORNER LAMP OUTPUT Ckt Short to Battery",
+      "probableCause": "B2481",
+      "detailUrl": null
+    },
+    {
+      "code": "B2482",
+      "faultLocation": "RF CORNER LAMP OUTPUT Ckt Short to Battery",
+      "probableCause": "B2483",
+      "detailUrl": null
+    },
+    {
+      "code": "B2484",
+      "faultLocation": "Disable Signal Short to Ground",
+      "probableCause": "B2485",
+      "detailUrl": null
+    },
+    {
+      "code": "B2487",
+      "faultLocation": "RF SIDE REPEATER LAMP OUTPUT Ckt Short to Battery",
+      "probableCause": "B2489",
+      "detailUrl": null
+    },
+    {
+      "code": "B2490",
+      "faultLocation": "UNDERHOOD LAMP OUTPUT CIRCUIT Short to Battery",
+      "probableCause": "B2491",
+      "detailUrl": null
+    },
+    {
+      "code": "B2492",
+      "faultLocation": "Already Programmed (Test Mode DTC Only !!!)",
+      "probableCause": "B2493",
+      "detailUrl": null
+    },
+    {
+      "code": "B2494",
+      "faultLocation": "ANTI THEFT HORN OUTPUT CIRCUIT Short to Batt",
+      "probableCause": "B2495",
+      "detailUrl": null
+    },
+    {
+      "code": "B2496",
+      "faultLocation": "ANTI THEFT HORN OUTPUT CIRCUIT Short to Gnd",
+      "probableCause": "B2499",
+      "detailUrl": null
+    },
+    {
+      "code": "B2500",
+      "faultLocation": "COURTESY LAMP OUTPUT Ckt Short to Battery",
+      "probableCause": "B2501",
+      "detailUrl": null
+    },
+    {
+      "code": "B2502",
+      "faultLocation": "LF LAMP LOW BEAM CIRCUIT Short to Battery",
+      "probableCause": "B2503",
+      "detailUrl": null
+    },
+    {
+      "code": "B2504",
+      "faultLocation": "RF LAMP LOW BEAM CIRCUIT Short to Battery",
+      "probableCause": "B2505",
+      "detailUrl": null
+    },
+    {
+      "code": "B2506",
+      "faultLocation": "LF LAMP HIGH BEAM CIRCUIT Short to Battery",
+      "probableCause": "B2507",
+      "detailUrl": null
+    },
+    {
+      "code": "B2508",
+      "faultLocation": "RF LAMP HIGH BEAM CIRCUIT Short to Battery",
+      "probableCause": "B2509",
+      "detailUrl": null
+    },
+    {
+      "code": "B2510",
+      "faultLocation": "Main Blower Motor Relay Circuit Short to Battery",
+      "probableCause": "B2511",
+      "detailUrl": null
+    },
+    {
+      "code": "B2512",
+      "faultLocation": "Front Fog Lamp Relay Ckt Short to Battery",
+      "probableCause": "B2513",
+      "detailUrl": null
+    },
+    {
+      "code": "B2514",
+      "faultLocation": "Blower (Fan) Circuit Short to Vbatt",
+      "probableCause": "B2515",
+      "detailUrl": null
+    },
+    {
+      "code": "B2516",
+      "faultLocation": "Blower Control Circuit Failure",
+      "probableCause": "B2517",
+      "detailUrl": null
+    },
+    {
+      "code": "B2518",
+      "faultLocation": "Compressor Overtemp Fault",
+      "probableCause": "B2519",
+      "detailUrl": null
+    },
+    {
+      "code": "B2520",
+      "faultLocation": "High Mount Stop Lamp Circuit Short to Battery",
+      "probableCause": "B2523",
+      "detailUrl": null
+    },
+    {
+      "code": "B2524",
+      "faultLocation": "License Lamp Circuit Short to Battery",
+      "probableCause": "B2525",
+      "detailUrl": null
+    },
+    {
+      "code": "B2526",
+      "faultLocation": "Left Rear Backup Lamp Circuit Short to Battery",
+      "probableCause": "B2527",
+      "detailUrl": null
+    },
+    {
+      "code": "B2528",
+      "faultLocation": "Left Rear Stop lamp Circuit Short to Battery",
+      "probableCause": "B2529",
+      "detailUrl": null
+    },
+    {
+      "code": "B2530",
+      "faultLocation": "Left Rear Turn Lamp Circuit Short to Battery",
+      "probableCause": "B2531",
+      "detailUrl": null
+    },
+    {
+      "code": "B2532",
+      "faultLocation": "Right Rear Backup Lamp Circuit Short to Battery",
+      "probableCause": "B2533",
+      "detailUrl": null
+    },
+    {
+      "code": "B2534",
+      "faultLocation": "Right Rear Stop lamp Circuit Short to Battery",
+      "probableCause": "B2535",
+      "detailUrl": null
+    },
+    {
+      "code": "B2536",
+      "faultLocation": "Right Rear Turn Lamp Circuit Short to Battery",
+      "probableCause": "B2539",
+      "detailUrl": null
+    },
+    {
+      "code": "B2540",
+      "faultLocation": "Aux A/C Mode Position Reference Circuit Short to Battery",
+      "probableCause": "B2543",
+      "detailUrl": null
+    },
+    {
+      "code": "B2544",
+      "faultLocation": "Aux A/C Control Switch Reference Circuit Short to Battery",
+      "probableCause": "B2545",
+      "detailUrl": null
+    },
+    {
+      "code": "B2546",
+      "faultLocation": "System Power Relay Circuit Failure",
+      "probableCause": "B2550",
+      "detailUrl": null
+    },
+    {
+      "code": "B2553",
+      "faultLocation": "Disable Signal Output Circuit Short to Battery",
+      "probableCause": "B2554",
+      "detailUrl": null
+    },
+    {
+      "code": "B2555",
+      "faultLocation": "LAMP DOME OUTPUT Circuit Short to Battery",
+      "probableCause": "B2556",
+      "detailUrl": null
+    },
+    {
+      "code": "B2557",
+      "faultLocation": "Left Power Sliding Door Open/Close Output Circuit Short to Battery",
+      "probableCause": "B2558",
+      "detailUrl": null
+    },
+    {
+      "code": "B2559",
+      "faultLocation": "Aux A/C Blower Motor Relay Circuit Short to Battery",
+      "probableCause": "B2560",
+      "detailUrl": null
+    },
+    {
+      "code": "B2561",
+      "faultLocation": "Aux A/C Blower Speed 1 Circuit Failure",
+      "probableCause": "B2562",
+      "detailUrl": null
+    },
+    {
+      "code": "B2563",
+      "faultLocation": "Aux A/C Blower Speed 2 Circuit Failure",
+      "probableCause": "B2564",
+      "detailUrl": null
+    },
+    {
+      "code": "B2565",
+      "faultLocation": "Right Tail Lamp Circuit Failure",
+      "probableCause": "B2566",
+      "detailUrl": null
+    },
+    {
+      "code": "B2567",
+      "faultLocation": "Reverse Mirror Output Circuit Failure",
+      "probableCause": "B2568",
+      "detailUrl": null
+    },
+    {
+      "code": "B2569",
+      "faultLocation": "Liftgate Disarm Switch Circuit Short to Ground",
+      "probableCause": "B2570",
+      "detailUrl": null
+    },
+    {
+      "code": "B2571",
+      "faultLocation": "Left Lamp Outage Signal Circuit Short to Ground",
+      "probableCause": "B2580",
+      "detailUrl": null
+    },
+    {
+      "code": "B2581",
+      "faultLocation": "Passenger Seat Occupant Detection Circuit Short To Ground",
+      "probableCause": "B2582",
+      "detailUrl": null
+    },
+    {
+      "code": "B2583",
+      "faultLocation": "Child Seat Detection Circuit Short to Ground",
+      "probableCause": "B2584",
+      "detailUrl": null
+    },
+    {
+      "code": "B2585",
+      "faultLocation": "Anti Theft Input Signal Circuit Short To Battery",
+      "probableCause": "B2586",
+      "detailUrl": null
+    },
+    {
+      "code": "B2587",
+      "faultLocation": "Passenger Seat Occupant Detection Circuit Short To Battery",
+      "probableCause": "B2588",
+      "detailUrl": null
+    },
+    {
+      "code": "B2589",
+      "faultLocation": "Unexpected Door Reversal During Close",
+      "probableCause": "B2590",
+      "detailUrl": null
+    },
+    {
+      "code": "B2591",
+      "faultLocation": "Detent Signal Missing During Unlatch",
+      "probableCause": "B2592",
+      "detailUrl": null
+    },
+    {
+      "code": "B2593",
+      "faultLocation": "Power Sliding Door Opened During Module Close Command",
+      "probableCause": "B2594",
+      "detailUrl": null
+    },
+    {
+      "code": "B2595",
+      "faultLocation": "Anti Theft Input Signal Circuit Failure",
+      "probableCause": "B2596",
+      "detailUrl": null
+    },
+    {
+      "code": "B2597",
+      "faultLocation": "Headlamp Aim Output Relay Circuit Failure",
+      "probableCause": "B2598",
+      "detailUrl": null
+    },
+    {
+      "code": "B2599",
+      "faultLocation": "Tailgate Release Open Circuit",
+      "probableCause": "B2600",
+      "detailUrl": null
+    },
+    {
+      "code": "B2601",
+      "faultLocation": "No Latch Signal Sensed on Closing and Door Reversed",
+      "probableCause": "B2602",
+      "detailUrl": null
+    },
+    {
+      "code": "B2603",
+      "faultLocation": "PSD Not Fully Closed During Self-Test",
+      "probableCause": "B2604",
+      "detailUrl": null
+    },
+    {
+      "code": "B2605",
+      "faultLocation": "Disable Signal Open Circuit",
+      "probableCause": "B2606",
+      "detailUrl": null
+    },
+    {
+      "code": "B2796",
+      "faultLocation": "No Communication In Immobilizer System",
+      "probableCause": "B2799",
+      "detailUrl": null
+    },
+    {
+      "code": "B2AAA",
+      "faultLocation": "Scanner Communication Incompatibility",
+      "probableCause": "B2TAE",
+      "detailUrl": "https://www.troublecodes.net/bcodes/b2aaa/"
+    },
+    {
+      "code": "B3000",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "B3004",
+      "detailUrl": null
+    }
+  ]
+}

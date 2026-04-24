@@ -1,0 +1,14 @@
+{
+  "name": "Subaru",
+  "slug": "subaru",
+  "totalCodes": 136,
+  "totalSubmodels": 2,
+  "totalDetails": 0,
+  "totalProcedures": 2,
+  "codeTypes": {
+    "P": 136,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

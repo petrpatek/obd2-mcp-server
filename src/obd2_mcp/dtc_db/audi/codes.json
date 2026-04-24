@@ -1,0 +1,3518 @@
+[
+  {
+    "code": "P1009",
+    "faultLocation": "Air Mass Meter 1/2 Implausible Signal From Load Detection",
+    "probableCause": "Wiring, MAF sensor(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1018",
+    "faultLocation": "Intake Manifold Runner Bank 2 Lower Limit Not Reached",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1020",
+    "faultLocation": "Fuel pressure - control limit exceeded",
+    "probableCause": "Wiring, fuel pressure sensor, fuel pressure control valve, high pressure fuel pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1023",
+    "faultLocation": "Fuel pressure control valve - short to ground",
+    "probableCause": "Wiring short to ground, fuel pressure control valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1024",
+    "faultLocation": "Fuel pressure control valve - open circuit",
+    "probableCause": "Wiring open circuit, fuel pressure control valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1025",
+    "faultLocation": "Fuel pressure control valve - mechanical fault",
+    "probableCause": "Fuel pressure control valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1026",
+    "faultLocation": "Intake manifold air control solenoid - short to positive",
+    "probableCause": "Wiring short to positive, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1027",
+    "faultLocation": "Intake manifold air control solenoid - short to ground",
+    "probableCause": "Wiring short to ground, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1028",
+    "faultLocation": "Intake manifold air control solenoid - open circuit",
+    "probableCause": "Wiring open circuit, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1029",
+    "faultLocation": "Intake manifold air control valve position sensor - upper limit not reached",
+    "probableCause": "Air control flap tight/sticking, hose connection(s), intake manifold air control actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1030",
+    "faultLocation": "Intake manifold air control valve position sensor - lower limit not reached",
+    "probableCause": "Air control flap tight/sticking, hose connection(s), intake manifold air control actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1031",
+    "faultLocation": "Intake manifold air control valve position sensor - specification not attained",
+    "probableCause": "Air control flap tight/sticking, hose connection(s), intake manifold air control actuator, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1032",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - signal too high",
+    "probableCause": "Catalytic converter, wiring short to positive, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1033",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - signal too low",
+    "probableCause": "Exhaust leak, wiring short to ground, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1034",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - signal outside tolerance",
+    "probableCause": "Catalytic converter, exhaust leak, wiring, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1035",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - range/performance problem",
+    "probableCause": "Wiring, heating inoperative, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1036",
+    "faultLocation": "Nitrogen oxides (NOx) heater sensor - short to positive",
+    "probableCause": "Wiring short to positive, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1037",
+    "faultLocation": "Nitrogen oxides (NOx) heater sensor - short to ground",
+    "probableCause": "Wiring short to ground, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1038",
+    "faultLocation": "Nitrogen oxides (NOx) heater sensor - open circuit",
+    "probableCause": "Wiring open circuit, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1039",
+    "faultLocation": "Injector 1, supply voltage - short circuit",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1040",
+    "faultLocation": "Injector 1, supply voltage - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1041",
+    "faultLocation": "Injector 2, supply voltage - short circuit",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1042",
+    "faultLocation": "Injector 2, supply voltage - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1043",
+    "faultLocation": "Injector 3, supply voltage - short circuit",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1044",
+    "faultLocation": "Injector 3, supply voltage - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1045",
+    "faultLocation": "Injector 4, supply voltage - short circuit",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1046",
+    "faultLocation": "Injector 4, supply voltage - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1047",
+    "faultLocation": "Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - circuit malfunction",
+    "probableCause": "Wiring, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1048",
+    "faultLocation": "Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - short to positive",
+    "probableCause": "Wiring short to positive, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1049",
+    "faultLocation": "Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - short to ground",
+    "probableCause": "Wiring short to ground, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1050",
+    "faultLocation": "Camshaft position (CMP) actuator, exhaust/ right/rear, Bank 1 - open circuit",
+    "probableCause": "Wiring open circuit, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1055",
+    "faultLocation": "Bank 1 Camshaft Adjustment Short To B+",
+    "probableCause": "Wiring short to positive, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1056",
+    "faultLocation": "Bank 1 Camshaft Adjustment Short To Ground",
+    "probableCause": "Wiring short to ground, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1057",
+    "faultLocation": "Bank 1 Camshaft Adjustment Short To Open Circuit",
+    "probableCause": "Wiring open circuit, camshaft position (CMP) actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1063",
+    "faultLocation": "Fuel pressure - control limit not reached",
+    "probableCause": "Air in fuel system, fuel leak, fuel lift pump, fuel bypass valve, fuel pressure control valve, high pressure fuel pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1064",
+    "faultLocation": "Fuel pressure - mechanical fault",
+    "probableCause": "Air in fuel system, fuel leak, fuel lift pump, fuel bypass valve, fuel pressure control valve, high pressure fuel pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1065",
+    "faultLocation": "Fuel pressure - system deviation",
+    "probableCause": "Air in fuel system, fuel leak, fuel lift pump, fuel bypass valve, fuel pressure control valve, high pressure fuel pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1066",
+    "faultLocation": "Intake manifold air control solenoid - short to positive",
+    "probableCause": "Wiring short to positive, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1067",
+    "faultLocation": "Intake manifold air control solenoid - short to ground",
+    "probableCause": "Wiring short to ground, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1068",
+    "faultLocation": "Intake manifold air control solenoid - open circuit",
+    "probableCause": "Wiring open circuit, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1069",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - heater control - short to ground",
+    "probableCause": "Wiring short to ground, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1070",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - heater control - short to positive",
+    "probableCause": "Wiring short to positive, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1071",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - heater control - incorrect signal",
+    "probableCause": "Wiring, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1072",
+    "faultLocation": "Nitrogen oxides (NOx) sensor - heater control - circuit malfunction",
+    "probableCause": "Wiring, NOx sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1073",
+    "faultLocation": "Mass Air Flow Sensor 2 Signal Too Small",
+    "probableCause": "Wiring, MAF sensor(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1074",
+    "faultLocation": "Mass Air Flow Sensor 2 Signal Too Large",
+    "probableCause": "Wiring, MAF sensor(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1081",
+    "faultLocation": "Exhaust Bank 3- Mixture Adaption Range 1 Lower Lean Limit Not Reached",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1082",
+    "faultLocation": "Exhaust Bank 3- Mixture Adaption Range 2 Lower Lean Limit Not Reached",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1083",
+    "faultLocation": "Exhaust Bank 3- Mixture Adaption Range 1 Lower Rich Limit Not Reached",
+    "probableCause": "Wiring, intake leak, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1084",
+    "faultLocation": "Exhaust Bank 3- Mixture Adaption Range 2 Lower Rich Limit Not Reached",
+    "probableCause": "Wiring, intake leak, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1085",
+    "faultLocation": "Exhaust Bank 4- Mixture Adaption Range 1 Lower Lean Limit Not Reached",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1086",
+    "faultLocation": "Exhaust Bank 4- Mixture Adaption Range 2 Lower Lean Limit Not Reached",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1087",
+    "faultLocation": "Exhaust Bank 4- Mixture Adaption Range 1 Lower Rich Limit Not Reached",
+    "probableCause": "Wiring, intake leak, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1088",
+    "faultLocation": "Exhaust Bank 4- Mixture Adaption Range 2 Lower Rich Limit Not Reached",
+    "probableCause": "Wiring, intake leak, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1093",
+    "faultLocation": "Mixture control (MC), Bank 1 - malfunction",
+    "probableCause": "Fuel pressure/pump, injector(s) intake leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1100",
+    "faultLocation": "HO2S12 Sensor Circuit Voltage Too Low Air Leak",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1101",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - low voltage/air leak",
+    "probableCause": "Intake/exhaust leak, fuel pressure/pump, wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1102",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - heater short to positive",
+    "probableCause": "Wiring short to positive, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1103",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - heater output too low",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1104",
+    "faultLocation": "HO2S12 Sensor Circuit Voltage Too Low Air Leak",
+    "probableCause": "Wiring, air leak, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1105",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 1 - heater short to positive",
+    "probableCause": "Wiring short to positive, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1106",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - low voltage/air leak",
+    "probableCause": "Intake/exhaust leak, fuel pressure/pump, wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1107",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - heater short to positive",
+    "probableCause": "Wiring short to positive, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1109",
+    "faultLocation": "HO2S22 Sensor Circuit Voltage Too Low Air Leak",
+    "probableCause": "Wiring, air leak, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1110",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 2 - heater short to positive",
+    "probableCause": "Wiring short to positive, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1111",
+    "faultLocation": "Heated oxygen sensor (HO2S) control, Bank 1 - system too lean",
+    "probableCause": "Intake/exhaust leak, injector blocked, MAP sensor, MAF sensor, fuel pressure/ pump, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1112",
+    "faultLocation": "Heated oxygen sensor (HO2S) control, Bank 1 - system too rich",
+    "probableCause": "Excessive fuel in engine oil, injector leaking, fuel pressure, EVAP canister purge valve, MAP sensor, MAF sensor, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1113",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - heater resistance too high",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1114",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 1 - heater resistance too high",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1115",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - heater short to ground",
+    "probableCause": "Wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1116",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - heater open circuit",
+    "probableCause": "Wiring open circuit, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1117",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 1 - heater short to ground",
+    "probableCause": "Wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1118",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 1 - heater open circuit",
+    "probableCause": "Wiring open circuit, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1119",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - heater short to ground",
+    "probableCause": "Wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1120",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - heater open circuit",
+    "probableCause": "Wiring open circuit, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1121",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 2 - heater short to ground",
+    "probableCause": "Wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1122",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 2 - heater open circuit",
+    "probableCause": "Wiring open circuit, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1123",
+    "faultLocation": "Long Term Fuel Trim Adjustment Bank 1 System Too Rich",
+    "probableCause": "Excessive fuel in engine oil, fuel pressure, EVAP canister purge valve, injector(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1124",
+    "faultLocation": "Long Term Fuel Trim Adjustment Bank 1 System Too Lean",
+    "probableCause": "Fuel pressurelpump, injector(s), intakelexhaust leak, AIR system, hose leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1125",
+    "faultLocation": "Long Term Fuel Trim Adjustment Bank 2 System Too Rich",
+    "probableCause": "Excessive fuel in engine oil, fuel pressure, EVAP canister purge valve, injector(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1126",
+    "faultLocation": "Long Term Fuel Trim Adjustment Bank 2 System Too Lean",
+    "probableCause": "Fuel pressure/pump, injector(s), intake/exhaust leak, AIR system, hose leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1127",
+    "faultLocation": "Long term fuel trim, entire speed/load range, Bank 1 - system too rich",
+    "probableCause": "Excessive fuel in engine oil, fuel pressure, EVAP canister purge valve, injector(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1128",
+    "faultLocation": "Long term fuel trim, entire speed/load range, Bank 1 - system too lean",
+    "probableCause": "Fuel pressure/pump, injector(s), intake/ exhaust leak, AIR system, hose leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1129",
+    "faultLocation": "Long term fuel trim, entire speed/load range, Bank 2 - system too rich",
+    "probableCause": "Excessive fuel in engine oil, fuel pressure, EVAP canister purge valve, injector(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1130",
+    "faultLocation": "Long term fuel trim, entire speed/load range, Bank 2 - system too lean",
+    "probableCause": "Fuel pressure/pump, injector(s), intake/ exhaust leak, AIR system, hose leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1131",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - heater resistance too high",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1132",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 & 2 - heater control - circuit high",
+    "probableCause": "Wiring short to positive, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1133",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 & 2 - heater control - circuit low",
+    "probableCause": "Wiring open circuit/short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1134",
+    "faultLocation": "HO2S Heater Circuit- Bank 1 & 2 Sensor 2 Short To B+",
+    "probableCause": "Wiring short to positive, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1135",
+    "faultLocation": "HO2S Heater Circuit- Bank 1 & 2 Sensor 2 Electrical Malfunction",
+    "probableCause": "Wiring open circuit/short to ground, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1136",
+    "faultLocation": "Long term fuel trim, idling, Bank 1 - system too lean",
+    "probableCause": "Fuel pressure/pump, injector(s), intake/ exhaust leak, AIR system, hose leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1137",
+    "faultLocation": "Long term fuel trim, idling, Bank 1 - system too rich",
+    "probableCause": "Fuel pressure, injector(s), EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1138",
+    "faultLocation": "Long term fuel trim, idling, Bank 2 - system too lean",
+    "probableCause": "Fuel pressure/pump, injector(s), intake/ exhaust leak, AIR system, hose leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1139",
+    "faultLocation": "Long term fuel trim, idling, Bank 2 - system too rich",
+    "probableCause": "Fuel pressure, injector(s), EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1140",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 2 - heater resistance too high",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1141",
+    "faultLocation": "Load calculation - implausible value",
+    "probableCause": "Wiring, MAP sensor, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1142",
+    "faultLocation": "Load calculation - too low",
+    "probableCause": "Throttle control unit, MAP sensor, MAF sensor, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1143",
+    "faultLocation": "Load calculation - too high",
+    "probableCause": "Throttle control unit, MAP sensor, MAF sensor, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1144",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 1 - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1145",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 1 - short to positive",
+    "probableCause": "Wiring short to positive, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1146",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 1 - supply voltage",
+    "probableCause": "Operating voltage too high/low, wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1147",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - lambda regulation, system too lean",
+    "probableCause": "Intake leak, wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1148",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - lambda regulation, system too rich",
+    "probableCause": "Exhaust leak, wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1149",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 - implausible lambda control value",
+    "probableCause": "Exhaust leak, wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1150",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2 - implausible lambda control value",
+    "probableCause": "Exhaust leak, wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1151",
+    "faultLocation": "Long term fuel trim 1, Bank 1 - below lean limit",
+    "probableCause": "Fuel pressure/pump, injectors, intake/exhaust leak, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1152",
+    "faultLocation": "Long term fuel trim 2, Bank 1 - below lean limit",
+    "probableCause": "Fuel pressure/pump, injectors, intake/exhaust leak, AIR system, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1153",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 1 & 2 - interchanged",
+    "probableCause": "HO2S 2 on Bank 1 & 2 incorrectly installed",
+    "detailUrl": null
+  },
+  {
+    "code": "P1154",
+    "faultLocation": "Manifold Switch Over Malfunction",
+    "probableCause": "Wiring, actuator, mechanical fault, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1155",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor - short to positive",
+    "probableCause": "Wiring short to positive, MAP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1156",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, MAP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1157",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor - supply voltage",
+    "probableCause": "Wiring, MAP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1158",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor - range/performance problem",
+    "probableCause": "Wiring, hose connection(s), MAP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1159",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 1 & 2 - implausible ratio",
+    "probableCause": "EGR system, intake leak, wiring, MAF sensor 1/2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1160",
+    "faultLocation": "Intake air temperature (IAT) sensor - short to ground",
+    "probableCause": "Wiring short to ground, IAT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1161",
+    "faultLocation": "Intake air temperature (IAT) sensor - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, IAT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1162",
+    "faultLocation": "Fuel temperature sensor - short to ground",
+    "probableCause": "Wiring short to ground, fuel temperature sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1163",
+    "faultLocation": "Fuel temperature sensor - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, fuel temperature sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1164",
+    "faultLocation": "Fuel temperature sensor - range/performance problem",
+    "probableCause": "Wiring, fuel temperature sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1165",
+    "faultLocation": "Long term fuel trim 1, Bank 1 - above rich limit",
+    "probableCause": "Fuel pressure/pump, injectors, EVAP canister purge valve, EGR system, HO2S, intake/exhaust system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1166",
+    "faultLocation": "Long term fuel trim 2, Bank 1 - above rich limit",
+    "probableCause": "Fuel pressure/pump, injectors, EVAP canister purge valve, EGR system, HO2S, intake/exhaust system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1167",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 2 - range/performance problem",
+    "probableCause": "Intake leak, wiring, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1168",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 2 - low input",
+    "probableCause": "Intake leak, air filter blocked, wiring short to ground, fuse, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1169",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 2 - high input",
+    "probableCause": "Wiring short to positive, ground wire defective, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1170",
+    "faultLocation": "Mass air flow (MAF) sensor, Bank 2 - supply voltage",
+    "probableCause": "Wiring, fuse, engine control relay, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1171",
+    "faultLocation": "Throttle motor position sensor 2 - range/performance problem",
+    "probableCause": "Wiring, throttle valve tight/sticking, throttle motor position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1172",
+    "faultLocation": "Throttle motor position sensor 2 - low input",
+    "probableCause": "Wiring short to ground, throttle motor position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1173",
+    "faultLocation": "Throttle motor position sensor 2 - high input",
+    "probableCause": "Wiring short to positive, throttle motor position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1174",
+    "faultLocation": "Fuel measurement system, Bank 1 - injection timing incorrect",
+    "probableCause": "Fuel pressure/pump, injector(s), intake/exhaust leak, EGR system, EVAP canister purge valve, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1176",
+    "faultLocation": "Lambda correction after catalyst, Bank 1 - control limit reached",
+    "probableCause": "Intake leak, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1177",
+    "faultLocation": "Lambda correction after catalyst, Bank 2 - control limit reached",
+    "probableCause": "Intake leak, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1178",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, pump current - open circuit",
+    "probableCause": "Wiring open circuit, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1179",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, pump current - short to ground",
+    "probableCause": "Wiring short to ground, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1180",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, pump current - short to positive",
+    "probableCause": "Wiring short to positive, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1181",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - open circuit",
+    "probableCause": "Wiring open circuit, HO2S, HT leads, spark plugs, misfire detection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1182",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - short to ground",
+    "probableCause": "Wiring short to ground, HO2S, HT leads, spark plugs, misfire detection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1183",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - short to positive",
+    "probableCause": "Wiring short to positive, HO2S, HT leads, spark plugs, misfire detection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1184",
+    "faultLocation": "Linear Oxygen Sensor Common Ground Open Circuit",
+    "probableCause": "Wiring open circuit, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1185",
+    "faultLocation": "Linear Oxygen Sensor Common Ground Short To Ground",
+    "probableCause": "Wiring open circuit, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1186",
+    "faultLocation": "Linear Oxygen Sensor Common Ground Short To Positive",
+    "probableCause": "Wiring open circuit, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1187",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 or 2 - circuit malfunction",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1188",
+    "faultLocation": "Linear O2 Sensor Compensation Resistor Short to Ground",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1189",
+    "faultLocation": "Linear O2 Sensor Compensation Resistor Short to B+",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1190",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, reference voltage - range/performance problem",
+    "probableCause": "Wiring, HO2S, HT leads, spark plugs, misfire detection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1191",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1 & 2 - interchanged",
+    "probableCause": "HO2S 1 on banks 1 & 2 incorrectly installed",
+    "detailUrl": null
+  },
+  {
+    "code": "P1192",
+    "faultLocation": "Fuel pressure sensor - supply voltage",
+    "probableCause": "Wiring, fuel pressure sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1193",
+    "faultLocation": "Fuel pressure sensor - open circuit/ short to positive",
+    "probableCause": "Wiring open circuit/short to positive",
+    "detailUrl": null
+  },
+  {
+    "code": "P1194",
+    "faultLocation": "Fuel pressure control valve - short to positive",
+    "probableCause": "Wiring short to positive, fuel pressure control valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1195",
+    "faultLocation": "Fuel pressure control valve - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, fuel pressure control valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1196",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 1, heater circuit malfunction",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1197",
+    "faultLocation": "Heated oxygen sensor (HO2S) 1, Bank 2, heater circuit malfunction",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1198",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 1, heater circuit malfunction",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1199",
+    "faultLocation": "Heated oxygen sensor (HO2S) 2, Bank 2, heater circuit malfunction",
+    "probableCause": "Wiring, HO2S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1200",
+    "faultLocation": "Turbocharger Recirculating Valve Mechanical Malfunction",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1201",
+    "faultLocation": "Injector 1 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1202",
+    "faultLocation": "Injector 2 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1203",
+    "faultLocation": "Injector 3 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1204",
+    "faultLocation": "Injector 4 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1205",
+    "faultLocation": "Injector 5 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1206",
+    "faultLocation": "Injector 6 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1207",
+    "faultLocation": "Injector 7 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1208",
+    "faultLocation": "Injector 8 - circuit malfunction",
+    "probableCause": "Wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1209",
+    "faultLocation": "Intake Valves For Cylinder Shut Off Short Circuit To Ground",
+    "probableCause": "Wiring short to ground, valve controller",
+    "detailUrl": null
+  },
+  {
+    "code": "P1210",
+    "faultLocation": "Intake Valves For Cylinder Shut Off Short to B+",
+    "probableCause": "Wiring short to positive, valve controller",
+    "detailUrl": null
+  },
+  {
+    "code": "P1211",
+    "faultLocation": "Intake Valves For Cylinder Shut Off Open Circuit",
+    "probableCause": "Wiring open circuit, valve controller",
+    "detailUrl": null
+  },
+  {
+    "code": "P1213",
+    "faultLocation": "Injector 1 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1214",
+    "faultLocation": "Injector 2 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1215",
+    "faultLocation": "Injector 3 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1216",
+    "faultLocation": "Injector 4 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1217",
+    "faultLocation": "Injector 5 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1218",
+    "faultLocation": "Injector 6 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1219",
+    "faultLocation": "Injector 7 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1220",
+    "faultLocation": "Injector 8 - short to positive",
+    "probableCause": "Wiring short to positive, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1221",
+    "faultLocation": "Cylinder Shut Off Exhaust Valves Short Circuit To Ground",
+    "probableCause": "Wiring short to ground, valve controller",
+    "detailUrl": null
+  },
+  {
+    "code": "P1222",
+    "faultLocation": "Cylinder Shut Off Exhaust Valves Short To B+",
+    "probableCause": "Wiring short to positive, valve controller",
+    "detailUrl": null
+  },
+  {
+    "code": "P1223",
+    "faultLocation": "Cylinder Shut Off Exhaust Valves Open Circuit",
+    "probableCause": "Wiring open circuit, valve controller",
+    "detailUrl": null
+  },
+  {
+    "code": "P1225",
+    "faultLocation": "Injector 1 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1226",
+    "faultLocation": "Injector 2 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1227",
+    "faultLocation": "Injector 3 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1228",
+    "faultLocation": "Injector 4 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1229",
+    "faultLocation": "Injector 5 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1230",
+    "faultLocation": "Injector 6 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1231",
+    "faultLocation": "Injector 7 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1232",
+    "faultLocation": "Injector 8 - short to ground",
+    "probableCause": "Wiring short to ground, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1237",
+    "faultLocation": "Injector 1 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1238",
+    "faultLocation": "Injector 2 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1239",
+    "faultLocation": "Injector 3 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1240",
+    "faultLocation": "Injector 4 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1241",
+    "faultLocation": "Injector 5 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1242",
+    "faultLocation": "Injector 6 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1243",
+    "faultLocation": "Injector 7 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1244",
+    "faultLocation": "Injector 8 - open circuit",
+    "probableCause": "Wiring open circuit, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1245",
+    "faultLocation": "Injector needle lift sensor - short to ground",
+    "probableCause": "Wiring short to ground, injector needle lift sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1246",
+    "faultLocation": "Injector needle lift sensor - range/performance problem",
+    "probableCause": "Injector needle lift sensor, injector pipe defective, fuel level low",
+    "detailUrl": null
+  },
+  {
+    "code": "P1247",
+    "faultLocation": "Injector needle lift sensor - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, injector needle lift sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1248",
+    "faultLocation": "Start of injection - control difference",
+    "probableCause": "Fuel injection timing solenoid, injector needle lift sensor, fuel level low, pump timing",
+    "detailUrl": null
+  },
+  {
+    "code": "P1249",
+    "faultLocation": "Fuel Consumption Signal Electrical Fault In Circuit",
+    "probableCause": "Wiring, fuel tank level sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1250",
+    "faultLocation": "Fuel tank level sensor - low input",
+    "probableCause": "Fuel level too low",
+    "detailUrl": null
+  },
+  {
+    "code": "P1251",
+    "faultLocation": "Fuel injection timing solenoid - short to positive",
+    "probableCause": "Wiring short to positive",
+    "detailUrl": null
+  },
+  {
+    "code": "P1252",
+    "faultLocation": "Fuel injection timing solenoid - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, fuel injection timing solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1253",
+    "faultLocation": "Instrument panel, fuel consumption signal - short to ground",
+    "probableCause": "Wiring short to ground, instrument panel",
+    "detailUrl": null
+  },
+  {
+    "code": "P1254",
+    "faultLocation": "Instrument panel, fuel consumption signal - short to positive",
+    "probableCause": "Wiring short to positive, instrument panel",
+    "detailUrl": null
+  },
+  {
+    "code": "P1255",
+    "faultLocation": "Engine coolant temperature (ECT) sensor - short to ground",
+    "probableCause": "Wiring short to ground, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1256",
+    "faultLocation": "Engine coolant temperature (ECT) sensor - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1257",
+    "faultLocation": "Engine Coolant System Valve Open",
+    "probableCause": "Wiring open circuit, valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1258",
+    "faultLocation": "Engine Coolant System Valve Short To B+",
+    "probableCause": "Wiring short to positive, valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1259",
+    "faultLocation": "Engine Coolant System Valve Short To Ground",
+    "probableCause": "Wiring short to ground, valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1260",
+    "faultLocation": "Injector 1 - implausible signal",
+    "probableCause": "No control",
+    "detailUrl": null
+  },
+  {
+    "code": "P1261",
+    "faultLocation": "Injector 1 - control limit exceeded",
+    "probableCause": "Control period too long, wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1262",
+    "faultLocation": "Injector 1 - control limit not reached",
+    "probableCause": "Control period too short, fuel level low, air in fuel system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1263",
+    "faultLocation": "Injector 2 - implausible signal",
+    "probableCause": "No control",
+    "detailUrl": null
+  },
+  {
+    "code": "P1264",
+    "faultLocation": "Injector 2 - control limit exceeded",
+    "probableCause": "Control period too long, wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1265",
+    "faultLocation": "Injector 2 - control limit not reached",
+    "probableCause": "Control period too short, fuel level low, air in fuel system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1266",
+    "faultLocation": "Injector 3 - implausible signal",
+    "probableCause": "No control",
+    "detailUrl": null
+  },
+  {
+    "code": "P1267",
+    "faultLocation": "Injector 3 - control limit exceeded",
+    "probableCause": "Control period too long, wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1268",
+    "faultLocation": "Injector 3 - control limit not reached",
+    "probableCause": "Control period too short, fuel level low, air in fuel system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1269",
+    "faultLocation": "Injector 4 - implausible signal",
+    "probableCause": "No control",
+    "detailUrl": null
+  },
+  {
+    "code": "P1270",
+    "faultLocation": "Injector 4 - control limit exceeded",
+    "probableCause": "Control period too long, wiring, injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1271",
+    "faultLocation": "Injector 4 - control limit not reached",
+    "probableCause": "Control period too short, fuel level low, air in fuel system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1278",
+    "faultLocation": "Fuel metering solenoid - short to positive",
+    "probableCause": "Wiring short to positive, fuel metering solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1279",
+    "faultLocation": "Fuel metering solenoid - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, fuel metering solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1281",
+    "faultLocation": "Fuel metering solenoid - short to ground",
+    "probableCause": "Wiring short to ground, fuel metering solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1282",
+    "faultLocation": "Fuel metering solenoid - open circuit",
+    "probableCause": "Wiring open circuit, fuel metering solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1285",
+    "faultLocation": "Fuel Injection Air Control Valve Circuit Short To Ground",
+    "probableCause": "Wiring, valve/solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1287",
+    "faultLocation": "Turbocharger (TC) bypass valve - open circuit",
+    "probableCause": "Wiring open circuit, TC bypass valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1288",
+    "faultLocation": "Turbocharger (TC) bypass valve - short to positive",
+    "probableCause": "Wiring short to positive, TC bypass valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1289",
+    "faultLocation": "Turbocharger (TC) bypass valve - short to ground",
+    "probableCause": "Wiring short to ground, TC bypass valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1290",
+    "faultLocation": "Engine coolant temperature (ECT) sensor, ECM controlled cooling system - high input",
+    "probableCause": "Wiring, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1291",
+    "faultLocation": "Engine coolant temperature (ECT) sensor, ECM controlled cooling system - high input",
+    "probableCause": "Wiring, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1292",
+    "faultLocation": "Engine coolant thermostat - open circuit",
+    "probableCause": "Wiring open circuit, engine coolant thermostat",
+    "detailUrl": null
+  },
+  {
+    "code": "P1293",
+    "faultLocation": "Engine coolant thermostat - short to positive",
+    "probableCause": "Wiring short to positive, engine coolant thermostat",
+    "detailUrl": null
+  },
+  {
+    "code": "P1294",
+    "faultLocation": "Engine coolant thermostat - short to ground",
+    "probableCause": "Wiring short to ground, engine coolant thermostat",
+    "detailUrl": null
+  },
+  {
+    "code": "P1295",
+    "faultLocation": "Turbocharger (TC), bypass - flow malfunction",
+    "probableCause": "TC wastegate regulating valve, hose connection(s), injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1296",
+    "faultLocation": "Engine cooling system - malfunction",
+    "probableCause": "ECT sensor, coolant thermostat",
+    "detailUrl": null
+  },
+  {
+    "code": "P1297",
+    "faultLocation": "Turbocharger (TC)/throttle valve, hose connection - pressure loss",
+    "probableCause": "Hose connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1299",
+    "faultLocation": "Fuel metering solenoid - circuit malfunction",
+    "probableCause": "Wiring, fuel metering solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1300",
+    "faultLocation": "Random/multiple cylinder(s) - misfire detected",
+    "probableCause": "Fuel level low, fuel gauge tank sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1320",
+    "faultLocation": "Knock Sensor 2 Circuit Short To Ground",
+    "probableCause": "Wiring, KS, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1321",
+    "faultLocation": "Knock Sensor 3 Signal Too Low",
+    "probableCause": "Wiring, KS, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1322",
+    "faultLocation": "Knock Sensor 3 Signal Too High",
+    "probableCause": "KS incorrectly tightened",
+    "detailUrl": null
+  },
+  {
+    "code": "P1323",
+    "faultLocation": "Knock Sensor 4 Signal Too Low",
+    "probableCause": "Wiring, KS, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1324",
+    "faultLocation": "Knock Sensor 4 Signal Too Low",
+    "probableCause": "KS incorrectly tightened",
+    "detailUrl": null
+  },
+  {
+    "code": "P1325",
+    "faultLocation": "Knock control, cylinder 1 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1326",
+    "faultLocation": "Knock control, cylinder 2 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1327",
+    "faultLocation": "Knock control, cylinder 3 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1328",
+    "faultLocation": "Knock control, cylinder 4 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1329",
+    "faultLocation": "Knock control, cylinder 5 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1330",
+    "faultLocation": "Knock control, cylinder 6 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1331",
+    "faultLocation": "Knock control, cylinder 7 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1332",
+    "faultLocation": "Knock control, cylinder 8 - control limit reached",
+    "probableCause": "Poor quality fuel, incorrect fuel, insecure engine component, KS incorrectly tightened/defective, shield wiring open circuit, poor connection",
+    "detailUrl": null
+  },
+  {
+    "code": "P1335",
+    "faultLocation": "Engine torque control - limit reached",
+    "probableCause": "Throttle control unit, hose(s), TC system, MAP sensor, IAT sensor, MAF sensor, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1336",
+    "faultLocation": "Engine torque monitoring - control limit exceeded",
+    "probableCause": "Hose(s), TC system, throttle control unit, IAT sensor, MAP sensor, MAF sensor, ECT sensor, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1337",
+    "faultLocation": "Camshaft position (CMP) sensor, Bank 1 - short to ground",
+    "probableCause": "Wiring short to ground, CMP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1338",
+    "faultLocation": "Camshaft position (CMP) sensor, Bank 1 - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, CMP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1339",
+    "faultLocation": "Crankshaft position (CKP) sensor/ engine speed (RPM) sensor - interchanged",
+    "probableCause": "Multi-plugs incorrectly connected",
+    "detailUrl": null
+  },
+  {
+    "code": "P1340",
+    "faultLocation": "Camshaft position (CMP) sensor 1/Bank 1/ crankshaft position (CKP) sensor - out of sequence",
+    "probableCause": "Valve timing, CKP/CMP sensor installation, CKP sensor rotor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1341",
+    "faultLocation": "Ignition amplifier, primary circuit 1 - short to ground",
+    "probableCause": "Wiring short to ground, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1342",
+    "faultLocation": "Ignition amplifier, primary circuit 1 - short to positive",
+    "probableCause": "Wiring short to positive, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1343",
+    "faultLocation": "Ignition amplifier, primary circuit 2 - short to ground",
+    "probableCause": "Wiring short to ground, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1344",
+    "faultLocation": "Ignition amplifier, primary circuit 2 - short to positive",
+    "probableCause": "Wiring short to positive, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1345",
+    "faultLocation": "Ignition amplifier, primary circuit 3 - short to ground",
+    "probableCause": "Wiring short to ground, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1346",
+    "faultLocation": "Ignition amplifier, primary circuit 3 - short to positive",
+    "probableCause": "Wiring short to positive, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1347",
+    "faultLocation": "Camshaft position (CMP) sensor 2/Bank 2/ crankshaft position (CKP) sensor - out of sequence",
+    "probableCause": "Valve timing, CKP/CMP sensor installation, CKP sensor rotor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1348",
+    "faultLocation": "Ignition amplifier, primary circuit 1 - open circuit",
+    "probableCause": "Wiring short to ground, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1349",
+    "faultLocation": "Ignition amplifier, primary circuit 2 - open circuit",
+    "probableCause": "Wiring short to positive, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1350",
+    "faultLocation": "Ignition amplifier, primary circuit 3 - open circuit",
+    "probableCause": "Wiring short to positive, ignition amplifier, CMP sensor, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1351",
+    "faultLocation": "Camshaft position (CMP) sensor, Bank 1 - range/performance problem",
+    "probableCause": "Ignore trouble code, erase fault memory",
+    "detailUrl": null
+  },
+  {
+    "code": "P1354",
+    "faultLocation": "Fuel quantity adjuster position sensor",
+    "probableCause": "Wiring, fuel injection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1355",
+    "faultLocation": "Ignition coil/amplifier, cylinder 1 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1356",
+    "faultLocation": "Ignition coil/amplifier, cylinder 1 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1357",
+    "faultLocation": "Ignition coil/amplifier, cylinder 1 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1358",
+    "faultLocation": "Ignition coil/amplifier, cylinder 2 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1359",
+    "faultLocation": "Ignition coil/amplifier, cylinder 2 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1360",
+    "faultLocation": "Ignition coil/amplifier, cylinder 2 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1361",
+    "faultLocation": "Ignition coil/amplifier, cylinder 3 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1362",
+    "faultLocation": "Ignition coil/amplifier, cylinder 3 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1363",
+    "faultLocation": "Ignition coil/amplifier, cylinder 3 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1364",
+    "faultLocation": "Ignition coil/amplifier, cylinder 4 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1365",
+    "faultLocation": "Ignition coil/amplifier, cylinder 4 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1366",
+    "faultLocation": "Ignition coil/amplifier, cylinder 4 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1367",
+    "faultLocation": "Ignition coil/amplifier, cylinder 5 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1368",
+    "faultLocation": "Ignition coil/amplifier, cylinder 5 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1369",
+    "faultLocation": "Ignition coil/amplifier, cylinder 5 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1370",
+    "faultLocation": "Ignition coil/amplifier, cylinder 6 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1371",
+    "faultLocation": "Ignition coil/amplifier, cylinder 6 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1372",
+    "faultLocation": "Ignition coil/amplifier, cylinder 6 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1373",
+    "faultLocation": "Ignition coil/amplifier, cylinder 7 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1374",
+    "faultLocation": "Ignition coil/amplifier, cylinder 7 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1375",
+    "faultLocation": "Ignition coil/amplifier, cylinder 7 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1376",
+    "faultLocation": "Ignition coil/amplifier, cylinder 8 - open circuit",
+    "probableCause": "Wiring open circuit, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1377",
+    "faultLocation": "Ignition coil/amplifier, cylinder 8 - short to positive",
+    "probableCause": "Wiring short to positive, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1378",
+    "faultLocation": "Ignition coil/amplifier, cylinder 8 - short to ground",
+    "probableCause": "Wiring short to ground, ignition coil/ amplifier",
+    "detailUrl": null
+  },
+  {
+    "code": "P1385",
+    "faultLocation": "Engine control module (ECM) - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1386",
+    "faultLocation": "Engine control module (ECM), knock control - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1387",
+    "faultLocation": "Engine control module (ECM), BARO sensor - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1388",
+    "faultLocation": "Engine control module (ECM), ETS - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1389",
+    "faultLocation": "Engine control module (ECM) 2 - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1391",
+    "faultLocation": "Camshaft position (CMP) sensor 2/ Bank 2 - short to ground",
+    "probableCause": "Wiring short to ground, CMP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1392",
+    "faultLocation": "Camshaft position (CMP) sensor 2/ Bank 2 - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, CMP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1393",
+    "faultLocation": "Ignition amplifier, primary circuit 1 - circuit malfunction",
+    "probableCause": "Wiring, ignition amplifier, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1394",
+    "faultLocation": "Ignition amplifier, primary circuit 2 - circuit malfunction",
+    "probableCause": "Wiring, ignition amplifier, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1395",
+    "faultLocation": "Ignition amplifier, primary circuit 3 - circuit malfunction",
+    "probableCause": "Wiring, ignition amplifier, HT leads, spark plugs",
+    "detailUrl": null
+  },
+  {
+    "code": "P1397",
+    "faultLocation": "Crankshaft position (CKP) sensor/engine speed (RPM) sensor - control limit reached",
+    "probableCause": "Insecure/damaged rotor, CKP/RPM sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1398",
+    "faultLocation": "Crankshaft position (CKP) sensor/engine speed (RPM) sensor - short to ground",
+    "probableCause": "Wiring short to ground, CKP/RPM sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1399",
+    "faultLocation": "Crankshaft position (CKP) sensor/engine speed (RPM) sensor - short to positive",
+    "probableCause": "Wiring short to positive, CKP/RPM sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1400",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - circuit malfunction",
+    "probableCause": "Wiring, EGR valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1401",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - short to ground",
+    "probableCause": "Wiring short to ground, EGR valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1402",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - short to positive",
+    "probableCause": "Wiring short to positive, EGR valve/ solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1403",
+    "faultLocation": "Exhaust gas recirculation (EGR) system - control difference",
+    "probableCause": "Basic setting not carried out, EGR system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1404",
+    "faultLocation": "Exhaust gas recirculation (EGR) system - basic setting",
+    "probableCause": "Basic setting not carried out, EGR system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1406",
+    "faultLocation": "EGR Temperature Sensor Signal Range Performance",
+    "probableCause": "Wiring, EGRT sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1407",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor - low input",
+    "probableCause": "Wiring short to ground, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1408",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor - high input",
+    "probableCause": "Wiring short to positive, ground wire defective, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1409",
+    "faultLocation": "Evaporative emission (EVAP) canister purge valve - circuit malfunction",
+    "probableCause": "Wiring, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1410",
+    "faultLocation": "Evaporative emission (EVAP) canister purge valve - short to positive",
+    "probableCause": "Wiring short to positive, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1411",
+    "faultLocation": "Secondary air injection (AIR) system, Bank 2 - insufficient flow detected",
+    "probableCause": "Intake leak, hose(s) blocked/leaking, AIR valve/solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1412",
+    "faultLocation": "EGR Differential Pressure Sensor Signal Too Low",
+    "probableCause": "Wiring, EGR sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1413",
+    "faultLocation": "EGR Differential Pressure Sensor Signal Too High",
+    "probableCause": "Wiring, EGR sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1414",
+    "faultLocation": "Secondary air injection (AIR) system, Bank 2 - leak detected",
+    "probableCause": "Intake leak, hose(s) leaking, AIR valve/solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1415",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - lower limit exceeded",
+    "probableCause": "Basic setting not carried out",
+    "detailUrl": null
+  },
+  {
+    "code": "P1416",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - upper limit exceeded",
+    "probableCause": "Basic setting not carried out",
+    "detailUrl": null
+  },
+  {
+    "code": "P1417",
+    "faultLocation": "Fuel Level Sensor Circuit Signal Too Low",
+    "probableCause": "Wiring, fuel level sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1418",
+    "faultLocation": "Fuel Level Sensor Circuit Signal Too High",
+    "probableCause": "Wiring, fuel level sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1420",
+    "faultLocation": "Secondary air injection (AIR) valve/solenoid - circuit malfunction",
+    "probableCause": "Wiring, AIR solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1421",
+    "faultLocation": "Secondary air injection (AIR) valve/solenoid - short to ground",
+    "probableCause": "Wiring short to ground, AIR valve/ solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1422",
+    "faultLocation": "Secondary air injection (AIR) valve/solenoid - short to positive",
+    "probableCause": "Wiring short to positive, AIR valve/ solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1423",
+    "faultLocation": "Secondary air injection (AIR) system, Bank 1 - insufficient flow detected",
+    "probableCause": "Hose connection(s), AIR valve/solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1424",
+    "faultLocation": "Secondary air injection (AIR) system, Bank 1 - leak detected",
+    "probableCause": "AIR valve, exhaust leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1425",
+    "faultLocation": "Evaporative emission (EVAP) canister purge valve - short to ground",
+    "probableCause": "Wiring short to ground, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1426",
+    "faultLocation": "Evaporative emission (EVAP) canister purge valve - open circuit",
+    "probableCause": "Wiring open circuit, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1427",
+    "faultLocation": "Vacuum pump, brakes - short to positive",
+    "probableCause": "Wiring short to positive, vacuum pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1428",
+    "faultLocation": "Vacuum pump, brakes - short to ground",
+    "probableCause": "Wiring short to ground, vacuum pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1429",
+    "faultLocation": "Vacuum pump, brakes - open circuit",
+    "probableCause": "Wiring open circuit, vacuum pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1430",
+    "faultLocation": "Vacuum pump, brakes - open circuit/ short to positive",
+    "probableCause": "Wiring open circuit/short to positive, vacuum pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1431",
+    "faultLocation": "Vacuum pump, brakes - open circuit/ short to ground",
+    "probableCause": "Wiring open circuit/short to ground, vacuum pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1432",
+    "faultLocation": "Secondary air injection (AIR) valve/solenoid - open circuit",
+    "probableCause": "Wiring open circuit, fuse, AIR valve/ solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1433",
+    "faultLocation": "Secondary air injection (AIR) pump relay - open circuit",
+    "probableCause": "Wiring open circuit, fuse, AIR pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1434",
+    "faultLocation": "Secondary air injection (AIR) pump relay - short to positive",
+    "probableCause": "Wiring short to positive, AIR pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1435",
+    "faultLocation": "Secondary air injection (AIR) pump relay - short to ground",
+    "probableCause": "Wiring short to ground, AIR pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1436",
+    "faultLocation": "Secondary air injection (AIR) pump relay - circuit malfunction",
+    "probableCause": "Wiring, AIR pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1437",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve/solenoid, Bank 2 - short to positive",
+    "probableCause": "Wiring short to positive, EGR valve/ solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1438",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve/solenoid, Bank 2 - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, EGR valve/solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1439",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - basic setting",
+    "probableCause": "Basic setting not carried out, EGR system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1440",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve - open circuit",
+    "probableCause": "Wiring open circuit, EGR valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1441",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve/solenoid, Bank 1 - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, EGR solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1442",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - high input",
+    "probableCause": "Wiring short to positive, EGR valve position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1443",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - low input",
+    "probableCause": "Wiring short to ground, EGR valve position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1444",
+    "faultLocation": "Exhaust gas recirculation (EGR) valve position sensor - range/performance problem",
+    "probableCause": "Wiring, EGR valve position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1445",
+    "faultLocation": "Catalyst Temperature Sensor 2 Circuit Range/Performance",
+    "probableCause": "Wiring, temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1446",
+    "faultLocation": "Catalyst Temperature Circuit Short To Ground",
+    "probableCause": "Wiring short to ground, temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1447",
+    "faultLocation": "Catalyst Temperature Circuit Open/Short to B+",
+    "probableCause": "Wiring short to positive, temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1448",
+    "faultLocation": "Catalyst Temperature Sensor 2 Circuit Short to Ground",
+    "probableCause": "Wiring short to ground, temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1449",
+    "faultLocation": "Catalyst Temperature Sensor 2 Circuit Open/Short to B+",
+    "probableCause": "Wiring open/short to positive, temperature sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1450",
+    "faultLocation": "Secondary air injection (AIR) system - short to positive",
+    "probableCause": "Wiring short to positive, AIR relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1451",
+    "faultLocation": "Secondary air injection (AIR) system - short to ground",
+    "probableCause": "Wiring short to ground, AIR relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1452",
+    "faultLocation": "Secondary air injection (AIR) system - open circuit",
+    "probableCause": "Wiring open circuit, AIR relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1453",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor 1/Bank 1 - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1454",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor 1/Bank 1 - short to ground",
+    "probableCause": "Wiring short to ground, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1455",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor 1/Bank 1 - range/performance problem",
+    "probableCause": "Exhaust leak, wiring, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1456",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) control, Bank 1 - control limit reached",
+    "probableCause": "EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1457",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor 2/Bank 2 - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1458",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor 2/Bank 2 - short to ground",
+    "probableCause": "Wiring short to ground, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1459",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor 2/Bank 2 - range/performance problem",
+    "probableCause": "Exhaust leak, wiring, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1460",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) control, Bank 2 - control limit reached",
+    "probableCause": "EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1461",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) control, Bank 1 - range/performance problem",
+    "probableCause": "Exhaust leak/blockage, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1462",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) control, Bank 2 - range/performance problem",
+    "probableCause": "Exhaust leak/blockage, EGRT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1465",
+    "faultLocation": "Additive Pump Short Circuit to B+",
+    "probableCause": "Wiring short to positive, fuel additive pump, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1466",
+    "faultLocation": "Additive Pump Open/Short to Ground",
+    "probableCause": "Wiring open/short to ground, fuel additive pump, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1467",
+    "faultLocation": "EVAP Canister Purge Solenoid Valve Short Circuit to B+",
+    "probableCause": "Wiring short to positive, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1468",
+    "faultLocation": "EVAP Canister Purge Solenoid Valve Short Circuit to Ground",
+    "probableCause": "Wiring short to ground, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1469",
+    "faultLocation": "EVAP Canister Purge Solenoid Valve Open Circuit",
+    "probableCause": "Wiring open circuit, EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1470",
+    "faultLocation": "EVAP Control System LDP Circuit Electrical Malfunction",
+    "probableCause": "Wiring, EVAP leak detection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1471",
+    "faultLocation": "EVAP Control System LDP Circuit Short to Positive",
+    "probableCause": "Wiring short to positive, EVAP leak detection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1472",
+    "faultLocation": "EVAP Control System LDP Circuit Short To Ground",
+    "probableCause": "Wiring short to ground, EVAP leak detection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1473",
+    "faultLocation": "EVAP Control System LDP Open Circuit",
+    "probableCause": "Wiring, EVAP purge valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1474",
+    "faultLocation": "EVAP Canister Purge Solenoid Valve Electrical Malfunction",
+    "probableCause": "Wiring, hose leak/blockage, EVAP canister purge valve, EVAP canister, EVAP leak detection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1475",
+    "faultLocation": "EVAP Control System LDP Malfunction/Signal Circuit Open",
+    "probableCause": "Wiring, EVAP canister purge valve, EVAP leak detection pump, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1476",
+    "faultLocation": "EVAP Control System LDP Malfunction/Insufficient Vacuum",
+    "probableCause": "System leak, hose blockage, EVAP canister, EVAP leak detection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1477",
+    "faultLocation": "EVAP Control System LDP Malfunction",
+    "probableCause": "Wiring, hose leak/blockage, EVAP canister purge valve, EVAP canister, EVAP leak detection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1478",
+    "faultLocation": "EVAP Control System LDP Clamped Tube Detected",
+    "probableCause": "Hose blockage",
+    "detailUrl": null
+  },
+  {
+    "code": "P1479",
+    "faultLocation": "Vacuum system, brakes - mechanical fault",
+    "probableCause": "Vacuum pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1482",
+    "faultLocation": "Secondary Air Injection Pump Relay 2 Short To B+",
+    "probableCause": "Wiring, AIR pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1483",
+    "faultLocation": "Secondary Air Injection Pump Relay 2 Short To Ground",
+    "probableCause": "Wiring, AIR pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1484",
+    "faultLocation": "Secondary Air Injection Pump Relay 2 Electrical Circuit Malfunction",
+    "probableCause": "Wiring, AIR pump relay, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1489",
+    "faultLocation": "EVAP Canister Purge Regulator Valve 2 Short To B+",
+    "probableCause": "Wiring, EVAP canister purge valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1490",
+    "faultLocation": "EVAP Canister Purge Regulator Valve 2 Short To Ground",
+    "probableCause": "Wiring, EVAP canister purge valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1491",
+    "faultLocation": "EVAP Canister Purge Regulator Valve 2 Open Circuit",
+    "probableCause": "Wiring, EVAP canister purge valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1493",
+    "faultLocation": "Low Pressure Pump For Brake Power Too Low",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1494",
+    "faultLocation": "EVAP canister purge valve 2 – incorrect flow detected",
+    "probableCause": "Wiring, hoses blocked/disconnected/ split, EVAP canister purge valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1497",
+    "faultLocation": "Secondary Air System Bank 3 Flow Fault",
+    "probableCause": "AIR pump relay, AIR switching valve, AIR solenoid(s), AIR pump(s), ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1500",
+    "faultLocation": "Fuel pump relay - circuit malfunction",
+    "probableCause": "Wiring, fuel pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1501",
+    "faultLocation": "Fuel pump relay - short to ground",
+    "probableCause": "Wiring short to ground, fuel pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1502",
+    "faultLocation": "Fuel pump relay - short to positive",
+    "probableCause": "Wiring short to positive, fuel pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1503",
+    "faultLocation": "Alternator load signal",
+    "probableCause": "Wiring, alternator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1504",
+    "faultLocation": "Intake system - leak detected",
+    "probableCause": "Intake leak, EGR system, EVAP system, hose connection(s), throttle control unit",
+    "detailUrl": null
+  },
+  {
+    "code": "P1505",
+    "faultLocation": "Closed throttle position (CTP) switch - does not close",
+    "probableCause": "Throttle cable/valve, wiring open circuit/ short to positive, CTP switch adjustment/defective, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1506",
+    "faultLocation": "Closed throttle position (CTP) switch - does not open",
+    "probableCause": "Moisture ingress, wiring short to ground, CTP switch adjustment/defective, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1507",
+    "faultLocation": "Idle speed control (ISC) - lower limit reached",
+    "probableCause": "Throttle control unit/basic setting, intake/exhaust leak, mechanical fault, AC signals",
+    "detailUrl": null
+  },
+  {
+    "code": "P1508",
+    "faultLocation": "Idle speed control (ISC) - upper limit reached",
+    "probableCause": "Throttle control unit/basic setting, intake/exhaust leak, mechanical fault, AC signals",
+    "detailUrl": null
+  },
+  {
+    "code": "P1509",
+    "faultLocation": "Idle air control (IAC) valve - circuit malfunction",
+    "probableCause": "Wiring, IAC valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1510",
+    "faultLocation": "Idle air control (IAC) valve - short to positive",
+    "probableCause": "Wiring open circuit/short to positive, IAC valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1511",
+    "faultLocation": "Intake manifold air control solenoid 1 - current circuit",
+    "probableCause": "Wiring, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1512",
+    "faultLocation": "Intake manifold air control solenoid 1 - short to positive",
+    "probableCause": "Wiring short to positive, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1513",
+    "faultLocation": "Intake manifold air control solenoid 2 - short to positive",
+    "probableCause": "Wiring short to positive, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1514",
+    "faultLocation": "Intake manifold air control solenoid 2 - short to ground",
+    "probableCause": "Wiring short to ground, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1515",
+    "faultLocation": "Intake manifold air control solenoid 1 - short to ground",
+    "probableCause": "Wiring short to ground, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1516",
+    "faultLocation": "Intake manifold air control solenoid 1 - open circuit",
+    "probableCause": "Wiring open circuit, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1517",
+    "faultLocation": "Engine control relay - circuit malfunction",
+    "probableCause": "Wiring, engine control relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1518",
+    "faultLocation": "Engine control relay - short to positive",
+    "probableCause": "Wiring short to positive, engine control relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1519",
+    "faultLocation": "Camshaft position (CMP) control, Bank 1 - malfunction",
+    "probableCause": "Cylinder head oil pressure too low, CMP actuator sticking/defective",
+    "detailUrl": null
+  },
+  {
+    "code": "P1520",
+    "faultLocation": "Intake manifold air control solenoid 2 - open circuit",
+    "probableCause": "Wiring open circuit, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1521",
+    "faultLocation": "Intake Manifold Changeover Valve 2 Circuit Electrical Malfunction",
+    "probableCause": "Wiring, intake manifold air control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1522",
+    "faultLocation": "Camshaft position (CMP) control, Bank 2 - malfunction",
+    "probableCause": "Cylinder head oil pressure too low, CMP actuator sticking/defective",
+    "detailUrl": null
+  },
+  {
+    "code": "P1523",
+    "faultLocation": "SRS crash signal received",
+    "probableCause": "Airbag triggered",
+    "detailUrl": null
+  },
+  {
+    "code": "P1524",
+    "faultLocation": "Fuel pump relay - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, fuel pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1525",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 1 - circuit malfunction",
+    "probableCause": "Wiring, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1526",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 1 - short to positive",
+    "probableCause": "Wiring short to positive, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1527",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 1 - short to ground",
+    "probableCause": "Wiring short to ground, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1528",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 1 - open circuit",
+    "probableCause": "Wiring open circuit, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1529",
+    "faultLocation": "Camshaft position (CMP) actuator - short to positive",
+    "probableCause": "Wiring short to positive, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1530",
+    "faultLocation": "Camshaft position (CMP) actuator - short to ground",
+    "probableCause": "Wiring short to ground, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1531",
+    "faultLocation": "Camshaft position (CMP) actuator - open circuit",
+    "probableCause": "Wiring open circuit, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1532",
+    "faultLocation": "Idle control - lean running speed below specification",
+    "probableCause": "Throttle control unit",
+    "detailUrl": null
+  },
+  {
+    "code": "P1533",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 2 - circuit malfunction",
+    "probableCause": "Wiring, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1534",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 2 - short to positive",
+    "probableCause": "Wiring short to positive, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1535",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 2 - short to ground",
+    "probableCause": "Wiring short to ground, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1536",
+    "faultLocation": "Camshaft position (CMP) actuator, Bank 2 - open circuit",
+    "probableCause": "Wiring open circuit, CMP actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1537",
+    "faultLocation": "Fuel shut-off solenoid - malfunction",
+    "probableCause": "Fuel shut-off solenoid (leaking/sticking)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1538",
+    "faultLocation": "Fuel shut-off solenoid - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, fuel shut-off solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1539",
+    "faultLocation": "Clutch pedal position (CPP) switch - range/performance problem",
+    "probableCause": "Wiring, CPP switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1540",
+    "faultLocation": "Vehicle speed signal - high input",
+    "probableCause": "Excessive vehicle speed, instrument panel defective",
+    "detailUrl": null
+  },
+  {
+    "code": "P1541",
+    "faultLocation": "Fuel pump relay - open circuit",
+    "probableCause": "Wiring open circuit, fuel pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1542",
+    "faultLocation": "Throttle motor position sensor 1 - range/performance problem",
+    "probableCause": "Throttle valve requires cleaning, wiring, throttle motor position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1543",
+    "faultLocation": "Throttle motor position sensor 1 - low input",
+    "probableCause": "Wiring short to ground, throttle motor position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1544",
+    "faultLocation": "Throttle motor position sensor 1 - high input",
+    "probableCause": "Wiring short to positive, throttle motor position sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1545",
+    "faultLocation": "Throttle valve control - malfunction",
+    "probableCause": "Throttle valve tight/sticking, wiring, throttle control unit",
+    "detailUrl": null
+  },
+  {
+    "code": "P1546",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve - short to positive",
+    "probableCause": "Wiring short to positive, TC wastegate regulating valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1547",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve - short to ground",
+    "probableCause": "Wiring short to ground, TC wastegate regulating valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1548",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve - open circuit",
+    "probableCause": "Wiring open circuit, TC wastegate regulating valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1549",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, TC wastegate regulating valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1550",
+    "faultLocation": "Turbocharger (TC) pressure - control difference",
+    "probableCause": "Intake/exhaust leak, hoses interchanged/ not connected, MAP sensor, TC wastegate regulating valve, turbocharger (TC) wastegate actuator, TC",
+    "detailUrl": null
+  },
+  {
+    "code": "P1551",
+    "faultLocation": "Barometric Pressure Sensor Circuit Short to B+",
+    "probableCause": "Wiring, BARO sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1552",
+    "faultLocation": "Barometric Pressure Sensor Circuit Open/Short to Ground",
+    "probableCause": "Wiring, BARO sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1553",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor/ barometric pressure (BARO) sensor - range/performance problem",
+    "probableCause": "Intake/exhaust leak, EGR system, EVAP canister purge valve, throttle control unit, wiring, MAP sensor, BARO sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1554",
+    "faultLocation": "Throttle control unit - basic setting conditions",
+    "probableCause": "Basic setting conditions not met",
+    "detailUrl": null
+  },
+  {
+    "code": "P1555",
+    "faultLocation": "Turbocharger (TC) pressure - upper limit exceeded",
+    "probableCause": "Hoses interchanged/not connected, TC wastegate regulating valve, turbocharger (TC) wastegate actuator, TC",
+    "detailUrl": null
+  },
+  {
+    "code": "P1556",
+    "faultLocation": "Turbocharger (TC) pressure - control limit not reached",
+    "probableCause": "TC wastegate regulating valve, intake leak, TC defective",
+    "detailUrl": null
+  },
+  {
+    "code": "P1557",
+    "faultLocation": "Turbocharger (TC) pressure - control limit exceeded",
+    "probableCause": "Hose connection interchanged/not connected",
+    "detailUrl": null
+  },
+  {
+    "code": "P1558",
+    "faultLocation": "Idle speed control (ISC) actuator/throttle motor - circuit malfunction",
+    "probableCause": "Wiring, ISC actuator/throttle motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1559",
+    "faultLocation": "Throttle control unit - basic setting malfunction",
+    "probableCause": "Accelerator pedal or starter motor operated during basic setting",
+    "detailUrl": null
+  },
+  {
+    "code": "P1560",
+    "faultLocation": "Maximum engine RPM exceeded",
+    "probableCause": "Incorrect gear shift, wiring open circuit, CKP/RPM sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1561",
+    "faultLocation": "Fuel quantity adjuster - control difference",
+    "probableCause": "Wiring, fuel injection pump",
+    "detailUrl": null
+  },
+  {
+    "code": "P1562",
+    "faultLocation": "Fuel quantity adjuster - upper stop value",
+    "probableCause": "Fuel quantity adjuster blocked/defective, stop value reached",
+    "detailUrl": null
+  },
+  {
+    "code": "P1563",
+    "faultLocation": "Fuel quantity adjuster - lower stop value",
+    "probableCause": "Fuel quantity adjuster blocked/defective, lower stop value reached",
+    "detailUrl": null
+  },
+  {
+    "code": "P1564",
+    "faultLocation": "Throttle control unit - voltage low during basic setting",
+    "probableCause": "Battery, wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1565",
+    "faultLocation": "Throttle control unit - lower stop not reached",
+    "probableCause": "Throttle valve tight/sticking, ISC actuator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1566",
+    "faultLocation": "AC compressor, load signal - implausible signal",
+    "probableCause": "Wiring, AC system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1567",
+    "faultLocation": "Load Signal from A/C Compressor No Signal",
+    "probableCause": "Wiring, AC system",
+    "detailUrl": null
+  },
+  {
+    "code": "P1568",
+    "faultLocation": "Throttle control unit - mechanical fault",
+    "probableCause": "Throttle valve tight/sticking",
+    "detailUrl": null
+  },
+  {
+    "code": "P1569",
+    "faultLocation": "Cruise control master switch",
+    "probableCause": "Wiring, cruise control master switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1570",
+    "faultLocation": "Engine control module (ECM) - immobilizer active",
+    "probableCause": "Incorrect/damaged key, incorrectly coded, ECM/immobilizer replacement without coding, wiring, immobilizer defective",
+    "detailUrl": null
+  },
+  {
+    "code": "P1571",
+    "faultLocation": "Engine mounting control solenoid, Bank 2 - short to positive",
+    "probableCause": "Wiring short to positive, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1572",
+    "faultLocation": "Engine mounting control solenoid, Bank 2 - short to ground",
+    "probableCause": "Wiring short to ground, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1573",
+    "faultLocation": "Engine mounting control solenoid, Bank 2 - open circuit",
+    "probableCause": "Wiring open circuit, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1575",
+    "faultLocation": "Engine mounting control solenoid, Bank 1 - short to positive",
+    "probableCause": "Wiring short to positive, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1576",
+    "faultLocation": "Engine mounting control solenoid, Bank 1 - short to ground",
+    "probableCause": "Wiring short to ground, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1577",
+    "faultLocation": "Engine mounting control solenoid, Bank 1 - open circuit",
+    "probableCause": "Wiring open circuit, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1579",
+    "faultLocation": "Throttle control unit - basic setting",
+    "probableCause": "Basic setting not carried out",
+    "detailUrl": null
+  },
+  {
+    "code": "P1580",
+    "faultLocation": "Throttle motor, Bank 1 - circuit malfunction",
+    "probableCause": "Wiring, throttle motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1581",
+    "faultLocation": "Throttle control unit - basic setting",
+    "probableCause": "Basic setting not carried out",
+    "detailUrl": null
+  },
+  {
+    "code": "P1582",
+    "faultLocation": "Idle speed adaptation - limit reached",
+    "probableCause": "Intake/exhaust leak, AIR system, fuel pressure/pump, injector(s), EVAP canister purge valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1586",
+    "faultLocation": "Engine mounting control solenoid, Bank 1 & 2 - short to positive",
+    "probableCause": "Wiring short to positive, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1589",
+    "faultLocation": "AC/heater air temperature control switch - short to ground",
+    "probableCause": "Wiring short to ground, AC/heater air temperature control switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1590",
+    "faultLocation": "AC/heater air temperature control switch - open circuit",
+    "probableCause": "Wiring open circuit, AC/heater air temperature control switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1592",
+    "faultLocation": "Barometric pressure (BARO) sensor/manifold absolute pressure (MAP) sensor - implausible ratio",
+    "probableCause": "TC system, MAP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1593",
+    "faultLocation": "Altitude adoption - signal outside tolerance",
+    "probableCause": "Intake leak, MAF sensor, throttle control unit",
+    "detailUrl": null
+  },
+  {
+    "code": "P1599",
+    "faultLocation": "Idle control - lean running speed above specification",
+    "probableCause": "IAC valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1600",
+    "faultLocation": "Engine control module (ECM) - supply voltage low from ignition switch",
+    "probableCause": "Battery, alternator, wiring open circuit",
+    "detailUrl": null
+  },
+  {
+    "code": "P1601",
+    "faultLocation": "Engine control module (ECM) - supply voltage",
+    "probableCause": "Wiring, engine control relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1602",
+    "faultLocation": "Engine control module (ECM) - supply voltage low from battery",
+    "probableCause": "Battery was disconnected, battery discharged, alternator, wiring open circuit, fuse",
+    "detailUrl": null
+  },
+  {
+    "code": "P1603",
+    "faultLocation": "Engine control module (ECM) - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1604",
+    "faultLocation": "Engine control module (ECM) - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1606",
+    "faultLocation": "Rough road signal - circuit malfunction",
+    "probableCause": "ABS control module trouble code(s) stored, CAN data bus",
+    "detailUrl": null
+  },
+  {
+    "code": "P1608",
+    "faultLocation": "Power steering pressure (PSP) switch - circuit malfunction",
+    "probableCause": "Wiring, PSP switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1609",
+    "faultLocation": "Engine control module (ECM) - crash switch-off triggered",
+    "probableCause": "Airbag triggered",
+    "detailUrl": null
+  },
+  {
+    "code": "P1610",
+    "faultLocation": "Engine control module (ECM) - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1611",
+    "faultLocation": "Malfunction indicator lamp (MIL) - short to ground",
+    "probableCause": "Wiring short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1612",
+    "faultLocation": "Engine control module (ECM) - coding",
+    "probableCause": "Incorrectly coded",
+    "detailUrl": null
+  },
+  {
+    "code": "P1613",
+    "faultLocation": "Malfunction indicator lamp (MIL) - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive",
+    "detailUrl": null
+  },
+  {
+    "code": "P1615",
+    "faultLocation": "Engine oil temperature (EOT) sensor - range/performance problem",
+    "probableCause": "Engine oil level, wiring, EOT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1616",
+    "faultLocation": "Glow plug warning lamp - short to positive",
+    "probableCause": "Wiring short to positive",
+    "detailUrl": null
+  },
+  {
+    "code": "P1617",
+    "faultLocation": "Glow plug warning lamp - open circuit/short to ground",
+    "probableCause": "Bulb, wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1618",
+    "faultLocation": "Glow plug relay - short to positive",
+    "probableCause": "Wiring short to positive, glow plug relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1619",
+    "faultLocation": "Glow plug relay - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, glow plug relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1620",
+    "faultLocation": "Instrument panel, ECT signal - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, instrument panel",
+    "detailUrl": null
+  },
+  {
+    "code": "P1621",
+    "faultLocation": "Instrument panel, ECT signal - short to ground",
+    "probableCause": "Wiring short to ground, instrument panel",
+    "detailUrl": null
+  },
+  {
+    "code": "P1622",
+    "faultLocation": "Instrument panel, ECT signal - implausible signal",
+    "probableCause": "Wiring, instrument panel, ECT sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1623",
+    "faultLocation": "CAN data bus - no signal",
+    "probableCause": "Trouble code(s) stored in other system(s), wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1624",
+    "faultLocation": "Malfunction indicator lamp (MIL) - request signal active",
+    "probableCause": "Trouble code(s) stored in other system(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1625",
+    "faultLocation": "CAN data bus, TCM - incorrect signal",
+    "probableCause": "TCM trouble code(s) stored, TCM incorrectly coded, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1626",
+    "faultLocation": "CAN data bus, TCM - no signal",
+    "probableCause": "TCM trouble code(s) stored, TCM incorrectly coded, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1629",
+    "faultLocation": "CAN data bus, cruise control - no signal",
+    "probableCause": "Cruise control trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1630",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1 - low input",
+    "probableCause": "Wiring short to ground, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1631",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1 - high input",
+    "probableCause": "Wiring short to positive, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1632",
+    "faultLocation": "Accelerator pedal position (APP) sensor - supply voltage",
+    "probableCause": "Operating voltage too high/low, wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1633",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2 - low input",
+    "probableCause": "Wiring short to ground, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1634",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2 - high input",
+    "probableCause": "Wiring short to positive, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1635",
+    "faultLocation": "CAN data bus, AC - no signal",
+    "probableCause": "AC control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1636",
+    "faultLocation": "CAN data bus, SRS - no signal",
+    "probableCause": "SRS control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1637",
+    "faultLocation": "CAN data bus, electronic CE - no signal",
+    "probableCause": "Trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1639",
+    "faultLocation": "Accelerator pedal position (APP) sensor 1/2 - range/performance problem",
+    "probableCause": "Wiring, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1640",
+    "faultLocation": "Engine control module (ECM) - defective",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1642",
+    "faultLocation": "SRS control module - system malfunction",
+    "probableCause": "Trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1645",
+    "faultLocation": "CAN data bus, 4WD - no signal",
+    "probableCause": "4WD trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1648",
+    "faultLocation": "CAN data bus - defective",
+    "probableCause": "Wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1649",
+    "faultLocation": "CAN data bus, ABS - no signal",
+    "probableCause": "ABS control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1650",
+    "faultLocation": "CAN data bus, instrumentation - no signal",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1652",
+    "faultLocation": "Transmission control module (TCM) - system malfunction",
+    "probableCause": "Trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1653",
+    "faultLocation": "ABS control module - system malfunction",
+    "probableCause": "Trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1654",
+    "faultLocation": "Instrumentation control module - system malfunction",
+    "probableCause": "Trouble code stored for engine oil level/ temperature sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1656",
+    "faultLocation": "AC signal - short to ground",
+    "probableCause": "Wiring short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1657",
+    "faultLocation": "AC signal - short to positive",
+    "probableCause": "Wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1658",
+    "faultLocation": "CAN data bus, cruise control - incorrect signal",
+    "probableCause": "Cruise control trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1659",
+    "faultLocation": "Engine coolant blower motor, speed 1 - short to positive",
+    "probableCause": "Wiring short to positive, engine coolant blower motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1660",
+    "faultLocation": "Engine coolant blower motor, speed 1 - short to ground",
+    "probableCause": "Wiring short to ground, engine coolant blower motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1661",
+    "faultLocation": "Engine coolant blower motor, speed 2 - short to positive",
+    "probableCause": "Wiring short to positive, engine coolant blower motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1662",
+    "faultLocation": "Engine coolant blower motor, speed 2 - short to ground",
+    "probableCause": "Wiring short to ground, engine coolant blower motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1663",
+    "faultLocation": "Injector, activation - short to positive",
+    "probableCause": "Wiring short to positive, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1664",
+    "faultLocation": "Injector, activation - current circuit",
+    "probableCause": "Wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1665",
+    "faultLocation": "Injector - mechanical fault",
+    "probableCause": "Injector",
+    "detailUrl": null
+  },
+  {
+    "code": "P1666",
+    "faultLocation": "Injector 1 - current circuit",
+    "probableCause": "Wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1667",
+    "faultLocation": "Injector 2 - current circuit",
+    "probableCause": "Wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1668",
+    "faultLocation": "Injector 3 - current circuit",
+    "probableCause": "Wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1669",
+    "faultLocation": "Injector 4 - current circuit",
+    "probableCause": "Wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1672",
+    "faultLocation": "Engine coolant blower motor, speed 1 - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground",
+    "detailUrl": null
+  },
+  {
+    "code": "P1674",
+    "faultLocation": "CAN data bus, instrumentation - incorrect signal",
+    "probableCause": "Wiring, instrumentation control module trouble code(s) stored, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1676",
+    "faultLocation": "ETS warning lamp - circuit malfunction",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1677",
+    "faultLocation": "ETS warning lamp - short to positive",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring short to positive, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1678",
+    "faultLocation": "ETS warning lamp - short to ground",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring short to ground, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1679",
+    "faultLocation": "ETS warning lamp - open circuit",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring open circuit, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1680",
+    "faultLocation": "Limp-home mode - active",
+    "probableCause": "Throttle control unit, APP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1681",
+    "faultLocation": "Engine control module (ECM) - programming incomplete",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1682",
+    "faultLocation": "CAN data bus, ABS - implausible signal",
+    "probableCause": "ABS control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1683",
+    "faultLocation": "CAN data bus, SRS - implausible signal",
+    "probableCause": "SRS control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1690",
+    "faultLocation": "Malfunction indicator lamp (MIL) - circuit malfunction",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1691",
+    "faultLocation": "Malfunction indicator lamp (MIL) - open circuit",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring open circuit, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1692",
+    "faultLocation": "Malfunction indicator lamp (MIL) - short to ground",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring short to ground, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1693",
+    "faultLocation": "Malfunction indicator lamp (MIL) - short to positive",
+    "probableCause": "Instrumentation control module trouble code(s) stored, wiring short to positive, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1696",
+    "faultLocation": "CAN data bus, steering column electronics - incorrect signal",
+    "probableCause": "Wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1698",
+    "faultLocation": "Check DTC Memory Of Steering Column ECU",
+    "probableCause": "Steering column control module trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1699",
+    "faultLocation": "Engine control module (ECM) – programmed for cruise control",
+    "probableCause": "Erase cruise control program",
+    "detailUrl": null
+  },
+  {
+    "code": "P1740",
+    "faultLocation": "Clutch Temperature Monitoring",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1745",
+    "faultLocation": "Solenoid valves, supply voltage – short to positive",
+    "probableCause": "Wiring open circuit/short to positive, poor connection, TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1746",
+    "faultLocation": "TCM/solenoid valves, supply voltage – circuit malfunction",
+    "probableCause": "Wiring, battery, alternator",
+    "detailUrl": null
+  },
+  {
+    "code": "P1747",
+    "faultLocation": "Solenoid valves, supply voltage – open circuit/short to ground",
+    "probableCause": "Battery, wiring open circuit/short to ground, poor connection, TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1748",
+    "faultLocation": "Transmission control module (TCM) – defective",
+    "probableCause": "TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1750",
+    "faultLocation": "Transmission control module (TCM) – supply voltage low",
+    "probableCause": "Fuse, wiring, TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1751",
+    "faultLocation": "Transmission control module (TCM) – supply voltage high",
+    "probableCause": "Wiring, alternator, battery(s)",
+    "detailUrl": null
+  },
+  {
+    "code": "P1851",
+    "faultLocation": "CAN data bus, ABS - incorrect signal",
+    "probableCause": "ABS trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1853",
+    "faultLocation": "CAN data bus, ABS - incorrect signal",
+    "probableCause": "ABS trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1854",
+    "faultLocation": "CAN data bus, ABS - defective",
+    "probableCause": "ABS trouble code(s) stored, wiring, matching resistor in ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1857",
+    "faultLocation": "Load Signal Error Message From ECU",
+    "probableCause": "Vacuum leak, intake system – air leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1900",
+    "faultLocation": "Engine coolant blower motor, speed 2 - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, engine coolant blower motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1901",
+    "faultLocation": "Engine coolant blower motor run-on relay - short to positive",
+    "probableCause": "Wiring short to positive, engine coolant blower motor run-on relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1902",
+    "faultLocation": "Engine coolant blower motor run-on relay - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, engine coolant blower motor run-on relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1903",
+    "faultLocation": "Engine coolant hydraulic blower motor solenoid - short to positive",
+    "probableCause": "Wiring short to positive, engine coolant hydraulic blower motor solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1904",
+    "faultLocation": "Engine coolant hydraulic blower motor solenoid - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, engine coolant hydraulic blower motor solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1905",
+    "faultLocation": "Charge air coolant pump relay - short to positive",
+    "probableCause": "Wiring short to positive, charge air coolant pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1906",
+    "faultLocation": "Charge air coolant pump relay - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, charge air coolant pump relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1907",
+    "faultLocation": "Data bus, ECM 1/2 - defective",
+    "probableCause": "Wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "P1908",
+    "faultLocation": "Data bus, ECM 1/2 - software version monitoring",
+    "probableCause": "Data in ECM 1 & ECM 2 does not match",
+    "detailUrl": null
+  },
+  {
+    "code": "P1909",
+    "faultLocation": "Data bus, ECM 1/2 - no signal from ECM 1",
+    "probableCause": "Wiring, ECM 1",
+    "detailUrl": null
+  },
+  {
+    "code": "P1910",
+    "faultLocation": "Data bus, ECM 1/2 - no signal from ECM 2",
+    "probableCause": "Wiring, ECM 2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1911",
+    "faultLocation": "Data bus, ECM 1/2 - circuit malfunction",
+    "probableCause": "Wiring, ECM 1/2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1912",
+    "faultLocation": "Brake servo pressure sensor - open circuit/short to positive",
+    "probableCause": "Wiring open circuit/short to positive, brake servo pressure sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1913",
+    "faultLocation": "Brake servo pressure sensor - short to ground",
+    "probableCause": "Wiring short to ground, brake servo pressure sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1914",
+    "faultLocation": "Brake servo pressure sensor - range/performance problem",
+    "probableCause": "Vacuum leak, wiring, brake servo pressure sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1920",
+    "faultLocation": "Engine mounting control solenoid, Bank 1 & 2 - open circuit/short to ground",
+    "probableCause": "Wiring open circuit/short to ground, engine mounting control solenoid",
+    "detailUrl": null
+  },
+  {
+    "code": "P1923",
+    "faultLocation": "Engine control module (ECM) 2 - malfunction",
+    "probableCause": "Trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1951",
+    "faultLocation": "Radiator Fan 2 Movement Restricted / Jammed",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1952",
+    "faultLocation": "Turbocharger Control Module 1 Defective",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1953",
+    "faultLocation": "Turbocharger Control Module 2 Defective",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1996",
+    "faultLocation": "Friction Too High Intake Camshaft Adjustment Bank 1",
+    "probableCause": "Implausible signal, mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1997",
+    "faultLocation": "Friction Too High Exhaust Camshaft Adjustment Bank 1",
+    "probableCause": "Implausible signal, mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1998",
+    "faultLocation": "Friction Too High Intake Camshaft Adjustment Bank 2",
+    "probableCause": "Implausible signal, mechanical fault",
+    "detailUrl": null
+  },
+  {
+    "code": "P1999",
+    "faultLocation": "Friction Too High Exhaust Camshaft Adjustment Bank 2",
+    "probableCause": "Implausible signal, mechanical fault",
+    "detailUrl": null
+  }
+]

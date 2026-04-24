@@ -1,0 +1,14 @@
+{
+  "name": "BMW",
+  "slug": "bmw",
+  "totalCodes": 487,
+  "totalSubmodels": 8,
+  "totalDetails": 0,
+  "totalProcedures": 6,
+  "codeTypes": {
+    "P": 487,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

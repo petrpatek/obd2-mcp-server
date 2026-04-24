@@ -1,0 +1,14 @@
+{
+  "name": "Chevrolet",
+  "slug": "chevrolet",
+  "totalCodes": 511,
+  "totalSubmodels": 5,
+  "totalDetails": 0,
+  "totalProcedures": 5,
+  "codeTypes": {
+    "P": 495,
+    "B": 1,
+    "C": 0,
+    "U": 15
+  }
+}

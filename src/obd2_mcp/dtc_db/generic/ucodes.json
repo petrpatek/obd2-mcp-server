@@ -1,0 +1,1800 @@
+{
+  "category": "Network",
+  "codesCount": 299,
+  "codes": [
+    {
+      "code": "U0001",
+      "faultLocation": "Controller area network (CAN) data bus: high speed bus/communication control module",
+      "probableCause": "U0002",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0001/"
+    },
+    {
+      "code": "U0003",
+      "faultLocation": "Controller area network (CAN) data bus: high speed bus(+)- open circuit",
+      "probableCause": "U0004",
+      "detailUrl": null
+    },
+    {
+      "code": "U0005",
+      "faultLocation": "Controller area network (CAN) data bus: high speed bus(+)- voltage high",
+      "probableCause": "U0006",
+      "detailUrl": null
+    },
+    {
+      "code": "U0007",
+      "faultLocation": "Controller area network (CAN) data bus: high speed bus (-)-voltage low",
+      "probableCause": "U0008",
+      "detailUrl": null
+    },
+    {
+      "code": "U0009",
+      "faultLocation": "Controller area network (CAN) data bus: high speed bus (-)-shorted to data bus(+)",
+      "probableCause": "U0010",
+      "detailUrl": null
+    },
+    {
+      "code": "U0011",
+      "faultLocation": "Controller area network (CAN) data bus: medium speed bus - performance problem",
+      "probableCause": "U0012",
+      "detailUrl": null
+    },
+    {
+      "code": "U0013",
+      "faultLocation": "Controller area network (CAN) data bus: medium speed bus(+)- voltage low",
+      "probableCause": "U0014",
+      "detailUrl": null
+    },
+    {
+      "code": "U0015",
+      "faultLocation": "Controller area network (CAN) data bus: medium speed bus(-)",
+      "probableCause": "U0016",
+      "detailUrl": null
+    },
+    {
+      "code": "U0017",
+      "faultLocation": "Controller area network (CAN) data bus: medium speed bus(-)- voltage high",
+      "probableCause": "U0018",
+      "detailUrl": null
+    },
+    {
+      "code": "U0019",
+      "faultLocation": "Controller area network (CAN) data bus: low speed bus",
+      "probableCause": "U0020",
+      "detailUrl": null
+    },
+    {
+      "code": "U0021",
+      "faultLocation": "Controller area network (CAN) data bus: low speed bus (+) - open circuit",
+      "probableCause": "U0022",
+      "detailUrl": null
+    },
+    {
+      "code": "U0023",
+      "faultLocation": "Controller area network (CAN) data bus: low speed bus (+) - voltage high",
+      "probableCause": "U0024",
+      "detailUrl": null
+    },
+    {
+      "code": "U0025",
+      "faultLocation": "Controller area network (CAN) data bus: low speed bus (-) - voltage low",
+      "probableCause": "U0026",
+      "detailUrl": null
+    },
+    {
+      "code": "U0027",
+      "faultLocation": "Controller area network (CAN) data bus: low speed bus (-) - shorted to data bus (+)",
+      "probableCause": "U0028",
+      "detailUrl": null
+    },
+    {
+      "code": "U0029",
+      "faultLocation": "Vehicle area network (VAN) data bus A - performance problem",
+      "probableCause": "U0030",
+      "detailUrl": null
+    },
+    {
+      "code": "U0031",
+      "faultLocation": "Vehicle area network (VAN) data bus A (+)- voltage low",
+      "probableCause": "U0032",
+      "detailUrl": null
+    },
+    {
+      "code": "U0033",
+      "faultLocation": "Vehicle area network (VAN) data bus A (-)- open circuit",
+      "probableCause": "U0034",
+      "detailUrl": null
+    },
+    {
+      "code": "U0035",
+      "faultLocation": "Vehicle area network (VAN) data bus A (-)- voltage high",
+      "probableCause": "U0036",
+      "detailUrl": null
+    },
+    {
+      "code": "U0037",
+      "faultLocation": "Vehicle area network (VAN) data bus B",
+      "probableCause": "U0038",
+      "detailUrl": null
+    },
+    {
+      "code": "U0039",
+      "faultLocation": "Vehicle area network (VAN) data bus B (+)- open circuit",
+      "probableCause": "U0040",
+      "detailUrl": null
+    },
+    {
+      "code": "U0041",
+      "faultLocation": "Vehicle area network (VAN) data bus B (+)- voltage high",
+      "probableCause": "U0042",
+      "detailUrl": null
+    },
+    {
+      "code": "U0043",
+      "faultLocation": "Vehicle area network (VAN) data bus B (-)- voltage low",
+      "probableCause": "U0044",
+      "detailUrl": null
+    },
+    {
+      "code": "U0045",
+      "faultLocation": "Vehicle area network (VAN) data bus B (-)- shorted to data bus B (+)",
+      "probableCause": "U0046",
+      "detailUrl": null
+    },
+    {
+      "code": "U0047",
+      "faultLocation": "Vehicle area network (VAN) data bus C - performance problem",
+      "probableCause": "U0048",
+      "detailUrl": null
+    },
+    {
+      "code": "U0049",
+      "faultLocation": "Vehicle area network (VAN) data bus C (+)- voltage low",
+      "probableCause": "U0050",
+      "detailUrl": null
+    },
+    {
+      "code": "U0051",
+      "faultLocation": "Vehicle area network (VAN) data bus C (-)- open circuit",
+      "probableCause": "U0052",
+      "detailUrl": null
+    },
+    {
+      "code": "U0053",
+      "faultLocation": "Vehicle area network (VAN) data bus C (-)- voltage high",
+      "probableCause": "U0054",
+      "detailUrl": null
+    },
+    {
+      "code": "U0055",
+      "faultLocation": "Vehicle area network (VAN) data bus D",
+      "probableCause": "U0056",
+      "detailUrl": null
+    },
+    {
+      "code": "U0057",
+      "faultLocation": "Vehicle area network (VAN) data bus D (+)- open circuit",
+      "probableCause": "U0058",
+      "detailUrl": null
+    },
+    {
+      "code": "U0059",
+      "faultLocation": "Vehicle area network (VAN) data bus D (+)- voltage high",
+      "probableCause": "U0060",
+      "detailUrl": null
+    },
+    {
+      "code": "U0061",
+      "faultLocation": "Vehicle area network (VAN) data bus D (-)- voltage low",
+      "probableCause": "U0062",
+      "detailUrl": null
+    },
+    {
+      "code": "U0063",
+      "faultLocation": "Vehicle area network (VAN) data bus D (-)- shorted to data bus D (+)",
+      "probableCause": "U0064",
+      "detailUrl": null
+    },
+    {
+      "code": "U0065",
+      "faultLocation": "Vehicle area network (VAN) data bus E - performance problem",
+      "probableCause": "U0066",
+      "detailUrl": null
+    },
+    {
+      "code": "U0067",
+      "faultLocation": "Vehicle area network (VAN) data bus E (+)- voltage low",
+      "probableCause": "U0068",
+      "detailUrl": null
+    },
+    {
+      "code": "U0069",
+      "faultLocation": "Vehicle area network (VAN) data bus E (-)- open circuit",
+      "probableCause": "U0070",
+      "detailUrl": null
+    },
+    {
+      "code": "U0071",
+      "faultLocation": "Vehicle area network (VAN) data bus E (-)- voltage high",
+      "probableCause": "U0072",
+      "detailUrl": null
+    },
+    {
+      "code": "U0073",
+      "faultLocation": "Control module - data bus Off",
+      "probableCause": "U0100",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0073/"
+    },
+    {
+      "code": "U0101",
+      "faultLocation": "Data bus: transmission control module (TCM) - no communication",
+      "probableCause": "U0102",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0101/"
+    },
+    {
+      "code": "U0103",
+      "faultLocation": "Data bus: gear shift module - no communication / System relay - low signal",
+      "probableCause": "U0104",
+      "detailUrl": null
+    },
+    {
+      "code": "U0105",
+      "faultLocation": "Data bus: injector control module - no communication",
+      "probableCause": "U0106",
+      "detailUrl": null
+    },
+    {
+      "code": "U0107",
+      "faultLocation": "Data bus: throttle actuator control (TAC) module - no communication",
+      "probableCause": "U0108",
+      "detailUrl": null
+    },
+    {
+      "code": "U0109",
+      "faultLocation": "Data bus: fuel pump (FP) control module - no communication",
+      "probableCause": "U0110",
+      "detailUrl": null
+    },
+    {
+      "code": "U0111",
+      "faultLocation": "Data bus: battery energy control module A - no communication",
+      "probableCause": "U0112",
+      "detailUrl": null
+    },
+    {
+      "code": "U0113",
+      "faultLocation": "Data bus: emissions critical control information - no communication",
+      "probableCause": "U0114",
+      "detailUrl": null
+    },
+    {
+      "code": "U0115",
+      "faultLocation": "Data bus: engine control module (ECM) B - no communication",
+      "probableCause": "U0121",
+      "detailUrl": null
+    },
+    {
+      "code": "U0122",
+      "faultLocation": "Data bus: vehicle dynamics control module - no communication",
+      "probableCause": "U0123",
+      "detailUrl": null
+    },
+    {
+      "code": "U0124",
+      "faultLocation": "Data bus: lateral acceleration sensor module - no communication",
+      "probableCause": "U0125",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0124/"
+    },
+    {
+      "code": "U0126",
+      "faultLocation": "Data bus: steering position sensor control module - no communication",
+      "probableCause": "U0127",
+      "detailUrl": null
+    },
+    {
+      "code": "U0128",
+      "faultLocation": "Data bus: parking brake control module - no communication",
+      "probableCause": "U0129",
+      "detailUrl": null
+    },
+    {
+      "code": "U0130",
+      "faultLocation": "Data bus: steering effort control module - no communication",
+      "probableCause": "U0131",
+      "detailUrl": null
+    },
+    {
+      "code": "U0132",
+      "faultLocation": "Data bus: suspension ride height control module - no communication",
+      "probableCause": "U0140",
+      "detailUrl": null
+    },
+    {
+      "code": "U0141",
+      "faultLocation": "Data bus: body control module (8CM) A- no communication",
+      "probableCause": "U0142",
+      "detailUrl": null
+    },
+    {
+      "code": "U0143",
+      "faultLocation": "Data bus: body control module (8CM) C- no communication",
+      "probableCause": "U0144",
+      "detailUrl": null
+    },
+    {
+      "code": "U0145",
+      "faultLocation": "Data bus: body control module (8CM) E - no communication",
+      "probableCause": "U0146",
+      "detailUrl": null
+    },
+    {
+      "code": "U0147",
+      "faultLocation": "Data bus: gateway 8 - no communication",
+      "probableCause": "U0148",
+      "detailUrl": null
+    },
+    {
+      "code": "U0149",
+      "faultLocation": "Data bus: gateway D- no communication",
+      "probableCause": "U0150",
+      "detailUrl": null
+    },
+    {
+      "code": "U0151",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) control module - no communication",
+      "probableCause": "U0152",
+      "detailUrl": null
+    },
+    {
+      "code": "U0153",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) control module: right - no communication",
+      "probableCause": "U0154",
+      "detailUrl": null
+    },
+    {
+      "code": "U0155",
+      "faultLocation": "Data bus: instrumentation control module - no communication",
+      "probableCause": "U0156",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0155/"
+    },
+    {
+      "code": "U0157",
+      "faultLocation": "Data bus: information centre B - no communication",
+      "probableCause": "U0158",
+      "detailUrl": null
+    },
+    {
+      "code": "U0159",
+      "faultLocation": "Data bus: parking aid control module A - no communication",
+      "probableCause": "U0160",
+      "detailUrl": null
+    },
+    {
+      "code": "U0161",
+      "faultLocation": "Data bus: compass module - no communication",
+      "probableCause": "U0162",
+      "detailUrl": null
+    },
+    {
+      "code": "U0163",
+      "faultLocation": "Data bus: navigation control module - no communication",
+      "probableCause": "U0164",
+      "detailUrl": null
+    },
+    {
+      "code": "U0165",
+      "faultLocation": "Data bus: NC control module: rear",
+      "probableCause": "U0166",
+      "detailUrl": null
+    },
+    {
+      "code": "U0167",
+      "faultLocation": "Data bus: immobilizer control 'module - no communication / Engine control module - internal fault",
+      "probableCause": "U0168",
+      "detailUrl": null
+    },
+    {
+      "code": "U0169",
+      "faultLocation": "Data bus: sunroof control module - no communication",
+      "probableCause": "U0170",
+      "detailUrl": null
+    },
+    {
+      "code": "U0171",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) sensor B - no communication",
+      "probableCause": "U0172",
+      "detailUrl": null
+    },
+    {
+      "code": "U0173",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) sensor D - no communication",
+      "probableCause": "U0174",
+      "detailUrl": null
+    },
+    {
+      "code": "U0175",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) sensor F - no communication",
+      "probableCause": "U0176",
+      "detailUrl": null
+    },
+    {
+      "code": "U0177",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) sensor H - no communication",
+      "probableCause": "U0178",
+      "detailUrl": null
+    },
+    {
+      "code": "U0179",
+      "faultLocation": "Data bus: supplementary restraint system (SRS) sensor J - no communication",
+      "probableCause": "U0180",
+      "detailUrl": null
+    },
+    {
+      "code": "U0181",
+      "faultLocation": "Data bus: headlamp level control module - no communication",
+      "probableCause": "U0182",
+      "detailUrl": null
+    },
+    {
+      "code": "U0183",
+      "faultLocation": "Data bus: lamps control module: rear- no communication",
+      "probableCause": "U0184",
+      "detailUrl": null
+    },
+    {
+      "code": "U0185",
+      "faultLocation": "Data bus: aerial module - no communication",
+      "probableCause": "U0186",
+      "detailUrl": null
+    },
+    {
+      "code": "U0187",
+      "faultLocation": "Data bus: digital disc player/changer module A - no communication",
+      "probableCause": "U0188",
+      "detailUrl": null
+    },
+    {
+      "code": "U0189",
+      "faultLocation": "Data bus: digital disc player/changer module C - no communication",
+      "probableCause": "U0190",
+      "detailUrl": null
+    },
+    {
+      "code": "U0191",
+      "faultLocation": "Data bus: television - no communication",
+      "probableCause": "U0192",
+      "detailUrl": null
+    },
+    {
+      "code": "U0193",
+      "faultLocation": "Data bus: digital audio control module A- no communication",
+      "probableCause": "U0194",
+      "detailUrl": null
+    },
+    {
+      "code": "U0195",
+      "faultLocation": "Data bus: subscription entertainment receiver module - no communication",
+      "probableCause": "U0196",
+      "detailUrl": null
+    },
+    {
+      "code": "U0197",
+      "faultLocation": "Data bus: t.elephone control module - no communication",
+      "probableCause": "U0198",
+      "detailUrl": null
+    },
+    {
+      "code": "U0199",
+      "faultLocation": "Data bus: door function control module A - no communication",
+      "probableCause": "U0200",
+      "detailUrl": null
+    },
+    {
+      "code": "U0201",
+      "faultLocation": "Data bus: door function control module C - no communication",
+      "probableCause": "U0202",
+      "detailUrl": null
+    },
+    {
+      "code": "U0203",
+      "faultLocation": "Data bus: door function control module E - no communication",
+      "probableCause": "U0204",
+      "detailUrl": null
+    },
+    {
+      "code": "U0205",
+      "faultLocation": "Data bus: door function control module G - no communication",
+      "probableCause": "U0206",
+      "detailUrl": null
+    },
+    {
+      "code": "U0207",
+      "faultLocation": "Data bus: moveable roof control module - no communication",
+      "probableCause": "U0208",
+      "detailUrl": null
+    },
+    {
+      "code": "U0209",
+      "faultLocation": "Data bus: seat adjustment control module B - no communication",
+      "probableCause": "U0210",
+      "detailUrl": null
+    },
+    {
+      "code": "U0211",
+      "faultLocation": "Data bus: seat adjustment control module D - no communication",
+      "probableCause": "U0212",
+      "detailUrl": null
+    },
+    {
+      "code": "U0213",
+      "faultLocation": "Data bus: mirror control module A - no communication",
+      "probableCause": "U0214",
+      "detailUrl": null
+    },
+    {
+      "code": "U0215",
+      "faultLocation": "Data bus: door contact switch A - no communication",
+      "probableCause": "U0216",
+      "detailUrl": null
+    },
+    {
+      "code": "U0217",
+      "faultLocation": "Data bus: door contact switch C - no communication",
+      "probableCause": "U0218",
+      "detailUrl": null
+    },
+    {
+      "code": "U0219",
+      "faultLocation": "Data bus: door contact switch E - no communication",
+      "probableCause": "U0220",
+      "detailUrl": null
+    },
+    {
+      "code": "U0221",
+      "faultLocation": "Data bus: door contact switch G - no communication",
+      "probableCause": "U0222",
+      "detailUrl": null
+    },
+    {
+      "code": "U0223",
+      "faultLocation": "Data bus: electric window motor B - no communication",
+      "probableCause": "U0224",
+      "detailUrl": null
+    },
+    {
+      "code": "U0225",
+      "faultLocation": "Data bus: electric window motor D - no communication",
+      "probableCause": "U0226",
+      "detailUrl": null
+    },
+    {
+      "code": "U0227",
+      "faultLocation": "Data bus: electric window motor F - no communication",
+      "probableCause": "U0228",
+      "detailUrl": null
+    },
+    {
+      "code": "U0229",
+      "faultLocation": "Data bus: heated steering wheel module - no communication",
+      "probableCause": "U0230",
+      "detailUrl": null
+    },
+    {
+      "code": "U0231",
+      "faultLocation": "Data bus: rain sensor control module- no communication",
+      "probableCause": "U0232",
+      "detailUrl": null
+    },
+    {
+      "code": "U0233",
+      "faultLocation": "Data bus: side obstacle detection control module: right- no communication",
+      "probableCause": "U0234",
+      "detailUrl": null
+    },
+    {
+      "code": "U0235",
+      "faultLocation": "Data bus: cruise control front distance range sensor - no communication",
+      "probableCause": "U0253",
+      "detailUrl": null
+    },
+    {
+      "code": "U0284",
+      "faultLocation": "Lost Communication With Active Grille Air Shutter 1 Motor Module",
+      "probableCause": "U0293",
+      "detailUrl": null
+    },
+    {
+      "code": "U029D",
+      "faultLocation": "Lost Communication With NOX Sensor A",
+      "probableCause": "U0300",
+      "detailUrl": null
+    },
+    {
+      "code": "U0301",
+      "faultLocation": "Software incompatibility - engine control module (ECM)",
+      "probableCause": "U0302",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0301/"
+    },
+    {
+      "code": "U0303",
+      "faultLocation": "Software incompatibility - transfer box control module",
+      "probableCause": "U0304",
+      "detailUrl": null
+    },
+    {
+      "code": "U0305",
+      "faultLocation": "Software incompatibility - cruise control module",
+      "probableCause": "U0306",
+      "detailUrl": null
+    },
+    {
+      "code": "U0307",
+      "faultLocation": "Software incompatibility - glow plug control module",
+      "probableCause": "U0308",
+      "detailUrl": null
+    },
+    {
+      "code": "U0309",
+      "faultLocation": "Software incompatibility - alternative fuel control module",
+      "probableCause": "U0310",
+      "detailUrl": null
+    },
+    {
+      "code": "U0311",
+      "faultLocation": "Software incompatibility - drive motor control module",
+      "probableCause": "U0312",
+      "detailUrl": null
+    },
+    {
+      "code": "U0313",
+      "faultLocation": "Software incompatibility - battery energy control module B",
+      "probableCause": "U0314",
+      "detailUrl": null
+    },
+    {
+      "code": "U0315",
+      "faultLocation": "Software incompatibility - anti-lock brake system (ASS) control module",
+      "probableCause": "U0316",
+      "detailUrl": null
+    },
+    {
+      "code": "U0317",
+      "faultLocation": "Software incompatibility - parking brake control module",
+      "probableCause": "U0318",
+      "detailUrl": null
+    },
+    {
+      "code": "U0319",
+      "faultLocation": "Software incompatibility - steering effort control module",
+      "probableCause": "U0320",
+      "detailUrl": null
+    },
+    {
+      "code": "U0321",
+      "faultLocation": "Software incompatibility - suspension ride height control module",
+      "probableCause": "U0322",
+      "detailUrl": null
+    },
+    {
+      "code": "U0323",
+      "faultLocation": "Software incompatibility - instrumentation control module",
+      "probableCause": "U0324",
+      "detailUrl": null
+    },
+    {
+      "code": "U0325",
+      "faultLocation": "Software incompatibility - auxiliary heater control module",
+      "probableCause": "U0326",
+      "detailUrl": null
+    },
+    {
+      "code": "U0327",
+      "faultLocation": "Software incompatibility - alarm system control module",
+      "probableCause": "U0328",
+      "detailUrl": null
+    },
+    {
+      "code": "U0329",
+      "faultLocation": "Software incompatibility - steering column control module",
+      "probableCause": "U0330",
+      "detailUrl": null
+    },
+    {
+      "code": "U0331",
+      "faultLocation": "Software incompatibility - body control module A",
+      "probableCause": "U0332",
+      "detailUrl": null
+    },
+    {
+      "code": "U0400",
+      "faultLocation": "Invalid data received",
+      "probableCause": "U0401",
+      "detailUrl": null
+    },
+    {
+      "code": "U0402",
+      "faultLocation": "Invalid data received - transmission control module (TCM)",
+      "probableCause": "U0403",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0402/"
+    },
+    {
+      "code": "U0404",
+      "faultLocation": "Invalid data received - gear shift module",
+      "probableCause": "U0405",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0404/"
+    },
+    {
+      "code": "U0406",
+      "faultLocation": "Invalid data received - injector control module",
+      "probableCause": "U0407",
+      "detailUrl": null
+    },
+    {
+      "code": "U0408",
+      "faultLocation": "Invalid data received - throttle actuator control (TAC) module",
+      "probableCause": "U0409",
+      "detailUrl": null
+    },
+    {
+      "code": "U0410",
+      "faultLocation": "Invalid data received - fuel pump (FP) control module",
+      "probableCause": "U0411",
+      "detailUrl": null
+    },
+    {
+      "code": "U0412",
+      "faultLocation": "Invalid data received - battery energy control module A",
+      "probableCause": "U0413",
+      "detailUrl": null
+    },
+    {
+      "code": "U0414",
+      "faultLocation": "Invalid data received - four wheel drive clutch control module",
+      "probableCause": "U0415",
+      "detailUrl": null
+    },
+    {
+      "code": "U0416",
+      "faultLocation": "Invalid data received - vehicle dynamics control module",
+      "probableCause": "U0417",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0416/"
+    },
+    {
+      "code": "U0418",
+      "faultLocation": "Invalid data received - brake system control module",
+      "probableCause": "U0419",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u0418/"
+    },
+    {
+      "code": "U0420",
+      "faultLocation": "Invalid data received - power steering control module",
+      "probableCause": "U0421",
+      "detailUrl": null
+    },
+    {
+      "code": "U0422",
+      "faultLocation": "Invalid data received - body control module",
+      "probableCause": "U0423",
+      "detailUrl": null
+    },
+    {
+      "code": "U0424",
+      "faultLocation": "Invalid data received - A/C control module",
+      "probableCause": "U0425",
+      "detailUrl": null
+    },
+    {
+      "code": "U0426",
+      "faultLocation": "Invalid data received - immobilizer",
+      "probableCause": "U0427",
+      "detailUrl": null
+    },
+    {
+      "code": "U0428",
+      "faultLocation": "Invalid data received - steering position sensor control module",
+      "probableCause": "U0429",
+      "detailUrl": null
+    },
+    {
+      "code": "U0430",
+      "faultLocation": "Invalid data received - tire pressure monitor module",
+      "probableCause": "U0431",
+      "detailUrl": null
+    },
+    {
+      "code": "U0433",
+      "faultLocation": "Invalid data received - cruise control front distance range sensor",
+      "probableCause": "U0481",
+      "detailUrl": null
+    },
+    {
+      "code": "U1000",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1001",
+      "detailUrl": null
+    },
+    {
+      "code": "U1002",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1003",
+      "detailUrl": null
+    },
+    {
+      "code": "U1004",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for EEC Programming",
+      "probableCause": "U1005",
+      "detailUrl": null
+    },
+    {
+      "code": "U1006",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1007",
+      "detailUrl": null
+    },
+    {
+      "code": "U1008",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine Torque",
+      "probableCause": "U1009",
+      "detailUrl": null
+    },
+    {
+      "code": "U1010",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine Air Intake",
+      "probableCause": "U1011",
+      "detailUrl": null
+    },
+    {
+      "code": "U1012",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1013",
+      "detailUrl": null
+    },
+    {
+      "code": "U1014",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1015",
+      "detailUrl": null
+    },
+    {
+      "code": "U1016",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1017",
+      "detailUrl": null
+    },
+    {
+      "code": "U1018",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Throttle",
+      "probableCause": "U1019",
+      "detailUrl": null
+    },
+    {
+      "code": "U1020",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Air Conditioning Clutch",
+      "probableCause": "U1021",
+      "detailUrl": null
+    },
+    {
+      "code": "U1022",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1023",
+      "detailUrl": null
+    },
+    {
+      "code": "U1024",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1025",
+      "detailUrl": null
+    },
+    {
+      "code": "U1026",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine RPM",
+      "probableCause": "U1027",
+      "detailUrl": null
+    },
+    {
+      "code": "U1028",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1029",
+      "detailUrl": null
+    },
+    {
+      "code": "U1030",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Experimental #1",
+      "probableCause": "U1031",
+      "detailUrl": null
+    },
+    {
+      "code": "U1032",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1033",
+      "detailUrl": null
+    },
+    {
+      "code": "U1034",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1035",
+      "detailUrl": null
+    },
+    {
+      "code": "U1036",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Wheels",
+      "probableCause": "U1037",
+      "detailUrl": null
+    },
+    {
+      "code": "U1038",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1039",
+      "detailUrl": null
+    },
+    {
+      "code": "U1040",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Vehicle Speed",
+      "probableCause": "U1041",
+      "detailUrl": null
+    },
+    {
+      "code": "U1042",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Traction Control",
+      "probableCause": "U1043",
+      "detailUrl": null
+    },
+    {
+      "code": "U1044",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Traction Motor",
+      "probableCause": "U1045",
+      "detailUrl": null
+    },
+    {
+      "code": "U1046",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1047",
+      "detailUrl": null
+    },
+    {
+      "code": "U1048",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1049",
+      "detailUrl": null
+    },
+    {
+      "code": "U1050",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Brakes",
+      "probableCause": "U1051",
+      "detailUrl": null
+    },
+    {
+      "code": "U1052",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Steering / Steering Wheel",
+      "probableCause": "U1053",
+      "detailUrl": null
+    },
+    {
+      "code": "U1054",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1055",
+      "detailUrl": null
+    },
+    {
+      "code": "U1056",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Vehicle Configuration",
+      "probableCause": "U1057",
+      "detailUrl": null
+    },
+    {
+      "code": "U1058",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Transmission / Transaxle / PRNDL",
+      "probableCause": "U1059",
+      "detailUrl": null
+    },
+    {
+      "code": "U1060",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1061",
+      "detailUrl": null
+    },
+    {
+      "code": "U1062",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1063",
+      "detailUrl": null
+    },
+    {
+      "code": "U1064",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1065",
+      "detailUrl": null
+    },
+    {
+      "code": "U1066",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1067",
+      "detailUrl": null
+    },
+    {
+      "code": "U1068",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1069",
+      "detailUrl": null
+    },
+    {
+      "code": "U1070",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine Sensors",
+      "probableCause": "U1071",
+      "detailUrl": null
+    },
+    {
+      "code": "U1072",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine Coolant",
+      "probableCause": "U1073",
+      "detailUrl": null
+    },
+    {
+      "code": "U1074",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine Oil",
+      "probableCause": "U1075",
+      "detailUrl": null
+    },
+    {
+      "code": "U1076",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1077",
+      "detailUrl": null
+    },
+    {
+      "code": "U1078",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1079",
+      "detailUrl": null
+    },
+    {
+      "code": "U1080",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1081",
+      "detailUrl": null
+    },
+    {
+      "code": "U1082",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Engine Systems Other",
+      "probableCause": "U1083",
+      "detailUrl": null
+    },
+    {
+      "code": "U1084",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Powertrain Status Request",
+      "probableCause": "U1085",
+      "detailUrl": null
+    },
+    {
+      "code": "U1086",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1087",
+      "detailUrl": null
+    },
+    {
+      "code": "U1088",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Suspension",
+      "probableCause": "U1089",
+      "detailUrl": null
+    },
+    {
+      "code": "U1090",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Non-Legislated Diagnostics",
+      "probableCause": "U1091",
+      "detailUrl": null
+    },
+    {
+      "code": "U1092",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1093",
+      "detailUrl": null
+    },
+    {
+      "code": "U1094",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Experimental #2",
+      "probableCause": "U1095",
+      "detailUrl": null
+    },
+    {
+      "code": "U1096",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1097",
+      "detailUrl": null
+    },
+    {
+      "code": "U1098",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Vehicle Speed Control",
+      "probableCause": "U1099",
+      "detailUrl": null
+    },
+    {
+      "code": "U1100",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1101",
+      "detailUrl": null
+    },
+    {
+      "code": "U1102",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1103",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u1102/"
+    },
+    {
+      "code": "U1104",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Chassis Status Request",
+      "probableCause": "U1105",
+      "detailUrl": null
+    },
+    {
+      "code": "U1106",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Legislated Diagnostics",
+      "probableCause": "U1107",
+      "detailUrl": null
+    },
+    {
+      "code": "U1108",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Electric Traction Drive (Inverter)",
+      "probableCause": "U1109",
+      "detailUrl": null
+    },
+    {
+      "code": "U1110",
+      "faultLocation": "A/C-ECU Timeout",
+      "probableCause": "U1111",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u1110/"
+    },
+    {
+      "code": "U1112",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1113",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u1112/"
+    },
+    {
+      "code": "U1114",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Charging System",
+      "probableCause": "U1115",
+      "detailUrl": null
+    },
+    {
+      "code": "U1116",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Electrical Energy Management",
+      "probableCause": "U1117",
+      "detailUrl": null
+    },
+    {
+      "code": "U1118",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1119",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u1118/"
+    },
+    {
+      "code": "U1120",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1121",
+      "detailUrl": null
+    },
+    {
+      "code": "U1122",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Odometer",
+      "probableCause": "U1123",
+      "detailUrl": null
+    },
+    {
+      "code": "U1124",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1125",
+      "detailUrl": null
+    },
+    {
+      "code": "U1126",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1127",
+      "detailUrl": null
+    },
+    {
+      "code": "U1128",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1129",
+      "detailUrl": null
+    },
+    {
+      "code": "U1130",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Fuel System",
+      "probableCause": "U1131",
+      "detailUrl": null
+    },
+    {
+      "code": "U1132",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Vehicle Motion",
+      "probableCause": "U1133",
+      "detailUrl": null
+    },
+    {
+      "code": "U1134",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Ignition Switch / Starter",
+      "probableCause": "U1135",
+      "detailUrl": null
+    },
+    {
+      "code": "U1136",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Telltales",
+      "probableCause": "U1137",
+      "detailUrl": null
+    },
+    {
+      "code": "U1138",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1139",
+      "detailUrl": null
+    },
+    {
+      "code": "U1140",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Gateway",
+      "probableCause": "U1141",
+      "detailUrl": null
+    },
+    {
+      "code": "U1142",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1143",
+      "detailUrl": null
+    },
+    {
+      "code": "U1144",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1145",
+      "detailUrl": null
+    },
+    {
+      "code": "U1146",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Vehicle Security",
+      "probableCause": "U1147",
+      "detailUrl": null
+    },
+    {
+      "code": "U1148",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Audio Control",
+      "probableCause": "U1149",
+      "detailUrl": null
+    },
+    {
+      "code": "U1150",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Audible Warnings",
+      "probableCause": "U1151",
+      "detailUrl": null
+    },
+    {
+      "code": "U1152",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Experimental #3",
+      "probableCause": "U1153",
+      "detailUrl": null
+    },
+    {
+      "code": "U1154",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Compact Disc",
+      "probableCause": "U1155",
+      "detailUrl": null
+    },
+    {
+      "code": "U1156",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Digital Signal Processing",
+      "probableCause": "U1157",
+      "detailUrl": null
+    },
+    {
+      "code": "U1158",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Antenna",
+      "probableCause": "U1159",
+      "detailUrl": null
+    },
+    {
+      "code": "U1160",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1161",
+      "detailUrl": null
+    },
+    {
+      "code": "U1162",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Digital Audio Tape",
+      "probableCause": "U1163",
+      "detailUrl": null
+    },
+    {
+      "code": "U1164",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Tuner / Receiver",
+      "probableCause": "U1165",
+      "detailUrl": null
+    },
+    {
+      "code": "U1166",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Cassette Tape",
+      "probableCause": "U1167",
+      "detailUrl": null
+    },
+    {
+      "code": "U1168",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1169",
+      "detailUrl": null
+    },
+    {
+      "code": "U1170",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Cellular Phone / Paging System",
+      "probableCause": "U1171",
+      "detailUrl": null
+    },
+    {
+      "code": "U1172",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Remote Button Control",
+      "probableCause": "U1173",
+      "detailUrl": null
+    },
+    {
+      "code": "U1174",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1175",
+      "detailUrl": null
+    },
+    {
+      "code": "U1176",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1177",
+      "detailUrl": null
+    },
+    {
+      "code": "U1178",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Climate Control (HVAC)",
+      "probableCause": "U1179",
+      "detailUrl": null
+    },
+    {
+      "code": "U1180",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Personalization (Memory) Features",
+      "probableCause": "U1181",
+      "detailUrl": null
+    },
+    {
+      "code": "U1182",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1183",
+      "detailUrl": null
+    },
+    {
+      "code": "U1184",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Window Wiper / Washer",
+      "probableCause": "U1185",
+      "detailUrl": null
+    },
+    {
+      "code": "U1186",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1187",
+      "detailUrl": null
+    },
+    {
+      "code": "U1188",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1189",
+      "detailUrl": null
+    },
+    {
+      "code": "U1190",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1191",
+      "detailUrl": null
+    },
+    {
+      "code": "U1192",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1193",
+      "detailUrl": null
+    },
+    {
+      "code": "U1194",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Mirrors",
+      "probableCause": "U1195",
+      "detailUrl": null
+    },
+    {
+      "code": "U1196",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Door Locks",
+      "probableCause": "U1197",
+      "detailUrl": null
+    },
+    {
+      "code": "U1198",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for External Access (Doors)",
+      "probableCause": "U1199",
+      "detailUrl": null
+    },
+    {
+      "code": "U11E9",
+      "faultLocation": "Lost Communication With Active Grill Shutter (Chrysler)",
+      "probableCause": "U1200",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u11e9/"
+    },
+    {
+      "code": "U1201",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Seat Motion / Control",
+      "probableCause": "U1202",
+      "detailUrl": null
+    },
+    {
+      "code": "U1203",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Windows",
+      "probableCause": "U1204",
+      "detailUrl": null
+    },
+    {
+      "code": "U1205",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Steering Column",
+      "probableCause": "U1206",
+      "detailUrl": null
+    },
+    {
+      "code": "U1207",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1208",
+      "detailUrl": null
+    },
+    {
+      "code": "U1209",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Seat Switches",
+      "probableCause": "U1210",
+      "detailUrl": null
+    },
+    {
+      "code": "U1211",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Restraints",
+      "probableCause": "U1212",
+      "detailUrl": null
+    },
+    {
+      "code": "U1213",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1214",
+      "detailUrl": null
+    },
+    {
+      "code": "U1215",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1216",
+      "detailUrl": null
+    },
+    {
+      "code": "U1217",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for External Lamp Outage",
+      "probableCause": "U1218",
+      "detailUrl": null
+    },
+    {
+      "code": "U1219",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for External Lamps",
+      "probableCause": "U1220",
+      "detailUrl": null
+    },
+    {
+      "code": "U1221",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Interior Lamp Outage",
+      "probableCause": "U1222",
+      "detailUrl": null
+    },
+    {
+      "code": "U1223",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Interior Lamps",
+      "probableCause": "U1224",
+      "detailUrl": null
+    },
+    {
+      "code": "U1225",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1226",
+      "detailUrl": null
+    },
+    {
+      "code": "U1227",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Body Status Request",
+      "probableCause": "U1228",
+      "detailUrl": null
+    },
+    {
+      "code": "U1229",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Tires",
+      "probableCause": "U1230",
+      "detailUrl": null
+    },
+    {
+      "code": "U1231",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Electric Defrost",
+      "probableCause": "U1232",
+      "detailUrl": null
+    },
+    {
+      "code": "U1233",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Navigation",
+      "probableCause": "U1234",
+      "detailUrl": null
+    },
+    {
+      "code": "U1235",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Displays",
+      "probableCause": "U1236",
+      "detailUrl": null
+    },
+    {
+      "code": "U1237",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Memory Storage",
+      "probableCause": "U1238",
+      "detailUrl": null
+    },
+    {
+      "code": "U1239",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Experimental #4",
+      "probableCause": "U1240",
+      "detailUrl": null
+    },
+    {
+      "code": "U1241",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1242",
+      "detailUrl": null
+    },
+    {
+      "code": "U1243",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Exterior Environment",
+      "probableCause": "U1244",
+      "detailUrl": null
+    },
+    {
+      "code": "U1245",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Interior Environment",
+      "probableCause": "U1246",
+      "detailUrl": null
+    },
+    {
+      "code": "U1247",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Primary Id",
+      "probableCause": "U1248",
+      "detailUrl": null
+    },
+    {
+      "code": "U1249",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Time / Date",
+      "probableCause": "U1250",
+      "detailUrl": null
+    },
+    {
+      "code": "U1251",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Vehicle Id (VIN)",
+      "probableCause": "U1252",
+      "detailUrl": null
+    },
+    {
+      "code": "U1253",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Class A Functions",
+      "probableCause": "U1254",
+      "detailUrl": null
+    },
+    {
+      "code": "U1255",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Network Control",
+      "probableCause": "U1260",
+      "detailUrl": null
+    },
+    {
+      "code": "U1261",
+      "faultLocation": "SCP (J1850) Single Ended (-) Circuit Failure",
+      "probableCause": "U1262",
+      "detailUrl": null
+    },
+    {
+      "code": "U1308",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Function Read Engine Torque",
+      "probableCause": "U1313",
+      "detailUrl": null
+    },
+    {
+      "code": "U1341",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Function Read Vehicle Speed",
+      "probableCause": "U140A",
+      "detailUrl": null
+    },
+    {
+      "code": "U1412",
+      "faultLocation": "Implausible Vehicle Speed Signal Received",
+      "probableCause": "U1417",
+      "detailUrl": null
+    },
+    {
+      "code": "U1418",
+      "faultLocation": "Implausible Left Wheel Distance Signal Received (Chrysler, Dodge, Jeep)",
+      "probableCause": "U1430",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u1418/"
+    },
+    {
+      "code": "U1451",
+      "faultLocation": "SCP (J1850) Invalid or Missing Data for Function Read Audible Warnings /Anti-Theft Module",
+      "probableCause": "U1600",
+      "detailUrl": null
+    },
+    {
+      "code": "U1612",
+      "faultLocation": "SCP (J1850) Lack of Acknowledgment for Primary Id",
+      "probableCause": "U1736",
+      "detailUrl": null
+    },
+    {
+      "code": "U1750",
+      "faultLocation": "SCP (J1850) Lack of Acknowledgment for Audible Warnings",
+      "probableCause": "U1794",
+      "detailUrl": null
+    },
+    {
+      "code": "U1797",
+      "faultLocation": "SCP (J1850) Lack of Acknowledgment for Door Locks",
+      "probableCause": "U1798",
+      "detailUrl": null
+    },
+    {
+      "code": "U1806",
+      "faultLocation": "SCP (J1850) Lack of Acknowledgment for Primary Id",
+      "probableCause": "U1900",
+      "detailUrl": null
+    },
+    {
+      "code": "U1950",
+      "faultLocation": "UPB Communication Bus Fault",
+      "probableCause": "U2000",
+      "detailUrl": null
+    },
+    {
+      "code": "U2001",
+      "faultLocation": "Audio Tape Deck Unit is Not Responding",
+      "probableCause": "U2002",
+      "detailUrl": null
+    },
+    {
+      "code": "U2003",
+      "faultLocation": "Audio Compact Disk / Disk Jockey Unit is Not Responding",
+      "probableCause": "U2004",
+      "detailUrl": null
+    },
+    {
+      "code": "U2005",
+      "faultLocation": "Audio Rear Integrated Control Panel Unit is Not Responding",
+      "probableCause": "U2006",
+      "detailUrl": null
+    },
+    {
+      "code": "U2007",
+      "faultLocation": "Audio Navigation Unit is Not Responding",
+      "probableCause": "U2008",
+      "detailUrl": null
+    },
+    {
+      "code": "U2009",
+      "faultLocation": "Audio Front Control Module (ACM) is Not Responding",
+      "probableCause": "U2010",
+      "detailUrl": null
+    },
+    {
+      "code": "U2011",
+      "faultLocation": "Module Transmitted Invalid Data (Non SCP)",
+      "probableCause": "U2012",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u2011/"
+    },
+    {
+      "code": "U2013",
+      "faultLocation": "Compass Module is not Responding",
+      "probableCause": "U2014",
+      "detailUrl": null
+    },
+    {
+      "code": "U2015",
+      "faultLocation": "Signal Link Fault (Non SCP)",
+      "probableCause": "U2016",
+      "detailUrl": null
+    },
+    {
+      "code": "U2017",
+      "faultLocation": "Driver Side Crash Sensor Communication Fault (Non SCP)",
+      "probableCause": "U2018",
+      "detailUrl": null
+    },
+    {
+      "code": "U2019",
+      "faultLocation": "Audio Voice Module Not Responding",
+      "probableCause": "U2020",
+      "detailUrl": null
+    },
+    {
+      "code": "U2021",
+      "faultLocation": "Invalid /fault data received (Non SCP)",
+      "probableCause": "U20BB",
+      "detailUrl": null
+    },
+    {
+      "code": "U2108",
+      "faultLocation": "Lost Communications with ABS/TCS Control System U2108 (GM)",
+      "probableCause": "U2150",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u2108/"
+    },
+    {
+      "code": "U2152",
+      "faultLocation": "SCP (J1850) Invalid Data from GEM",
+      "probableCause": "U2160",
+      "detailUrl": null
+    },
+    {
+      "code": "U2195",
+      "faultLocation": "SCP (J1850) Invalid Data from SCLM",
+      "probableCause": "U2500",
+      "detailUrl": null
+    },
+    {
+      "code": "U2510",
+      "faultLocation": "Received Data Does Not Match (Ford)",
+      "probableCause": "U3000",
+      "detailUrl": "https://www.troublecodes.net/ucodes/u2510/"
+    },
+    {
+      "code": "U3001",
+      "faultLocation": "Control Module Improper Shutdown",
+      "probableCause": "U3002",
+      "detailUrl": null
+    },
+    {
+      "code": "U3003",
+      "faultLocation": "Battery Voltage",
+      "probableCause": "U3004",
+      "detailUrl": null
+    },
+    {
+      "code": "U3005",
+      "faultLocation": "Retained Accessory Power",
+      "probableCause": "U3006",
+      "detailUrl": null
+    },
+    {
+      "code": "U3007",
+      "faultLocation": "Control Module Input Power \"B\"",
+      "probableCause": "U3008",
+      "detailUrl": null
+    },
+    {
+      "code": "U3009",
+      "faultLocation": "Control Module Ground \"B\"",
+      "probableCause": "U300A",
+      "detailUrl": null
+    },
+    {
+      "code": "U300B",
+      "faultLocation": "Ignition Input Accessory/On/Start",
+      "probableCause": "U300C",
+      "detailUrl": null
+    },
+    {
+      "code": "U300D",
+      "faultLocation": "Ignition Input On/Start",
+      "probableCause": "U300E",
+      "detailUrl": null
+    },
+    {
+      "code": "U300F",
+      "faultLocation": "Ignition Input Accessory",
+      "probableCause": "U3010",
+      "detailUrl": null
+    },
+    {
+      "code": "U3011",
+      "faultLocation": "Ignition Input Off",
+      "probableCause": "U3012",
+      "detailUrl": null
+    },
+    {
+      "code": "U3100",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "U3F00",
+      "detailUrl": null
+    }
+  ]
+}

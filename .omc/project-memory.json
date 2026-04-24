@@ -1,0 +1,90 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1777036109796,
+  "projectRoot": "/Users/petr/Work/bitvea/mcp-obd",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "pyproject.toml"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "pytest",
+        "version": null,
+        "category": "testing"
+      }
+    ],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": "pytest",
+    "lintCommand": "ruff check",
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "src",
+      "tests"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "apify-dtc-scraper": {
+      "path": "apify-dtc-scraper",
+      "purpose": null,
+      "fileCount": 15,
+      "lastAccessed": 1777036109790,
+      "keyFiles": [
+        "Dockerfile",
+        "_analyze.js",
+        "_check_allante.js",
+        "_check_procedures.js",
+        "_debug2.js"
+      ]
+    },
+    "pytest-cache-files-0f9_4rxy": {
+      "path": "pytest-cache-files-0f9_4rxy",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1777036109791,
+      "keyFiles": []
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1777036109791,
+      "keyFiles": []
+    },
+    "tests": {
+      "path": "tests",
+      "purpose": "Test files",
+      "fileCount": 2,
+      "lastAccessed": 1777036109791,
+      "keyFiles": [
+        "__init__.py",
+        "test_server.py"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Jeep",
+  "slug": "jeep",
+  "totalCodes": 202,
+  "totalSubmodels": 6,
+  "totalDetails": 0,
+  "totalProcedures": 5,
+  "codeTypes": {
+    "P": 189,
+    "B": 0,
+    "C": 0,
+    "U": 13
+  }
+}

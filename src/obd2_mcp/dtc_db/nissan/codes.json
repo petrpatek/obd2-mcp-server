@@ -1,0 +1,1196 @@
+[
+  {
+    "code": "P0011",
+    "faultLocation": "Camshaft position (CMP), intake/left/front, bank 1 timing over advanced/system performance",
+    "probableCause": "Valve timing, engine mechanical fault, CMP actuator",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0011/"
+  },
+  {
+    "code": "P0021",
+    "faultLocation": "Intake Valve Timing Control Performance Bank 2",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0021/"
+  },
+  {
+    "code": "P0101",
+    "faultLocation": "Mass Air Flow Circuit Range/Performance",
+    "probableCause": "PCV valve, ECM programming, MAF sensor, Vacuum leaks",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0101/"
+  },
+  {
+    "code": "P0300",
+    "faultLocation": "Random/multiple cylinder(s) -misfire detected",
+    "probableCause": "Spark plug(s), HT lead(s), injector(s), ignition coil(s), low compression, wirin",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0300/"
+  },
+  {
+    "code": "P0325",
+    "faultLocation": "Knock Sensor Circuit Malfunction",
+    "probableCause": "Wiring, poor connection, KS",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0325/"
+  },
+  {
+    "code": "P0335",
+    "faultLocation": "Crankshaft Position Sensor Circuit",
+    "probableCause": "CKP sensor, wiring",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0335/"
+  },
+  {
+    "code": "P0340",
+    "faultLocation": "Camshaft position (CMP) sensor A, bank 1 circuit malfunction",
+    "probableCause": "Wiring, CMP sensor, ECM",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0340/"
+  },
+  {
+    "code": "P0420",
+    "faultLocation": "Catalytic converter system, bank 1 -efficiency below threshold",
+    "probableCause": "Catalytic converter, wiring, HO2S 2",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0420/"
+  },
+  {
+    "code": "P0430",
+    "faultLocation": "Catalytic converter system, bank 2 -efficiency below threshold",
+    "probableCause": "Catalytic converter, exhaust manifold, wiring, o2 sensors",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0430/"
+  },
+  {
+    "code": "P0455",
+    "faultLocation": "Evaporative emission (EVAP) system -large leak detected",
+    "probableCause": "Hose connection(s), intake leak, EVAP canister, EVAP canister purge valve",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0455/"
+  },
+  {
+    "code": "P0505",
+    "faultLocation": "Idle speed control (ISC) system -malfunction",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0505/"
+  },
+  {
+    "code": "P0507",
+    "faultLocation": "Idle Control System RPM Higher Than Expected",
+    "probableCause": "",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0507/"
+  },
+  {
+    "code": "P0725",
+    "faultLocation": "Engine Speed Signal",
+    "probableCause": "Faulty crankshaft sensor, wiring, Faulty transmission input speed sensor",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0725/"
+  },
+  {
+    "code": "P0744",
+    "faultLocation": "Torque Converter Clutch Circuit Intermittent",
+    "probableCause": "CVT stepper motor, valve body, CVT transmission, worn bores, mechanical wear",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p0744/"
+  },
+  {
+    "code": "P1031",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1, heater – voltage low",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1032",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1, heater – voltage high",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1051",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2, heater – voltage low",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1052",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2, heater – voltage high",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1065",
+    "faultLocation": "Engine control module (ECM) – battery voltage supply",
+    "probableCause": "Wiring, fuse, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1078",
+    "faultLocation": "Exhaust valve timing control position sensor, bank 1 – circuit malfunction",
+    "probableCause": "Wiring, exhaust valve timing control position sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1084",
+    "faultLocation": "Exhaust valve timing control position sensor, bank 2 – circuit malfunction",
+    "probableCause": "Wiring, exhaust valve timing control position sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1087",
+    "faultLocation": "VVEL Small Event Angle Malfunction Bank 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1088",
+    "faultLocation": "VVEL Small Event Angle Malfunction Bank 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1089",
+    "faultLocation": "VVEL Control Shaft Position Sensor Bank 1 Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1090",
+    "faultLocation": "VVEL Actuator Motor Bank 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1091",
+    "faultLocation": "VVEL Actuator Motor Relay Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1092",
+    "faultLocation": "VVEL Control Shaft Position Sensor Bank 2 Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1093",
+    "faultLocation": "VVEL Actuator Motor Bank 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1102",
+    "faultLocation": "Mass air flow (MAF) sensor – range/performance problem",
+    "probableCause": "Wiring, MAF sensor, air leak, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1103",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor – circuit malfunction",
+    "probableCause": "Wiring, MAP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1104",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor – circuit malfunction",
+    "probableCause": "Wiring, MAP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1105",
+    "faultLocation": "MAP/BARO switching valve – circuit malfunction",
+    "probableCause": "Wiring, MAP/BARO switching valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1108",
+    "faultLocation": "Manifold absolute pressure (MAP) sensor – circuit malfunction",
+    "probableCause": "Wiring, MAP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1110",
+    "faultLocation": "Camshaft position (CMP) actuator – bank 1 – circuit malfunction",
+    "probableCause": "Wiring, CMP actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1111",
+    "faultLocation": "Camshaft position (CMP) actuator – bank 1 – malfunction",
+    "probableCause": "Wiring, CMP actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1119",
+    "faultLocation": "Engine coolant temperature (ECT) sensor – circuit malfunction",
+    "probableCause": "Wiring, engine coolant temperature (ECT) sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1120",
+    "faultLocation": "Secondary Throttle Position Sensor",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1121",
+    "faultLocation": "Throttle valve position motor – malfunction",
+    "probableCause": "Throttle valve position motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1122",
+    "faultLocation": "Throttle valve position motor – range/performance problem",
+    "probableCause": "Wiring, throttle valve position motor",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1122/"
+  },
+  {
+    "code": "P1124",
+    "faultLocation": "Throttle valve position motor relay – short circuit",
+    "probableCause": "Wiring, throttle valve position motor relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1126",
+    "faultLocation": "Throttle valve position motor relay – open circuit",
+    "probableCause": "Wiring, throttle valve position motor relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1128",
+    "faultLocation": "Throttle valve position motor – short circuit",
+    "probableCause": "Wiring, throttle valve position motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1130",
+    "faultLocation": "Intake manifold air control solenoid – malfunction",
+    "probableCause": "Wiring, intake manifold air control solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1131",
+    "faultLocation": "Intake manifold air control solenoid – malfunction",
+    "probableCause": "Wiring, intake manifold air control solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1132",
+    "faultLocation": "Intake manifold air control solenoid – circuit malfunction",
+    "probableCause": "Wiring, intake manifold air control solenoid, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1135",
+    "faultLocation": "Camshaft position (CMP) actuator- bank 1 – circuit malfunction",
+    "probableCause": "Wiring, CMP actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1136",
+    "faultLocation": "Camshaft position (CMP) actuator – bank 2 – malfunction",
+    "probableCause": "Wiring, CMP actuator, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1137",
+    "faultLocation": "Intake manifold air control actuator position sensor – circuit malfunction",
+    "probableCause": "Wiring, intake manifold air control actuator position sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1138",
+    "faultLocation": "Intake manifold air control solenoid – circuit malfunction",
+    "probableCause": "Wiring, intake manifold air control solenoid, intake manifold air control actuator position sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1140",
+    "faultLocation": "Camshaft variable valve timing sensor – bank 1 – range/performance problem",
+    "probableCause": "Wiring, camshaft variable valve timing sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1143",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 – lean shift monitoring",
+    "probableCause": "Wiring, H02S, fuel system, injector, air leak, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1144",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 1 – rich shift monitoring",
+    "probableCause": "Wiring, H02S, fuel system, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1145",
+    "faultLocation": "Camshaft variable valve timing sensor – bank 2 – range/performance problem",
+    "probableCause": "Wiring, camshaft variable valve timing sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1146",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 1 – minimum voltage monitoring",
+    "probableCause": "Wiring, H025, fuel system, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1147",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 1 – maximum voltage monitoring",
+    "probableCause": "Wiring, H02S, fuel system, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1148",
+    "faultLocation": "Closed loop control – bank 1 – inoperative",
+    "probableCause": "Wiring, H02S front, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1150",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve – LH – circuit malfunction",
+    "probableCause": "Wiring, TC wastegate regulating valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1155",
+    "faultLocation": "Turbocharger (TC) wastegate regulating valve – RH – circuit malfunction",
+    "probableCause": "Wiring, TC wastegate regulating valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1160",
+    "faultLocation": "Turbocharger (TC) wastegate pressure sensor – circuit malfunction",
+    "probableCause": "Wiring, TC pressure sensor, hose leak/ blockage, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1163",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 2 – lean shift monitoring",
+    "probableCause": "Wiring, H02S, fuel system, injector, air leak, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1164",
+    "faultLocation": "Heated oxygen sensor (H02S) 1, bank 2 – rich shift monitoring",
+    "probableCause": "Wiring, H025, fuel system, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1165",
+    "faultLocation": "Intake manifold air control vacuum check switch – malfunction",
+    "probableCause": "Wiring, intake manifold air control solenoid, intake manifold air control vacuum check switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1166",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 2 – minimum voltage monitoring",
+    "probableCause": "Wiring, H02S, fuel system, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1167",
+    "faultLocation": "Heated oxygen sensor (H02S) 2, bank 2 – maximum voltage monitoring",
+    "probableCause": "Wiring, H02S, fuel system, injector, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1168",
+    "faultLocation": "Closed loop control – bank 2 – inoperative",
+    "probableCause": "Wiring, H02S front, ECM",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1168/"
+  },
+  {
+    "code": "P1169",
+    "faultLocation": "Heated oxygen sensor (H02S) 3 – voltage low",
+    "probableCause": "Wiring, fuel pressure, injectors, H02S, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1170",
+    "faultLocation": "Heated oxygen sensor (H02S) 3 – voltage low",
+    "probableCause": "Wiring, fuel pressure, injectors, H02S, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1195",
+    "faultLocation": "Engine Does Not Start",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1196",
+    "faultLocation": "Poor Engine Power",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1197",
+    "faultLocation": "Low Input From Fuel Level Sensor",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1210",
+    "faultLocation": "Traction Control System Signal Circuit",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1211",
+    "faultLocation": "ABS control module – malfunction",
+    "probableCause": "Wiring, ABS control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1212",
+    "faultLocation": "ABS control module/traction control module – communication failure",
+    "probableCause": "Wiring, CAN data bus, ABS control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1217",
+    "faultLocation": "Engine coolant over temperature condition",
+    "probableCause": "Wiring, coolant fan, coolant hoses, thermostat, radiator, coolant temperature switch",
+    "detailUrl": null
+  },
+  {
+    "code": "P1220",
+    "faultLocation": "Fuel pump control module – circuit malfunction",
+    "probableCause": "Wiring, fuel pump speed resistor, fuel pump control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1223",
+    "faultLocation": "Throttle position (TP) sensor 2 – voltage low",
+    "probableCause": "Wiring, TP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1224",
+    "faultLocation": "Throttle position (TP) sensor 2 – voltage high",
+    "probableCause": "Wiring, TP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1225",
+    "faultLocation": "Closed throttle position, learning – voltage too low",
+    "probableCause": "Throttle valve position motor, TP sensor 1 & 2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1226",
+    "faultLocation": "Closed throttle position, learning – unsuccessful",
+    "probableCause": "Throttle valve position motor, TP sensor 1 & 2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1227",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2 – voltage low",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1228",
+    "faultLocation": "Accelerator pedal position (APP) sensor 2 – voltage high",
+    "probableCause": "Wiring, APP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1229",
+    "faultLocation": "Sensor supply voltage – short circuit",
+    "probableCause": "Wiring, APP sensor, TP sensor, MAF sensor, EVAP sensor, PS sensor, refrigerant sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1233",
+    "faultLocation": "Electronic throttle control – performance",
+    "probableCause": "Wiring, throttle control motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1234",
+    "faultLocation": "Throttle motor position sensor – learning problem, voltage low, bank 2",
+    "probableCause": "Wiring, TP sensor 1, TP sensor 2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1235",
+    "faultLocation": "Throttle motor pos tion sensor – learning problem, bank 2",
+    "probableCause": "Wiring, TP sensor 1, TP sensor 2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1236",
+    "faultLocation": "Throttle control motor – short circuit",
+    "probableCause": "Wiring, throttle control motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1238",
+    "faultLocation": "Throttle control motor – malfunction",
+    "probableCause": "Throttle control motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1239",
+    "faultLocation": "Throttle position (TP) – performance",
+    "probableCause": "Wiring, throttle actuator, TP sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1243",
+    "faultLocation": "Supercharger (SC) bypass valve – circuit malfunction",
+    "probableCause": "Wiring, SC bypass valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1271",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – voltage low",
+    "probableCause": "Wiring, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1272",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – voltage high",
+    "probableCause": "Wiring, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1273",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – lean mixture",
+    "probableCause": "H025, fuel pressure, injectors, intake air leak",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1273/"
+  },
+  {
+    "code": "P1274",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – rich mixture",
+    "probableCause": "H025, fuel pressure, injector,s",
+    "detailUrl": null
+  },
+  {
+    "code": "P1275",
+    "faultLocation": "Heated oxygen sensor (H02S) 1 -response time",
+    "probableCause": "H02S, fuel pressure, injectors, intake air leak, exhaust leak, MAF sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1276",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – activity",
+    "probableCause": "Wiring, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1277",
+    "faultLocation": "Heated oxygen sensor (H02S) 1 -slow response",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1278",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – slow response",
+    "probableCause": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H025, intake air leaks, exhaust leaks",
+    "detailUrl": null
+  },
+  {
+    "code": "P1279",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 1 – slow response",
+    "probableCause": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H025, intake air leaks, exhaust leaks",
+    "detailUrl": null
+  },
+  {
+    "code": "P1281",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2 – voltage low",
+    "probableCause": "Wiring, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1282",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2- voltage high",
+    "probableCause": "Wiring, H025",
+    "detailUrl": null
+  },
+  {
+    "code": "P1283",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2 – lean mixture",
+    "probableCause": "H025, fuel pressure, injectors, intake air leak",
+    "detailUrl": null
+  },
+  {
+    "code": "P1284",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2 – rich mixture",
+    "probableCause": "H02S, fuel pressure, injectors",
+    "detailUrl": null
+  },
+  {
+    "code": "P1286",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2- activity",
+    "probableCause": "Wiring, H02S",
+    "detailUrl": null
+  },
+  {
+    "code": "P1288",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2 – slow response",
+    "probableCause": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H02S, intake air leaks, exhaust leaks",
+    "detailUrl": null
+  },
+  {
+    "code": "P1289",
+    "faultLocation": "Heated oxygen sensor (H02S), bank 2 – slow response",
+    "probableCause": "Wiring, fuel pressure, injectors, MAF sensor, PCV, H02S, intake air leaks, exhaust leaks",
+    "detailUrl": null
+  },
+  {
+    "code": "P1290",
+    "faultLocation": "Throttle control motor relay – voltage low",
+    "probableCause": "Wiring, relay",
+    "detailUrl": null
+  },
+  {
+    "code": "P1320",
+    "faultLocation": "Ignition signal – circuit malfunction",
+    "probableCause": "Wiring, ignition coillmodule, ignition system, CKP sensor, ECM",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1320/"
+  },
+  {
+    "code": "P1335",
+    "faultLocation": "Crankshaft position (CKP) sensor 2 – circuit malfunction",
+    "probableCause": "Wiring, CKP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1336",
+    "faultLocation": "Crankshaft position (CKP) sensor 1 – rotor teeth damage",
+    "probableCause": "Wiring, CKP sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1400",
+    "faultLocation": "Exhaust gas recirculation (EGR) system/ evaporative emission (EVAP) canister purge system – valve malfunction",
+    "probableCause": "Wiring, EGRIEVAP valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1401",
+    "faultLocation": "Exhaust gas recirculation temperature (EGRT) sensor – circuit malfunction",
+    "probableCause": "Wiring, EGRT sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1402",
+    "faultLocation": "Exhaust gas recirculation (EGR) system – excessive flow",
+    "probableCause": "Wiring, EGR/EVAP valve, EGR valve, EGRT sensor, EGR back pressure transducer, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1421",
+    "faultLocation": "Cold start emission control – malfunction",
+    "probableCause": "Intake/exhaust leak/blockage, mechanical fault, idle speed control (ISC) system, ignition control, engine coolant temperature (ECT) sensor, H02S, ECM",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1421/"
+  },
+  {
+    "code": "P1440",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – leaking/malfunction",
+    "probableCause": "Wiring, fuel tank/cap, hose leak/ blockage, EVAP valve/canister, EVAP vent valve, BARO sensor, MAP/BARO switching valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1441",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – bypass vacuum valve malfunction",
+    "probableCause": "Wiring, EVAP bypass/cut valve, hose leak/blockage, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1442",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – small leak",
+    "probableCause": "Wiring, fuel tank/cap, hose leak/blockage, EVAP valve/canister, EVAP vent valve, BARO sensor, MAP/BARO switching valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1443",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system -vacuum check switch circuit malfunction",
+    "probableCause": "Wiring, EVAP vacuum check switch, hose leak/blockage, TP/ECT sensor, EVAP valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1444",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – control valve malfunction",
+    "probableCause": "Wiring, EVAP pressure sensor, hose leak/blockage, EVAP valve/canister, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1445",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – 1996-97 – volume control valve malfunction",
+    "probableCause": "Wiring, EVAP valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1446",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – vent control valve malfunction",
+    "probableCause": "Wiring, EVAP pressure sensor, hose leak/blockage, EVAP vent valve, EVAP canister contaminated, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1447",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – flow malfunction",
+    "probableCause": "Wiring, EVAP valve, hose leak/blockage, canister, BARO sensor, MAP/BARO switching valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1448",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – vent control valve malfunction",
+    "probableCause": "Wiring, EVAP vent valve, EVAP pressure sensor, hose leak/blockage, EVAP canister contaminated, EVAP vacuum cut valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1456",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – very small leak",
+    "probableCause": "Wiring, fuel tank/cap, hose leak/blockage, EVAP valve/canister, EVAP vent valve, BARO sensor, MAP/BARO switching valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1464",
+    "faultLocation": "Fuel tank level sensor- voltage high",
+    "probableCause": "Wiring, fuel tank level sensor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1480",
+    "faultLocation": "Engine coolant blower motor control – circuit malfunction",
+    "probableCause": "Wiring, blower motor speed control solenoid valve, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1490",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – bypass vacuum valve malfunction",
+    "probableCause": "Wiring, EVAP bypass/cut valve, hose leak/blockage, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1491",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – bypass vacuum valve malfunction",
+    "probableCause": "Wiring, EVAP vacuum cut/bypass valve, hose leak/blockage, EVAP pressure sensor/vent valve, EVAP canister contaminated, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1492",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – 1998 – control valve malfunction",
+    "probableCause": "Wiring, EVAP control valve, EVAP valve/ pressure sensor, hose leak/blockage, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1493",
+    "faultLocation": "Evaporative emission (EVAP) canister purge system – control valve malfunction",
+    "probableCause": "Wiring, EVAP valve, hose leak/blockage, EVAP pressure sensor/vent valve, EVAP canister contaminated, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1550",
+    "faultLocation": "Electrical load sensor – circuit malfunction",
+    "probableCause": "Wiring, electrical load sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1551",
+    "faultLocation": "Electrical load sensor, circuit low – circuit malfunction",
+    "probableCause": "Wiring, electrical load sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1552",
+    "faultLocation": "Electrical load sensor, circuit high – circuit malfunction",
+    "probableCause": "Wiring, electrical load sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1553",
+    "faultLocation": "Electrical load sensor – circuit malfunction",
+    "probableCause": "Wiring, electrical load sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1554",
+    "faultLocation": "Electrical load sensor – circuit malfunction",
+    "probableCause": "Wiring, electrical load sensor, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1564",
+    "faultLocation": "Cruise control master switch – malfunction",
+    "probableCause": "Wiring, cruise control master switch, ECM",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1564/"
+  },
+  {
+    "code": "P1572",
+    "faultLocation": "Cruise control brake switch – circuit malfunction",
+    "probableCause": "Wiring, cruise control brake switch, stop lamp switch, clutch pedal switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1574",
+    "faultLocation": "Cruise control vehicle speed sensor – signal variation between two vehicle speed sensors",
+    "probableCause": "Wiring, CAN data bus, vehicle speed sensor, instrument panel, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1605",
+    "faultLocation": "TCM diagnosis communication line – malfunction",
+    "probableCause": "Wiring, TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1610",
+    "faultLocation": "Ignition key/engine control module (ECM) – malfunction",
+    "probableCause": "Incorrect ignition key, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1611",
+    "faultLocation": "Immobilizer control module/engine control module (ECM) – coding",
+    "probableCause": "Immobilizer control module/ECM incorrectly coded",
+    "detailUrl": null
+  },
+  {
+    "code": "P1612",
+    "faultLocation": "Immobilizer control module/engine control module (ECM) communication – malfunction",
+    "probableCause": "Wiring, immobilizer control module, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1613",
+    "faultLocation": "Engine control module (ECM), immobilizer function – internal failure",
+    "probableCause": "ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1614",
+    "faultLocation": "Immobilizer control module/module coding plug communication – no signal",
+    "probableCause": "Wiring, immobilizer control module, module coding plug",
+    "detailUrl": null
+  },
+  {
+    "code": "P1615",
+    "faultLocation": "Ignition key/immobilizer control module communication – malfunction",
+    "probableCause": "Incorrect ignition key, immobilizer control module",
+    "detailUrl": null
+  },
+  {
+    "code": "P1700",
+    "faultLocation": "CVT shift control – malfunction",
+    "probableCause": "TCM trouble code(s) stored",
+    "detailUrl": null
+  },
+  {
+    "code": "P1701",
+    "faultLocation": "Transmission Control Module Power Supply",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1702",
+    "faultLocation": "Transmission Control Module RAM",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1703",
+    "faultLocation": "Transmission Control Module ROM",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1704",
+    "faultLocation": "Transmission Control Module",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1705",
+    "faultLocation": "AT – throttle position (TP) sensor- voltage high or low",
+    "probableCause": "Wiring, TP sensor, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1706",
+    "faultLocation": "Park/neutral position (PNP) switch – circuit malfunction",
+    "probableCause": "Wiring, PNP switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1710",
+    "faultLocation": "Automatic Transmission Fluid Temperature Sensor Circuit.",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1715",
+    "faultLocation": "Transmission input shaft speed (ISS) sensor – circuit malfunction",
+    "probableCause": "Wiring, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1716",
+    "faultLocation": "Automatic transmission turbine revolution sensor – circuit malfunction",
+    "probableCause": "Wiring, turbine sensor 1, turbine sensor 2, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1720",
+    "faultLocation": "Vehicle speed sensor (VSS) – signal variation",
+    "probableCause": "Wiring, mechanical fault, ABSfTCS control module, TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1721",
+    "faultLocation": "Vehicle Speed Sensor MTR",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1722",
+    "faultLocation": "Estimated Vehicle Speed Signal",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1726",
+    "faultLocation": "Electric Throttle Control System",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1730",
+    "faultLocation": "Automatic transmission fail safe function – circuit malfunction",
+    "probableCause": "Wiring, transmission clutches, transmission solenoid valves, transmission pressure switches",
+    "detailUrl": null
+  },
+  {
+    "code": "P1731",
+    "faultLocation": "A/T 1st Engine Brake",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1740",
+    "faultLocation": "CVT lock-up select solenoid valve – malfunction",
+    "probableCause": "Wiring, lock-up select solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1752",
+    "faultLocation": "Automatic transmission input clutch – solenoid valve malfunction",
+    "probableCause": "Wiring, input clutch solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1754",
+    "faultLocation": "Automatic transmission input clutch – solenoid valve malfunction",
+    "probableCause": "Wiring, input clutch solenoid valve, · transmission pressure switch 3",
+    "detailUrl": null
+  },
+  {
+    "code": "P1757",
+    "faultLocation": "Automatic transmission front brake – solenoid valve malfunction",
+    "probableCause": "Wiring, front brake solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1759",
+    "faultLocation": "Automatic transmission front brake – solenoid valve malfunction",
+    "probableCause": "Wiring, front brake solenoid valve, transmission pressure switch 1",
+    "detailUrl": null
+  },
+  {
+    "code": "P1760",
+    "faultLocation": "AT – overrun clutch solenoid – voltage low",
+    "probableCause": "Wiring, overrun clutch solenoid, TCM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1762",
+    "faultLocation": "Automatic transmission direct clutch – solenoid valve malfunction",
+    "probableCause": "Wiring, direct clutch solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1764",
+    "faultLocation": "Automatic transmission direct clutch – solenoid valve malfunction",
+    "probableCause": "Wiring, direct clutch solenoid valve, transmission pressure switch 5",
+    "detailUrl": null
+  },
+  {
+    "code": "P1767",
+    "faultLocation": "Automatic transmission high/low reverse – solenoid valve malfunction",
+    "probableCause": "Wiring, high/low reverse solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1769",
+    "faultLocation": "Automatic transmission high/low reverse – solenoid valve malfunction",
+    "probableCause": "Wiring, high/low reverse solenoid valve, transmission pressure switch 6",
+    "detailUrl": null
+  },
+  {
+    "code": "P1772",
+    "faultLocation": "Automatic transmission low coast brake – solenoid valve malfunction",
+    "probableCause": "Wiring, low coast brake solenoid valve",
+    "detailUrl": null
+  },
+  {
+    "code": "P1774",
+    "faultLocation": "Automatic transmission low coast brake – solenoid valve malfunction",
+    "probableCause": "Wiring, low coast brake solenoid valve, transmission pressure switch 2",
+    "detailUrl": null
+  },
+  {
+    "code": "P1775",
+    "faultLocation": "Torque converter clutch solenoid – 1998 – voltage low",
+    "probableCause": "Wiring, clutch solenoid, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1776",
+    "faultLocation": "Torque converter clutch solenoid – converter slip during lock condition",
+    "probableCause": "Wiring, clutch solenoid, torque converter, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1777",
+    "faultLocation": "CVT step motor – circuit malfunction",
+    "probableCause": "Wiring, step motor",
+    "detailUrl": null
+  },
+  {
+    "code": "P1778",
+    "faultLocation": "CVT step motor – mechanical malfunction",
+    "probableCause": "Step motor",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1778/"
+  },
+  {
+    "code": "P1780",
+    "faultLocation": "Automatic transmission shift change – signal malfunction",
+    "probableCause": "Wiring, TCM, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1800",
+    "faultLocation": "Intake manifold air control solenoid – malfunction",
+    "probableCause": "VIAS solenoid, Vacuum leaks, blocked hoses, Seized power valve actuator",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/p1800/"
+  },
+  {
+    "code": "P1801",
+    "faultLocation": "Variable Intake Air System Control Solenoid Valve 2",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1805",
+    "faultLocation": "Brake pedal position (BPP) switch – circuit malfunction",
+    "probableCause": "Wiring, BPP switch, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "P1807",
+    "faultLocation": "Vehicle Speed Sensor A/T",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1808",
+    "faultLocation": "Vehicle Speed Sensor ABS",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1810",
+    "faultLocation": "4 LO Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1813",
+    "faultLocation": "4WD Shift Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1814",
+    "faultLocation": "Wait Detection Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1815",
+    "faultLocation": "Manual Mode Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1816",
+    "faultLocation": "Park/Neutral Position Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1817",
+    "faultLocation": "Actuator Motor",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1818",
+    "faultLocation": "Actuator Position Switch",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1819",
+    "faultLocation": "Transfer Control Device",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1820",
+    "faultLocation": "Engine Speed Signal",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1841",
+    "faultLocation": "Automatic Transmission Fluid Pressure Switch 1",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1843",
+    "faultLocation": "Automatic Transmission Fluid Pressure Switch 3",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1845",
+    "faultLocation": "Automatic Transmission Fluid Pressure Switch 5",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1846",
+    "faultLocation": "Automatic Transmission Fluid Pressure Switch 6",
+    "probableCause": "",
+    "detailUrl": null
+  },
+  {
+    "code": "P1900",
+    "faultLocation": "Engine coolant blower motor – circuit malfunction",
+    "probableCause": "Wiring, coolant blower motor, cooling system, ECM",
+    "detailUrl": null
+  },
+  {
+    "code": "U1000",
+    "faultLocation": "CAN communication line – signal malfunction",
+    "probableCause": "Wiring",
+    "detailUrl": "https://www.troublecodes.net/nissancodes/u1000/"
+  },
+  {
+    "code": "U1001",
+    "faultLocation": "CAN communication line – signal malfunction",
+    "probableCause": "Wiring",
+    "detailUrl": null
+  },
+  {
+    "code": "U1010",
+    "faultLocation": "CAN communication line – initialization malfunction",
+    "probableCause": "ECM",
+    "detailUrl": null
+  }
+]

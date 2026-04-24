@@ -1,0 +1,14 @@
+{
+  "name": "Dodge",
+  "slug": "dodge",
+  "totalCodes": 423,
+  "totalSubmodels": 25,
+  "totalDetails": 0,
+  "totalProcedures": 25,
+  "codeTypes": {
+    "P": 409,
+    "B": 0,
+    "C": 0,
+    "U": 14
+  }
+}

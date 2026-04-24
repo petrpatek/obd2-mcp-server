@@ -1,0 +1,153 @@
+[
+  {
+    "title": "BMW >> 1, 3, 5 Series, X3, X5, Z4 3.0L (2007 – 2008)",
+    "url": "https://www.troublecodes.net/bmw/1-3-5-series-x3-x5-z4-3-0l-2007-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BMW >> 3 Series 2.5/3.0L – 5 Series 2.5/3.0/4.4/4.8/M5 5.0L – 7 Series 4.4/4.8L – X5 3.0/4.4/4.6/4.8L (2000 – 2006)",
+    "url": "https://www.troublecodes.net/bmw/3-series-2-53-0l-5-series-2-53-04-44-8m5-5-0l-7-series-4-44-8l-x5-3-04-44-64-8l-2000-2006/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BMW >> 3 Series, 5 Series 3.0L, 5 Series M5 5.0L, 6 Series M6 5.0L, 7 Series 6.0L, Z4 3.0L (2003 – 2008)",
+    "url": "https://www.troublecodes.net/bmw/3-series-5-series-3-0l-5-series-m5-5-0l-6-series-m6-5-0l-7-series-6-0l-z4-3-0l-2003-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BMW >> 5 Series, 6 Series, 7 Series, X5 4.8L (2007 – 2008)",
+    "url": "https://www.troublecodes.net/bmw/5-series-6-series-7-series-x5-4-8l-2007-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BMW >> 6 Series 4.4/4.8L – X3 2.5/3.0L – Z4 2.5/3.0L – Z8 5.0L (2000 – 2008)",
+    "url": "https://www.troublecodes.net/bmw/6-series-4-44-8l-x3-2-53-0l-z4-2-53-0l-z8-5-0l-2000-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BMW >> 3 Series/Compact (E36) (E46) – 5 Series (E39) – 7 Series (E38) – 8 Series (E31) – X5 4.4L (E53) – Z3 (1992 – 2002)",
+    "url": "https://www.troublecodes.net/bmw/3-seriescompact-e36-e46-5-series-e39-7-series-e38-8-series-e31-x5-4-4l-e53-z3-1992-2002/",
+    "procedures": [
+      {
+        "heading": "Accessing and erasing – Siemens MS40/41",
+        "type": "accessing",
+        "steps": [
+          "The engine control module (ECM) fault memory can only be accessed and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Accessing and erasing – Siemens MS40/41",
+        "type": "accessing",
+        "steps": [
+          "The engine control module (ECM) fault memory can only be accessed and erased using diagnostic equipment connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  }
+]

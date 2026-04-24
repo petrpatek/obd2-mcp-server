@@ -1,0 +1,40 @@
+{
+    "title": "DTC Scraper Input",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "brands": {
+            "title": "Brands to scrape",
+            "type": "array",
+            "description": "List of brand slugs to scrape (e.g. ['ford', 'toyota']). Leave empty to scrape all brands.",
+            "editor": "stringList",
+            "default": []
+        },
+        "scrapeDetails": {
+            "title": "Scrape individual code detail pages",
+            "type": "boolean",
+            "description": "Whether to crawl individual code pages for full descriptions. This significantly increases the number of requests.",
+            "default": false
+        },
+        "scrapeGenericCodes": {
+            "title": "Scrape generic OBD-II codes",
+            "type": "boolean",
+            "description": "Whether to scrape the generic P/B/C/U code tables",
+            "default": true
+        },
+        "scrapeSubmodels": {
+            "title": "Scrape submodel/vehicle pages",
+            "type": "boolean",
+            "description": "Whether to scrape the brand submodel pages with year/engine info",
+            "default": true
+        },
+        "maxConcurrency": {
+            "title": "Max concurrency",
+            "type": "integer",
+            "description": "Maximum number of concurrent requests",
+            "default": 5,
+            "minimum": 1,
+            "maximum": 20
+        }
+    }
+}

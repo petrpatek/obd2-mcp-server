@@ -1,0 +1,2 @@
+[console_scripts]
+obd2-mcp = obd2_mcp.server:main

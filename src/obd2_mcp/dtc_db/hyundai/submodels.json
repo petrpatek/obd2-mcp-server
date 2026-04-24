@@ -1,0 +1,704 @@
+[
+  {
+    "title": "Hyundai OBD/OBD2 Codes >> Accent 1.5/1.6L – Elantra 1.8/2.0L – Santa Fe 2.4/2.7/3.5L – Sonata 2.0/3.0/2.4/2.5/2.7L – Tiburon 1.8/2.0/2.7L – XG300 3.0/3.5L (1996 – 2008)",
+    "url": "https://www.troublecodes.net/hyundai/accent-1-51-6l-elantra-1-82-0l-santa-fe-2-42-73-5l-sonata-2-03-02-42-52-7l-tiburon-1-82-02-7l-xg300-3-03-5l-1996-2008/",
+    "vehicles": [
+      {
+        "model": "Accent 1.5L",
+        "year": "1996-02",
+        "engine": "G4GK/G4EK/G4EB",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "Accent 1.6L",
+        "year": "2001-05",
+        "engine": "G4ED",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "Elantra 1.8/2.0L",
+        "year": "1996-08",
+        "engine": "G4DM/G4GM/G4GF/G4GC",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "Santa Fe 2.4/2.7/3.5L",
+        "year": "2001-06",
+        "engine": "G4JS/G6BA/G6CU",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "Sonata 2.0/3.0L",
+        "year": "1996-98",
+        "engine": "G4AP/G6AT",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "Sonata 2.4/2.5/2.7L",
+        "year": "1999-05",
+        "engine": "G4JS/G6BV/G6BA",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "Tiburon 1.8/2.0/2.7L",
+        "year": "1997-08",
+        "engine": "G4GM/G4GF/G4GC/G6BA",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "XG300 3.0L",
+        "year": "2000-01",
+        "engine": "G6CT",
+        "system": "MFI (ECFI)"
+      },
+      {
+        "model": "XG350 3.5L",
+        "year": "2002-04",
+        "engine": "G6CU",
+        "system": "MFI (ECFI)"
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "P1618",
+        "faultLocation": "Intake air leak, electronic throttle system (ETS), exhaust blockage, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1100",
+        "faultLocation": "Wiring, MAP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1102",
+        "faultLocation": "Wiring, hoses blocked/leaking, EGR valve, MAP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1103",
+        "faultLocation": "Wiring, hoses blocked/leaking, EGR valve, MAP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1106",
+        "faultLocation": "Wiring, poor connection, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1107",
+        "faultLocation": "Wiring, poor connection, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1110",
+        "faultLocation": "Wiring, ETS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring, poor connection, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1112",
+        "faultLocation": "Wiring, poor connection, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1114",
+        "faultLocation": "Wiring, ECT sensor, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring, ECT sensor, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1118",
+        "faultLocation": "Wiring open/short circuit, throttle motor, ETS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1123",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1124",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1127",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1128",
+        "faultLocation": "H02S, fuel pressure, fuel system, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1134",
+        "faultLocation": "Heating inoperative, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1140",
+        "faultLocation": "Wiring, MAF sensor, TP sensor, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1147",
+        "faultLocation": "Wiring, APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1152",
+        "faultLocation": "Wiring short to ground, APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1153",
+        "faultLocation": "Wiring short to positive, APP sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1154",
+        "faultLocation": "Heating inoperative, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1155",
+        "faultLocation": "Wiring, ETS limp-home valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1159",
+        "faultLocation": "Unable to get target value",
+        "probableCause": ""
+      },
+      {
+        "code": "P1166",
+        "faultLocation": "Wiring open circuit, fuel pressure, exhaust system leak, EVAP system, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1167",
+        "faultLocation": "Wiring open circuit, fuel pressure, exhaust system leak, EVAP system, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1168",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1169",
+        "faultLocation": "Wiring, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1171",
+        "faultLocation": "ETS stuck open, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1172",
+        "faultLocation": "Wiring, throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1173",
+        "faultLocation": "Wiring, throttle motor, alternator",
+        "probableCause": ""
+      },
+      {
+        "code": "P1174",
+        "faultLocation": "ETS stuck, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1175",
+        "faultLocation": "ETS stuck, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1176",
+        "faultLocation": "Wiring open/short circuit, throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1177",
+        "faultLocation": "Wiring open/short circuit, throttle motor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1178",
+        "faultLocation": "Wiring, ETS relay, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1184",
+        "faultLocation": "Wiring open circuit, heating inoperative, H02S",
+        "probableCause": ""
+      },
+      {
+        "code": "P1191",
+        "faultLocation": "–",
+        "probableCause": ""
+      },
+      {
+        "code": "P1192",
+        "faultLocation": "Target following malfunction",
+        "probableCause": ""
+      },
+      {
+        "code": "P1193",
+        "faultLocation": "Low RPM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1194",
+        "faultLocation": "TP sensor 2 malfunction",
+        "probableCause": ""
+      },
+      {
+        "code": "P1195",
+        "faultLocation": "Target following delay",
+        "probableCause": ""
+      },
+      {
+        "code": "P1196",
+        "faultLocation": "Close throttle stuck",
+        "probableCause": ""
+      },
+      {
+        "code": "P1295",
+        "faultLocation": "Wiring, TP sensor, MAF sensor, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1307",
+        "faultLocation": "Wiring, rough road sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1308",
+        "faultLocation": "Wiring, rough road sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1309",
+        "faultLocation": "Wiring, rough road sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1330",
+        "faultLocation": "Wiring between ROM change tool and ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1372",
+        "faultLocation": "Wiring, wheel speed sensor, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1400",
+        "faultLocation": "Wiring, EGR solenoid, EGR valve, mechanical fault, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1401",
+        "faultLocation": "Fuel tank leakage diagnostic module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1402",
+        "faultLocation": "Fuel tank leakage diagnostic module motor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1403",
+        "faultLocation": "Fuel tank leakage diagnostic module valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1404",
+        "faultLocation": "Fuel tank leakage diagnostic module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1440",
+        "faultLocation": "Wiring, EVAP canister purge valve, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1502",
+        "faultLocation": "Wiring, wheel speed sensor",
+        "probableCause": ""
+      },
+      {
+        "code": "P1503",
+        "faultLocation": "Wiring, cruise control switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1504",
+        "faultLocation": "Wiring, cruise control switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1505",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1506",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1507",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1508",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1510",
+        "faultLocation": "Wiring, lAC valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1511",
+        "faultLocation": "Wiring, lAC valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1513",
+        "faultLocation": "Wiring, lAC valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1515",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1516",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1520",
+        "faultLocation": "Wiring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1521",
+        "faultLocation": "Wiring, PSP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1523",
+        "faultLocation": "Wiring, air control solenoid, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1529",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1550",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1552",
+        "faultLocation": "Wiring, lAC valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1553",
+        "faultLocation": "Wiring, lAC valve, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1560",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1586",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1602",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1605",
+        "faultLocation": "Wiring, G-force sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1606",
+        "faultLocation": "Wiring, G-force sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1607",
+        "faultLocation": "ECM, ETS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1608",
+        "faultLocation": "ETS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1609",
+        "faultLocation": "Wiring, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1611",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1615",
+        "faultLocation": "Wiring, ETS to ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1616",
+        "faultLocation": "Wiring, fuse, engine control relay",
+        "probableCause": ""
+      },
+      {
+        "code": "P1623",
+        "faultLocation": "Wiring, MIL",
+        "probableCause": ""
+      },
+      {
+        "code": "P1625",
+        "faultLocation": "Wiring, engine coolant blower motor relay",
+        "probableCause": ""
+      },
+      {
+        "code": "P1642",
+        "faultLocation": "ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1665",
+        "faultLocation": "Wiring, ignition control module (ICM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1670",
+        "faultLocation": "Wiring, ignition control module (ICM)",
+        "probableCause": ""
+      },
+      {
+        "code": "P1690",
+        "faultLocation": "Wiring, immobilizer control module, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1691",
+        "faultLocation": "Wiring, antenna, immobilizer control module",
+        "probableCause": ""
+      },
+      {
+        "code": "P1694",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1695",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1696",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1707",
+        "faultLocation": "Wiring, BPP switch",
+        "probableCause": ""
+      },
+      {
+        "code": "P1715",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1750",
+        "faultLocation": "Wiring, mechanical fault",
+        "probableCause": ""
+      },
+      {
+        "code": "P1765",
+        "faultLocation": "Wiring, TCM, ECM",
+        "probableCause": ""
+      }
+    ]
+  },
+  {
+    "title": "Hyundai OBD/OBD2 Codes >> Accent 1.6L – Azera 3.3/3.8L – Entourage 3.8L – Genesis 3.3/3.8/4.6L – Santa Fe 2.7/3.3L – Tucson 2.0/2.7L – Veracruz 3.8L (2005 – 2009)",
+    "url": "https://www.troublecodes.net/hyundai/accent-1-6l-azera-3-33-8l-entourage-3-8l-genesis-3-33-84-6l-santa-fe-2-73-3l-tucson-2-02-7l-veracruz-3-8l-2005-2009/",
+    "vehicles": [
+      {
+        "model": "Accent 1.6L",
+        "year": "2006-09",
+        "engine": "G4ED",
+        "system": "MFI (ECFI)MFI (ETS)"
+      },
+      {
+        "model": "Azera 3.3/3.8L",
+        "year": "2006-09",
+        "engine": "G6DB/G6DA",
+        "system": ""
+      },
+      {
+        "model": "Entourage 3.8L",
+        "year": "2007-09",
+        "engine": "G6DA",
+        "system": ""
+      },
+      {
+        "model": "Santa Fe 2.7/3.3L",
+        "year": "2007-09",
+        "engine": "G6DB/G6EA",
+        "system": ""
+      },
+      {
+        "model": "Sonata 2.4/3.3L",
+        "year": "2006-09",
+        "engine": "G4KC/G6DB",
+        "system": ""
+      },
+      {
+        "model": "Tucson 2.0/2.7L",
+        "year": "2005-09",
+        "engine": "G4GC/G6BA",
+        "system": ""
+      },
+      {
+        "model": "Veracruz 3.8L",
+        "year": "2007-09",
+        "engine": "G6DA",
+        "system": ""
+      }
+    ],
+    "dtcCodes": [
+      {
+        "code": "MIL2009",
+        "faultLocation": "G6DB/G6DA/G8BA",
+        "probableCause": ""
+      },
+      {
+        "code": "P1106",
+        "faultLocation": "Wiring, poor connection, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1107",
+        "faultLocation": "Wiring, poor connection, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1110",
+        "faultLocation": "Wiring, ETS",
+        "probableCause": ""
+      },
+      {
+        "code": "P1111",
+        "faultLocation": "Wiring, poor connection, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1112",
+        "faultLocation": "Wiring, poor connection, IAT sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1114",
+        "faultLocation": "Wiring, ECT sensor, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1115",
+        "faultLocation": "Wiring, ECT sensor, TCM, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1295",
+        "faultLocation": "Wiring, TP sensor, MAF sensor, MAP sensor, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1501",
+        "faultLocation": "Wiring, battery sensor, battery temperature too high",
+        "probableCause": ""
+      },
+      {
+        "code": "P1502",
+        "faultLocation": "Wiring, battery sensor, charging system, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1505",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1506",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1507",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1508",
+        "faultLocation": "Wiring, lAC valve",
+        "probableCause": ""
+      },
+      {
+        "code": "P1523",
+        "faultLocation": "Throttle body dirty/damaged, throttle binding, throttle return spring",
+        "probableCause": ""
+      },
+      {
+        "code": "P1550",
+        "faultLocation": "Wiring, KS, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P1560",
+        "faultLocation": "Wiring, ECM",
+        "probableCause": ""
+      },
+      {
+        "code": "P161B",
+        "faultLocation": "Intake air leak, electronic throttle system (ETS), exhaust blockage, ECM",
+        "probableCause": ""
+      }
+    ]
+  }
+]

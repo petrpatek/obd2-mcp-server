@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Subaru OBD / OBD2 Codes >> B9 Tribeca 3.0/3.5L – Baja – Forester – Impreza – Legacy/Outback (1995 – 2008)",
+    "url": "https://www.troublecodes.net/subaru/b9-tribeca-3-03-5l-baja-forester-impreza-legacyoutback-1995-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC):"
+        ]
+      },
+      {
+        "heading": "Erasing – models ->2002",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Ensure ignition switched OFF.",
+          "Disconnect battery ground cable for 30 seconds minimum.",
+          "Reconnect battery ground cable."
+        ]
+      },
+      {
+        "heading": "Erasing – models 2003->",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Subaru OBD / OBD2 Codes >> Legacy 2.2L/Turbo (1990 – 1994)",
+    "url": "https://www.troublecodes.net/subaru/legacy-2-2lturbo-1990-1994/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be accessed with suitable code reader connected to the data link connectors (DLC) 1 and 2 , under left hand fascia.",
+          "Trouble codes can be displayed by the MIL using the engine diagnostic links."
+        ]
+      },
+      {
+        "heading": "Accessing – Read memory mode",
+        "type": "accessing",
+        "steps": [
+          "Access engine diagnostic link connectors [3].",
+          "Ensure ignition switched OFF.",
+          "Connect together engine diagnostic link connectors (black) [4] [2].",
+          "Switch ignition ON. Do NOT start engine.",
+          "MIL should be flashing.",
+          "Count MIL flashes and compare with trouble code table.",
+          "Disconnect engine diagnostic link connectors (black) [4] [2].",
+          "Carry out self-diagnosis – D-Check mode."
+        ]
+      },
+      {
+        "heading": "Accessing – D-Check mode",
+        "type": "accessing",
+        "steps": [
+          "Carry out self-diagnosis- Read memory mode.",
+          "Start engine.",
+          "Ensure engine is at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Connect together engine diagnostic link connectors (green) [4] [1].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "If not: Check wiring, fuses, relay, ECM and MIL.",
+          "Fully depress accelerator pedal, then release to one half throttle position.",
+          "Wait two seconds.",
+          "Fully release accelerator pedal.",
+          "Start engine.",
+          "Drive vehicle at 7 mph minimum and shift up to 4th gear (MT).",
+          "Increase engine speed to over 2000 rpm.",
+          "MIL should be flashing.",
+          "Count MIL flashes and compare with trouble code table.",
+          "If MIL extinguishes: No trouble codes are recorded.",
+          "Switch ignition OFF.",
+          "Disconnect engine diagnostic link connectors (green) [4] [1]."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Start engine.",
+          "Ensure engine is at normal operating temperature.",
+          "Switch ignition OFF.",
+          "Connect together engine diagnostic link connectors (green) [4] [1].",
+          "Connect together engine diagnostic link connectors (black) [4] [2].",
+          "Switch ignition ON. Do NOT start engine.",
+          "Check MIL illuminates.",
+          "Fully depress accelerator pedal, then release to one half throttle position.",
+          "Wait two seconds.",
+          "Fully release accelerator pedal.",
+          "Start engine.",
+          "Drive vehicle at 7 mph minimum for at least1 minute and shift up to 4th gear (MT).",
+          "Increase engine speed to over 2000 rpm.",
+          "Check that MIL flashes.",
+          "Switch ignition OFF.",
+          "Disconnect engine diagnostic link connectors (green) [4] [1].",
+          "Disconnect engine diagnostic link connectors (black) [4] [2]."
+        ]
+      }
+    ]
+  }
+]

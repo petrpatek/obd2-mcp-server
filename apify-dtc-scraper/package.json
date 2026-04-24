@@ -1,0 +1,19 @@
+{
+    "name": "dtc-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Scrapes DTC (Diagnostic Trouble Codes) from troublecodes.net for all car brands.",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {
+        "apify": "^3.1.0",
+        "crawlee": "^3.5.0",
+        "cheerio": "^1.0.0-rc.12"
+    },
+    "scripts": {
+        "start": "node src/main.js",
+        "build-db": "node src/build-db.js",
+        "test": "node src/test.js"
+    }
+}

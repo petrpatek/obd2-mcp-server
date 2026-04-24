@@ -1,0 +1,770 @@
+[
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 95 & Earlier OBD1",
+    "url": "https://www.troublecodes.net/honda/hondadtc",
+    "procedures": [
+      {
+        "heading": "Diagnostic Trouble Code Identification",
+        "type": "test",
+        "steps": [
+          "LED, MIL & Check Engine Lamp Flash",
+          "Engine Control Module",
+          "HO2S Or O2S",
+          "HO2S Or O2S{2}",
+          "MAP Sensor",
+          "CKP Sensor{2}",
+          "MAP Sensor",
+          "ECT Sensor",
+          "TP Sensor{2}",
+          "TDC{2}",
+          "No. 1 Cylinder Position Sensor",
+          "IAT Sensor",
+          "EGR System",
+          "BARO Sensor",
+          "IAC Valve{2}",
+          "Ignition Output Signal",
+          "Fuel Injector System",
+          "VSS",
+          "Lock-Up Solenoid Valve",
+          "Electric Load Detector",
+          "VTEC Solenoid Valve",
+          "VTEC Pressure Switch",
+          "KS",
+          "A/T FI Signal A",
+          "A/T FI Signal B",
+          "HO2S Heater",
+          "Fuel Supply System",
+          "HO2S{3}"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 84-85 Accord & 87 Civic",
+    "url": "https://www.troublecodes.net/honda/honda-84-85-accord-87-civic",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by four LED’s in engine control module (ECM) 1",
+          "LED’s are numbered 8-4-2-1, left to right"
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Access engine control module (ECM):",
+          "Civic 2",
+          "Accord 3",
+          "Switch ignition ON",
+          "Check MIL illuminates",
+          "Check LED’s in ECM are flashing",
+          "Count LED flashes and compare with trouble code table below",
+          "If malfunction indicator lamp (MIL) is ON constantly and no trouble codes are displayed (LED not flashing), this indicates an engine control module (ECM) fault",
+          "Switch ignition OFF"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Civic – Remove fuse No. 10 (10A) from LH fascia fusebox for 10 seconds minimum",
+          "Accord – Disconnect battery ground cable for 10 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 86-89 Accord 2.0L & 87-91 Civic/CRX & 85-91 Prelude 2.0L",
+    "url": "https://www.troublecodes.net/honda/honda-86-89-accord-2-0l-87-91-civiccrx-85-91-prelude-2-0l",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by LED in engine control module (ECM)"
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Access engine control module (ECM):Civic/CRX and Prelude (B20A5) Image 1Accord Image 2Prelude (BT/A20A3) Image 3",
+          "Civic/CRX and Prelude (B20A5) Image 1",
+          "Accord Image 2",
+          "Prelude (BT/A20A3) Image 3",
+          "Switch ignition ON.",
+          "Check ECM LED is flashing.",
+          "Multiple codes are separated by a 2 second pause",
+          "Switch ignition OFF"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Ensure ignition switched OFF",
+          "Prelude 2.0L (BT) – disconnect battery ground cable for 10 seconds minimum",
+          "Civic/CRX – remove fuse No.34 (10A) from underhood fusebox for 10 seconds minimum",
+          "Accord (2.0L) – remove fuse No.11 (10A) from underhood fusebox for 10 seconds minimum",
+          "Prelude 2.0L (A20A3) – remove fuse No.10 (10A) from underhood fusebox for 10 seconds minimum",
+          "Prelude 2.0L (B20A5) – remove fuse No..35 (10A) from underhood fusebox for 10 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 90-93 Accord 2.2L",
+    "url": "https://www.troublecodes.net/honda/honda-90-93-accord-2-2l",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes can be displayed by LED in engine control module (ECM) – 1990 or malfunction indicator lamp (MIL) – 1991-93."
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Jump service check connector terminals Image 1",
+          "1990 – access engine control module (ECM) Image 2",
+          "Switch ignition ON.",
+          "Check ECM LED is flashing.",
+          "Trouble codes 1-9 are indicated as follows:Individual short flashes display trouble codeA short pause separates each flashA long pause separates each trouble code",
+          "Individual short flashes display trouble code",
+          "A short pause separates each flash",
+          "A long pause separates each trouble code",
+          "Trouble codes greater than 9 are indicated as follows:Long flashes indicate the ‘tens’ of the trouble codeShort flashes indicate the ‘units’ of the trouble codeA short pause separates each flashA long pause separates each trouble code",
+          "Long flashes indicate the ‘tens’ of the trouble code",
+          "Short flashes indicate the ‘units’ of the trouble code",
+          "A short pause separates each flash",
+          "A long pause separates each trouble code",
+          "Switch ignition OFF"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Ensure ignition switched OFF",
+          "Remove fuse No.24 (7.5A) from underhood fusebox for 10 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 94-95 Accord 2.2L & 94-95 Civic del Sol & 95 Odyssey 2.2L",
+    "url": "https://www.troublecodes.net/honda/honda-94-95-accord-2-2l-94-95-civic-del-sol-95-odyssey-2-2l",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes can be displayed by the malfunction indicator lamp (MIL) with the service check connector jumped."
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Jump service check connector terminals Image 1",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:Individual short flashes display trouble codeA short pause separates each flashA long pause separates each trouble code",
+          "Individual short flashes display trouble code",
+          "A short pause separates each flash",
+          "A long pause separates each trouble code",
+          "Trouble codes greater than 9 are indicated as follows:Long flashes indicate the ‘tens’ of the trouble codeShort flashes indicate the ‘units’ of the trouble codeA short pause separates each flashA long pause separates each trouble code",
+          "Long flashes indicate the ‘tens’ of the trouble code",
+          "Short flashes indicate the ‘units’ of the trouble code",
+          "A short pause separates each flash",
+          "A long pause separates each trouble code",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Ensure ignition switched OFF",
+          "Civic del Sol – remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum",
+          "Accord/Odyssey – remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 94-95 Passport 3.2L",
+    "url": "https://www.troublecodes.net/honda/honda-94-95-passport-3-2l",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes can be displayed by the malfunction indicator lamp (MIL) with the data link connector (DLC) terminals jumped Image 1",
+          "Honda Passport uses a different trouble code system than other Hondas"
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Jump data link connector (DLC) terminals 1 and 3 Image 1",
+          "Switch ignition ON. Do NOT start engine",
+          "MIL should flash",
+          "Trouble code 12 will be displayed three times",
+          "Each trouble code will be displayed three times",
+          "If no trouble codes are stored, code 12 will continue to be displayed",
+          "Count MIL flashes and compare with trouble code tableShort flashes indicate the ‘tens’ and ‘units’ of the trouble code Image 2A 0.4 second pause separates each flash. A 1.2 second pause separates the ‘tens’ and ‘units’. A 3.2 second pause separates each trouble code.For example: Trouble code 23 displayed Image 2",
+          "Short flashes indicate the ‘tens’ and ‘units’ of the trouble code Image 2",
+          "A 0.4 second pause separates each flash. A 1.2 second pause separates the ‘tens’ and ‘units’. A 3.2 second pause separates each trouble code.",
+          "For example: Trouble code 23 displayed Image 2",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Ensure ignition switched OFF",
+          "Disconnect battery ground cable for 30 seconds.",
+          "Reconnect battery ground cable",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Accord 2.3/2.4/3.0L – Civic 1.7/2.0L – CR-V 2.4L – Odyssey 3.5L – S2000 2.2/2.2L (1998 – 2008)",
+    "url": "https://www.troublecodes.net/honda/accord-2-32-43-0l-civic-1-72-0l-cr-v-2-4l-odyssey-3-5l-s2000-2-22-2l-1998-2008/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Refer to the front of this manual for general test conditions, terminology, detailed descriptions of wiring faults and a general trouble shooter for electrical and mechanical faults.",
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) Accord [1] , CR-V/Odyssey [2] , S2000 2000-04 [3] Civic/S2000 2005- [4] or by the malfunction indicator lamp (MIL) with the data link connector (DLC) terminals jumped [5]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump data link connector (DLC) terminals 4 and 9 [5].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing – except Accord 2003 ->",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Accord: Remove clock fuse (7.5A) from fascia fusebox for 10 seconds minimum [8]",
+          "Civic/CR-V: Remove ECM fuse (15A) from underhood fusebox for 10 seconds minimum [9]",
+          "Odyssey: Remove Clock/Back Up fuse (7.5A) from fascia fusebox for 10 seconds minimum: 1999 – [1o] or 2000-04 – [11]",
+          "S2000: Remove Back Up fuse (7.5A) from fascia fusebox for 60 seconds minimum [12] .",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      },
+      {
+        "heading": "Erasing – Accord 2003 ->",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) [1]."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Accord 2.2/2.7L – Odyssey 2.2/2.3L (1995 – 1998)",
+    "url": "https://www.troublecodes.net/honda/accord-2-22-7l-odyssey-2-22-3l-1995-1998/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1] or by the malfunction indicator lamp (MIL) with the service check connector jumped 1 [2]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals 1 [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum [4]",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Accord 2.4/3.0L – Civic 1.8/2.0L (2005 – 2009)",
+    "url": "https://www.troublecodes.net/honda/accord-2-43-0l-civic-1-82-0l-2005-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Accord Hybrid 3.0L – Civic Hybrid 1.3L – Insight 1.0L (2000 – 2009)",
+    "url": "https://www.troublecodes.net/honda/accord-hybrid-3-0l-civic-hybrid-1-3l-insight-1-0l-2000-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> CR-V 2.0L (1997 – 2001)",
+    "url": "https://www.troublecodes.net/honda/cr-v-2-0l-1997-2001/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) [1] [1] or by the malfunction indicator lamp (MIL) with the service check connector jumped [1] [2]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals [1] [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) or as follows:",
+          "Switch ignition OFF.",
+          "Remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Civic/del Sol 1.6L SOHC (1996 – 2000)",
+    "url": "https://www.troublecodes.net/honda/civicdel-sol-1-6l-sohc-1996-2000/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1] or by the malfunction indicator lamp (MIL) with the service check connector jumped [1] [2]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals 1 [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) [1] (1) or as follows:",
+          "Switch ignition OFF.",
+          "Civic: Remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum [4].",
+          "Civic del Sol: Remove radio fuse (7.5A) from underhood fusebox for 10 seconds minimum [5].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Passport 3.2L (1996 – 2002)",
+    "url": "https://www.troublecodes.net/honda/passport-3-2l-1996-2002/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 under the LH fascia."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) 1 or as follows:",
+          "Switch ignition OFF.",
+          "Disconnect battery ground cable for 30 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Prelude 2.2/2.3L (1996 – 2002)",
+    "url": "https://www.troublecodes.net/honda/prelude-2-22-3l-1996-2002/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop.",
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 [1] or by the malfunction indicator lamp (MIL) with the service check connector jumped 1 [2]."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF.",
+          "Jump service check connector terminals [1] [2].",
+          "Switch ignition ON.",
+          "Check MIL is flashing.",
+          "Trouble codes 1-9 are indicated as follows:",
+          "Trouble codes greater than 9 are indicated as follows:",
+          "Count MIL flashes and compare with trouble code table.",
+          "Switch ignition OFF.",
+          "Remove jump lead."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the 3 3 trouble codes as follows:",
+          "Switch ignition OFF.",
+          "Remove clock/radio fuse No.43 (10A) from underhood fusebox for 10 seconds minimum [4].",
+          "Reinstall fuse.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 92-95 Civic 1.5/1.6L & 92-95 Prelude 2.2/2.3L",
+    "url": "https://www.troublecodes.net/honda/honda-92-95-civic-1-51-6l-92-95-prelude-2-22-3l",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by the malfunction indicator lamp (MIL)",
+          "Engine control module (ECM) incorporates self-diagnosis function"
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Join together the service check connector terminals Civic Image 1 [1] Prelude Image 1 [2]",
+          "Switch ignition ON.",
+          "MIL should flash",
+          "Trouble codes 1-9 are indicated as follows:Individual short flashes display trouble codeA short pause separates each flashA long pause separates each trouble code",
+          "Individual short flashes display trouble code",
+          "A short pause separates each flash",
+          "A long pause separates each trouble code",
+          "Trouble codes greater than 9 are indicated as follows:Long flashes indicate the ‘tens’ of the trouble codeShort flashes indicate the ‘units’ of the trouble codeA short pause separates each flashA long pause separates each trouble code",
+          "Long flashes indicate the ‘tens’ of the trouble code",
+          "Short flashes indicate the ‘units’ of the trouble code",
+          "A short pause separates each flash",
+          "A long pause separates each trouble code",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Disconnect the service check connector terminals"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Ensure ignition switched OFF",
+          "Civic – remove fuse No.32 (7.5A) from underhood fusebox for 10 seconds minimum",
+          "Prelude – remove fuse No.43 (10A) from underhood fusebox for 10 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Honda 94-95 Passport 2.6L",
+    "url": "https://www.troublecodes.net/honda/honda-94-95-passport-2-6l",
+    "procedures": [
+      {
+        "heading": "General Information",
+        "type": "general",
+        "steps": [
+          "Trouble codes are displayed by the malfunction indicator lamp (MIL) with the service check connector terminals joined together Image 1",
+          "Honda Passport uses a different trouble code system than other Hondas"
+        ]
+      },
+      {
+        "heading": "Accessing Trouble Codes",
+        "type": "accessing",
+        "steps": [
+          "Ensure ignition switched OFF",
+          "Join together the service check connector terminals Image 1 [2]",
+          "Switch ignition ON. Do NOT start engine",
+          "MIL should flash",
+          "Trouble code 12 will be displayed three times",
+          "Each trouble code will be displayed three times",
+          "If no trouble codes are stored, code 12 will continue to be displayed",
+          "Count MIL flashes and compare with trouble code tableShort flashes indicate the ‘tens’ and ‘units’ of the trouble codeA 0.4 second pause separates each flash. A 1.2 second pause separates the ‘tens’ and ‘units’. A 3.2 second pause separates each trouble code.",
+          "Short flashes indicate the ‘tens’ and ‘units’ of the trouble code",
+          "A 0.4 second pause separates each flash. A 1.2 second pause separates the ‘tens’ and ‘units’. A 3.2 second pause separates each trouble code.",
+          "Count MIL flashes and compare with trouble code table below",
+          "Switch ignition OFF",
+          "Disconnect the service check connector terminals"
+        ]
+      },
+      {
+        "heading": "Clearing Trouble Codes",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, erase the trouble codes as follows:",
+          "Ensure ignition switched OFF",
+          "Remove 60A fuse from underhood fusebox for 30 seconds minimum",
+          "Reinstall fuse",
+          "Repeat accessing procedure to ensure no data remains in ECM fault memory"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> CR-V 2.4L – Element 2.4L – Fit 1.5L (2003 – 2009)",
+    "url": "https://www.troublecodes.net/honda/cr-v-2-4l-element-2-4l-fit-1-5l-2003-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) 1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Pilot 3.5L (2003 – 2004)",
+    "url": "https://www.troublecodes.net/honda/pilot-3-5l-2003-2004/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC) 1."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Passport 2.6L (1996 – 1997)",
+    "url": "https://www.troublecodes.net/honda/passport-2-6l-1996-1997/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Engine control module (ECM) incorporates self-diagnosis function.",
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to workshop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can be displayed by using a Scan Tool connected to the data link connector (DLC) 1 under the LH fascia."
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "After the faults have been rectified, trouble codes can be erased by using a Scan Tool connected to the data link connector (DLC) 1 or as follows:",
+          "Switch ignition OFF.",
+          "Disconnect battery ground cable for 30 seconds minimum.",
+          "Reconnect battery ground cable.",
+          "Repeat checking procedure to ensure no data remains in ECM fault memory."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honda OBD/OBD2 Codes >> Odyssey 3.5L – Pilot 3.5L – Ridgeline 3.5L (2005 – 2009)",
+    "url": "https://www.troublecodes.net/honda/odyssey-3-5l-pilot-3-5l-ridgeline-3-5l-2005-2009/",
+    "procedures": [
+      {
+        "heading": "General information",
+        "type": "general",
+        "steps": [
+          "Malfunction indicator lamp (MIL) will illuminate if certain faults are recorded.",
+          "ECM operates in backup mode if sensors fail, to enable vehicle to be driven to repair shop."
+        ]
+      },
+      {
+        "heading": "Accessing",
+        "type": "accessing",
+        "steps": [
+          "Trouble codes can only be displayed by using a Scan Tool connected to the data link connector (DLC)"
+        ]
+      },
+      {
+        "heading": "Erasing",
+        "type": "clearing",
+        "steps": [
+          "Trouble codes can only be erased by using a Scan Tool connected to the data link connector (DLC)."
+        ]
+      }
+    ]
+  }
+]

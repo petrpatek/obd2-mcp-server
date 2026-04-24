@@ -1,0 +1,14 @@
+{
+  "name": "Volvo",
+  "slug": "volvo",
+  "totalCodes": 202,
+  "totalSubmodels": 7,
+  "totalDetails": 0,
+  "totalProcedures": 7,
+  "codeTypes": {
+    "P": 202,
+    "B": 0,
+    "C": 0,
+    "U": 0
+  }
+}

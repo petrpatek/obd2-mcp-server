@@ -1,0 +1,1914 @@
+{
+  "category": "Chassis",
+  "codesCount": 318,
+  "codes": [
+    {
+      "code": "C0000",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0001",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c0000/"
+    },
+    {
+      "code": "C0002",
+      "faultLocation": "TCS Control Channel \"A\" Valve 2 (Subfault)",
+      "probableCause": "C0003",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c0002/"
+    },
+    {
+      "code": "C0004",
+      "faultLocation": "TCS Control Channel \"B\" Valve 2 (Subfault)",
+      "probableCause": "C0005",
+      "detailUrl": null
+    },
+    {
+      "code": "C0006",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0007",
+      "detailUrl": null
+    },
+    {
+      "code": "C0008",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0009",
+      "detailUrl": null
+    },
+    {
+      "code": "C000A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C000B",
+      "detailUrl": null
+    },
+    {
+      "code": "C000C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C000D",
+      "detailUrl": null
+    },
+    {
+      "code": "C000E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C000F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0010",
+      "faultLocation": "Left Front Inlet Control (Subfault)",
+      "probableCause": "C0011",
+      "detailUrl": null
+    },
+    {
+      "code": "C0012",
+      "faultLocation": "Left Front Hydraulic Release Too Long (Subfault)",
+      "probableCause": "C0013",
+      "detailUrl": null
+    },
+    {
+      "code": "C0014",
+      "faultLocation": "Right Front Inlet Control (Subfault)",
+      "probableCause": "C0015",
+      "detailUrl": null
+    },
+    {
+      "code": "C0016",
+      "faultLocation": "Right Front Hydraulic Release Too Long (Subfault)",
+      "probableCause": "C0017",
+      "detailUrl": null
+    },
+    {
+      "code": "C0018",
+      "faultLocation": "Left Rear Inlet Control (Subfault)",
+      "probableCause": "C0019",
+      "detailUrl": null
+    },
+    {
+      "code": "C001A",
+      "faultLocation": "Left Rear Hydraulic Release Too Long (Subfault)",
+      "probableCause": "C001B",
+      "detailUrl": null
+    },
+    {
+      "code": "C001C",
+      "faultLocation": "Right Rear Inlet Control (Subfault)",
+      "probableCause": "C001D",
+      "detailUrl": null
+    },
+    {
+      "code": "C001E",
+      "faultLocation": "Right Rear Hydraulic Release Too Long (Subfault)",
+      "probableCause": "C001F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0020",
+      "faultLocation": "ABS Pump Motor Control (Subfault)",
+      "probableCause": "C0021",
+      "detailUrl": null
+    },
+    {
+      "code": "C0022",
+      "faultLocation": "Brake Booster Solenoid (Subfault)",
+      "probableCause": "C0023",
+      "detailUrl": null
+    },
+    {
+      "code": "C0024",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0025",
+      "detailUrl": null
+    },
+    {
+      "code": "C0026",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0027",
+      "detailUrl": null
+    },
+    {
+      "code": "C0028",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0029",
+      "detailUrl": null
+    },
+    {
+      "code": "C002A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C002B",
+      "detailUrl": null
+    },
+    {
+      "code": "C002C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C002D",
+      "detailUrl": null
+    },
+    {
+      "code": "C002E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C002F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0030",
+      "faultLocation": "Left Front Tone Wheel (Subfault)",
+      "probableCause": "C0031",
+      "detailUrl": null
+    },
+    {
+      "code": "C0032",
+      "faultLocation": "Left Front Wheel Speed Sensor Supply (Subfault)",
+      "probableCause": "C0033",
+      "detailUrl": null
+    },
+    {
+      "code": "C0034",
+      "faultLocation": "Right Front Wheel Speed Sensor (Subfault)",
+      "probableCause": "C0035",
+      "detailUrl": null
+    },
+    {
+      "code": "C0036",
+      "faultLocation": "Left Rear Tone Wheel (Subfault)",
+      "probableCause": "C0037",
+      "detailUrl": null
+    },
+    {
+      "code": "C0038",
+      "faultLocation": "Left Rear Wheel Speed Sensor Supply (Subfault)",
+      "probableCause": "C0039",
+      "detailUrl": null
+    },
+    {
+      "code": "C003A",
+      "faultLocation": "Right Rear Wheel Speed Sensor (Subfault)",
+      "probableCause": "C003B",
+      "detailUrl": null
+    },
+    {
+      "code": "C003C",
+      "faultLocation": "Rear Tone Wheel (Subfault)",
+      "probableCause": "C003D",
+      "detailUrl": null
+    },
+    {
+      "code": "C003E",
+      "faultLocation": "Rear Wheel Speed Sensor Supply (Subfault)",
+      "probableCause": "C003F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0040",
+      "faultLocation": "Brake Pedal Switch \"A\" (Subfault)",
+      "probableCause": "C0041",
+      "detailUrl": null
+    },
+    {
+      "code": "C0042",
+      "faultLocation": "Brake Pedal Position Sensor \"Circuit A\" (Subfault)",
+      "probableCause": "C0043",
+      "detailUrl": null
+    },
+    {
+      "code": "C0044",
+      "faultLocation": "Brake Pressure Sensor \"A\" (Subfault)",
+      "probableCause": "C0045",
+      "detailUrl": null
+    },
+    {
+      "code": "C0046",
+      "faultLocation": "Brake Pressure Sensor \"A\"/\"B\" (Subfault)",
+      "probableCause": "C0047",
+      "detailUrl": null
+    },
+    {
+      "code": "C0048",
+      "faultLocation": "Brake Booster Travel Sensor (Subfault)",
+      "probableCause": "C0049",
+      "detailUrl": null
+    },
+    {
+      "code": "C004A",
+      "faultLocation": "Brake Lining Wear Sensor (Subfault)",
+      "probableCause": "C004B",
+      "detailUrl": null
+    },
+    {
+      "code": "C004C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C004D",
+      "detailUrl": null
+    },
+    {
+      "code": "C004E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C004F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0050",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0051",
+      "detailUrl": null
+    },
+    {
+      "code": "C0052",
+      "faultLocation": "Steering Wheel Position Sensor \"Signal A\" (Subfault)",
+      "probableCause": "C0053",
+      "detailUrl": null
+    },
+    {
+      "code": "C0054",
+      "faultLocation": "Steering Wheel Position Sensor \"Signal C\" (Subfault)",
+      "probableCause": "C0055",
+      "detailUrl": null
+    },
+    {
+      "code": "C0056",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0057",
+      "detailUrl": null
+    },
+    {
+      "code": "C0058",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0059",
+      "detailUrl": null
+    },
+    {
+      "code": "C005A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C005B",
+      "detailUrl": null
+    },
+    {
+      "code": "C005C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C005D",
+      "detailUrl": null
+    },
+    {
+      "code": "C005E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C005F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0060",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0061",
+      "detailUrl": null
+    },
+    {
+      "code": "C0062",
+      "faultLocation": "Longitudinal Acceleration Sensor (Subfault)",
+      "probableCause": "C0063",
+      "detailUrl": null
+    },
+    {
+      "code": "C0064",
+      "faultLocation": "Roll Rate Sensor",
+      "probableCause": "C0065",
+      "detailUrl": null
+    },
+    {
+      "code": "C0066",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0067",
+      "detailUrl": null
+    },
+    {
+      "code": "C0068",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0069",
+      "detailUrl": null
+    },
+    {
+      "code": "C006A",
+      "faultLocation": "Multi-axis Acceleration Sensor (Subfault)",
+      "probableCause": "C006B",
+      "detailUrl": null
+    },
+    {
+      "code": "C006C",
+      "faultLocation": "Stability System",
+      "probableCause": "C006D",
+      "detailUrl": null
+    },
+    {
+      "code": "C006E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C006F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0070",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0071",
+      "detailUrl": null
+    },
+    {
+      "code": "C0072",
+      "faultLocation": "Brake Temperature Too High (Subfault)",
+      "probableCause": "C0073",
+      "detailUrl": null
+    },
+    {
+      "code": "C0074",
+      "faultLocation": "Requested Driving Torque (Subfault)",
+      "probableCause": "C0075",
+      "detailUrl": null
+    },
+    {
+      "code": "C0076",
+      "faultLocation": "PWM for Traction Control (Subfault)",
+      "probableCause": "C0077",
+      "detailUrl": null
+    },
+    {
+      "code": "C0078",
+      "faultLocation": "Tire Diameter (Subfault)",
+      "probableCause": "C0079",
+      "detailUrl": null
+    },
+    {
+      "code": "C007A",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C007B",
+      "detailUrl": null
+    },
+    {
+      "code": "C007C",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C007D",
+      "detailUrl": null
+    },
+    {
+      "code": "C007E",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C007F",
+      "detailUrl": null
+    },
+    {
+      "code": "C0080",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0081",
+      "detailUrl": null
+    },
+    {
+      "code": "C0082",
+      "faultLocation": "Brake System Malfunction Indicator (Subfault)",
+      "probableCause": "C0083",
+      "detailUrl": null
+    },
+    {
+      "code": "C0084",
+      "faultLocation": "Traction Active Indicator (Subfault)",
+      "probableCause": "C0085",
+      "detailUrl": null
+    },
+    {
+      "code": "C0086",
+      "faultLocation": "Vehicle Dynamics Indicator (Subfault)",
+      "probableCause": "C0087",
+      "detailUrl": null
+    },
+    {
+      "code": "C0088",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C0089",
+      "detailUrl": null
+    },
+    {
+      "code": "C008A",
+      "faultLocation": "TCS Mode Control (Subfault)",
+      "probableCause": "C008B",
+      "detailUrl": null
+    },
+    {
+      "code": "C0100",
+      "faultLocation": "Rear ABS (both wheels) solenoid/motor #1 circuit malfunction",
+      "probableCause": "C0300",
+      "detailUrl": null
+    },
+    {
+      "code": "C0700",
+      "faultLocation": "Level Control Accessory Inflator Switch - Circuit High",
+      "probableCause": "C1000",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c0700/"
+    },
+    {
+      "code": "C1091",
+      "faultLocation": "Speed Wheel Sensor All Coherency Failure",
+      "probableCause": "C1095",
+      "detailUrl": null
+    },
+    {
+      "code": "C1096",
+      "faultLocation": "ABS Hydraulic Pump Motor Circuit Open",
+      "probableCause": "C1097",
+      "detailUrl": null
+    },
+    {
+      "code": "C1098",
+      "faultLocation": "ABS Hydraulic Pump Motor Circuit Short To Battery",
+      "probableCause": "C1100",
+      "detailUrl": null
+    },
+    {
+      "code": "C1101",
+      "faultLocation": "ABS Hydraulic Valve Circuit Failure",
+      "probableCause": "C1102",
+      "detailUrl": null
+    },
+    {
+      "code": "C1103",
+      "faultLocation": "ABS Hydraulic Brake Switch Circuit Failure",
+      "probableCause": "C1104",
+      "detailUrl": null
+    },
+    {
+      "code": "C1105",
+      "faultLocation": "Traction Control Disable Lamp – Circuit Short to Battery",
+      "probableCause": "C1106",
+      "detailUrl": null
+    },
+    {
+      "code": "C1107",
+      "faultLocation": "ABS Function Enabled Input Circuit Failure",
+      "probableCause": "C1109",
+      "detailUrl": null
+    },
+    {
+      "code": "C1110",
+      "faultLocation": "ABS Power Relay Coil Circuit Failure",
+      "probableCause": "C1111",
+      "detailUrl": null
+    },
+    {
+      "code": "C1112",
+      "faultLocation": "ABS Power Relay Coil Short Circuit To Ground",
+      "probableCause": "C1113",
+      "detailUrl": null
+    },
+    {
+      "code": "C1114",
+      "faultLocation": "ABS Power Relay Output Short Circuit To Ground",
+      "probableCause": "C1115",
+      "detailUrl": null
+    },
+    {
+      "code": "C1116",
+      "faultLocation": "Starter Motor Circuit Failure",
+      "probableCause": "C1117",
+      "detailUrl": null
+    },
+    {
+      "code": "C1123",
+      "faultLocation": "Vehicle Speed Sensor Input Short to Battery",
+      "probableCause": "C1124",
+      "detailUrl": null
+    },
+    {
+      "code": "C1125",
+      "faultLocation": "Brake Fluid Level Sensor Input Circuit Failure",
+      "probableCause": "C1126",
+      "detailUrl": null
+    },
+    {
+      "code": "C1127",
+      "faultLocation": "Cruise Control Deactivator Brake Switch Circuit Failure",
+      "probableCause": "C1132",
+      "detailUrl": null
+    },
+    {
+      "code": "C1133",
+      "faultLocation": "Clutch position ckt short to battery",
+      "probableCause": "C1134",
+      "detailUrl": null
+    },
+    {
+      "code": "C1135",
+      "faultLocation": "Gear Shift position short to battery",
+      "probableCause": "C1136",
+      "detailUrl": null
+    },
+    {
+      "code": "C1137",
+      "faultLocation": "ECU is Defective",
+      "probableCause": "C1138",
+      "detailUrl": null
+    },
+    {
+      "code": "C1139",
+      "faultLocation": "Wheel Speed Sensor Center Tone Ring Missing Tooth Fault",
+      "probableCause": "C1140",
+      "detailUrl": null
+    },
+    {
+      "code": "C1141",
+      "faultLocation": "Wheel Speed Sensor LF Tone Ring Tooth Missing Fault",
+      "probableCause": "C1142",
+      "detailUrl": null
+    },
+    {
+      "code": "C1143",
+      "faultLocation": "Wheel Speed Sensor LR Tone Ring Tooth Missing Fault",
+      "probableCause": "C1144",
+      "detailUrl": null
+    },
+    {
+      "code": "C1145",
+      "faultLocation": "Speed Wheel Sensor RF Input Circuit Failure",
+      "probableCause": "C1146",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c1145/"
+    },
+    {
+      "code": "C1148",
+      "faultLocation": "Speed Wheel Sensor RF Coherency Fault",
+      "probableCause": "C1149",
+      "detailUrl": null
+    },
+    {
+      "code": "C1150",
+      "faultLocation": "Two Speed Rear Axle Input Switch Circuit Short to Vbatt",
+      "probableCause": "C1155",
+      "detailUrl": null
+    },
+    {
+      "code": "C1156",
+      "faultLocation": "Speed Wheel Sensor LF Circuit Open",
+      "probableCause": "C1157",
+      "detailUrl": null
+    },
+    {
+      "code": "C1158",
+      "faultLocation": "Speed Wheel Sensor LF Coherency Fault",
+      "probableCause": "C1159",
+      "detailUrl": null
+    },
+    {
+      "code": "C1161",
+      "faultLocation": "Air Pressure Low Circuit Short to Gnd",
+      "probableCause": "C1162",
+      "detailUrl": null
+    },
+    {
+      "code": "C1163",
+      "faultLocation": "Park Brake Switch # 2 Applied Circuit Short to Gnd",
+      "probableCause": "C1164",
+      "detailUrl": null
+    },
+    {
+      "code": "C1165",
+      "faultLocation": "Speed Wheel Sensor RR Input Circuit Failure",
+      "probableCause": "C1166",
+      "detailUrl": null
+    },
+    {
+      "code": "C1167",
+      "faultLocation": "Park Brake Actuator Assembly Switch Released Circuit Short to Gnd",
+      "probableCause": "C1168",
+      "detailUrl": null
+    },
+    {
+      "code": "C1169",
+      "faultLocation": "ABS Fluid Dumping Exceeds Maximum Timing",
+      "probableCause": "C1170",
+      "detailUrl": null
+    },
+    {
+      "code": "C1172",
+      "faultLocation": "Park Brake Switch # 1 Applied Circuit Failure",
+      "probableCause": "C1173",
+      "detailUrl": null
+    },
+    {
+      "code": "C1174",
+      "faultLocation": "Park Brake Switch # 2 Applied Circuit Failure",
+      "probableCause": "C1175",
+      "detailUrl": null
+    },
+    {
+      "code": "C1176",
+      "faultLocation": "Speed Wheel Sensor LR Circuit Open",
+      "probableCause": "C1177",
+      "detailUrl": null
+    },
+    {
+      "code": "C1178",
+      "faultLocation": "Speed Wheel Sensor LR Coherency Fault",
+      "probableCause": "C1179",
+      "detailUrl": null
+    },
+    {
+      "code": "C1180",
+      "faultLocation": "Park Brake Valve Solenoid #1 Sense Input Circuit Failure",
+      "probableCause": "C1181",
+      "detailUrl": null
+    },
+    {
+      "code": "C1182",
+      "faultLocation": "Park Lamp Flash Relay Circuit Failure",
+      "probableCause": "C1183",
+      "detailUrl": null
+    },
+    {
+      "code": "C1184",
+      "faultLocation": "ABS System Is Not Operational",
+      "probableCause": "C1185",
+      "detailUrl": null
+    },
+    {
+      "code": "C1186",
+      "faultLocation": "ABS Power Relay Output Open Circuit",
+      "probableCause": "C1187",
+      "detailUrl": null
+    },
+    {
+      "code": "C1188",
+      "faultLocation": "Brake Fluid Level Sensor Input Short Circuit To Battery",
+      "probableCause": "C1189",
+      "detailUrl": null
+    },
+    {
+      "code": "C1190",
+      "faultLocation": "Speed Wheel Sensor LF Input Short Circuit To Battery",
+      "probableCause": "C1191",
+      "detailUrl": null
+    },
+    {
+      "code": "C1192",
+      "faultLocation": "Speed Wheel Sensor RF Input Short Circuit To Battery",
+      "probableCause": "C1193",
+      "detailUrl": null
+    },
+    {
+      "code": "C1194",
+      "faultLocation": "ABS Outlet Valve Coil LF Circuit Failure",
+      "probableCause": "C1195",
+      "detailUrl": null
+    },
+    {
+      "code": "C1196",
+      "faultLocation": "ABS Outlet Valve Coil LF Circuit Short To Battery",
+      "probableCause": "C1197",
+      "detailUrl": null
+    },
+    {
+      "code": "C1198",
+      "faultLocation": "ABS Inlet Valve Coil LF Circuit Failure",
+      "probableCause": "C1199",
+      "detailUrl": null
+    },
+    {
+      "code": "C1200",
+      "faultLocation": "ABS Inlet Valve Coil LF Circuit Short To Battery",
+      "probableCause": "C1201",
+      "detailUrl": null
+    },
+    {
+      "code": "C1202",
+      "faultLocation": "ABS Outlet Valve Coil Rear Circuit Failure",
+      "probableCause": "C1203",
+      "detailUrl": null
+    },
+    {
+      "code": "C1204",
+      "faultLocation": "ABS Outlet Valve Coil Rear Circuit Short To Battery",
+      "probableCause": "C1205",
+      "detailUrl": null
+    },
+    {
+      "code": "C1206",
+      "faultLocation": "ABS Inlet Valve Coil Rear Circuit Failure",
+      "probableCause": "C1207",
+      "detailUrl": null
+    },
+    {
+      "code": "C1208",
+      "faultLocation": "ABS Inlet Valve Coil Rear Circuit Short To Battery",
+      "probableCause": "C1209",
+      "detailUrl": null
+    },
+    {
+      "code": "C1210",
+      "faultLocation": "ABS Outlet Valve Coil RF Circuit Failure",
+      "probableCause": "C1211",
+      "detailUrl": null
+    },
+    {
+      "code": "C1212",
+      "faultLocation": "ABS Outlet Valve Coil RF Circuit Short To Battery",
+      "probableCause": "C1213",
+      "detailUrl": null
+    },
+    {
+      "code": "C1214",
+      "faultLocation": "ABS Inlet Valve Coil RF Circuit Failure",
+      "probableCause": "C1215",
+      "detailUrl": null
+    },
+    {
+      "code": "C1216",
+      "faultLocation": "ABS Inlet Valve Coil RF Circuit Short To Battery",
+      "probableCause": "C1217",
+      "detailUrl": null
+    },
+    {
+      "code": "C1218",
+      "faultLocation": "Lamp ABS Warning Output Circuit Failure",
+      "probableCause": "C1219",
+      "detailUrl": null
+    },
+    {
+      "code": "C1220",
+      "faultLocation": "Lamp ABS Warning Output Circuit Short To Battery",
+      "probableCause": "C1221",
+      "detailUrl": null
+    },
+    {
+      "code": "C1222",
+      "faultLocation": "Speed Wheel Mismatch",
+      "probableCause": "C1223",
+      "detailUrl": null
+    },
+    {
+      "code": "C1224",
+      "faultLocation": "Lamp Brake Warning Output Circuit Open",
+      "probableCause": "C1225",
+      "detailUrl": null
+    },
+    {
+      "code": "C1226",
+      "faultLocation": "Lamp Brake Warning Output Circuit Short To Ground",
+      "probableCause": "C1227",
+      "detailUrl": null
+    },
+    {
+      "code": "C1228",
+      "faultLocation": "Speed Wheel Sensor LR Input Short Circuit To Ground",
+      "probableCause": "C1229",
+      "detailUrl": null
+    },
+    {
+      "code": "C1230",
+      "faultLocation": "Speed Wheel Sensor Rear Center Input Circuit Failure",
+      "probableCause": "C1231",
+      "detailUrl": null
+    },
+    {
+      "code": "C1232",
+      "faultLocation": "Speed Wheel Sensor Rear Center Input Short Circuit To Battery",
+      "probableCause": "C1233",
+      "detailUrl": null
+    },
+    {
+      "code": "C1234",
+      "faultLocation": "Speed Wheel RF Input Signal Missing",
+      "probableCause": "C1235",
+      "detailUrl": null
+    },
+    {
+      "code": "C1236",
+      "faultLocation": "Speed Wheel LR Input Signal Missing",
+      "probableCause": "C1237",
+      "detailUrl": null
+    },
+    {
+      "code": "C1238",
+      "faultLocation": "ABS Hydraulic Pressure Differential Switch Input Circuit Failure",
+      "probableCause": "C1239",
+      "detailUrl": null
+    },
+    {
+      "code": "C1240",
+      "faultLocation": "ABS Hydraulic Pressure Differential Switch Input Short Circuit To Battery",
+      "probableCause": "C1241",
+      "detailUrl": null
+    },
+    {
+      "code": "C1242",
+      "faultLocation": "ABS Outlet Valve Coil LR Circuit Failure",
+      "probableCause": "C1243",
+      "detailUrl": null
+    },
+    {
+      "code": "C1244",
+      "faultLocation": "ABS Outlet Valve Coil LR Circuit Short To Battery",
+      "probableCause": "C1245",
+      "detailUrl": null
+    },
+    {
+      "code": "C1246",
+      "faultLocation": "ABS Outlet Valve Coil RR Circuit Failure",
+      "probableCause": "C1247",
+      "detailUrl": null
+    },
+    {
+      "code": "C1248",
+      "faultLocation": "ABS Outlet Valve Coil RR Circuit Short To Battery",
+      "probableCause": "C1249",
+      "detailUrl": null
+    },
+    {
+      "code": "C1250",
+      "faultLocation": "ABS Inlet Valve Coil LR Circuit Failure",
+      "probableCause": "C1251",
+      "detailUrl": null
+    },
+    {
+      "code": "C1252",
+      "faultLocation": "ABS Inlet Valve Coil LR Circuit Short To Battery",
+      "probableCause": "C1253",
+      "detailUrl": null
+    },
+    {
+      "code": "C1254",
+      "faultLocation": "ABS Inlet Valve Coil RR Circuit Failure",
+      "probableCause": "C1255",
+      "detailUrl": null
+    },
+    {
+      "code": "C1256",
+      "faultLocation": "ABS Inlet Valve Coil RR Circuit Short To Battery",
+      "probableCause": "C1257",
+      "detailUrl": null
+    },
+    {
+      "code": "C1258",
+      "faultLocation": "Speed Wheel LF Comparison Failure",
+      "probableCause": "C1259",
+      "detailUrl": null
+    },
+    {
+      "code": "C1260",
+      "faultLocation": "Speed Wheel RR Comparison Failure",
+      "probableCause": "C1261",
+      "detailUrl": null
+    },
+    {
+      "code": "C1262",
+      "faultLocation": "Lamp Warning Relay Circuit Failure",
+      "probableCause": "C1263",
+      "detailUrl": null
+    },
+    {
+      "code": "C1264",
+      "faultLocation": "Lamp Warning Relay Circuit Short To Battery",
+      "probableCause": "C1265",
+      "detailUrl": null
+    },
+    {
+      "code": "C1266",
+      "faultLocation": "ABS Valve Power Relay Circuit Failure",
+      "probableCause": "C1267",
+      "detailUrl": null
+    },
+    {
+      "code": "C1268",
+      "faultLocation": "Motor Relay # 1 Circuit Failure",
+      "probableCause": "C1269",
+      "detailUrl": null
+    },
+    {
+      "code": "C1270",
+      "faultLocation": "Motor # 1 Input Circuit Failure",
+      "probableCause": "C1271",
+      "detailUrl": null
+    },
+    {
+      "code": "C1272",
+      "faultLocation": "Motor # 2 Input Circuit Failure",
+      "probableCause": "C1273",
+      "detailUrl": null
+    },
+    {
+      "code": "C1274",
+      "faultLocation": "Solenoid Relay # 1 Circuit Failure",
+      "probableCause": "C1275",
+      "detailUrl": null
+    },
+    {
+      "code": "C1276",
+      "faultLocation": "Park Brake Actuator Assembly Switch Applied Circuit Short to Gnd",
+      "probableCause": "C1277",
+      "detailUrl": null
+    },
+    {
+      "code": "C1278",
+      "faultLocation": "STEERING Wheel Angle 1and 2 Signal Faulted",
+      "probableCause": "C1279",
+      "detailUrl": null
+    },
+    {
+      "code": "C1280",
+      "faultLocation": "Yaw Rate Sensor Signal Fault",
+      "probableCause": "C1281",
+      "detailUrl": null
+    },
+    {
+      "code": "C1282",
+      "faultLocation": "Lateral Accelerometer Signal Fault",
+      "probableCause": "C1283",
+      "detailUrl": null
+    },
+    {
+      "code": "C1284",
+      "faultLocation": "Oil Pressure Switch Failure",
+      "probableCause": "C1285",
+      "detailUrl": null
+    },
+    {
+      "code": "C1286",
+      "faultLocation": "Booster Mechanical Failure",
+      "probableCause": "C1287",
+      "detailUrl": null
+    },
+    {
+      "code": "C1288",
+      "faultLocation": "Pressure Transducer Main / Primary Input Circuit Failure",
+      "probableCause": "C1289",
+      "detailUrl": null
+    },
+    {
+      "code": "C1300",
+      "faultLocation": "Skid Control ECU Malfunction (Toyota)",
+      "probableCause": "C1400",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c1300/"
+    },
+    {
+      "code": "C1401",
+      "faultLocation": "Traction Control Valve RF Circuit Open",
+      "probableCause": "C1402",
+      "detailUrl": null
+    },
+    {
+      "code": "C1403",
+      "faultLocation": "Traction Control Valve RF Circuit Short To Battery",
+      "probableCause": "C1404",
+      "detailUrl": null
+    },
+    {
+      "code": "C1405",
+      "faultLocation": "Traction Control Valve Rear Circuit Open",
+      "probableCause": "C1406",
+      "detailUrl": null
+    },
+    {
+      "code": "C1407",
+      "faultLocation": "Traction Control Valve Rear Circuit Short To Battery",
+      "probableCause": "C1410",
+      "detailUrl": null
+    },
+    {
+      "code": "C1411",
+      "faultLocation": "Traction Control Valve LF Circuit Open",
+      "probableCause": "C1412",
+      "detailUrl": null
+    },
+    {
+      "code": "C1413",
+      "faultLocation": "Traction Control Valve LF Circuit Short To Battery",
+      "probableCause": "C1414",
+      "detailUrl": null
+    },
+    {
+      "code": "C1415",
+      "faultLocation": "Incorrect Module Configuration",
+      "probableCause": "C1416",
+      "detailUrl": null
+    },
+    {
+      "code": "C1417",
+      "faultLocation": "Damper RF Circuit Short to Ground",
+      "probableCause": "C1418",
+      "detailUrl": null
+    },
+    {
+      "code": "C1419",
+      "faultLocation": "Damper RF Circuit Open",
+      "probableCause": "C1420",
+      "detailUrl": null
+    },
+    {
+      "code": "C1421",
+      "faultLocation": "Damper LF Circuit Short To Battery (Ford, Jaguar) Open or Short in Master Cylinder Pressure Sensor (Toyota) Rear Differential Clutch Performance (Jeep, Chrysler)",
+      "probableCause": "C1422",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c1421/"
+    },
+    {
+      "code": "C1423",
+      "faultLocation": "Damper LF Circuit Failure",
+      "probableCause": "C1424",
+      "detailUrl": null
+    },
+    {
+      "code": "C1425",
+      "faultLocation": "Damper RR Circuit Short to Ground",
+      "probableCause": "C1426",
+      "detailUrl": null
+    },
+    {
+      "code": "C1427",
+      "faultLocation": "Damper RR Circuit Open",
+      "probableCause": "C1428",
+      "detailUrl": null
+    },
+    {
+      "code": "C1429",
+      "faultLocation": "Input-shaft-speed input circuit failure",
+      "probableCause": "C1430",
+      "detailUrl": null
+    },
+    {
+      "code": "C1431",
+      "faultLocation": "Damper LR Circuit Short To Battery",
+      "probableCause": "C1432",
+      "detailUrl": null
+    },
+    {
+      "code": "C1433",
+      "faultLocation": "Damper LR Circuit Failure",
+      "probableCause": "C1435",
+      "detailUrl": null
+    },
+    {
+      "code": "C1436",
+      "faultLocation": "Accelerometer Rear Circuit Signal Is Not Sensed",
+      "probableCause": "C1437",
+      "detailUrl": null
+    },
+    {
+      "code": "C1438",
+      "faultLocation": "Accelerometer Rear Circuit Short To Battery",
+      "probableCause": "C1439",
+      "detailUrl": null
+    },
+    {
+      "code": "C1440",
+      "faultLocation": "Pressure Transducer Main / Primary signal Faulted",
+      "probableCause": "C1441",
+      "detailUrl": null
+    },
+    {
+      "code": "C1442",
+      "faultLocation": "Steering Phase B Circuit Signal Is Not Sensed",
+      "probableCause": "C1443",
+      "detailUrl": null
+    },
+    {
+      "code": "C1444",
+      "faultLocation": "Steering Phase B Circuit Short To Ground",
+      "probableCause": "C1445",
+      "detailUrl": null
+    },
+    {
+      "code": "C1446",
+      "faultLocation": "Brake Switch Circuit Failure",
+      "probableCause": "C1447",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c1446/"
+    },
+    {
+      "code": "C1448",
+      "faultLocation": "Lamp Adaptive Damping Warning Circuit Failure",
+      "probableCause": "C1449",
+      "detailUrl": null
+    },
+    {
+      "code": "C1450",
+      "faultLocation": "Traction Control Motor Circuit Failure",
+      "probableCause": "C1451",
+      "detailUrl": null
+    },
+    {
+      "code": "C1452",
+      "faultLocation": "Traction Control Motor Circuit Short to Battery",
+      "probableCause": "C1453",
+      "detailUrl": null
+    },
+    {
+      "code": "C1454",
+      "faultLocation": "Front Lateral Accelerometer Circuit Failure",
+      "probableCause": "C1455",
+      "detailUrl": null
+    },
+    {
+      "code": "C1456",
+      "faultLocation": "Accelerometer Front Circuit Is Not Sensed",
+      "probableCause": "C1457",
+      "detailUrl": null
+    },
+    {
+      "code": "C1458",
+      "faultLocation": "Accelerometer Front Circuit Short To Battery",
+      "probableCause": "C1459",
+      "detailUrl": null
+    },
+    {
+      "code": "C1460",
+      "faultLocation": "Vehicle Accelerometer Power Circuit Failure",
+      "probableCause": "C1461",
+      "detailUrl": null
+    },
+    {
+      "code": "C1462",
+      "faultLocation": "Left Front Vertical Accelerometer Circuit Failure",
+      "probableCause": "C1463",
+      "detailUrl": null
+    },
+    {
+      "code": "C1464",
+      "faultLocation": "Pressure Transducer Redundant / Secondary Signal Faulted",
+      "probableCause": "C1465",
+      "detailUrl": null
+    },
+    {
+      "code": "C1466",
+      "faultLocation": "Damper Circuit Failure",
+      "probableCause": "C1467",
+      "detailUrl": null
+    },
+    {
+      "code": "C1468",
+      "faultLocation": "Damper Low Side Front Circuit Failure",
+      "probableCause": "C1469",
+      "detailUrl": null
+    },
+    {
+      "code": "C1495",
+      "faultLocation": "Traction Control Motor Potentiometer Circuit Failure",
+      "probableCause": "C1496",
+      "detailUrl": null
+    },
+    {
+      "code": "C1497",
+      "faultLocation": "Traction Control Motor Potentiometer Circuit Short to Battery",
+      "probableCause": "C1498",
+      "detailUrl": null
+    },
+    {
+      "code": "C1499",
+      "faultLocation": "Transfer Case Contact Plate \"A\" Encoder Circuit Failure",
+      "probableCause": "C1500",
+      "detailUrl": null
+    },
+    {
+      "code": "C1501",
+      "faultLocation": "Transfer Case Contact Plate \"C\" Encoder Circuit Failure",
+      "probableCause": "C1502",
+      "detailUrl": null
+    },
+    {
+      "code": "C1503",
+      "faultLocation": "Dynamic Stability Control Left Front Valve Malfunction",
+      "probableCause": "C1504",
+      "detailUrl": null
+    },
+    {
+      "code": "C1505",
+      "faultLocation": "Dynamic Stability Control Left Rear Valve Malfunction",
+      "probableCause": "C1506",
+      "detailUrl": null
+    },
+    {
+      "code": "C1507",
+      "faultLocation": "Traction Control of Brake Exceeds Time-Out",
+      "probableCause": "C1508",
+      "detailUrl": null
+    },
+    {
+      "code": "C1510",
+      "faultLocation": "Right Front Wheel Pressure Reduction Performance Problem",
+      "probableCause": "C1511",
+      "detailUrl": null
+    },
+    {
+      "code": "C1512",
+      "faultLocation": "Right Rear Wheel Pressure Reduction Performance Problem",
+      "probableCause": "C1513",
+      "detailUrl": null
+    },
+    {
+      "code": "C1555",
+      "faultLocation": "Scanner Communication Incompatibility",
+      "probableCause": "C1699",
+      "detailUrl": "https://www.troublecodes.net/ccodes/c1555/"
+    },
+    {
+      "code": "C1700",
+      "faultLocation": "Left Rear Sensor Circuit Failure",
+      "probableCause": "C1701",
+      "detailUrl": null
+    },
+    {
+      "code": "C1702",
+      "faultLocation": "RightRear Sensor Circuit Short to Vbat",
+      "probableCause": "C1703",
+      "detailUrl": null
+    },
+    {
+      "code": "C1704",
+      "faultLocation": "Right Rear Sensor Circuit Fault",
+      "probableCause": "C1705",
+      "detailUrl": null
+    },
+    {
+      "code": "C1706",
+      "faultLocation": "Left Rear Center Sensor Circuit Failure",
+      "probableCause": "C1707",
+      "detailUrl": null
+    },
+    {
+      "code": "C1708",
+      "faultLocation": "Right Rear Center Sensor Circuit Short to Vbat",
+      "probableCause": "C1709",
+      "detailUrl": null
+    },
+    {
+      "code": "C1710",
+      "faultLocation": "Right Rear Center Sensor Circuit Fault",
+      "probableCause": "C1711",
+      "detailUrl": null
+    },
+    {
+      "code": "C1712",
+      "faultLocation": "Left Front Sensor Circuit Failure",
+      "probableCause": "C1713",
+      "detailUrl": null
+    },
+    {
+      "code": "C1714",
+      "faultLocation": "Right Front Sensor Circuit Short to Vbat",
+      "probableCause": "C1715",
+      "detailUrl": null
+    },
+    {
+      "code": "C1716",
+      "faultLocation": "Right Front Sensor Circuit Fault",
+      "probableCause": "C1717",
+      "detailUrl": null
+    },
+    {
+      "code": "C1718",
+      "faultLocation": "Left Front Center Sensor Circuit Failure",
+      "probableCause": "C1719",
+      "detailUrl": null
+    },
+    {
+      "code": "C1721",
+      "faultLocation": "Air Suspension Height Sensor Power Circuit Open",
+      "probableCause": "C1722",
+      "detailUrl": null
+    },
+    {
+      "code": "C1723",
+      "faultLocation": "Air Suspension Height Sensor Power Circuit Short To Ground",
+      "probableCause": "C1724",
+      "detailUrl": null
+    },
+    {
+      "code": "C1725",
+      "faultLocation": "Air Suspension Front Pneumatic Failure",
+      "probableCause": "C1726",
+      "detailUrl": null
+    },
+    {
+      "code": "C1727",
+      "faultLocation": "Air Suspension Reservoir Pneumatic Failure",
+      "probableCause": "C1728",
+      "detailUrl": null
+    },
+    {
+      "code": "C1729",
+      "faultLocation": "Transfer Case unable to transition between 4H and 4L",
+      "probableCause": "C1730",
+      "detailUrl": null
+    },
+    {
+      "code": "C1731",
+      "faultLocation": "Air Suspension LF Corner Up Timeout",
+      "probableCause": "C1732",
+      "detailUrl": null
+    },
+    {
+      "code": "C1733",
+      "faultLocation": "Air Suspension RF Corner Up Timeout",
+      "probableCause": "C1734",
+      "detailUrl": null
+    },
+    {
+      "code": "C1735",
+      "faultLocation": "Air Suspension LR Corner Up Timeout",
+      "probableCause": "C1736",
+      "detailUrl": null
+    },
+    {
+      "code": "C1737",
+      "faultLocation": "Air Suspension RR Corner Up Timeout",
+      "probableCause": "C1738",
+      "detailUrl": null
+    },
+    {
+      "code": "C1739",
+      "faultLocation": "Right Front Center Sensor Circuit Short to Vbat",
+      "probableCause": "C1740",
+      "detailUrl": null
+    },
+    {
+      "code": "C1741",
+      "faultLocation": "Right Front Center Sensor Circuit Fault",
+      "probableCause": "C1742",
+      "detailUrl": null
+    },
+    {
+      "code": "C1743",
+      "faultLocation": "Rear Sounder Circuit Short to Vbatt",
+      "probableCause": "C1744",
+      "detailUrl": null
+    },
+    {
+      "code": "C1745",
+      "faultLocation": "Front Sounder Circuit Short to Vbatt",
+      "probableCause": "C1748",
+      "detailUrl": null
+    },
+    {
+      "code": "C1749",
+      "faultLocation": "Trailer Input Circuit Failure",
+      "probableCause": "C1750",
+      "detailUrl": null
+    },
+    {
+      "code": "C1751",
+      "faultLocation": "Vehicle Speed Sensor # 1 Output Circuit Short to Vbatt",
+      "probableCause": "C1752",
+      "detailUrl": null
+    },
+    {
+      "code": "C1753",
+      "faultLocation": "Hydraulic Clutch Actuator Valve Signal Fault",
+      "probableCause": "C1754",
+      "detailUrl": null
+    },
+    {
+      "code": "C1755",
+      "faultLocation": "Power Limit Shutdown Fault",
+      "probableCause": "C1756",
+      "detailUrl": null
+    },
+    {
+      "code": "C1757",
+      "faultLocation": "Air Suspension Front Height Sensor High (SE) Signal Circuit Open",
+      "probableCause": "C1758",
+      "detailUrl": null
+    },
+    {
+      "code": "C1759",
+      "faultLocation": "Air Suspension Front Height Sensor High (SE) Signal Circuit Short To Ground",
+      "probableCause": "C1760",
+      "detailUrl": null
+    },
+    {
+      "code": "C1761",
+      "faultLocation": "Air Suspension Rear Height Sensor High (SE) Signal Circuit Open",
+      "probableCause": "C1762",
+      "detailUrl": null
+    },
+    {
+      "code": "C1763",
+      "faultLocation": "Air Suspension Rear Height Sensor High (SE) Signal Circuit Short To Ground",
+      "probableCause": "C1765",
+      "detailUrl": null
+    },
+    {
+      "code": "C1766",
+      "faultLocation": "Air Suspension Rear Height Sensor Low Signal Circuit Open",
+      "probableCause": "C1767",
+      "detailUrl": null
+    },
+    {
+      "code": "C1768",
+      "faultLocation": "Air Suspension Rear Height Sensor Low Signal Circuit Short To Ground",
+      "probableCause": "C1770",
+      "detailUrl": null
+    },
+    {
+      "code": "C1771",
+      "faultLocation": "Air Suspension Vent Solenoid Output Circuit Open",
+      "probableCause": "C1772",
+      "detailUrl": null
+    },
+    {
+      "code": "C1773",
+      "faultLocation": "Air Suspension Vent Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1774",
+      "detailUrl": null
+    },
+    {
+      "code": "C1775",
+      "faultLocation": "DC-DC Converter Failure",
+      "probableCause": "C1776",
+      "detailUrl": null
+    },
+    {
+      "code": "C1777",
+      "faultLocation": "Vacuum Pressure Circuit Failure",
+      "probableCause": "C1778",
+      "detailUrl": null
+    },
+    {
+      "code": "C1779",
+      "faultLocation": "Blower Switch Failure",
+      "probableCause": "C1780",
+      "detailUrl": null
+    },
+    {
+      "code": "C1781",
+      "faultLocation": "Engine Coolant Temperature Signal Missing/Fault",
+      "probableCause": "C1790",
+      "detailUrl": null
+    },
+    {
+      "code": "C1791",
+      "faultLocation": "Air Suspension LR Air Spring/Shock Solenoid Output Circuit Open",
+      "probableCause": "C1792",
+      "detailUrl": null
+    },
+    {
+      "code": "C1793",
+      "faultLocation": "Air Suspension LR Air Spring/Shock Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1795",
+      "detailUrl": null
+    },
+    {
+      "code": "C1796",
+      "faultLocation": "Air Suspension RR Air Spring/Shock Solenoid Output Circuit Open",
+      "probableCause": "C1797",
+      "detailUrl": null
+    },
+    {
+      "code": "C1798",
+      "faultLocation": "Air Suspension RR Air Spring/Shock Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1800",
+      "detailUrl": null
+    },
+    {
+      "code": "C1805",
+      "faultLocation": "Mismatched PCM and/or ABS-TC Module",
+      "probableCause": "C1813",
+      "detailUrl": null
+    },
+    {
+      "code": "C1814",
+      "faultLocation": "Air Suspension RR Vent Request Exceeded Max Timing",
+      "probableCause": "C1818",
+      "detailUrl": null
+    },
+    {
+      "code": "C1819",
+      "faultLocation": "Air Suspension RR Air Compress Request Exceeded Max Timing",
+      "probableCause": "C1820",
+      "detailUrl": null
+    },
+    {
+      "code": "C1830",
+      "faultLocation": "Air Suspension Compressor Relay Circuit Failure",
+      "probableCause": "C1831",
+      "detailUrl": null
+    },
+    {
+      "code": "C1832",
+      "faultLocation": "Air Suspension Compressor Relay Circuit Short To Battery",
+      "probableCause": "C1833",
+      "detailUrl": null
+    },
+    {
+      "code": "C1834",
+      "faultLocation": "Gauge Drive Current Fault",
+      "probableCause": "C1835",
+      "detailUrl": null
+    },
+    {
+      "code": "C1836",
+      "faultLocation": "Battery Temp out of Range",
+      "probableCause": "C1837",
+      "detailUrl": null
+    },
+    {
+      "code": "C1838",
+      "faultLocation": "Charging System Fault",
+      "probableCause": "C1839",
+      "detailUrl": null
+    },
+    {
+      "code": "C1840",
+      "faultLocation": "Air Suspension Disable Switch Circuit Failure",
+      "probableCause": "C1841",
+      "detailUrl": null
+    },
+    {
+      "code": "C1842",
+      "faultLocation": "Air Suspension Disable Switch Circuit Short To Battery",
+      "probableCause": "C1843",
+      "detailUrl": null
+    },
+    {
+      "code": "C1844",
+      "faultLocation": "Air Suspension Secondary Front Inflator Solenoid Output Circuit Failure",
+      "probableCause": "C1845",
+      "detailUrl": null
+    },
+    {
+      "code": "C1846",
+      "faultLocation": "Air Suspension Front Inflator Solenoid Output Circuit Open",
+      "probableCause": "C1847",
+      "detailUrl": null
+    },
+    {
+      "code": "C1848",
+      "faultLocation": "Air Suspension Front Inflator Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1849",
+      "detailUrl": null
+    },
+    {
+      "code": "C1850",
+      "faultLocation": "Air Suspension Warning Lamp Circuit Failure",
+      "probableCause": "C1851",
+      "detailUrl": null
+    },
+    {
+      "code": "C1852",
+      "faultLocation": "Air Suspension Warning Lamp Circuit Short To Battery",
+      "probableCause": "C1853",
+      "detailUrl": null
+    },
+    {
+      "code": "C1854",
+      "faultLocation": "Motor Temperature Out of Range",
+      "probableCause": "C1855",
+      "detailUrl": null
+    },
+    {
+      "code": "C1856",
+      "faultLocation": "Traction Motor Encoder circuit Failure",
+      "probableCause": "C1859",
+      "detailUrl": null
+    },
+    {
+      "code": "C1860",
+      "faultLocation": "PRNDL Input #3 Circuit Failure",
+      "probableCause": "C1861",
+      "detailUrl": null
+    },
+    {
+      "code": "C1862",
+      "faultLocation": "Contactor Circuit Failure",
+      "probableCause": "C1863",
+      "detailUrl": null
+    },
+    {
+      "code": "C1864",
+      "faultLocation": "Battery Module Fault",
+      "probableCause": "C1865",
+      "detailUrl": null
+    },
+    {
+      "code": "C1866",
+      "faultLocation": "Air Suspension Rear Inflator Solenoid Output Circuit Open",
+      "probableCause": "C1867",
+      "detailUrl": null
+    },
+    {
+      "code": "C1868",
+      "faultLocation": "Air Suspension Rear Inflator Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1869",
+      "detailUrl": null
+    },
+    {
+      "code": "C1870",
+      "faultLocation": "Air Suspension Gate Solenoid Output Circuit Open",
+      "probableCause": "C1871",
+      "detailUrl": null
+    },
+    {
+      "code": "C1872",
+      "faultLocation": "Air Suspension Gate Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1873",
+      "detailUrl": null
+    },
+    {
+      "code": "C1874",
+      "faultLocation": "Air Suspension RF Air Spring Solenoid Output Circuit Open",
+      "probableCause": "C1875",
+      "detailUrl": null
+    },
+    {
+      "code": "C1876",
+      "faultLocation": "Air Suspension RF Air Spring Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1877",
+      "detailUrl": null
+    },
+    {
+      "code": "C1878",
+      "faultLocation": "Air Suspension LF Air Spring Solenoid Output Circuit Open",
+      "probableCause": "C1879",
+      "detailUrl": null
+    },
+    {
+      "code": "C1880",
+      "faultLocation": "Air Suspension LF Air Spring Solenoid Output Circuit Short To Ground",
+      "probableCause": "C1881",
+      "detailUrl": null
+    },
+    {
+      "code": "C1882",
+      "faultLocation": "Air Suspension RF Height Sensor Circuit Open",
+      "probableCause": "C1883",
+      "detailUrl": null
+    },
+    {
+      "code": "C1884",
+      "faultLocation": "Air Suspension RF Height Sensor Circuit Short To Ground",
+      "probableCause": "C1885",
+      "detailUrl": null
+    },
+    {
+      "code": "C1886",
+      "faultLocation": "Air Suspension RR Height Sensor Circuit Open",
+      "probableCause": "C1887",
+      "detailUrl": null
+    },
+    {
+      "code": "C1888",
+      "faultLocation": "Air Suspension RR Height Sensor Circuit Short To Ground",
+      "probableCause": "C1889",
+      "detailUrl": null
+    },
+    {
+      "code": "C1890",
+      "faultLocation": "Air Suspension LF Height Sensor Circuit Open",
+      "probableCause": "C1891",
+      "detailUrl": null
+    },
+    {
+      "code": "C1892",
+      "faultLocation": "Air Suspension LF Height Sensor Circuit Short To Ground",
+      "probableCause": "C1893",
+      "detailUrl": null
+    },
+    {
+      "code": "C1894",
+      "faultLocation": "Air Suspension LR Height Sensor Circuit Open",
+      "probableCause": "C1895",
+      "detailUrl": null
+    },
+    {
+      "code": "C1896",
+      "faultLocation": "Air Suspension LR Height Sensor Circuit Short To Ground",
+      "probableCause": "C1897",
+      "detailUrl": null
+    },
+    {
+      "code": "C1898",
+      "faultLocation": "Steering VAPS II Circuit Loop Open",
+      "probableCause": "C1899",
+      "detailUrl": null
+    },
+    {
+      "code": "C1900",
+      "faultLocation": "Steering VAPS II Circuit Loop Short To Ground",
+      "probableCause": "C1901",
+      "detailUrl": null
+    },
+    {
+      "code": "C1902",
+      "faultLocation": "Ride Control RR Shock Actuator Circuit Open",
+      "probableCause": "C1903",
+      "detailUrl": null
+    },
+    {
+      "code": "C1904",
+      "faultLocation": "Ride Control RR Shock Actuator Circuit Short To Ground",
+      "probableCause": "C1905",
+      "detailUrl": null
+    },
+    {
+      "code": "C1906",
+      "faultLocation": "Ride Control LR Shock Actuator Circuit Open",
+      "probableCause": "C1907",
+      "detailUrl": null
+    },
+    {
+      "code": "C1908",
+      "faultLocation": "Ride Control LR Shock Actuator Circuit Short To Ground",
+      "probableCause": "C1909",
+      "detailUrl": null
+    },
+    {
+      "code": "C1910",
+      "faultLocation": "Ride Control RF Shock Actuator Circuit Open",
+      "probableCause": "C1911",
+      "detailUrl": null
+    },
+    {
+      "code": "C1912",
+      "faultLocation": "Ride Control RF Shock Actuator Circuit Short To Ground",
+      "probableCause": "C1913",
+      "detailUrl": null
+    },
+    {
+      "code": "C1914",
+      "faultLocation": "Ride Control LF Shock Actuator Circuit Open",
+      "probableCause": "C1915",
+      "detailUrl": null
+    },
+    {
+      "code": "C1916",
+      "faultLocation": "Ride Control LF Shock Actuator Circuit Short To Ground",
+      "probableCause": "C1917",
+      "detailUrl": null
+    },
+    {
+      "code": "C1918",
+      "faultLocation": "Air Suspension Ride Height Select Switch Circuit Failure",
+      "probableCause": "C1920",
+      "detailUrl": null
+    },
+    {
+      "code": "C1921",
+      "faultLocation": "VAPS Solenoid Actuator Output Circuit Failure",
+      "probableCause": "C1922",
+      "detailUrl": null
+    },
+    {
+      "code": "C1923",
+      "faultLocation": "VAPS Solenoid Actuator Output Circuit Short To Battery",
+      "probableCause": "C1924",
+      "detailUrl": null
+    },
+    {
+      "code": "C1925",
+      "faultLocation": "VAPS Solenoid Actuator Return Circuit Failure",
+      "probableCause": "C1926",
+      "detailUrl": null
+    },
+    {
+      "code": "C1927",
+      "faultLocation": "VAPS Solenoid Actuator Return Circuit Short To Battery",
+      "probableCause": "C1928",
+      "detailUrl": null
+    },
+    {
+      "code": "C1929",
+      "faultLocation": "Air Suspension Front Compressor Relay Circuit Failure",
+      "probableCause": "C1930",
+      "detailUrl": null
+    },
+    {
+      "code": "C1931",
+      "faultLocation": "Air Suspension Front Compressor Relay Circuit Short To Battery",
+      "probableCause": "C1932",
+      "detailUrl": null
+    },
+    {
+      "code": "C1933",
+      "faultLocation": "Solenoid Current Out Of Range",
+      "probableCause": "C1934",
+      "detailUrl": null
+    },
+    {
+      "code": "C1935",
+      "faultLocation": "Chime Circuit Failure",
+      "probableCause": "C1936",
+      "detailUrl": null
+    },
+    {
+      "code": "C1937",
+      "faultLocation": "Steering Wheel Angle Sensor Offset Failure",
+      "probableCause": "C1938",
+      "detailUrl": null
+    },
+    {
+      "code": "C1939",
+      "faultLocation": "Brake Pressure Switch Input Circuit Failure",
+      "probableCause": "C1940",
+      "detailUrl": null
+    },
+    {
+      "code": "C1942",
+      "faultLocation": "Unrecognized Powertrain Configuration",
+      "probableCause": "C1943",
+      "detailUrl": null
+    },
+    {
+      "code": "C1944",
+      "faultLocation": "Gauge Driver Circuit Fault",
+      "probableCause": "C1945",
+      "detailUrl": null
+    },
+    {
+      "code": "C1946",
+      "faultLocation": "Seat Track Position Switch Circuit Open",
+      "probableCause": "C1947",
+      "detailUrl": null
+    },
+    {
+      "code": "C1948",
+      "faultLocation": "Seat Track Position Switch Circuit Resistance Out of Range",
+      "probableCause": "C1949",
+      "detailUrl": null
+    },
+    {
+      "code": "C1950",
+      "faultLocation": "Accelerometer Sensor Circuit Failure",
+      "probableCause": "C1951",
+      "detailUrl": null
+    },
+    {
+      "code": "C1952",
+      "faultLocation": "Yaw Rate Sensor Circuit Open",
+      "probableCause": "C1953",
+      "detailUrl": null
+    },
+    {
+      "code": "C1954",
+      "faultLocation": "Master Cylinder Pressure Sensor Circuit Failure",
+      "probableCause": "C1955",
+      "detailUrl": null
+    },
+    {
+      "code": "C1956",
+      "faultLocation": "Steering Angle Sensor Circuit Failure",
+      "probableCause": "C1957",
+      "detailUrl": null
+    },
+    {
+      "code": "C1958",
+      "faultLocation": "Dynamic Stability Control Valve LF Circuit Failure",
+      "probableCause": "C1959",
+      "detailUrl": null
+    },
+    {
+      "code": "C1960",
+      "faultLocation": "Driver Brake Apply Circuit Fault",
+      "probableCause": "C1961",
+      "detailUrl": null
+    },
+    {
+      "code": "C1962",
+      "faultLocation": "Park Lamp Relay Coil Short to Battery",
+      "probableCause": "C1963",
+      "detailUrl": null
+    },
+    {
+      "code": "C2000",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "C2767",
+      "detailUrl": null
+    },
+    {
+      "code": "C3000",
+      "faultLocation": "ISO/SAE Reserved",
+      "probableCause": "",
+      "detailUrl": null
+    }
+  ]
+}
