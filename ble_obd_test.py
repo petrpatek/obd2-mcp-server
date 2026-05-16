@@ -1,170 +1,204 @@
 """
-BLE OBD Test — send AT commands to a BLE OBD adapter over GATT.
+BLE OBD Test — send AT/OBD commands to a BLE OBD adapter over GATT.
 
 Usage:
     python3 ble_obd_test.py --address <DEVICE_UUID>
-    python3 ble_obd_test.py --address <DEVICE_UUID> --write-uuid 0000fff2-... --notify-uuid 0000fff1-...
+    python3 ble_obd_test.py --address <UUID> \
+        --write-uuid 0000fff2-... --notify-uuid 0000fff1-...
 
-If UUIDs are not specified, tries common OBD BLE UUIDs automatically.
+If UUIDs are not specified, tries known OBD BLE profiles automatically.
 
-Requires: pip3 install bleak
+Requires: pip install bleak
 """
 
-import asyncio
+from __future__ import annotations
+
 import argparse
+import asyncio
 import sys
 
-# Common BLE GATT UUIDs used by ELM327-based OBD adapters
-KNOWN_UUID_SETS = [
-    {
-        "name": "FFF0/FFF1/FFF2 (vLinker, OBDLink CX)",
-        "service": "0000fff0-0000-1000-8000-00805f9b34fb",
-        "notify": "0000fff1-0000-1000-8000-00805f9b34fb",
-        "write": "0000fff2-0000-1000-8000-00805f9b34fb",
-    },
-    {
-        "name": "FFE0/FFE1 (LeLink, generic Chinese adapters)",
-        "service": "0000ffe0-0000-1000-8000-00805f9b34fb",
-        "notify": "0000ffe1-0000-1000-8000-00805f9b34fb",
-        "write": "0000ffe1-0000-1000-8000-00805f9b34fb",  # same char for read/write
-    },
-    {
-        "name": "E7810A71 (Veepeak/custom)",
-        "service": "e7810a71-73ae-499d-8c15-faa9aef0c3f2",
-        "notify": "bef8d6c9-9c21-4c9e-b632-bd58c1009f9f",
-        "write": "bef8d6c9-9c21-4c9e-b632-bd58c1009f9f",
-    },
-]
+try:
+    from obd2_mcp.ble_connection import KNOWN_UUID_SETS
+except ImportError:
+    KNOWN_UUID_SETS = [
+        {"name": "FFF0 (vLinker FD, OBDLink CX)",
+         "service": "0000fff0-0000-1000-8000-00805f9b34fb",
+         "notify": "0000fff1-0000-1000-8000-00805f9b34fb",
+         "write": "0000fff2-0000-1000-8000-00805f9b34fb"},
+        {"name": "FFE0 (LeLink/HM-10)",
+         "service": "0000ffe0-0000-1000-8000-00805f9b34fb",
+         "notify": "0000ffe1-0000-1000-8000-00805f9b34fb",
+         "write": "0000ffe1-0000-1000-8000-00805f9b34fb"},
+        {"name": "NUS (Nordic UART)",
+         "service": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+         "notify": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+         "write": "6e400002-b5a3-f393-e0a9-e50e24dcca9e"},
+    ]
+
+
+# ---------------------------------------------------------------------------
+# Framing: a read-until-'>' helper shared by both test and interactive modes
+# ---------------------------------------------------------------------------
+
+class _Framer:
+    """Accumulates BLE notify bytes, signals when a full '>'-terminated
+    ELM327 response is available."""
+
+    def __init__(self) -> None:
+        self.buffer = bytearray()
+        self.event = asyncio.Event()
+
+    def on_notify(self, _sender, data: bytearray) -> None:
+        self.buffer.extend(data)
+        if b">" in self.buffer:
+            self.event.set()
+
+    def take(self) -> str:
+        raw = bytes(self.buffer).decode("ascii", errors="replace")
+        self.buffer.clear()
+        self.event.clear()
+        # Trim everything from '>' onward; '>' is the prompt, not data.
+        idx = raw.find(">")
+        if idx >= 0:
+            raw = raw[:idx]
+        return raw
+
+
+async def _send(client, framer: _Framer, write_uuid: str, cmd: str,
+                timeout: float = 5.0) -> str:
+    """Send a command, wait for the '>' prompt, return the cleaned response."""
+    framer.buffer.clear()
+    framer.event.clear()
+    await client.write_gatt_char(write_uuid, f"{cmd}\r".encode("ascii"),
+                                 response=False)
+    try:
+        await asyncio.wait_for(framer.event.wait(), timeout=timeout)
+    except asyncio.TimeoutError:
+        pass
+    raw = framer.take()
+    # Drop echo + blank lines
+    lines = []
+    for line in raw.replace("\r", "\n").split("\n"):
+        s = line.strip()
+        if not s or s.upper() == cmd.upper():
+            continue
+        if s.upper().startswith("SEARCHING"):
+            continue
+        lines.append(s)
+    return "\n".join(lines)
 
 
 async def try_uuid_set(client, uuid_set: dict) -> bool:
-    """Try to communicate using a specific set of UUIDs. Returns True on success."""
+    """Probe whether this UUID profile returns an 'ELM' banner on ATZ."""
     name = uuid_set["name"]
     notify_uuid = uuid_set["notify"]
     write_uuid = uuid_set["write"]
 
-    # Check if the characteristics exist
     try:
-        write_char = client.services.get_characteristic(write_uuid)
-        notify_char = client.services.get_characteristic(notify_uuid)
-        if not write_char or not notify_char:
+        if not client.services.get_characteristic(write_uuid):
             return False
-    except Exception:
+        if not client.services.get_characteristic(notify_uuid):
+            return False
+    except Exception:  # noqa: BLE001
         return False
 
-    print(f"  Trying UUID set: {name}")
-    response_data = bytearray()
-
-    def on_notify(sender, data):
-        response_data.extend(data)
-
+    print(f"  Trying: {name}")
+    framer = _Framer()
     try:
-        await client.start_notify(notify_uuid, on_notify)
-        await asyncio.sleep(0.2)
-
-        # Send ATZ (reset)
-        await client.write_gatt_char(write_uuid, b"ATZ\r", response=False)
-        await asyncio.sleep(2.0)
-
+        await client.start_notify(notify_uuid, framer.on_notify)
+        await asyncio.sleep(0.3)
+        resp = await _send(client, framer, write_uuid, "ATZ", timeout=3.0)
         await client.stop_notify(notify_uuid)
-
-        if response_data:
-            decoded = bytes(response_data).decode("ascii", errors="replace").strip()
-            print(f"  ✓ Response: {decoded}")
-            return True
-        else:
-            print(f"  ✗ No response")
-            return False
-    except Exception as e:
-        print(f"  ✗ Error: {e}")
-        try:
-            await client.stop_notify(notify_uuid)
-        except Exception:
-            pass
+    except Exception as e:  # noqa: BLE001
+        print(f"    ✗ Error: {e}")
         return False
 
+    if resp and "ELM" in resp.upper():
+        print(f"    ✓ ELM banner: {resp}")
+        return True
+    if resp:
+        print(f"    ? Got response but no 'ELM' banner: {resp!r}")
+    else:
+        print("    ✗ No response")
+    return False
 
-async def interactive_session(client, write_uuid: str, notify_uuid: str):
-    """Interactive AT command session over BLE."""
-    print("\n=== Interactive OBD Session (BLE) ===")
-    print("Type AT commands (ATZ, ATI, ATRV, 0100, etc.)")
-    print("Type 'quit' to exit.\n")
 
-    response_buffer = bytearray()
-    response_event = asyncio.Event()
+async def interactive_session(client, write_uuid: str, notify_uuid: str) -> None:
+    """Run a canned diagnostic sequence over BLE + print results."""
+    print("\n=== OBD Diagnostic Session (BLE) ===\n")
+    framer = _Framer()
+    await client.start_notify(notify_uuid, framer.on_notify)
 
-    def on_notify(sender, data):
-        response_buffer.extend(data)
-        # ELM327 ends responses with '>' prompt
-        if b">" in data:
-            response_event.set()
-
-    await client.start_notify(notify_uuid, on_notify)
-
-    # Test commands to run automatically first
-    auto_cmds = [
-        ("ATZ", "Reset adapter"),
-        ("ATI", "Adapter info"),
-        ("ATE0", "Echo off"),
-        ("ATRV", "Battery voltage"),
-        ("ATSP0", "Auto-detect protocol"),
-        ("0100", "Supported PIDs [01-20]"),
+    # Initialize ELM327 — same sequence as the production connection class.
+    init = [
+        ("ATZ",    "Reset",           3.0),
+        ("ATE0",   "Echo off",        2.0),
+        ("ATL0",   "Linefeeds off",   2.0),
+        ("ATS0",   "Spaces off",      2.0),
+        ("ATH1",   "Headers on",      2.0),
+        ("ATCAF1", "CAN auto-format", 2.0),
+        ("ATAT1",  "Adaptive timing", 2.0),
+        ("ATST64", "Response timeout 400ms", 2.0),
+        ("ATSP0",  "Auto protocol",   2.0),
     ]
-
-    for cmd, desc in auto_cmds:
-        response_buffer.clear()
-        response_event.clear()
-
+    for cmd, desc, timeout in init:
         print(f">>> {cmd}  ({desc})")
-        await client.write_gatt_char(write_uuid, f"{cmd}\r".encode(), response=False)
+        resp = await _send(client, framer, write_uuid, cmd, timeout=timeout)
+        for line in (resp or "(no response)").split("\n"):
+            print(f"    {line}")
+        print()
 
-        try:
-            await asyncio.wait_for(response_event.wait(), timeout=5.0)
-        except asyncio.TimeoutError:
-            pass
-
-        if response_buffer:
-            decoded = bytes(response_buffer).decode("ascii", errors="replace").strip()
-            # Clean up the output
-            lines = [l.strip() for l in decoded.split("\r") if l.strip() and l.strip() != ">"]
-            for line in lines:
-                print(f"    {line}")
-        else:
-            print(f"    (no response)")
+    # Diagnostic queries
+    queries = [
+        ("ATRV",   "Battery voltage",              2.0),
+        ("ATDPN",  "Detected protocol (number)",   2.0),
+        ("0100",   "Supported PIDs [01-20]",       10.0),
+        ("010C",   "Engine RPM",                   5.0),
+        ("010D",   "Vehicle speed",                5.0),
+        ("0105",   "Coolant temp",                 5.0),
+        ("03",     "Stored DTCs",                  5.0),
+    ]
+    for cmd, desc, timeout in queries:
+        print(f">>> {cmd}  ({desc})")
+        resp = await _send(client, framer, write_uuid, cmd, timeout=timeout)
+        for line in (resp or "(no response)").split("\n"):
+            print(f"    {line}")
         print()
 
     await client.stop_notify(notify_uuid)
 
 
-async def main():
+async def main() -> None:
     from bleak import BleakClient
 
     parser = argparse.ArgumentParser(description="BLE OBD tester")
     parser.add_argument("--address", required=True, help="BLE device address/UUID")
-    parser.add_argument("--write-uuid", default=None, help="GATT write characteristic UUID")
-    parser.add_argument("--notify-uuid", default=None, help="GATT notify characteristic UUID")
+    parser.add_argument("--write-uuid", default=None,
+                        help="GATT write characteristic UUID")
+    parser.add_argument("--notify-uuid", default=None,
+                        help="GATT notify characteristic UUID")
     args = parser.parse_args()
 
     print(f"Connecting to {args.address}...")
-    async with BleakClient(args.address, timeout=15.0) as client:
+    async with BleakClient(args.address, timeout=20.0) as client:
         print(f"Connected: {client.is_connected}\n")
 
         if args.write_uuid and args.notify_uuid:
-            # Use specified UUIDs directly
             await interactive_session(client, args.write_uuid, args.notify_uuid)
-        else:
-            # Auto-detect: try known UUID sets
-            print("Auto-detecting GATT UUIDs...\n")
-            for uuid_set in KNOWN_UUID_SETS:
-                success = await try_uuid_set(client, uuid_set)
-                if success:
-                    print(f"\n  ✓ Found working UUID set: {uuid_set['name']}")
-                    print(f"    Write:  {uuid_set['write']}")
-                    print(f"    Notify: {uuid_set['notify']}\n")
-                    await interactive_session(client, uuid_set["write"], uuid_set["notify"])
-                    return
+            return
 
-            print("\nNo known UUID sets worked. Run ble_scan.py --connect to discover the correct UUIDs.")
+        print("Auto-detecting GATT UUIDs...\n")
+        for uuid_set in KNOWN_UUID_SETS:
+            if await try_uuid_set(client, uuid_set):
+                print(f"\n  ✓ Using profile: {uuid_set['name']}")
+                print(f"    Write:  {uuid_set['write']}")
+                print(f"    Notify: {uuid_set['notify']}\n")
+                await interactive_session(client, uuid_set["write"], uuid_set["notify"])
+                return
+
+        print("\nNo known UUID profile worked.")
+        print("Run: python3 ble_scan.py --address", args.address)
+        print("to discover the correct UUIDs manually.")
 
 
 if __name__ == "__main__":
@@ -174,5 +208,5 @@ if __name__ == "__main__":
         pass
     except ImportError:
         print("ERROR: 'bleak' is not installed.")
-        print("Install it with: pip3 install bleak")
+        print("Install it with: pip install bleak")
         sys.exit(1)

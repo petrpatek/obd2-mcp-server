@@ -6,7 +6,7 @@ import json
 import pytest
 
 from obd2_mcp.mock_obd import MockOBDConnection
-from obd2_mcp.dtc_database import lookup_dtc, get_dtc_category, get_dtc_context
+from obd2_mcp.dtc_database import lookup_dtc, get_dtc_category
 from obd2_mcp.server import (
     _handle_read_dtc,
     _handle_clear_dtc,
@@ -57,14 +57,6 @@ class TestDTCDatabase:
 
     def test_category_network(self):
         assert "Network" in get_dtc_category("U0100")
-
-    def test_focus_cc_context_exists(self):
-        ctx = get_dtc_context("B1310")
-        assert ctx is not None
-        assert "convertible" in ctx.lower() or "Focus CC" in ctx
-
-    def test_focus_cc_context_missing(self):
-        assert get_dtc_context("P0420") is None
 
 
 # ---------------------------------------------------------------------------
@@ -131,53 +123,57 @@ class TestMockOBD:
 # ---------------------------------------------------------------------------
 
 class TestMCPTools:
-    def test_read_dtc_all(self):
-        result = _parse(_handle_read_dtc({}))
+    @pytest.mark.asyncio
+    async def test_read_dtc_all(self):
+        result = _parse(await _handle_read_dtc({}))
         assert result["dtc_count"] == 2
         codes = [d["code"] for d in result["dtcs"]]
         assert "B1310" in codes
 
-    def test_read_dtc_empty_module(self):
-        result = _parse(_handle_read_dtc({"module": "folding_top"}))
+    @pytest.mark.asyncio
+    async def test_read_dtc_empty_module(self):
+        result = _parse(await _handle_read_dtc({"module": "folding_top"}))
         assert result["dtc_count"] == 0
         assert "clean" in result["summary"].lower()
 
-    def test_read_dtc_has_context(self):
-        result = _parse(_handle_read_dtc({}))
-        b1310 = next(d for d in result["dtcs"] if d["code"] == "B1310")
-        assert "vehicle_context" in b1310
-
-    def test_clear_dtc_requires_confirm(self):
-        result = _parse(_handle_clear_dtc({"module": "passenger_door", "confirm": False}))
+    @pytest.mark.asyncio
+    async def test_clear_dtc_requires_confirm(self):
+        result = _parse(await _handle_clear_dtc({"module": "passenger_door", "confirm": False}))
         assert "error" in result
 
-    def test_clear_dtc_success(self):
-        result = _parse(_handle_clear_dtc({"module": "passenger_door", "confirm": True}))
+    @pytest.mark.asyncio
+    async def test_clear_dtc_success(self):
+        result = _parse(await _handle_clear_dtc({"module": "passenger_door", "confirm": True}))
         assert result["cleared"] is True
 
-    def test_get_live_data(self):
-        result = _parse(_handle_get_live_data({}))
+    @pytest.mark.asyncio
+    async def test_get_live_data(self):
+        result = _parse(await _handle_get_live_data({}))
         assert result["reading_count"] > 0
         rpm = next(r for r in result["readings"] if r["pid"] == "RPM")
         assert 700 < rpm["value"] < 900
 
-    def test_get_live_data_specific_pids(self):
-        result = _parse(_handle_get_live_data({"pids": ["RPM", "COOLANT_TEMP"]}))
+    @pytest.mark.asyncio
+    async def test_get_live_data_specific_pids(self):
+        result = _parse(await _handle_get_live_data({"pids": ["RPM", "COOLANT_TEMP"]}))
         assert result["reading_count"] == 2
 
-    def test_get_vehicle_info(self):
-        result = _parse(_handle_get_vehicle_info({}))
+    @pytest.mark.asyncio
+    async def test_get_vehicle_info(self):
+        result = _parse(await _handle_get_vehicle_info({}))
         assert result["vin"].startswith("WF0")
         assert "Focus" in result["ecu_name"]
 
-    def test_list_modules(self):
-        result = _parse(_handle_list_modules({}))
+    @pytest.mark.asyncio
+    async def test_list_modules(self):
+        result = _parse(await _handle_list_modules({}))
         assert result["module_count"] == 7
         names = [m["name"] for m in result["modules"]]
         assert any("Folding Top" in n for n in names)
 
-    def test_get_freeze_frame(self):
-        result = _parse(_handle_get_freeze_frame({"dtc_code": "B1310"}))
+    @pytest.mark.asyncio
+    async def test_get_freeze_frame(self):
+        result = _parse(await _handle_get_freeze_frame({"dtc_code": "B1310"}))
         assert result["dtc_code"] == "B1310"
         assert result["freeze_frame"] is not None
 
@@ -185,7 +181,6 @@ class TestMCPTools:
         result = _parse(_handle_explain_dtc({"dtc_code": "B1310"}))
         assert result["code"] == "B1310"
         assert "Power Door Unlock" in result["description"]
-        assert "vehicle_specific_context" in result
 
     def test_explain_dtc_unknown(self):
         result = _parse(_handle_explain_dtc({"dtc_code": "P9999"}))

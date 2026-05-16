@@ -39,6 +39,10 @@ An MCP server that bridges your car's OBD-II diagnostic port to Claude via the [
 
 Claude can read your car's fault codes, live sensor data, and vehicle info — then explain what it all means in plain language. Built for the ["I Let AI Diagnose My Car"](https://bitvea.com) PR stunt using a 2010 Ford Focus CC convertible with a broken passenger window and non-functional roof.
 
+## Status: Alpha (for inspiration, not production)
+
+This is an early alpha built in a weekend. I'm a JavaScript/TypeScript developer who vibe-coded this in Python with Claude's help. It works, it's tested, but it's not production-grade. Use it as inspiration, fork it, improve it — PRs welcome.
+
 ## Tools
 
 | Tool | Description |

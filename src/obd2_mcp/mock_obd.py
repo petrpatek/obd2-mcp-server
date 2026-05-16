@@ -132,9 +132,9 @@ class MockOBDConnection:
 
     def get_vehicle_info(self) -> VehicleInfo:
         return VehicleInfo(
-            vin="WVWZZZ3CZWE000000",  # Generic demo VIN
+            vin="WF0XXXGCDX0000000",  # Ford Focus CC pattern
             calibration_ids=["DEMO-CAL-001", "DEMO-CAL-002"],
-            ecu_name="Demo Vehicle — PCM",
+            ecu_name="Ford Focus CC — PCM",
             obd_standard="ISO 15765-4 (CAN 11/500)",
         )
 
@@ -146,6 +146,7 @@ class MockOBDConnection:
             Module(address="0x740", name="Body Control Module (BCM)", protocol="MS-CAN"),
             Module(address="0x760", name="ABS Module", protocol="HS-CAN"),
             Module(address="0x720", name="Instrument Cluster", protocol="MS-CAN"),
+            Module(address="0x750", name="Folding Top Control Module", protocol="MS-CAN"),
         ]
 
     def get_freeze_frame(self, dtc_code: str) -> FreezeFrame | None:

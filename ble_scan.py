@@ -1,38 +1,85 @@
 """
-BLE Scanner — finds your vLinker FD adapter and discovers its GATT services.
+BLE Scanner — finds BLE OBD adapters (vLinker FD etc.) and dumps their
+GATT service/characteristic layout.
 
 Usage:
-    python3 ble_scan.py              # Scan for all BLE devices
-    python3 ble_scan.py --connect    # Also connect and list GATT services/characteristics
+    python3 ble_scan.py                        # Scan for nearby devices
+    python3 ble_scan.py --connect              # Connect to first OBD match
+    python3 ble_scan.py --address <UUID>       # Deep-scan a specific device
 
-Requires: pip3 install bleak
+Requires: pip install bleak
 """
 
-import asyncio
+from __future__ import annotations
+
 import argparse
+import asyncio
 import sys
 
+# Share the known profile table with the runtime connection so they stay
+# in sync.
+try:
+    from obd2_mcp.ble_connection import (
+        KNOWN_UUID_SETS,
+        OBD_NAME_PATTERNS,
+        OBD_SERVICE_UUIDS,
+    )
+except ImportError:
+    # Fallback if run outside the package (setup.sh hasn't been used yet)
+    OBD_NAME_PATTERNS = [
+        "vlinker", "obdlink", "veepeak", "elm327", "elm329",
+        "obd", "carista", "lelink", "konnwei", "ancel",
+        "bluedriver", "fixd", "bafx", "vgate", "icar",
+    ]
+    KNOWN_UUID_SETS = [
+        {"name": "FFF0",
+         "service": "0000fff0-0000-1000-8000-00805f9b34fb",
+         "notify": "0000fff1-0000-1000-8000-00805f9b34fb",
+         "write": "0000fff2-0000-1000-8000-00805f9b34fb"},
+        {"name": "FFE0",
+         "service": "0000ffe0-0000-1000-8000-00805f9b34fb",
+         "notify": "0000ffe1-0000-1000-8000-00805f9b34fb",
+         "write": "0000ffe1-0000-1000-8000-00805f9b34fb"},
+        {"name": "NUS",
+         "service": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+         "notify": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+         "write": "6e400002-b5a3-f393-e0a9-e50e24dcca9e"},
+    ]
+    OBD_SERVICE_UUIDS = [s["service"] for s in KNOWN_UUID_SETS]
 
-async def scan_devices(duration: float = 10.0):
-    """Scan for nearby BLE devices."""
+
+def _is_probably_obd(name: str, service_uuids: list[str]) -> str | None:
+    """Return a match reason if a device looks like an OBD adapter, else None."""
+    name_lower = (name or "").lower()
+    if any(p in name_lower for p in OBD_NAME_PATTERNS):
+        return "name"
+    svc_set = {u.lower() for u in (service_uuids or [])}
+    if svc_set & {u.lower() for u in OBD_SERVICE_UUIDS}:
+        return "service-uuid"
+    return None
+
+
+async def scan_devices(duration: float = 12.0) -> list[dict]:
+    """Scan for nearby BLE devices. Returns list of likely OBD adapters."""
     from bleak import BleakScanner
 
-    print(f"Scanning for BLE devices ({duration}s)...\n")
+    print(f"Scanning for BLE devices ({duration:.0f}s)...\n")
     devices = await BleakScanner.discover(timeout=duration, return_adv=True)
 
-    obd_devices = []
-    other_devices = []
+    obd_devices: list[dict] = []
+    other_devices: list[dict] = []
 
     for device, adv_data in devices.values():
+        name = device.name or adv_data.local_name or "(unknown)"
         entry = {
-            "name": device.name or adv_data.local_name or "(unknown)",
+            "name": name,
             "address": device.address,
             "rssi": adv_data.rssi,
-            "service_uuids": adv_data.service_uuids,
+            "service_uuids": adv_data.service_uuids or [],
         }
-        # Flag likely OBD adapters
-        name_lower = (entry["name"] or "").lower()
-        if any(kw in name_lower for kw in ["vlinker", "obd", "elm", "obdlink", "veepeak", "carista", "lelink"]):
+        match = _is_probably_obd(name, entry["service_uuids"])
+        if match:
+            entry["match_reason"] = match
             obd_devices.append(entry)
         else:
             other_devices.append(entry)
@@ -40,20 +87,27 @@ async def scan_devices(duration: float = 10.0):
     if obd_devices:
         print("=== OBD ADAPTERS FOUND ===\n")
         for d in obd_devices:
-            print(f"  Name:     {d['name']}")
-            print(f"  Address:  {d['address']}")
-            print(f"  RSSI:     {d['rssi']} dBm")
+            print(f"  Name:         {d['name']}")
+            print(f"  Address:      {d['address']}")
+            print(f"  RSSI:         {d['rssi']} dBm")
+            print(f"  Match reason: {d['match_reason']}")
             if d["service_uuids"]:
-                print(f"  Services: {', '.join(d['service_uuids'])}")
+                print(f"  Services:     {', '.join(d['service_uuids'])}")
             print()
     else:
-        print("No OBD adapters found in BLE scan.")
-        print("Make sure the adapter is plugged in and the car ignition is ON.\n")
+        print("No OBD adapters found.\n")
+        print("Checklist:")
+        print("  1. Adapter plugged into OBD port + ignition ON")
+        print("  2. Adapter NOT paired as classic Bluetooth SPP")
+        print("     (System Settings → Bluetooth → Forget it)")
+        print("  3. Terminal has Bluetooth permission")
+        print("     (System Settings → Privacy & Security → Bluetooth)")
+        print()
 
     if other_devices:
         print(f"=== OTHER BLE DEVICES ({len(other_devices)}) ===\n")
         for d in sorted(other_devices, key=lambda x: x["rssi"], reverse=True)[:15]:
-            name = d["name"] if d["name"] != "(unknown)" else f"(unknown @ {d['address'][:8]}…)"
+            name = d["name"] if d["name"] != "(unknown)" else f"(unknown @ {str(d['address'])[:8]}…)"
             print(f"  {name:40s}  RSSI: {d['rssi']:4d} dBm")
         if len(other_devices) > 15:
             print(f"  ... and {len(other_devices) - 15} more")
@@ -62,17 +116,23 @@ async def scan_devices(duration: float = 10.0):
     return obd_devices
 
 
-async def deep_scan(address: str):
+async def deep_scan(address: str) -> None:
     """Connect to a device and enumerate all GATT services and characteristics."""
     from bleak import BleakClient
 
     print(f"Connecting to {address}...")
-    async with BleakClient(address, timeout=15.0) as client:
-        print(f"Connected: {client.is_connected}\n")
+    async with BleakClient(address, timeout=20.0) as client:
+        print(f"Connected: {client.is_connected}")
+        try:
+            print(f"Negotiated MTU: {client.mtu_size} bytes\n")
+        except Exception:  # noqa: BLE001
+            print()
+
         print("=== GATT SERVICES ===\n")
 
-        write_chars = []
-        notify_chars = []
+        write_chars: list[str] = []
+        notify_chars: list[str] = []
+        known_profile: dict | None = None
 
         for service in client.services:
             print(f"  Service: {service.uuid}")
@@ -92,59 +152,85 @@ async def deep_scan(address: str):
                     notify_chars.append(char.uuid)
             print()
 
-        # Summary
+            # Match against known profiles
+            for uuid_set in KNOWN_UUID_SETS:
+                if service.uuid.lower() == uuid_set["service"].lower():
+                    known_profile = uuid_set
+                    break
+
         print("=== RECOMMENDED UUIDS FOR OBD ===\n")
-        if write_chars:
-            print(f"  Write characteristic(s):  {', '.join(write_chars)}")
-        if notify_chars:
-            print(f"  Notify characteristic(s): {', '.join(notify_chars)}")
+        if known_profile:
+            print(f"  Matched known profile: {known_profile['name']}")
+            print(f"    Write:  {known_profile['write']}")
+            print(f"    Notify: {known_profile['notify']}\n")
+            write_uuid = known_profile["write"]
+            notify_uuid = known_profile["notify"]
+        elif write_chars and notify_chars:
+            write_uuid = write_chars[0]
+            notify_uuid = notify_chars[0]
+            print(f"  Auto-detected (first write/notify pair):")
+            print(f"    Write:  {write_uuid}")
+            print(f"    Notify: {notify_uuid}\n")
+        else:
+            write_uuid = notify_uuid = None
+            print("  Could not find a write+notify pair.\n")
 
-        if write_chars and notify_chars:
-            print(f"\n  Try this command:")
+        if write_uuid and notify_uuid:
+            print(f"  Suggested next step:")
             print(f"    python3 ble_obd_test.py --address {address} \\")
-            print(f"        --write-uuid {write_chars[0]} \\")
-            print(f"        --notify-uuid {notify_chars[0]}")
+            print(f"        --write-uuid {write_uuid} \\")
+            print(f"        --notify-uuid {notify_uuid}\n")
 
-        # Quick test: send ATZ and see if we get a response
-        if write_chars and notify_chars:
-            print("\n=== QUICK TEST: Sending ATZ (reset) ===\n")
-            response_data = bytearray()
+        # Quick test: send ATZ and see if we get a '>' prompt back
+        if write_uuid and notify_uuid:
+            print("=== QUICK TEST: ATZ (reset) ===\n")
+            buffer = bytearray()
+            done = asyncio.Event()
 
-            def on_notify(sender, data):
-                response_data.extend(data)
+            def on_notify(_sender, data: bytearray) -> None:
+                buffer.extend(data)
+                if b">" in buffer:
+                    done.set()
 
-            await client.start_notify(notify_chars[0], on_notify)
-            await asyncio.sleep(0.3)
+            await client.start_notify(notify_uuid, on_notify)
+            await asyncio.sleep(0.3)  # let subscription settle
 
-            # Send ATZ\r
-            cmd = b"ATZ\r"
-            print(f"  Sending: {cmd!r}")
+            print("  Sending: b'ATZ\\r'")
             try:
-                await client.write_gatt_char(write_chars[0], cmd, response=False)
-            except Exception:
-                # Some chars need write-with-response
-                await client.write_gatt_char(write_chars[0], cmd, response=True)
+                await client.write_gatt_char(write_uuid, b"ATZ\r", response=False)
+            except Exception:  # noqa: BLE001
+                await client.write_gatt_char(write_uuid, b"ATZ\r", response=True)
 
-            await asyncio.sleep(2.0)
-            await client.stop_notify(notify_chars[0])
+            try:
+                await asyncio.wait_for(done.wait(), timeout=5.0)
+            except asyncio.TimeoutError:
+                pass
 
-            if response_data:
-                print(f"  Response: {bytes(response_data)!r}")
-                decoded = response_data.decode("ascii", errors="replace").strip()
-                print(f"  Decoded:  {decoded}")
-                print(f"\n  ✓ Adapter is responding over BLE!")
+            await client.stop_notify(notify_uuid)
+
+            if buffer:
+                print(f"  Raw:     {bytes(buffer)!r}")
+                decoded = buffer.decode("ascii", errors="replace").strip()
+                print(f"  Decoded: {decoded}")
+                if "ELM" in decoded.upper():
+                    print("\n  ✓ Adapter is a live ELM327 over BLE!")
+                else:
+                    print("\n  ⚠ Got data, but no 'ELM' banner. Adapter may be in an "
+                          "unexpected state — try again with ignition ON.")
             else:
-                print(f"  No response (adapter may need ignition ON for power)")
+                print("  ⚠ No response. Most likely: ignition is OFF (adapter has "
+                      "no power), or the write/notify UUIDs are wrong for this device.")
 
 
-async def main():
+async def main() -> None:
     parser = argparse.ArgumentParser(description="BLE scanner for OBD adapters")
     parser.add_argument("--connect", action="store_true",
-                        help="Connect to the first OBD adapter found and enumerate GATT services")
+                        help="Also connect to the first OBD adapter found "
+                             "and enumerate its GATT services.")
     parser.add_argument("--address", type=str, default=None,
-                        help="Connect to a specific BLE device address/UUID")
-    parser.add_argument("--duration", type=float, default=10.0,
-                        help="Scan duration in seconds (default: 10)")
+                        help="Deep-scan a specific BLE device by address/UUID.")
+    parser.add_argument("--duration", type=float, default=12.0,
+                        help="Scan duration in seconds (default: 12).")
     args = parser.parse_args()
 
     if args.address:
@@ -154,9 +240,9 @@ async def main():
     obd_devices = await scan_devices(duration=args.duration)
 
     if args.connect and obd_devices:
-        addr = obd_devices[0]["address"]
-        print(f"--- Deep-scanning first OBD adapter: {obd_devices[0]['name']} ---\n")
-        await deep_scan(addr)
+        first = obd_devices[0]
+        print(f"--- Deep-scanning first OBD adapter: {first['name']} ---\n")
+        await deep_scan(first["address"])
     elif args.connect and not obd_devices:
         print("No OBD adapter found to connect to.")
         print("Try: python3 ble_scan.py --address <DEVICE_UUID>")
@@ -169,5 +255,5 @@ if __name__ == "__main__":
         pass
     except ImportError:
         print("ERROR: 'bleak' is not installed.")
-        print("Install it with: pip3 install bleak")
+        print("Install it with: pip install bleak")
         sys.exit(1)

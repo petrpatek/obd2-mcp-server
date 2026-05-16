@@ -85,6 +85,67 @@
       ]
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "src/obd2_mcp/ble_connection.py",
+      "accessCount": 22,
+      "lastAccessed": 1777229482513,
+      "type": "file"
+    },
+    {
+      "path": "src/obd2_mcp/server.py",
+      "accessCount": 6,
+      "lastAccessed": 1777229358429,
+      "type": "file"
+    },
+    {
+      "path": "ble_scan.py",
+      "accessCount": 2,
+      "lastAccessed": 1777036785003,
+      "type": "file"
+    },
+    {
+      "path": "ble_obd_test.py",
+      "accessCount": 2,
+      "lastAccessed": 1777036821625,
+      "type": "file"
+    },
+    {
+      "path": "tests/test_ble_parsing.py",
+      "accessCount": 2,
+      "lastAccessed": 1777037047942,
+      "type": "file"
+    },
+    {
+      "path": "BUILD_LOG.md",
+      "accessCount": 1,
+      "lastAccessed": 1777036162351,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1777036162739,
+      "type": "file"
+    },
+    {
+      "path": "src/obd2_mcp/obd_connection.py",
+      "accessCount": 1,
+      "lastAccessed": 1777036174105,
+      "type": "file"
+    },
+    {
+      "path": "src/obd2_mcp/mock_obd.py",
+      "accessCount": 1,
+      "lastAccessed": 1777036425522,
+      "type": "file"
+    },
+    {
+      "path": "tests/test_server.py",
+      "accessCount": 1,
+      "lastAccessed": 1777036425650,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }

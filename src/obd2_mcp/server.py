@@ -30,9 +30,7 @@ from obd2_mcp.dtc_database import (
     find_codes_for_brand,
     get_dtc_category,
     get_procedures,
-    get_submodels,
     list_brands,
-    lookup_dtc,
     lookup_dtc_full,
 )
 from obd2_mcp.mock_obd import MockOBDConnection
@@ -61,7 +59,29 @@ def _ensure_connected() -> OBDConnectionProtocol:
     if connection is None:
         raise RuntimeError("OBD adapter not initialized")
     if not connection.is_connected():
+        # Surface the most recent BLE connect error if we have one.
+        last = getattr(connection, "last_connect_error", None)
+        if last:
+            raise RuntimeError(
+                f"OBD adapter is not connected. Last connect error:\n{last}"
+            )
         raise RuntimeError("OBD adapter is not connected")
+    return connection
+
+
+async def _ensure_ready() -> OBDConnectionProtocol:
+    """Async wrapper that triggers a lazy reconnect for BLE if not connected."""
+    if connection is None:
+        raise RuntimeError("OBD adapter not initialized")
+    if not connection.is_connected():
+        ensure_ready = getattr(connection, "ensure_ready", None)
+        if ensure_ready is not None:
+            try:
+                await ensure_ready()
+            except Exception as e:  # noqa: BLE001
+                raise RuntimeError(f"OBD adapter could not be (re)connected: {e}") from e
+        else:
+            raise RuntimeError("OBD adapter is not connected")
     return connection
 
 
@@ -284,7 +304,7 @@ async def list_tools() -> list[Tool]:
 
 async def _call_method(method_name: str, **kwargs):
     """Call a method on the connection, supporting both sync and async implementations."""
-    conn = _ensure_connected()
+    conn = await _ensure_ready()
     method = getattr(conn, method_name)
     result = method(**kwargs)
     # If the connection returns a coroutine (BLE), await it
@@ -309,7 +329,7 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> list[TextContent]:
         elif name == "get_freeze_frame":
             return await _handle_get_freeze_frame(arguments)
         elif name == "explain_dtc":
-            return await _handle_explain_dtc(arguments)
+            return _handle_explain_dtc(arguments)
         elif name == "list_brands":
             return _handle_list_brands(arguments)
         elif name == "search_dtc_database":
@@ -568,6 +588,15 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="BLE GATT notify characteristic UUID (auto-detected if omitted)",
     )
     parser.add_argument(
+        "--probe",
+        action="store_true",
+        help=(
+            "Run an end-to-end BLE diagnostic (scan → connect → init → "
+            "query) and print a report. Does not start the MCP server. "
+            "Combine with --ble / --ble-name to scope the scan."
+        ),
+    )
+    parser.add_argument(
         "--log-level",
         type=str,
         default="INFO",
@@ -585,6 +614,23 @@ async def run_server(args: argparse.Namespace) -> None:
         format="%(asctime)s [%(name)s] %(levelname)s: %(message)s",
         stream=sys.stderr,  # MCP uses stdout for protocol; logs go to stderr
     )
+
+    if args.probe:
+        from obd2_mcp.ble_connection import probe_adapter
+        address = None
+        if args.ble and args.ble != "auto":
+            address = args.ble
+        report = await probe_adapter(
+            address=address,
+            name_hint=args.ble_name,
+            write_uuid=args.ble_write_uuid,
+            notify_uuid=args.ble_notify_uuid,
+        )
+        # Print to stdout (probe is interactive, not MCP)
+        print(json.dumps(report, indent=2, default=str))
+        if report.get("errors") and report.get("connect") != "ok":
+            sys.exit(1)
+        return
 
     if args.mock:
         logger.info("Starting in MOCK mode (simulated vehicle)")
