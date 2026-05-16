@@ -12,6 +12,9 @@ build/
 .DS_Store
 node_modules/
 
+# IDE / tool state
+.omc/
+
 # Internal drafts & notes
 blog-post-draft.md
 obd2-mcp-pr-stunt-spec.md
@@ -19,3 +22,4 @@ petr-writing-guidelines.md
 BUILD_LOG.md
 ble_obd_test.py
 ble_scan.py
+test_serial.py

@@ -3,3 +3,4 @@ storage/
 apify_storage/
 .venv/
 dist/
+_*.js
