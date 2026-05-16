@@ -11,3 +11,11 @@ build/
 *.egg
 .DS_Store
 node_modules/
+
+# Internal drafts & notes
+blog-post-draft.md
+obd2-mcp-pr-stunt-spec.md
+petr-writing-guidelines.md
+BUILD_LOG.md
+ble_obd_test.py
+ble_scan.py
